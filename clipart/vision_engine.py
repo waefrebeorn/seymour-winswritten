@@ -1,7 +1,7 @@
 
 """
 Seymour Clipart Vision Pipeline
-Uses Gemma 3 12B (GGUF) via llama.cpp for clipart understanding
+Uses Gemma 4 12B (GGUF) via llama.cpp for clipart understanding
 """
 
 import subprocess
@@ -89,5 +89,5 @@ def extract_iso(iso_path: str, output_dir: str) -> List[str]:
     return extracted
 
 if __name__ == "__main__":
-    engine = ClipartVisionEngine("models/gemma-3-12b-it-UD-Q4_K_XL.gguf")
+    engine = ClipartVisionEngine("models/gemma-4-12B-it-qat-UD-Q4_K_XL.gguf")
     print("Seymour Vision Engine ready")

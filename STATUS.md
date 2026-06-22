@@ -11,10 +11,13 @@
 
 ### Infrastructure
 - ✅ llama.cpp built with `llama-mtmd-cli` (vision support)
-- ✅ Gemma 3 12B model downloaded (7GB, UD-Q4_K_XL quantization)
-- ✅ Vision projector (mmproj-F16.gguf) downloaded (815MB)
+- ✅ Gemma 4 12B model downloaded (6.3GB, qat-UD-Q4_K_XL quantization)
+- ✅ Gemma 4 mmproj downloaded (168MB)
+- ✅ Gemma 4 MTP drafter downloaded (822MB)
+- ✅ DeepSeek-OCR-2 downloaded (6.3GB safetensors) — NOTE: This is a multi-model VLM checkpoint (Qwen2 backbone + SAM ViT + projector + separate MoE LLM), NOT a simple DeepSeek text model
 - ✅ Clipart analysis pipeline script created
 - ✅ Project directory structure created
+- ✅ GitHub repo pushed: waefrebeorn/seymour-winswritten (main branch)
 
 ## What's Pending
 
@@ -35,12 +38,12 @@ wget "https://archive.org/download/115-000-clip-art-images/115000_ClipArt_Images
 ```
 
 ### Vision Pipeline Test
-The Gemma 3 12B vision model loads successfully but needs proper prompt formatting.
-**Action needed:** Test with:
+The Gemma 4 12B vision model loads successfully via llama-mtmd-cli.
+**Action needed:** Test vision pipeline with:
 ```bash
 echo "Describe this image." | /home/wubu/llama.cpp/build/bin/llama-mtmd-cli \
-    -m /home/wubu/seymour-project/models/gemma-3-12b-it-UD-Q4_K_XL.gguf \
-    --mmproj /home/wubu/seymour-project/models/mmproj-F16.gguf \
+    -m /home/wubu/seymour-project/models/gemma-4-12B-it-qat-UD-Q4_K_XL.gguf \
+    --mmproj /home/wubu/seymour-project/models/gemma-4-12B-it-mmproj-F16.gguf \
     --image /tmp/test-clipart.png -n 256
 ```
 
@@ -58,8 +61,10 @@ seymour-project/
 │   ├── downloads/     # ISO files from Archive.org
 │   └── analyzed/      # Gemma-analyzed image descriptions
 ├── models/
-│   ├── gemma-3-12b-it-UD-Q4_K_XL.gguf  (7GB)
-│   └── mmproj-F16.gguf                  (815MB)
+│   ├── gemma-4-12B-it-qat-UD-Q4_K_XL.gguf  (6.3GB)
+│   ├── gemma-4-12B-it-MTP.gguf              (822MB)
+│   ├── gemma-4-12B-it-mmproj-F16.gguf       (168MB)
+│   └── deepseek-ocr-2.safetensors            (6.3GB)
 ├── research/
 │   └── seymour-framework.md
 ├── ponderables/

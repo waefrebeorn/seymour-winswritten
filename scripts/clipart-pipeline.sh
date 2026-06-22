@@ -1,6 +1,6 @@
 #!/bin/bash
 # Seymour Clipart Understanding Pipeline
-# Uses Gemma 3 12B vision model via llama-mtmd-cli
+# Uses Gemma 4 12B vision model via llama-mtmd-cli
 
 set -euo pipefail
 
@@ -11,7 +11,7 @@ OUTPUT_DIR="/home/wubu/seymour-project/clipart/analyzed"
 
 mkdir -p "$OUTPUT_DIR"
 
-MODEL="$MODEL_DIR/gemma-3-12b-it-UD-Q4_K_XL.gguf"
+MODEL="$MODEL_DIR/gemma-4-12B-it-qat-UD-Q4_K_XL.gguf"
 MMPROJ="$MODEL_DIR/mmproj-F16.gguf"
 
 analyze_image() {

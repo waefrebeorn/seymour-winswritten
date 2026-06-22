@@ -104,7 +104,7 @@ PONDERABLE #[N]: [TITLE]
 
 1. **Download** ISO files from Archive.org
 2. **Extract** image files from ISOs
-3. **Analyze** each image with Gemma 3 12B vision
+3. **Analyze** each image with Gemma 4 12B vision
 4. **Categorize** by subject, style, tone
 5. **Select** for each Ponderable based on thematic fit
 6. **Layout** in book format (LaTeX or Scribus)

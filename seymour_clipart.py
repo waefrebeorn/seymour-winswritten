@@ -2,7 +2,7 @@
 """
 Seymour Clipart Processor
 =========================
-Downloads 90s clipart from Internet Archive, runs Gemma 3 12B vision inference
+Downloads 90s clipart from Internet Archive, runs Gemma 4 12B vision inference
 to categorize/describe each image, and outputs structured metadata for the
 Seymour Ponderables book pipeline.
 
@@ -24,7 +24,7 @@ from datetime import datetime
 # ── Configuration ──────────────────────────────────────────────────────────
 
 LLAMA_CLI = "/home/wubu/llama.cpp/build/bin/llama-cli"
-MODEL_PATH = "/home/wubu/seymour-project/models/gemma-3-12b-it-UD-Q4_K_XL.gguf"
+MODEL_PATH = "/home/wubu/seymour-project/models/gemma-4-12B-it-qat-UD-Q4_K_XL.gguf"
 PROJECT_DIR = Path("/home/wubu/seymour-project")
 CLIPART_DIR = PROJECT_DIR / "clipart"
 METADATA_DIR = PROJECT_DIR / "clipart-metadata"
@@ -121,7 +121,7 @@ def download_all_collections():
 # ── Vision Inference ───────────────────────────────────────────────────────
 
 def run_vision_inference(image_path: Path, max_retries: int = 2) -> dict:
-    """Run Gemma 3 12B vision inference on a single image."""
+    """Run Gemma 4 12B vision inference on a single image."""
     for attempt in range(max_retries):
         try:
             result = subprocess.run(

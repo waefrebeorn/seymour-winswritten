@@ -53,7 +53,7 @@ llama-server \
 ## Common Mistakes
 
 1. **Using `llama-cli`** — it's an interactive REPL, not an API. Use `llama-server`.
-2. **Overriding chat template** — `--chat-template gemma3` produces garbage. Don't override.
+2. **Overriding chat template** — `--chat-template gemma4` produces garbage. Don't override.
 3. **Too few max_tokens** — thinking eats the budget. Use ≥256.
 4. **Trying -ngl without GPU** — WSL has no `/dev/nvidia*`. Pure mmap is the only option.
 5. **Expecting no thinking** — QAT models always think. Read `content` field for the answer.
