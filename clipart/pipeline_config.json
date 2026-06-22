@@ -1,0 +1,76 @@
+{
+  "vision_model": {
+    "name": "gemma-3-12b-it-UD-Q4_K_XL",
+    "path": "models/gemma-3-12b-it-UD-Q4_K_XL.gguf",
+    "capabilities": [
+      "image_understanding",
+      "clipart_description",
+      "style_analysis",
+      "text_extraction"
+    ],
+    "resolution": "896x896",
+    "context": "128K tokens"
+  },
+  "archive_sources": [
+    {
+      "name": "Web Clipart 1",
+      "archive_url": "https://archive.org/details/web-clipart-1",
+      "size": "552MB ISO",
+      "format": "CD-ROM ISO",
+      "year": "2002"
+    },
+    {
+      "name": "ClickArt 200,000",
+      "archive_url": "https://archive.org/details/clickart-200000",
+      "size": "7.3GB",
+      "format": "Broderbund CD-ROM",
+      "year": "1997"
+    },
+    {
+      "name": "115,000 Clip Art Images",
+      "archive_url": "https://archive.org/details/115-000-clip-art-images",
+      "size": "2.5GB (4 ISOs)",
+      "format": "Multi-disc CD-ROM",
+      "year": "1990s"
+    },
+    {
+      "name": "Corel WordPerfect Suite 6.1 (10,000 ClipArt)",
+      "archive_url": "https://archive.org/details/corel-word-perfect-suite-6.1-for-windows-6.1-1996-04-english-cd",
+      "size": "1.8GB",
+      "format": "CD-ROM",
+      "year": "1996"
+    },
+    {
+      "name": "Clipart, Etc",
+      "archive_url": "https://archive.org/details/weirdwithit.clipartetc",
+      "size": "Unknown",
+      "format": "CD-ROM",
+      "year": "1990s"
+    }
+  ],
+  "processing_stages": [
+    "download_iso",
+    "mount_extract",
+    "format_convert (WMF/BMP/PCX -> PNG)",
+    "deduplicate",
+    "vision_categorize (gemma-3-12b)",
+    "tag_enrich",
+    "vectorize_candidates",
+    "style_cluster",
+    "curate_for_ponderables"
+  ],
+  "categorization_taxonomy": [
+    "business_office",
+    "technology_computers",
+    "people_figures",
+    "animals_nature",
+    "symbols_icons",
+    "borders_frames",
+    "backgrounds_textures",
+    "transportation",
+    "household_objects",
+    "abstract_geometric",
+    "holid",
+    "90s_aesthetic_markers"
+  ]
+}

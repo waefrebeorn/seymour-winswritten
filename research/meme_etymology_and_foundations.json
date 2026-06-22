@@ -1,0 +1,44 @@
+{
+  "etymology": {
+    "origin": "Richard Dawkins, The Selfish Gene (1976)",
+    "coinage": "Shortening of 'mimeme' (modeled on 'gene')",
+    "greek_root": "m\u012bm\u0113ma (\u03bc\u03af\u03bc\u03b7\u03bc\u03b1) = 'imitated thing', from mimeisthai 'to imitate', from mimos 'mime'",
+    "original_examples": [
+      "melodies",
+      "catchphrases",
+      "fashion",
+      "technology of building arches"
+    ]
+  },
+  "academic_foundations": {
+    "memetics": "Field studying self-replicating units of culture, emerged 1990s",
+    "key_figures": [
+      "Richard Dawkins",
+      "Susan Blackmore",
+      "Daniel Dennett",
+      "Aaron Lynch"
+    ],
+    "core_concepts": [
+      "memeplexes (co-adapted meme complexes): languages, traditions, religions, scientific theories",
+      "memes as selfish replicators with causal efficacy",
+      "variation, mutation, competition, inheritance",
+      "viruses of the mind (Dawkins on religion)",
+      "cultural evolution faster than biological evolution"
+    ],
+    "criticisms": [
+      "difficulty of empirical study",
+      "discrete unit categorization of culture questioned",
+      "biological reductionism concerns"
+    ]
+  },
+  "internet_memes": {
+    "shift": "Dawkins' abstract unit \u2192 concrete image macros, videos, copypastas",
+    "key_dynamics": [
+      "remix culture",
+      "participatory spread",
+      "irony layers",
+      "platform-specific evolution"
+    ],
+    "academic_study": "Limbo (Mark Fisher), meme studies, digital anthropology"
+  }
+}

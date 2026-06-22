@@ -1,0 +1,41 @@
+volume: 1
+number: 1
+title: The Replicator's Lament
+epigraph:
+  source: MGS2 Colonel (AI)
+  quote: Just as in genetics, unnecessary information and memory must be filtered
+    out to stimulate the evolution of the species.
+clipart_prompt: '90s clipart: DNA double helix made of office supplies / businessman
+  climbing ladder into cloud / fax machine with wings'
+allegory:
+  setting: "The Archive of Forgotten Memes \u2014 a vast bureaucratic office where\
+    \ memes await replication or deletion"
+  protagonist: 'Clerk #734 (a meme who achieved self-awareness)'
+  conflict: 'The daily quota: which memes get replicated today? The Colonel (the Filter)
+    decides.'
+  resolution: "Clerk #734 realizes the Filter IS the meme \u2014 the idea of filtering\
+    \ is the most successful meme of all"
+commentary:
+- 'Dawkins, 1976: ''The new soup is the soup of human culture.'' The broth has thickened
+  considerably.'
+- "Cross-ref: Vol 3, Ponderable 7 \u2014 'The Filter That Filters Itself'"
+- "See also: MGS2 S3 Plan \u2014 Selection for Societal Sanity as memetic immune response"
+footnotes:
+- ^1 The term 'meme' from Greek mimema, coined by Dawkins as cultural analog to gene.
+- "^2 The Colonel in MGS2 is an AI construct \u2014 GW + Raiden's nanomachines \u2014\
+  \ mouthpiece for the Patriots."
+- '^3 Seymour''s Note: I once met a meme who remembered being a jingle for detergent.
+  It wept.'
+clipart_classification:
+  primary: business_office / abstract_geometric hybrid
+  era: circa 1995-1998
+  source_archive: ClickArt 200,000 (est.)
+  seymour_tags:
+  - replication
+  - bureaucracy
+  - self_awareness
+  - the_filter
+see_also:
+- 'Vol 1, Ponderable 5: ''The Jingle That Ate Its Host'''
+- 'Vol 2, Ponderable 3: ''Viral Load: When Metaphor Becomes Literal'''
+- 'Vol 4, Ponderable 12: ''The Patriot Act (Memetic Version)'''

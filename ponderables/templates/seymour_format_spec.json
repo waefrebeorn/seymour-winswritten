@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "pen_name": "Seymour",
+    "series_title": "Ponderables",
+    "subtitle": "A Cabinet of Curiosities for the Memetic Age",
+    "format": "Small-format digest (A6 / 4\"x6\"), 64-96 pages per volume",
+    "aesthetic": "90s clipart surrealism, frutiger aero adjacent, found-media collage"
+  },
+  "volume_structure": {
+    "front_matter": [
+      "Title page with clipart header",
+      "Colophon (Seymour's fictional imprint)",
+      "Table of Ponderables (numbered entries)",
+      "Epigraph from MGS2 Colonel / memetic theory"
+    ],
+    "body": {
+      "ponderable_template": {
+        "number": "Sequential across series",
+        "title": "One-line ponderable title",
+        "clipart": "Full or partial page clipart illustration",
+        "allegory": "2-4 page fictional vignette / allegorical scene",
+        "commentary": "Marginalia-style notes, cross-references",
+        "see_also": "Links to other ponderables / volumes",
+        "footnotes": "Seymour's 'annotations' - mix of real research and fiction"
+      },
+      "ponderables_per_volume": "12-16"
+    },
+    "back_matter": [
+      "Index of Concepts (encyclopedic)",
+      "Index of Clipart Sources (provenance)",
+      "Cross-Reference Map (volume-to-volume)",
+      "Seymour's Reading List (real + fictional books)",
+      "Next Volume Teaser"
+    ]
+  },
+  "clipart_integration": {
+    "style": "Curated 90s clipart, sometimes unmodified, sometimes collaged",
+    "captioning": "Each clipart gets a 'Seymour classification' caption",
+    "recontextualization": "Clipart removed from original context, placed in memetic allegory",
+    "vectorization": "Key recurring clipart vectorized for series identity"
+  },
+  "cross_reference_system": {
+    "internal": "See also: Ponderable X.Y (Vol X, Entry Y)",
+    "external": "Real-world citations in footnotes (Dawkins, Blackmore, etc.)",
+    "fictional": "References to Seymour's other books, fictional authorities",
+    "colonel_protocol": "MGS2 Colonel quotes as structural epigraphs"
+  },
+  "production_pipeline": {
+    "authoring": "Markdown + YAML frontmatter per ponderable",
+    "layout": "Pandoc -> LaTeX -> PDF (digest size)",
+    "clipart_processing": "Pipeline: ISO -> extract -> categorize -> select -> place",
+    "version_control": "Git repository for all manuscripts"
+  }
+}

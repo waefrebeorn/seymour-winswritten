@@ -1,0 +1,30 @@
+# Models (large files)
+models/*.gguf
+models/*.safetensors
+models/*.bin
+models/*.pt
+
+# Clipart downloads (large ISOs)
+clipart/downloads/*.iso
+clipart/downloads/*.zip
+
+# Extracted images (regenerable)
+clipart/extracted/
+clipart/analyzed/
+clipart/ocr-results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+raw_archives
