@@ -16,7 +16,7 @@
     {"id": "shakespeare_words", "topic": "book", "text": "William Shakespeare is credited with inventing or first recording roughly 1,700 English words."},
     {"id": "ada_lovelace", "topic": "cuda", "text": "Ada Lovelace wrote the first published algorithm intended for a machine (the Analytical Engine) in 1843 — the first computer programmer."},
     {"id": "greatwall_space", "topic": "building", "text": "The Great Wall of China is NOT visible from space with the naked eye, contrary to the popular myth."},
-    {"id": "cleopatra_pyramid", "topic": "history", "text": "Cleopatra lived closer in time to the Moon landing (1969) than to the completion of the Great Pyramid of Giza (~2560 BCE)."},
+    {"id": "cleopatra_pyramid", "topic": "history", "text": "Cleopatra lived closer in time to the Moon landing (1969) than to the completion of the Great Pyramid of Giza (about 2560 BCE)."},
     {"id": "sloth_digest", "topic": "animal", "text": "A sloth can take up to a month to fully digest a single meal."},
     {"id": "shrimp_heart", "topic": "animal", "text": "A shrimp's heart is located in its head."},
     {"id": "diamond_rain", "topic": "sky", "text": "It likely rains diamonds on Jupiter and Saturn, where atmospheric pressure turns carbon into crystal."},

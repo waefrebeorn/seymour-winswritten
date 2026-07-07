@@ -13,6 +13,11 @@ artifacts that prove each item is done (not just planned).
 - **Interesting-facts enrichment**: 46 real public-domain facts as a "TRIPLE-CHECKED" sidebar routed by base theme → `ponderables/interesting_facts.json` + `ponderables/enrich.py`. 366/366 issues enriched.
 - **Artwork expanded**: clipart keyword map extended with 8 new NG+ categories (metalgear/gun/colonel/brain/flag/sky/book/key); acquisition re-run via `acquire_clipart.py` (OGA CC0, provenance-tracked).
 
+- **Fill all years 2021-2026**: prefetched 366 dates' full event lists once (6,832 real verified events -> `event_pool.json`), then generated 2,191 issues offline across 6 years with distinct event-per-year assignment. All years 100% Colonel-coded + enriched, 44-48 distinct sprawl themes each. Total project: **2,557 issues (2020-2026), 0 gaps**.
+- **Event pool prefetch**: `prefetch_events.py` (366 Wikimedia calls) -> `event_pool.json` (1MB, 6832 events). Enables offline multi-year fill avoiding per-year network throttling.
+- **Year fill generator**: `fill_all_ngplus.py` (uses event's REAL year in FACT, not timeline slot; fixed year-mismatch bug found in vision QA).
+- **7 annual PDFs rebuilt**: seymour_wins_2020..2026_annual.pdf (each 28-34 MB, vision-verified clean + themed clipart + Colonel + TRIPLE-CHECKED sidebar).
+
 ## Resilient Daily System (prior NG+ foundation)
 - 5-path fill (Wikimedia / muffinlabs / Wikipedia REST / CC0 bundle / browser-capture daemon) → `ponderables/fill_year.py`, `ponderables/history_fallback.json`.
 - Browser capture extension + local daemon → `ponderables/browser_plugin/*`, `ponderables/daily_daemon.py`.
