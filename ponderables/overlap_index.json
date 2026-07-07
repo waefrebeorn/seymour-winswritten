@@ -1,0 +1,5110 @@
+{
+  "stats": {
+    "issues": 366,
+    "distinct_dates": 366,
+    "edges": 239083,
+    "max_same_date": 1
+  },
+  "by_date": {
+    "01-01": [
+      "ponderables/calendar/2020/01/01.md"
+    ],
+    "01-02": [
+      "ponderables/calendar/2020/01/02.md"
+    ],
+    "01-03": [
+      "ponderables/calendar/2020/01/03.md"
+    ],
+    "01-04": [
+      "ponderables/calendar/2020/01/04.md"
+    ],
+    "01-05": [
+      "ponderables/calendar/2020/01/05.md"
+    ],
+    "01-06": [
+      "ponderables/calendar/2020/01/06.md"
+    ],
+    "01-07": [
+      "ponderables/calendar/2020/01/07.md"
+    ],
+    "01-08": [
+      "ponderables/calendar/2020/01/08.md"
+    ],
+    "01-09": [
+      "ponderables/calendar/2020/01/09.md"
+    ],
+    "01-10": [
+      "ponderables/calendar/2020/01/10.md"
+    ],
+    "01-11": [
+      "ponderables/calendar/2020/01/11.md"
+    ],
+    "01-12": [
+      "ponderables/calendar/2020/01/12.md"
+    ],
+    "01-13": [
+      "ponderables/calendar/2020/01/13.md"
+    ],
+    "01-14": [
+      "ponderables/calendar/2020/01/14.md"
+    ],
+    "01-15": [
+      "ponderables/calendar/2020/01/15.md"
+    ],
+    "01-16": [
+      "ponderables/calendar/2020/01/16.md"
+    ],
+    "01-17": [
+      "ponderables/calendar/2020/01/17.md"
+    ],
+    "01-18": [
+      "ponderables/calendar/2020/01/18.md"
+    ],
+    "01-19": [
+      "ponderables/calendar/2020/01/19.md"
+    ],
+    "01-20": [
+      "ponderables/calendar/2020/01/20.md"
+    ],
+    "01-21": [
+      "ponderables/calendar/2020/01/21.md"
+    ],
+    "01-22": [
+      "ponderables/calendar/2020/01/22.md"
+    ],
+    "01-23": [
+      "ponderables/calendar/2020/01/23.md"
+    ],
+    "01-24": [
+      "ponderables/calendar/2020/01/24.md"
+    ],
+    "01-25": [
+      "ponderables/calendar/2020/01/25.md"
+    ],
+    "01-26": [
+      "ponderables/calendar/2020/01/26.md"
+    ],
+    "01-27": [
+      "ponderables/calendar/2020/01/27.md"
+    ],
+    "01-28": [
+      "ponderables/calendar/2020/01/28.md"
+    ],
+    "01-29": [
+      "ponderables/calendar/2020/01/29.md"
+    ],
+    "01-30": [
+      "ponderables/calendar/2020/01/30.md"
+    ],
+    "01-31": [
+      "ponderables/calendar/2020/01/31.md"
+    ],
+    "02-01": [
+      "ponderables/calendar/2020/02/01.md"
+    ],
+    "02-02": [
+      "ponderables/calendar/2020/02/02.md"
+    ],
+    "02-03": [
+      "ponderables/calendar/2020/02/03.md"
+    ],
+    "02-04": [
+      "ponderables/calendar/2020/02/04.md"
+    ],
+    "02-05": [
+      "ponderables/calendar/2020/02/05.md"
+    ],
+    "02-06": [
+      "ponderables/calendar/2020/02/06.md"
+    ],
+    "02-07": [
+      "ponderables/calendar/2020/02/07.md"
+    ],
+    "02-08": [
+      "ponderables/calendar/2020/02/08.md"
+    ],
+    "02-09": [
+      "ponderables/calendar/2020/02/09.md"
+    ],
+    "02-10": [
+      "ponderables/calendar/2020/02/10.md"
+    ],
+    "02-11": [
+      "ponderables/calendar/2020/02/11.md"
+    ],
+    "02-12": [
+      "ponderables/calendar/2020/02/12.md"
+    ],
+    "02-13": [
+      "ponderables/calendar/2020/02/13.md"
+    ],
+    "02-14": [
+      "ponderables/calendar/2020/02/14.md"
+    ],
+    "02-15": [
+      "ponderables/calendar/2020/02/15.md"
+    ],
+    "02-16": [
+      "ponderables/calendar/2020/02/16.md"
+    ],
+    "02-17": [
+      "ponderables/calendar/2020/02/17.md"
+    ],
+    "02-18": [
+      "ponderables/calendar/2020/02/18.md"
+    ],
+    "02-19": [
+      "ponderables/calendar/2020/02/19.md"
+    ],
+    "02-20": [
+      "ponderables/calendar/2020/02/20.md"
+    ],
+    "02-21": [
+      "ponderables/calendar/2020/02/21.md"
+    ],
+    "02-22": [
+      "ponderables/calendar/2020/02/22.md"
+    ],
+    "02-23": [
+      "ponderables/calendar/2020/02/23.md"
+    ],
+    "02-24": [
+      "ponderables/calendar/2020/02/24.md"
+    ],
+    "02-25": [
+      "ponderables/calendar/2020/02/25.md"
+    ],
+    "02-26": [
+      "ponderables/calendar/2020/02/26.md"
+    ],
+    "02-27": [
+      "ponderables/calendar/2020/02/27.md"
+    ],
+    "02-28": [
+      "ponderables/calendar/2020/02/28.md"
+    ],
+    "02-29": [
+      "ponderables/calendar/2020/02/29.md"
+    ],
+    "03-01": [
+      "ponderables/calendar/2020/03/01.md"
+    ],
+    "03-02": [
+      "ponderables/calendar/2020/03/02.md"
+    ],
+    "03-03": [
+      "ponderables/calendar/2020/03/03.md"
+    ],
+    "03-04": [
+      "ponderables/calendar/2020/03/04.md"
+    ],
+    "03-05": [
+      "ponderables/calendar/2020/03/05.md"
+    ],
+    "03-06": [
+      "ponderables/calendar/2020/03/06.md"
+    ],
+    "03-07": [
+      "ponderables/calendar/2020/03/07.md"
+    ],
+    "03-08": [
+      "ponderables/calendar/2020/03/08.md"
+    ],
+    "03-09": [
+      "ponderables/calendar/2020/03/09.md"
+    ],
+    "03-10": [
+      "ponderables/calendar/2020/03/10.md"
+    ],
+    "03-11": [
+      "ponderables/calendar/2020/03/11.md"
+    ],
+    "03-12": [
+      "ponderables/calendar/2020/03/12.md"
+    ],
+    "03-13": [
+      "ponderables/calendar/2020/03/13.md"
+    ],
+    "03-14": [
+      "ponderables/calendar/2020/03/14.md"
+    ],
+    "03-15": [
+      "ponderables/calendar/2020/03/15.md"
+    ],
+    "03-16": [
+      "ponderables/calendar/2020/03/16.md"
+    ],
+    "03-17": [
+      "ponderables/calendar/2020/03/17.md"
+    ],
+    "03-18": [
+      "ponderables/calendar/2020/03/18.md"
+    ],
+    "03-19": [
+      "ponderables/calendar/2020/03/19.md"
+    ],
+    "03-20": [
+      "ponderables/calendar/2020/03/20.md"
+    ],
+    "03-21": [
+      "ponderables/calendar/2020/03/21.md"
+    ],
+    "03-22": [
+      "ponderables/calendar/2020/03/22.md"
+    ],
+    "03-23": [
+      "ponderables/calendar/2020/03/23.md"
+    ],
+    "03-24": [
+      "ponderables/calendar/2020/03/24.md"
+    ],
+    "03-25": [
+      "ponderables/calendar/2020/03/25.md"
+    ],
+    "03-26": [
+      "ponderables/calendar/2020/03/26.md"
+    ],
+    "03-27": [
+      "ponderables/calendar/2020/03/27.md"
+    ],
+    "03-28": [
+      "ponderables/calendar/2020/03/28.md"
+    ],
+    "03-29": [
+      "ponderables/calendar/2020/03/29.md"
+    ],
+    "03-30": [
+      "ponderables/calendar/2020/03/30.md"
+    ],
+    "03-31": [
+      "ponderables/calendar/2020/03/31.md"
+    ],
+    "04-01": [
+      "ponderables/calendar/2020/04/01.md"
+    ],
+    "04-02": [
+      "ponderables/calendar/2020/04/02.md"
+    ],
+    "04-03": [
+      "ponderables/calendar/2020/04/03.md"
+    ],
+    "04-04": [
+      "ponderables/calendar/2020/04/04.md"
+    ],
+    "04-05": [
+      "ponderables/calendar/2020/04/05.md"
+    ],
+    "04-06": [
+      "ponderables/calendar/2020/04/06.md"
+    ],
+    "04-07": [
+      "ponderables/calendar/2020/04/07.md"
+    ],
+    "04-08": [
+      "ponderables/calendar/2020/04/08.md"
+    ],
+    "04-09": [
+      "ponderables/calendar/2020/04/09.md"
+    ],
+    "04-10": [
+      "ponderables/calendar/2020/04/10.md"
+    ],
+    "04-11": [
+      "ponderables/calendar/2020/04/11.md"
+    ],
+    "04-12": [
+      "ponderables/calendar/2020/04/12.md"
+    ],
+    "04-13": [
+      "ponderables/calendar/2020/04/13.md"
+    ],
+    "04-14": [
+      "ponderables/calendar/2020/04/14.md"
+    ],
+    "04-15": [
+      "ponderables/calendar/2020/04/15.md"
+    ],
+    "04-16": [
+      "ponderables/calendar/2020/04/16.md"
+    ],
+    "04-17": [
+      "ponderables/calendar/2020/04/17.md"
+    ],
+    "04-18": [
+      "ponderables/calendar/2020/04/18.md"
+    ],
+    "04-19": [
+      "ponderables/calendar/2020/04/19.md"
+    ],
+    "04-20": [
+      "ponderables/calendar/2020/04/20.md"
+    ],
+    "04-21": [
+      "ponderables/calendar/2020/04/21.md"
+    ],
+    "04-22": [
+      "ponderables/calendar/2020/04/22.md"
+    ],
+    "04-23": [
+      "ponderables/calendar/2020/04/23.md"
+    ],
+    "04-24": [
+      "ponderables/calendar/2020/04/24.md"
+    ],
+    "04-25": [
+      "ponderables/calendar/2020/04/25.md"
+    ],
+    "04-26": [
+      "ponderables/calendar/2020/04/26.md"
+    ],
+    "04-27": [
+      "ponderables/calendar/2020/04/27.md"
+    ],
+    "04-28": [
+      "ponderables/calendar/2020/04/28.md"
+    ],
+    "04-29": [
+      "ponderables/calendar/2020/04/29.md"
+    ],
+    "04-30": [
+      "ponderables/calendar/2020/04/30.md"
+    ],
+    "05-01": [
+      "ponderables/calendar/2020/05/01.md"
+    ],
+    "05-02": [
+      "ponderables/calendar/2020/05/02.md"
+    ],
+    "05-03": [
+      "ponderables/calendar/2020/05/03.md"
+    ],
+    "05-04": [
+      "ponderables/calendar/2020/05/04.md"
+    ],
+    "05-05": [
+      "ponderables/calendar/2020/05/05.md"
+    ],
+    "05-06": [
+      "ponderables/calendar/2020/05/06.md"
+    ],
+    "05-07": [
+      "ponderables/calendar/2020/05/07.md"
+    ],
+    "05-08": [
+      "ponderables/calendar/2020/05/08.md"
+    ],
+    "05-09": [
+      "ponderables/calendar/2020/05/09.md"
+    ],
+    "05-10": [
+      "ponderables/calendar/2020/05/10.md"
+    ],
+    "05-11": [
+      "ponderables/calendar/2020/05/11.md"
+    ],
+    "05-12": [
+      "ponderables/calendar/2020/05/12.md"
+    ],
+    "05-13": [
+      "ponderables/calendar/2020/05/13.md"
+    ],
+    "05-14": [
+      "ponderables/calendar/2020/05/14.md"
+    ],
+    "05-15": [
+      "ponderables/calendar/2020/05/15.md"
+    ],
+    "05-16": [
+      "ponderables/calendar/2020/05/16.md"
+    ],
+    "05-17": [
+      "ponderables/calendar/2020/05/17.md"
+    ],
+    "05-18": [
+      "ponderables/calendar/2020/05/18.md"
+    ],
+    "05-19": [
+      "ponderables/calendar/2020/05/19.md"
+    ],
+    "05-20": [
+      "ponderables/calendar/2020/05/20.md"
+    ],
+    "05-21": [
+      "ponderables/calendar/2020/05/21.md"
+    ],
+    "05-22": [
+      "ponderables/calendar/2020/05/22.md"
+    ],
+    "05-23": [
+      "ponderables/calendar/2020/05/23.md"
+    ],
+    "05-24": [
+      "ponderables/calendar/2020/05/24.md"
+    ],
+    "05-25": [
+      "ponderables/calendar/2020/05/25.md"
+    ],
+    "05-26": [
+      "ponderables/calendar/2020/05/26.md"
+    ],
+    "05-27": [
+      "ponderables/calendar/2020/05/27.md"
+    ],
+    "05-28": [
+      "ponderables/calendar/2020/05/28.md"
+    ],
+    "05-29": [
+      "ponderables/calendar/2020/05/29.md"
+    ],
+    "05-30": [
+      "ponderables/calendar/2020/05/30.md"
+    ],
+    "05-31": [
+      "ponderables/calendar/2020/05/31.md"
+    ],
+    "06-01": [
+      "ponderables/calendar/2020/06/01.md"
+    ],
+    "06-02": [
+      "ponderables/calendar/2020/06/02.md"
+    ],
+    "06-03": [
+      "ponderables/calendar/2020/06/03.md"
+    ],
+    "06-04": [
+      "ponderables/calendar/2020/06/04.md"
+    ],
+    "06-05": [
+      "ponderables/calendar/2020/06/05.md"
+    ],
+    "06-06": [
+      "ponderables/calendar/2020/06/06.md"
+    ],
+    "06-07": [
+      "ponderables/calendar/2020/06/07.md"
+    ],
+    "06-08": [
+      "ponderables/calendar/2020/06/08.md"
+    ],
+    "06-09": [
+      "ponderables/calendar/2020/06/09.md"
+    ],
+    "06-10": [
+      "ponderables/calendar/2020/06/10.md"
+    ],
+    "06-11": [
+      "ponderables/calendar/2020/06/11.md"
+    ],
+    "06-12": [
+      "ponderables/calendar/2020/06/12.md"
+    ],
+    "06-13": [
+      "ponderables/calendar/2020/06/13.md"
+    ],
+    "06-14": [
+      "ponderables/calendar/2020/06/14.md"
+    ],
+    "06-15": [
+      "ponderables/calendar/2020/06/15.md"
+    ],
+    "06-16": [
+      "ponderables/calendar/2020/06/16.md"
+    ],
+    "06-17": [
+      "ponderables/calendar/2020/06/17.md"
+    ],
+    "06-18": [
+      "ponderables/calendar/2020/06/18.md"
+    ],
+    "06-19": [
+      "ponderables/calendar/2020/06/19.md"
+    ],
+    "06-20": [
+      "ponderables/calendar/2020/06/20.md"
+    ],
+    "06-21": [
+      "ponderables/calendar/2020/06/21.md"
+    ],
+    "06-22": [
+      "ponderables/calendar/2020/06/22.md"
+    ],
+    "06-23": [
+      "ponderables/calendar/2020/06/23.md"
+    ],
+    "06-24": [
+      "ponderables/calendar/2020/06/24.md"
+    ],
+    "06-25": [
+      "ponderables/calendar/2020/06/25.md"
+    ],
+    "06-26": [
+      "ponderables/calendar/2020/06/26.md"
+    ],
+    "06-27": [
+      "ponderables/calendar/2020/06/27.md"
+    ],
+    "06-28": [
+      "ponderables/calendar/2020/06/28.md"
+    ],
+    "06-29": [
+      "ponderables/calendar/2020/06/29.md"
+    ],
+    "06-30": [
+      "ponderables/calendar/2020/06/30.md"
+    ],
+    "07-01": [
+      "ponderables/calendar/2020/07/01.md"
+    ],
+    "07-02": [
+      "ponderables/calendar/2020/07/02.md"
+    ],
+    "07-03": [
+      "ponderables/calendar/2020/07/03.md"
+    ],
+    "07-04": [
+      "ponderables/calendar/2020/07/04.md"
+    ],
+    "07-05": [
+      "ponderables/calendar/2020/07/05.md"
+    ],
+    "07-06": [
+      "ponderables/calendar/2020/07/06.md"
+    ],
+    "07-07": [
+      "ponderables/calendar/2020/07/07.md"
+    ],
+    "07-08": [
+      "ponderables/calendar/2020/07/08.md"
+    ],
+    "07-09": [
+      "ponderables/calendar/2020/07/09.md"
+    ],
+    "07-10": [
+      "ponderables/calendar/2020/07/10.md"
+    ],
+    "07-11": [
+      "ponderables/calendar/2020/07/11.md"
+    ],
+    "07-12": [
+      "ponderables/calendar/2020/07/12.md"
+    ],
+    "07-13": [
+      "ponderables/calendar/2020/07/13.md"
+    ],
+    "07-14": [
+      "ponderables/calendar/2020/07/14.md"
+    ],
+    "07-15": [
+      "ponderables/calendar/2020/07/15.md"
+    ],
+    "07-16": [
+      "ponderables/calendar/2020/07/16.md"
+    ],
+    "07-17": [
+      "ponderables/calendar/2020/07/17.md"
+    ],
+    "07-18": [
+      "ponderables/calendar/2020/07/18.md"
+    ],
+    "07-19": [
+      "ponderables/calendar/2020/07/19.md"
+    ],
+    "07-20": [
+      "ponderables/calendar/2020/07/20.md"
+    ],
+    "07-21": [
+      "ponderables/calendar/2020/07/21.md"
+    ],
+    "07-22": [
+      "ponderables/calendar/2020/07/22.md"
+    ],
+    "07-23": [
+      "ponderables/calendar/2020/07/23.md"
+    ],
+    "07-24": [
+      "ponderables/calendar/2020/07/24.md"
+    ],
+    "07-25": [
+      "ponderables/calendar/2020/07/25.md"
+    ],
+    "07-26": [
+      "ponderables/calendar/2020/07/26.md"
+    ],
+    "07-27": [
+      "ponderables/calendar/2020/07/27.md"
+    ],
+    "07-28": [
+      "ponderables/calendar/2020/07/28.md"
+    ],
+    "07-29": [
+      "ponderables/calendar/2020/07/29.md"
+    ],
+    "07-30": [
+      "ponderables/calendar/2020/07/30.md"
+    ],
+    "07-31": [
+      "ponderables/calendar/2020/07/31.md"
+    ],
+    "08-01": [
+      "ponderables/calendar/2020/08/01.md"
+    ],
+    "08-02": [
+      "ponderables/calendar/2020/08/02.md"
+    ],
+    "08-03": [
+      "ponderables/calendar/2020/08/03.md"
+    ],
+    "08-04": [
+      "ponderables/calendar/2020/08/04.md"
+    ],
+    "08-05": [
+      "ponderables/calendar/2020/08/05.md"
+    ],
+    "08-06": [
+      "ponderables/calendar/2020/08/06.md"
+    ],
+    "08-07": [
+      "ponderables/calendar/2020/08/07.md"
+    ],
+    "08-08": [
+      "ponderables/calendar/2020/08/08.md"
+    ],
+    "08-09": [
+      "ponderables/calendar/2020/08/09.md"
+    ],
+    "08-10": [
+      "ponderables/calendar/2020/08/10.md"
+    ],
+    "08-11": [
+      "ponderables/calendar/2020/08/11.md"
+    ],
+    "08-12": [
+      "ponderables/calendar/2020/08/12.md"
+    ],
+    "08-13": [
+      "ponderables/calendar/2020/08/13.md"
+    ],
+    "08-14": [
+      "ponderables/calendar/2020/08/14.md"
+    ],
+    "08-15": [
+      "ponderables/calendar/2020/08/15.md"
+    ],
+    "08-16": [
+      "ponderables/calendar/2020/08/16.md"
+    ],
+    "08-17": [
+      "ponderables/calendar/2020/08/17.md"
+    ],
+    "08-18": [
+      "ponderables/calendar/2020/08/18.md"
+    ],
+    "08-19": [
+      "ponderables/calendar/2020/08/19.md"
+    ],
+    "08-20": [
+      "ponderables/calendar/2020/08/20.md"
+    ],
+    "08-21": [
+      "ponderables/calendar/2020/08/21.md"
+    ],
+    "08-22": [
+      "ponderables/calendar/2020/08/22.md"
+    ],
+    "08-23": [
+      "ponderables/calendar/2020/08/23.md"
+    ],
+    "08-24": [
+      "ponderables/calendar/2020/08/24.md"
+    ],
+    "08-25": [
+      "ponderables/calendar/2020/08/25.md"
+    ],
+    "08-26": [
+      "ponderables/calendar/2020/08/26.md"
+    ],
+    "08-27": [
+      "ponderables/calendar/2020/08/27.md"
+    ],
+    "08-28": [
+      "ponderables/calendar/2020/08/28.md"
+    ],
+    "08-29": [
+      "ponderables/calendar/2020/08/29.md"
+    ],
+    "08-30": [
+      "ponderables/calendar/2020/08/30.md"
+    ],
+    "08-31": [
+      "ponderables/calendar/2020/08/31.md"
+    ],
+    "09-01": [
+      "ponderables/calendar/2020/09/01.md"
+    ],
+    "09-02": [
+      "ponderables/calendar/2020/09/02.md"
+    ],
+    "09-03": [
+      "ponderables/calendar/2020/09/03.md"
+    ],
+    "09-04": [
+      "ponderables/calendar/2020/09/04.md"
+    ],
+    "09-05": [
+      "ponderables/calendar/2020/09/05.md"
+    ],
+    "09-06": [
+      "ponderables/calendar/2020/09/06.md"
+    ],
+    "09-07": [
+      "ponderables/calendar/2020/09/07.md"
+    ],
+    "09-08": [
+      "ponderables/calendar/2020/09/08.md"
+    ],
+    "09-09": [
+      "ponderables/calendar/2020/09/09.md"
+    ],
+    "09-10": [
+      "ponderables/calendar/2020/09/10.md"
+    ],
+    "09-11": [
+      "ponderables/calendar/2020/09/11.md"
+    ],
+    "09-12": [
+      "ponderables/calendar/2020/09/12.md"
+    ],
+    "09-13": [
+      "ponderables/calendar/2020/09/13.md"
+    ],
+    "09-14": [
+      "ponderables/calendar/2020/09/14.md"
+    ],
+    "09-15": [
+      "ponderables/calendar/2020/09/15.md"
+    ],
+    "09-16": [
+      "ponderables/calendar/2020/09/16.md"
+    ],
+    "09-17": [
+      "ponderables/calendar/2020/09/17.md"
+    ],
+    "09-18": [
+      "ponderables/calendar/2020/09/18.md"
+    ],
+    "09-19": [
+      "ponderables/calendar/2020/09/19.md"
+    ],
+    "09-20": [
+      "ponderables/calendar/2020/09/20.md"
+    ],
+    "09-21": [
+      "ponderables/calendar/2020/09/21.md"
+    ],
+    "09-22": [
+      "ponderables/calendar/2020/09/22.md"
+    ],
+    "09-23": [
+      "ponderables/calendar/2020/09/23.md"
+    ],
+    "09-24": [
+      "ponderables/calendar/2020/09/24.md"
+    ],
+    "09-25": [
+      "ponderables/calendar/2020/09/25.md"
+    ],
+    "09-26": [
+      "ponderables/calendar/2020/09/26.md"
+    ],
+    "09-27": [
+      "ponderables/calendar/2020/09/27.md"
+    ],
+    "09-28": [
+      "ponderables/calendar/2020/09/28.md"
+    ],
+    "09-29": [
+      "ponderables/calendar/2020/09/29.md"
+    ],
+    "09-30": [
+      "ponderables/calendar/2020/09/30.md"
+    ],
+    "10-01": [
+      "ponderables/calendar/2020/10/01.md"
+    ],
+    "10-02": [
+      "ponderables/calendar/2020/10/02.md"
+    ],
+    "10-03": [
+      "ponderables/calendar/2020/10/03.md"
+    ],
+    "10-04": [
+      "ponderables/calendar/2020/10/04.md"
+    ],
+    "10-05": [
+      "ponderables/calendar/2020/10/05.md"
+    ],
+    "10-06": [
+      "ponderables/calendar/2020/10/06.md"
+    ],
+    "10-07": [
+      "ponderables/calendar/2020/10/07.md"
+    ],
+    "10-08": [
+      "ponderables/calendar/2020/10/08.md"
+    ],
+    "10-09": [
+      "ponderables/calendar/2020/10/09.md"
+    ],
+    "10-10": [
+      "ponderables/calendar/2020/10/10.md"
+    ],
+    "10-11": [
+      "ponderables/calendar/2020/10/11.md"
+    ],
+    "10-12": [
+      "ponderables/calendar/2020/10/12.md"
+    ],
+    "10-13": [
+      "ponderables/calendar/2020/10/13.md"
+    ],
+    "10-14": [
+      "ponderables/calendar/2020/10/14.md"
+    ],
+    "10-15": [
+      "ponderables/calendar/2020/10/15.md"
+    ],
+    "10-16": [
+      "ponderables/calendar/2020/10/16.md"
+    ],
+    "10-17": [
+      "ponderables/calendar/2020/10/17.md"
+    ],
+    "10-18": [
+      "ponderables/calendar/2020/10/18.md"
+    ],
+    "10-19": [
+      "ponderables/calendar/2020/10/19.md"
+    ],
+    "10-20": [
+      "ponderables/calendar/2020/10/20.md"
+    ],
+    "10-21": [
+      "ponderables/calendar/2020/10/21.md"
+    ],
+    "10-22": [
+      "ponderables/calendar/2020/10/22.md"
+    ],
+    "10-23": [
+      "ponderables/calendar/2020/10/23.md"
+    ],
+    "10-24": [
+      "ponderables/calendar/2020/10/24.md"
+    ],
+    "10-25": [
+      "ponderables/calendar/2020/10/25.md"
+    ],
+    "10-26": [
+      "ponderables/calendar/2020/10/26.md"
+    ],
+    "10-27": [
+      "ponderables/calendar/2020/10/27.md"
+    ],
+    "10-28": [
+      "ponderables/calendar/2020/10/28.md"
+    ],
+    "10-29": [
+      "ponderables/calendar/2020/10/29.md"
+    ],
+    "10-30": [
+      "ponderables/calendar/2020/10/30.md"
+    ],
+    "10-31": [
+      "ponderables/calendar/2020/10/31.md"
+    ],
+    "11-01": [
+      "ponderables/calendar/2020/11/01.md"
+    ],
+    "11-02": [
+      "ponderables/calendar/2020/11/02.md"
+    ],
+    "11-03": [
+      "ponderables/calendar/2020/11/03.md"
+    ],
+    "11-04": [
+      "ponderables/calendar/2020/11/04.md"
+    ],
+    "11-05": [
+      "ponderables/calendar/2020/11/05.md"
+    ],
+    "11-06": [
+      "ponderables/calendar/2020/11/06.md"
+    ],
+    "11-07": [
+      "ponderables/calendar/2020/11/07.md"
+    ],
+    "11-08": [
+      "ponderables/calendar/2020/11/08.md"
+    ],
+    "11-09": [
+      "ponderables/calendar/2020/11/09.md"
+    ],
+    "11-10": [
+      "ponderables/calendar/2020/11/10.md"
+    ],
+    "11-11": [
+      "ponderables/calendar/2020/11/11.md"
+    ],
+    "11-12": [
+      "ponderables/calendar/2020/11/12.md"
+    ],
+    "11-13": [
+      "ponderables/calendar/2020/11/13.md"
+    ],
+    "11-14": [
+      "ponderables/calendar/2020/11/14.md"
+    ],
+    "11-15": [
+      "ponderables/calendar/2020/11/15.md"
+    ],
+    "11-16": [
+      "ponderables/calendar/2020/11/16.md"
+    ],
+    "11-17": [
+      "ponderables/calendar/2020/11/17.md"
+    ],
+    "11-18": [
+      "ponderables/calendar/2020/11/18.md"
+    ],
+    "11-19": [
+      "ponderables/calendar/2020/11/19.md"
+    ],
+    "11-20": [
+      "ponderables/calendar/2020/11/20.md"
+    ],
+    "11-21": [
+      "ponderables/calendar/2020/11/21.md"
+    ],
+    "11-22": [
+      "ponderables/calendar/2020/11/22.md"
+    ],
+    "11-23": [
+      "ponderables/calendar/2020/11/23.md"
+    ],
+    "11-24": [
+      "ponderables/calendar/2020/11/24.md"
+    ],
+    "11-25": [
+      "ponderables/calendar/2020/11/25.md"
+    ],
+    "11-26": [
+      "ponderables/calendar/2020/11/26.md"
+    ],
+    "11-27": [
+      "ponderables/calendar/2020/11/27.md"
+    ],
+    "11-28": [
+      "ponderables/calendar/2020/11/28.md"
+    ],
+    "11-29": [
+      "ponderables/calendar/2020/11/29.md"
+    ],
+    "11-30": [
+      "ponderables/calendar/2020/11/30.md"
+    ],
+    "12-01": [
+      "ponderables/calendar/2020/12/01.md"
+    ],
+    "12-02": [
+      "ponderables/calendar/2020/12/02.md"
+    ],
+    "12-03": [
+      "ponderables/calendar/2020/12/03.md"
+    ],
+    "12-04": [
+      "ponderables/calendar/2020/12/04.md"
+    ],
+    "12-05": [
+      "ponderables/calendar/2020/12/05.md"
+    ],
+    "12-06": [
+      "ponderables/calendar/2020/12/06.md"
+    ],
+    "12-07": [
+      "ponderables/calendar/2020/12/07.md"
+    ],
+    "12-08": [
+      "ponderables/calendar/2020/12/08.md"
+    ],
+    "12-09": [
+      "ponderables/calendar/2020/12/09.md"
+    ],
+    "12-10": [
+      "ponderables/calendar/2020/12/10.md"
+    ],
+    "12-11": [
+      "ponderables/calendar/2020/12/11.md"
+    ],
+    "12-12": [
+      "ponderables/calendar/2020/12/12.md"
+    ],
+    "12-13": [
+      "ponderables/calendar/2020/12/13.md"
+    ],
+    "12-14": [
+      "ponderables/calendar/2020/12/14.md"
+    ],
+    "12-15": [
+      "ponderables/calendar/2020/12/15.md"
+    ],
+    "12-16": [
+      "ponderables/calendar/2020/12/16.md"
+    ],
+    "12-17": [
+      "ponderables/calendar/2020/12/17.md"
+    ],
+    "12-18": [
+      "ponderables/calendar/2020/12/18.md"
+    ],
+    "12-19": [
+      "ponderables/calendar/2020/12/19.md"
+    ],
+    "12-20": [
+      "ponderables/calendar/2020/12/20.md"
+    ],
+    "12-21": [
+      "ponderables/calendar/2020/12/21.md"
+    ],
+    "12-22": [
+      "ponderables/calendar/2020/12/22.md"
+    ],
+    "12-23": [
+      "ponderables/calendar/2020/12/23.md"
+    ],
+    "12-24": [
+      "ponderables/calendar/2020/12/24.md"
+    ],
+    "12-25": [
+      "ponderables/calendar/2020/12/25.md"
+    ],
+    "12-26": [
+      "ponderables/calendar/2020/12/26.md"
+    ],
+    "12-27": [
+      "ponderables/calendar/2020/12/27.md"
+    ],
+    "12-28": [
+      "ponderables/calendar/2020/12/28.md"
+    ],
+    "12-29": [
+      "ponderables/calendar/2020/12/29.md"
+    ],
+    "12-30": [
+      "ponderables/calendar/2020/12/30.md"
+    ],
+    "12-31": [
+      "ponderables/calendar/2020/12/31.md"
+    ]
+  },
+  "edges": [
+    {
+      "from": "capture",
+      "to": "llm",
+      "weight": 366,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "llm",
+      "weight": 330,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_2020s",
+      "weight": 330,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_truth",
+      "to": "llm",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "llm",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_truth",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_copypasta",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_truth",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_truth",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_copypasta",
+      "weight": 327,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "llm",
+      "weight": 324,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "paulsen__ev",
+      "weight": 324,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_science",
+      "weight": 324,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "paulsen__ev",
+      "weight": 324,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "paulsen__ev",
+      "weight": 324,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "llm",
+      "weight": 299,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_war",
+      "weight": 299,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "ev_war",
+      "weight": 294,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "paulsen__ev",
+      "weight": 294,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_war",
+      "weight": 291,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_remix",
+      "to": "llm",
+      "weight": 290,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_remix",
+      "weight": 290,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_truth",
+      "to": "ev_war",
+      "weight": 290,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_war",
+      "weight": 290,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "llm",
+      "weight": 289,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__capture",
+      "weight": 289,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_remix",
+      "to": "ev_science",
+      "weight": 289,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_remix",
+      "to": "paulsen__ev",
+      "weight": 289,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "llm",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "llm",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_peace",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_disaster",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_war",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_science",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_science",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "paulsen__ev",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "paulsen__ev",
+      "weight": 288,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "llm",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "llm",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "llm",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_technews",
+      "to": "llm",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "llm",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_death",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__heat",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__car",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_news_technews",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_fmt_book",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_technews",
+      "to": "ev_war",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_truth",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_peace",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_peace",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_science",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_technews",
+      "to": "ev_science",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_truth",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_disaster",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_disaster",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "paulsen__ev",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_truth",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_technews",
+      "to": "paulsen__ev",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev__car",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_copypasta",
+      "weight": 287,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "versa__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "llm",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "llm",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "llm",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_investigative",
+      "to": "llm",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "versa__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__gun",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__mission",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_2010s",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_news_investigative",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_war",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_war",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_peace",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "versa__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "ev_science",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_remix",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_investigative",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "ev_truth",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "paulsen__ev",
+      "to": "versa__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "versa__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "paulsen__ev",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev__gun",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev__heat",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_copypasta",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev__capture",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_copypasta",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_news_technews",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_remix",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev__mission",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_copypasta",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_remix",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_news_investigative",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_news_technews",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_fmt_book",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_remix",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_news_investigative",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_fmt_book",
+      "weight": 286,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_tech",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "foster__ev",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "llm",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_shitpost",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_deepfake",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_headline",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_human",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_weird",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_clipart",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_comic",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_audio",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_zine",
+      "to": "llm",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_death",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_truth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "paulsen__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__pokemon",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__jeff",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__daniel",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__gun",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__chaos",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__heat",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__capture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__gamer",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__car",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__black",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__spider",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev__mission",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_2020s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_2010s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_2000s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_1990s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_1980s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_1970s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_1960s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_copypasta",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_remix",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_deepfake",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_news_headline",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_news_investigative",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_news_human",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_news_technews",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_news_weird",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_fmt_clipart",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_fmt_comic",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_fmt_book",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_fmt_audio",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev",
+      "to": "ev_fmt_zine",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "colonel__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "cuda__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "diabetes__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__pokemon",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__jeff",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__daniel",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__chaos",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__gamer",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__black",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev__spider",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_2000s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_1990s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_1980s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_1970s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_1960s",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_deepfake",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_news_headline",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_news_human",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_news_weird",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_fmt_clipart",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_fmt_comic",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_fmt_audio",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "capture",
+      "to": "ev_fmt_zine",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_tech",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_war",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_shitpost",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_remix",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_deepfake",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_headline",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_investigative",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_human",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_weird",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_clipart",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_comic",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_audio",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_zine",
+      "to": "ev_war",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_peace",
+      "to": "ev_remix",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_deepfake",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_headline",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_investigative",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_human",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_technews",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_weird",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_clipart",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_comic",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_book",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_audio",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_zine",
+      "to": "ev_peace",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "ev_truth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_science",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_deepfake",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_headline",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_investigative",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_human",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_news_weird",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_clipart",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_comic",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_audio",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_fmt_zine",
+      "to": "ev_science",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_death",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_truth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "paulsen__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_copypasta",
+      "to": "ev_culture",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_remix",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_deepfake",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_news_headline",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_news_investigative",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_news_human",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_news_technews",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_news_weird",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_fmt_clipart",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_fmt_comic",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_fmt_book",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_fmt_audio",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_culture",
+      "to": "ev_fmt_zine",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_remix",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_deepfake",
+      "to": "ev_disaster",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_news_headline",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_news_investigative",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_news_human",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_news_technews",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_news_weird",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_fmt_clipart",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_fmt_comic",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_fmt_book",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_fmt_audio",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_disaster",
+      "to": "ev_fmt_zine",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_death",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_truth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "penny__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "supercap__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "versa__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "mother__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "foster__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "paulsen__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "metalgear__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "colonel__ev",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "cuda__ev",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "llm__ev",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "diabetes__ev",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__pokemon",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__jeff",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__daniel",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gun",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__chaos",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__heat",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__capture",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__gamer",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__car",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__black",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__spider",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev__mission",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2020s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2010s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_2000s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1990s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1980s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1970s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_1960s",
+      "to": "ev_birth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_shitpost",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_copypasta",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_remix",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_deepfake",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_news_headline",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_news_investigative",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_news_human",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_news_technews",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_news_weird",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_fmt_clipart",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_fmt_comic",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_fmt_book",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_fmt_audio",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_birth",
+      "to": "ev_fmt_zine",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_tech",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    },
+    {
+      "from": "ev_death",
+      "to": "ev_truth",
+      "weight": 285,
+      "kind": [
+        "keyword_cooccur"
+      ]
+    }
+  ]
+}

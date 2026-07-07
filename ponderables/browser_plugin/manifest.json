@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Seymour Wins — Daily Capture",
+  "version": "1.0",
+  "description": "Capture a real historical fact from any page into the Seymour Wins toilet-book calendar (calendar/YYYY/MM/DD.md) via the local daily_daemon.py bridge.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["http://127.0.0.1:8770/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Seymour Wins Capture"
+  },
+  "background": { "service_worker": "background.js" }
+}

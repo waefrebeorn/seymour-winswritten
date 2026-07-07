@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font-family: monospace; width: 280px; padding: 10px; background:#f7f1e1; color:#222; }
+  h3 { font-family: 'Special Elite', monospace; color:#a8741a; margin:0 0 6px; }
+  label { display:block; font-size:11px; margin-top:6px; }
+  input, select, textarea { width:100%; box-sizing:border-box; font-family:monospace; font-size:12px; padding:4px; }
+  button { margin-top:10px; width:100%; background:#1c1c1c; color:#f3d27a; border:0; padding:8px; font-family:monospace; cursor:pointer; }
+  #status { font-size:11px; margin-top:8px; min-height:14px; }
+  .row { display:flex; gap:6px; }
+  .row > div { flex:1; }
+</style>
+</head>
+<body>
+  <h3>SEYMOUR WINS · CAPTURE</h3>
+  <div class="row">
+    <div><label>Year</label><input id="year" type="number" value="2020"></div>
+    <div><label>Month</label><input id="month" type="number" min="1" max="12" value="1"></div>
+    <div><label>Day</label><input id="day" type="number" min="1" max="31" value="1"></div>
+  </div>
+  <label>Theme</label>
+  <select id="theme">
+    <option value="penny">penny</option>
+    <option value="supercap">supercap</option>
+    <option value="versa">versa</option>
+    <option value="gaming">gaming</option>
+    <option value="cuda">cuda</option>
+    <option value="internet">internet</option>
+    <option value="paulsen">paulsen</option>
+    <option value="meme" selected>meme</option>
+  </select>
+  <label>Fact (the real-world anchor)</label>
+  <textarea id="fact" rows="4" placeholder="e.g. 1969: Apollo 11 lands on the Moon."></textarea>
+  <label>Overlap link (optional, e.g. 2021-07-20)</label>
+  <input id="overlap" type="text" placeholder="[[2021-07-20]]">
+  <button id="send">FILE IT → calendar/YYYY/MM/DD.md</button>
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

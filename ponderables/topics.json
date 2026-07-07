@@ -1,0 +1,7593 @@
+{
+  "docs": 697,
+  "total_tokens": 5498374,
+  "topics": [
+    {
+      "term": "text",
+      "tf": 306145,
+      "df": 247,
+      "score": 622940.89,
+      "related": [
+        "text",
+        "game",
+        "heat",
+        "fire",
+        "power",
+        "mission",
+        "team",
+        "vehicle",
+        "doesn",
+        "win",
+        "stuff",
+        "though"
+      ]
+    },
+    {
+      "term": "game",
+      "tf": 58984,
+      "df": 594,
+      "score": 68401.25,
+      "related": [
+        "game",
+        "text",
+        "fucking",
+        "games",
+        "video",
+        "played",
+        "whole",
+        "doesn",
+        "stuff",
+        "probably",
+        "though",
+        "five"
+      ]
+    },
+    {
+      "term": "fucking",
+      "tf": 26589,
+      "df": 254,
+      "score": 53362.94,
+      "related": [
+        "fucking",
+        "game",
+        "doesn",
+        "whole",
+        "point",
+        "thought",
+        "literally",
+        "though",
+        "talking",
+        "video",
+        "someone",
+        "gamer"
+      ]
+    },
+    {
+      "term": "spider",
+      "tf": 7594,
+      "df": 193,
+      "score": 17317.06,
+      "related": [
+        "text",
+        "spider",
+        "amazing",
+        "game",
+        "vehicle",
+        "team",
+        "kill",
+        "hurt",
+        "fire",
+        "point"
+      ]
+    },
+    {
+      "term": "doesn",
+      "tf": 13794,
+      "df": 547,
+      "score": 17131.37,
+      "related": [
+        "text",
+        "game",
+        "doesn",
+        "fucking",
+        "anything",
+        "probably",
+        "though",
+        "stuff",
+        "point",
+        "thought",
+        "care"
+      ]
+    },
+    {
+      "term": "stuff",
+      "tf": 12923,
+      "df": 524,
+      "score": 16603.74,
+      "related": [
+        "text",
+        "stuff",
+        "game",
+        "fucking",
+        "cool",
+        "video",
+        "probably",
+        "though",
+        "guess",
+        "doesn",
+        "show",
+        "everything"
+      ]
+    },
+    {
+      "term": "mission",
+      "tf": 8288,
+      "df": 289,
+      "score": 15567.67,
+      "related": [
+        "text",
+        "capture",
+        "mission",
+        "yours",
+        "starts",
+        "five",
+        "game",
+        "four",
+        "hurt",
+        "nice",
+        "half"
+      ]
+    },
+    {
+      "term": "five",
+      "tf": 11592,
+      "df": 498,
+      "score": 15482.43,
+      "related": [
+        "text",
+        "five",
+        "four",
+        "game",
+        "starts",
+        "mission",
+        "capture",
+        "six",
+        "fucking",
+        "attack"
+      ]
+    },
+    {
+      "term": "though",
+      "tf": 12322,
+      "df": 550,
+      "score": 15235.96,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "though",
+        "doesn",
+        "stuff",
+        "probably",
+        "cool",
+        "thought",
+        "games",
+        "five",
+        "guess"
+      ]
+    },
+    {
+      "term": "team",
+      "tf": 8938,
+      "df": 351,
+      "score": 15056.85,
+      "related": [
+        "text",
+        "team",
+        "game",
+        "win",
+        "point",
+        "capture",
+        "attack",
+        "spider",
+        "power",
+        "magic",
+        "halfway"
+      ]
+    },
+    {
+      "term": "show",
+      "tf": 11329,
+      "df": 503,
+      "score": 15018.21,
+      "related": [
+        "text",
+        "show",
+        "game",
+        "fucking",
+        "video",
+        "stuff",
+        "doesn",
+        "talking",
+        "please",
+        "watch",
+        "turn",
+        "guess"
+      ]
+    },
+    {
+      "term": "point",
+      "tf": 10801,
+      "df": 477,
+      "score": 14890.35,
+      "related": [
+        "text",
+        "point",
+        "game",
+        "fucking",
+        "team",
+        "whole",
+        "capture",
+        "doesn",
+        "five",
+        "almost",
+        "spider",
+        "halfway"
+      ]
+    },
+    {
+      "term": "probably",
+      "tf": 11218,
+      "df": 514,
+      "score": 14628.86,
+      "related": [
+        "text",
+        "game",
+        "probably",
+        "fucking",
+        "doesn",
+        "stuff",
+        "though",
+        "anything",
+        "games",
+        "someone",
+        "video",
+        "person"
+      ]
+    },
+    {
+      "term": "someone",
+      "tf": 11160,
+      "df": 511,
+      "score": 14618.42,
+      "related": [
+        "text",
+        "someone",
+        "game",
+        "fucking",
+        "person",
+        "talking",
+        "guess",
+        "hear",
+        "doesn",
+        "probably",
+        "please",
+        "kill"
+      ]
+    },
+    {
+      "term": "please",
+      "tf": 10620,
+      "df": 481,
+      "score": 14552.32,
+      "related": [
+        "text",
+        "please",
+        "daniel",
+        "game",
+        "hello",
+        "fucking",
+        "sorry",
+        "story",
+        "show",
+        "kill",
+        "someone",
+        "talk"
+      ]
+    },
+    {
+      "term": "guess",
+      "tf": 11030,
+      "df": 509,
+      "score": 14491.31,
+      "related": [
+        "text",
+        "game",
+        "guess",
+        "fucking",
+        "stuff",
+        "doesn",
+        "someone",
+        "though",
+        "anything",
+        "thought",
+        "show",
+        "whatever"
+      ]
+    },
+    {
+      "term": "anything",
+      "tf": 11339,
+      "df": 539,
+      "score": 14249.15,
+      "related": [
+        "text",
+        "game",
+        "anything",
+        "fucking",
+        "doesn",
+        "nothing",
+        "everything",
+        "stuff",
+        "talking",
+        "probably",
+        "guess",
+        "ever"
+      ]
+    },
+    {
+      "term": "talking",
+      "tf": 10888,
+      "df": 515,
+      "score": 14177.4,
+      "related": [
+        "text",
+        "talking",
+        "game",
+        "fucking",
+        "talk",
+        "hear",
+        "video",
+        "doesn",
+        "someone",
+        "show",
+        "sorry",
+        "chat"
+      ]
+    },
+    {
+      "term": "vehicle",
+      "tf": 6045,
+      "df": 181,
+      "score": 14170.76,
+      "related": [
+        "text",
+        "vehicle",
+        "moving",
+        "power",
+        "checkpoint",
+        "spider",
+        "fire",
+        "welcome",
+        "halfway",
+        "hurt",
+        "chaos",
+        "starts"
+      ]
+    },
+    {
+      "term": "video",
+      "tf": 11567,
+      "df": 560,
+      "score": 14094.37,
+      "related": [
+        "text",
+        "video",
+        "game",
+        "games",
+        "youtube",
+        "fucking",
+        "watch",
+        "word",
+        "show",
+        "stuff",
+        "talking"
+      ]
+    },
+    {
+      "term": "thought",
+      "tf": 10847,
+      "df": 520,
+      "score": 14019.41,
+      "related": [
+        "text",
+        "thought",
+        "game",
+        "fucking",
+        "doesn",
+        "stuff",
+        "whole",
+        "though",
+        "sorry",
+        "cool",
+        "guess",
+        "talking"
+      ]
+    },
+    {
+      "term": "everything",
+      "tf": 10937,
+      "df": 526,
+      "score": 14010.5,
+      "related": [
+        "text",
+        "game",
+        "everything",
+        "fucking",
+        "anything",
+        "stuff",
+        "doesn",
+        "whole",
+        "video",
+        "point",
+        "though",
+        "nothing"
+      ]
+    },
+    {
+      "term": "away",
+      "tf": 10221,
+      "df": 484,
+      "score": 13942.16,
+      "related": [
+        "text",
+        "away",
+        "game",
+        "run",
+        "fucking",
+        "stay",
+        "kill",
+        "coming",
+        "running",
+        "walk",
+        "doesn",
+        "point"
+      ]
+    },
+    {
+      "term": "sorry",
+      "tf": 10513,
+      "df": 505,
+      "score": 13894.85,
+      "related": [
+        "text",
+        "sorry",
+        "game",
+        "fucking",
+        "please",
+        "hear",
+        "talking",
+        "doesn",
+        "thought",
+        "video",
+        "probably",
+        "someone"
+      ]
+    },
+    {
+      "term": "kill",
+      "tf": 9541,
+      "df": 443,
+      "score": 13857.3,
+      "related": [
+        "text",
+        "kill",
+        "game",
+        "fucking",
+        "killed",
+        "spider",
+        "die",
+        "away",
+        "please",
+        "room",
+        "coming"
+      ]
+    },
+    {
+      "term": "whole",
+      "tf": 10320,
+      "df": 503,
+      "score": 13680.63,
+      "related": [
+        "text",
+        "game",
+        "whole",
+        "fucking",
+        "point",
+        "thought",
+        "talking",
+        "doesn",
+        "stuff",
+        "everything",
+        "though",
+        "nothing"
+      ]
+    },
+    {
+      "term": "hear",
+      "tf": 10233,
+      "df": 514,
+      "score": 13344.37,
+      "related": [
+        "text",
+        "hear",
+        "game",
+        "fucking",
+        "talking",
+        "audio",
+        "sorry",
+        "sound",
+        "turn",
+        "talk",
+        "chat",
+        "stuff"
+      ]
+    },
+    {
+      "term": "turn",
+      "tf": 10014,
+      "df": 506,
+      "score": 13215.56,
+      "related": [
+        "text",
+        "turn",
+        "game",
+        "fucking",
+        "behind",
+        "almost",
+        "hear",
+        "vehicle",
+        "show",
+        "though",
+        "power",
+        "doesn"
+      ]
+    },
+    {
+      "term": "nothing",
+      "tf": 10015,
+      "df": 510,
+      "score": 13138.17,
+      "related": [
+        "nothing",
+        "text",
+        "game",
+        "fucking",
+        "anything",
+        "whole",
+        "stuff",
+        "though",
+        "everything",
+        "ain",
+        "doesn",
+        "guess"
+      ]
+    },
+    {
+      "term": "power",
+      "tf": 8504,
+      "df": 412,
+      "score": 12966.66,
+      "related": [
+        "text",
+        "power",
+        "fire",
+        "welcome",
+        "game",
+        "vehicle",
+        "patch",
+        "team",
+        "hurt",
+        "action",
+        "nice",
+        "mission"
+      ]
+    },
+    {
+      "term": "run",
+      "tf": 9496,
+      "df": 486,
+      "score": 12914.13,
+      "related": [
+        "text",
+        "run",
+        "game",
+        "away",
+        "fucking",
+        "running",
+        "coming",
+        "jump",
+        "kill",
+        "whatever",
+        "guess",
+        "though"
+      ]
+    },
+    {
+      "term": "cool",
+      "tf": 9632,
+      "df": 504,
+      "score": 12749.5,
+      "related": [
+        "text",
+        "cool",
+        "game",
+        "fucking",
+        "stuff",
+        "doesn",
+        "though",
+        "thought",
+        "whole",
+        "video",
+        "room",
+        "show"
+      ]
+    },
+    {
+      "term": "coming",
+      "tf": 9215,
+      "df": 475,
+      "score": 12742.51,
+      "related": [
+        "text",
+        "coming",
+        "game",
+        "stay",
+        "strong",
+        "fucking",
+        "behind",
+        "away",
+        "kill",
+        "run",
+        "difference",
+        "starts"
+      ]
+    },
+    {
+      "term": "four",
+      "tf": 9353,
+      "df": 485,
+      "score": 12738.88,
+      "related": [
+        "text",
+        "four",
+        "five",
+        "game",
+        "starts",
+        "fucking",
+        "mission",
+        "six",
+        "capture",
+        "attack",
+        "nice"
+      ]
+    },
+    {
+      "term": "fire",
+      "tf": 8007,
+      "df": 393,
+      "score": 12585.95,
+      "related": [
+        "text",
+        "fire",
+        "power",
+        "welcome",
+        "game",
+        "vehicle",
+        "hurt",
+        "spider",
+        "team",
+        "patch",
+        "charge",
+        "nice"
+      ]
+    },
+    {
+      "term": "mario",
+      "tf": 6036,
+      "df": 236,
+      "score": 12555.84,
+      "related": [
+        "mario",
+        "text",
+        "game",
+        "luigi",
+        "super",
+        "remember",
+        "games",
+        "movie",
+        "wanted",
+        "video",
+        "whoa"
+      ]
+    },
+    {
+      "term": "games",
+      "tf": 8916,
+      "df": 468,
+      "score": 12461.15,
+      "related": [
+        "text",
+        "game",
+        "games",
+        "video",
+        "fucking",
+        "played",
+        "steam",
+        "mario",
+        "though",
+        "probably",
+        "talking",
+        "buy"
+      ]
+    },
+    {
+      "term": "watch",
+      "tf": 9246,
+      "df": 493,
+      "score": 12442.19,
+      "related": [
+        "text",
+        "watch",
+        "game",
+        "fucking",
+        "video",
+        "movie",
+        "watching",
+        "youtube",
+        "show",
+        "twitch",
+        "anything",
+        "turn"
+      ]
+    },
+    {
+      "term": "start",
+      "tf": 9163,
+      "df": 495,
+      "score": 12293.48,
+      "related": [
+        "text",
+        "game",
+        "start",
+        "fucking",
+        "stuff",
+        "everything",
+        "probably",
+        "guess",
+        "doesn",
+        "making",
+        "point",
+        "cool"
+      ]
+    },
+    {
+      "term": "win",
+      "tf": 7639,
+      "df": 386,
+      "score": 12144.44,
+      "related": [
+        "text",
+        "win",
+        "game",
+        "team",
+        "attack",
+        "score",
+        "until",
+        "victory",
+        "nuts",
+        "final"
+      ]
+    },
+    {
+      "term": "capture",
+      "tf": 5511,
+      "df": 209,
+      "score": 12130.33,
+      "related": [
+        "text",
+        "mission",
+        "starts",
+        "yours",
+        "capture",
+        "five",
+        "team",
+        "game",
+        "attack",
+        "point",
+        "four"
+      ]
+    },
+    {
+      "term": "whatever",
+      "tf": 9207,
+      "df": 511,
+      "score": 12060.2,
+      "related": [
+        "text",
+        "game",
+        "whatever",
+        "fucking",
+        "stuff",
+        "care",
+        "doesn",
+        "guess",
+        "video",
+        "probably",
+        "run",
+        "though"
+      ]
+    },
+    {
+      "term": "baby",
+      "tf": 8105,
+      "df": 434,
+      "score": 11937.64,
+      "related": [
+        "baby",
+        "text",
+        "game",
+        "fucking",
+        "away",
+        "huh",
+        "stuff",
+        "thought",
+        "boy",
+        "please",
+        "guess"
+      ]
+    },
+    {
+      "term": "remember",
+      "tf": 8644,
+      "df": 478,
+      "score": 11898.63,
+      "related": [
+        "text",
+        "remember",
+        "game",
+        "fucking",
+        "mario",
+        "anything",
+        "stuff",
+        "doesn",
+        "talking",
+        "probably",
+        "someone",
+        "whole"
+      ]
+    },
+    {
+      "term": "always",
+      "tf": 9024,
+      "df": 507,
+      "score": 11891.26,
+      "related": [
+        "text",
+        "always",
+        "game",
+        "fucking",
+        "stuff",
+        "five",
+        "ever",
+        "someone",
+        "thought",
+        "everything",
+        "starts",
+        "though"
+      ]
+    },
+    {
+      "term": "ever",
+      "tf": 9019,
+      "df": 512,
+      "score": 11796.34,
+      "related": [
+        "text",
+        "game",
+        "ever",
+        "seen",
+        "fucking",
+        "best",
+        "anything",
+        "five",
+        "doesn"
+      ]
+    },
+    {
+      "term": "talk",
+      "tf": 8348,
+      "df": 461,
+      "score": 11792.84,
+      "related": [
+        "text",
+        "talk",
+        "game",
+        "talking",
+        "fucking",
+        "hear",
+        "doesn",
+        "please",
+        "though",
+        "anything",
+        "someone",
+        "stuff"
+      ]
+    },
+    {
+      "term": "care",
+      "tf": 8597,
+      "df": 483,
+      "score": 11744.66,
+      "related": [
+        "text",
+        "care",
+        "game",
+        "fucking",
+        "doesn",
+        "whatever",
+        "stuff",
+        "probably",
+        "someone",
+        "point",
+        "hear",
+        "run"
+      ]
+    },
+    {
+      "term": "nice",
+      "tf": 8177,
+      "df": 451,
+      "score": 11730.21,
+      "related": [
+        "text",
+        "nice",
+        "game",
+        "welcome",
+        "mission",
+        "deep",
+        "power",
+        "vehicle",
+        "fire",
+        "fucking",
+        "hurt"
+      ]
+    },
+    {
+      "term": "making",
+      "tf": 8563,
+      "df": 487,
+      "score": 11627.73,
+      "related": [
+        "text",
+        "game",
+        "making",
+        "fucking",
+        "stuff",
+        "video",
+        "fun",
+        "whole",
+        "start",
+        "though",
+        "doesn",
+        "talking"
+      ]
+    },
+    {
+      "term": "open",
+      "tf": 8136,
+      "df": 458,
+      "score": 11546.36,
+      "related": [
+        "open",
+        "text",
+        "game",
+        "door",
+        "fucking",
+        "stuff",
+        "key",
+        "room",
+        "close",
+        "doesn",
+        "nothing"
+      ]
+    },
+    {
+      "term": "jeff",
+      "tf": 4349,
+      "df": 140,
+      "score": 11305.05,
+      "related": [
+        "jeff",
+        "text",
+        "game",
+        "fucking",
+        "team",
+        "win",
+        "healer",
+        "cards",
+        "point",
+        "shoot",
+        "guess",
+        "healers"
+      ]
+    },
+    {
+      "term": "enough",
+      "tf": 8393,
+      "df": 496,
+      "score": 11243.51,
+      "related": [
+        "text",
+        "game",
+        "enough",
+        "fucking",
+        "doesn",
+        "though",
+        "five",
+        "talking",
+        "everything",
+        "check",
+        "point",
+        "video"
+      ]
+    },
+    {
+      "term": "eat",
+      "tf": 7437,
+      "df": 419,
+      "score": 11214.73,
+      "related": [
+        "text",
+        "eat",
+        "nuts",
+        "game",
+        "food",
+        "fucking",
+        "kick",
+        "win",
+        "pizza",
+        "team"
+      ]
+    },
+    {
+      "term": "ass",
+      "tf": 8064,
+      "df": 474,
+      "score": 11167.87,
+      "related": [
+        "text",
+        "ass",
+        "game",
+        "fucking",
+        "doesn",
+        "though",
+        "talking",
+        "whole",
+        "thought",
+        "boy",
+        "probably",
+        "nothing"
+      ]
+    },
+    {
+      "term": "great",
+      "tf": 8278,
+      "df": 504,
+      "score": 10957.26,
+      "related": [
+        "text",
+        "game",
+        "great",
+        "fucking",
+        "job",
+        "stuff",
+        "doesn",
+        "everything",
+        "though",
+        "video",
+        "sounds",
+        "show"
+      ]
+    },
+    {
+      "term": "literally",
+      "tf": 7794,
+      "df": 475,
+      "score": 10777.55,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "literally",
+        "whole",
+        "talking",
+        "though",
+        "everything",
+        "doesn",
+        "show",
+        "anything",
+        "nothing"
+      ]
+    },
+    {
+      "term": "starts",
+      "tf": 5574,
+      "df": 276,
+      "score": 10725.5,
+      "related": [
+        "text",
+        "mission",
+        "five",
+        "capture",
+        "attack",
+        "four",
+        "game",
+        "vehicle",
+        "yours",
+        "strong",
+        "stay"
+      ]
+    },
+    {
+      "term": "boy",
+      "tf": 7934,
+      "df": 490,
+      "score": 10724.98,
+      "related": [
+        "text",
+        "boy",
+        "game",
+        "fucking",
+        "away",
+        "though",
+        "coming",
+        "stuff",
+        "please",
+        "baby",
+        "ass",
+        "ain"
+      ]
+    },
+    {
+      "term": "buy",
+      "tf": 7222,
+      "df": 429,
+      "score": 10720.58,
+      "related": [
+        "text",
+        "buy",
+        "game",
+        "fucking",
+        "stuff",
+        "games",
+        "bought",
+        "probably",
+        "pay"
+      ]
+    },
+    {
+      "term": "attack",
+      "tf": 5423,
+      "df": 262,
+      "score": 10716.2,
+      "related": [
+        "text",
+        "starts",
+        "speed",
+        "team",
+        "attack",
+        "win",
+        "capture",
+        "five",
+        "game",
+        "mission",
+        "magic"
+      ]
+    },
+    {
+      "term": "wanted",
+      "tf": 8105,
+      "df": 505,
+      "score": 10712.24,
+      "related": [
+        "text",
+        "game",
+        "wanted",
+        "fucking",
+        "stuff",
+        "mario",
+        "video",
+        "whole",
+        "hear",
+        "show",
+        "thought",
+        "whatever"
+      ]
+    },
+    {
+      "term": "went",
+      "tf": 7633,
+      "df": 469,
+      "score": 10651.75,
+      "related": [
+        "text",
+        "went",
+        "game",
+        "fucking",
+        "though",
+        "thought",
+        "stuff",
+        "everything",
+        "someone",
+        "away",
+        "whole",
+        "guess"
+      ]
+    },
+    {
+      "term": "person",
+      "tf": 7461,
+      "df": 455,
+      "score": 10637.34,
+      "related": [
+        "text",
+        "person",
+        "game",
+        "fucking",
+        "someone",
+        "probably",
+        "stuff",
+        "talking",
+        "talk",
+        "doesn",
+        "video",
+        "though"
+      ]
+    },
+    {
+      "term": "whoa",
+      "tf": 6359,
+      "df": 362,
+      "score": 10516.62,
+      "related": [
+        "whoa",
+        "text",
+        "game",
+        "fucking",
+        "luigi",
+        "mario",
+        "please",
+        "easy",
+        "four",
+        "thought",
+        "run",
+        "blah"
+      ]
+    },
+    {
+      "term": "room",
+      "tf": 6783,
+      "df": 405,
+      "score": 10458.48,
+      "related": [
+        "text",
+        "room",
+        "game",
+        "fucking",
+        "door",
+        "kill",
+        "stuff",
+        "cool",
+        "open",
+        "whole",
+        "though",
+        "someone"
+      ]
+    },
+    {
+      "term": "won",
+      "tf": 7325,
+      "df": 466,
+      "score": 10268.84,
+      "related": [
+        "text",
+        "won",
+        "game",
+        "fucking",
+        "until",
+        "anything",
+        "win",
+        "show",
+        "kill",
+        "someone",
+        "five"
+      ]
+    },
+    {
+      "term": "car",
+      "tf": 6142,
+      "df": 364,
+      "score": 10123.99,
+      "related": [
+        "car",
+        "text",
+        "game",
+        "fucking",
+        "drive",
+        "making",
+        "though",
+        "push",
+        "buy"
+      ]
+    },
+    {
+      "term": "isn",
+      "tf": 7136,
+      "df": 461,
+      "score": 10080.7,
+      "related": [
+        "text",
+        "game",
+        "isn",
+        "yet",
+        "fucking",
+        "show",
+        "doesn",
+        "mission",
+        "guess",
+        "anything"
+      ]
+    },
+    {
+      "term": "almost",
+      "tf": 6837,
+      "df": 434,
+      "score": 10070.03,
+      "related": [
+        "text",
+        "game",
+        "almost",
+        "hurt",
+        "turn",
+        "until",
+        "point",
+        "power",
+        "fire",
+        "halfway",
+        "team",
+        "spider"
+      ]
+    },
+    {
+      "term": "chaos",
+      "tf": 3657,
+      "df": 120,
+      "score": 10065.63,
+      "related": [
+        "text",
+        "control",
+        "chaos",
+        "vehicle",
+        "magic",
+        "anywhere",
+        "mission",
+        "stronger",
+        "spider",
+        "team",
+        "capture"
+      ]
+    },
+    {
+      "term": "door",
+      "tf": 6097,
+      "df": 364,
+      "score": 10049.82,
+      "related": [
+        "text",
+        "door",
+        "open",
+        "game",
+        "fucking",
+        "room",
+        "luigi",
+        "key",
+        "close",
+        "jump",
+        "speed"
+      ]
+    },
+    {
+      "term": "chat",
+      "tf": 6803,
+      "df": 436,
+      "score": 9988.75,
+      "related": [
+        "text",
+        "chat",
+        "game",
+        "twitch",
+        "voice",
+        "fucking",
+        "talking",
+        "hear",
+        "youtube",
+        "show"
+      ]
+    },
+    {
+      "term": "huh",
+      "tf": 6809,
+      "df": 437,
+      "score": 9982.0,
+      "related": [
+        "text",
+        "huh",
+        "game",
+        "fucking",
+        "guess",
+        "baby",
+        "coming",
+        "stuff",
+        "thought",
+        "remember",
+        "yep",
+        "hear"
+      ]
+    },
+    {
+      "term": "gun",
+      "tf": 5583,
+      "df": 317,
+      "score": 9972.17,
+      "related": [
+        "gun",
+        "text",
+        "game",
+        "fucking",
+        "shoot",
+        "kill",
+        "shot",
+        "away",
+        "red",
+        "though"
+      ]
+    },
+    {
+      "term": "place",
+      "tf": 7282,
+      "df": 482,
+      "score": 9963.25,
+      "related": [
+        "text",
+        "place",
+        "game",
+        "fucking",
+        "stuff",
+        "hurt",
+        "anything",
+        "someone",
+        "show",
+        "probably",
+        "doesn",
+        "five"
+      ]
+    },
+    {
+      "term": "pokemon",
+      "tf": 3380,
+      "df": 101,
+      "score": 9880.57,
+      "related": [
+        "text",
+        "pokemon",
+        "smash",
+        "pass",
+        "game",
+        "doesn",
+        "guess",
+        "talking",
+        "cards"
+      ]
+    },
+    {
+      "term": "button",
+      "tf": 6565,
+      "df": 421,
+      "score": 9868.6,
+      "related": [
+        "text",
+        "button",
+        "game",
+        "press",
+        "hold",
+        "fucking",
+        "click",
+        "jump",
+        "run",
+        "controller",
+        "though"
+      ]
+    },
+    {
+      "term": "fun",
+      "tf": 7109,
+      "df": 474,
+      "score": 9845.28,
+      "related": [
+        "text",
+        "game",
+        "fun",
+        "fucking",
+        "having",
+        "making",
+        "stuff",
+        "five",
+        "doesn",
+        "though",
+        "probably",
+        "games"
+      ]
+    },
+    {
+      "term": "heat",
+      "tf": 4300,
+      "df": 194,
+      "score": 9783.44,
+      "related": [
+        "heat",
+        "text",
+        "video",
+        "game",
+        "food",
+        "stuff"
+      ]
+    },
+    {
+      "term": "face",
+      "tf": 7006,
+      "df": 469,
+      "score": 9776.78,
+      "related": [
+        "text",
+        "face",
+        "game",
+        "fucking",
+        "someone",
+        "doesn",
+        "show",
+        "talking",
+        "care",
+        "sorry",
+        "point"
+      ]
+    },
+    {
+      "term": "hurt",
+      "tf": 5772,
+      "df": 348,
+      "score": 9772.85,
+      "related": [
+        "text",
+        "hurt",
+        "almost",
+        "fire",
+        "mission",
+        "vehicle",
+        "spider",
+        "welcome",
+        "power",
+        "nice",
+        "game"
+      ]
+    },
+    {
+      "term": "hard",
+      "tf": 7111,
+      "df": 481,
+      "score": 9744.03,
+      "related": [
+        "text",
+        "hard",
+        "game",
+        "fucking",
+        "games",
+        "stuff",
+        "doesn",
+        "turn",
+        "probably",
+        "sorry",
+        "five",
+        "drive"
+      ]
+    },
+    {
+      "term": "check",
+      "tf": 6660,
+      "df": 439,
+      "score": 9733.22,
+      "related": [
+        "text",
+        "check",
+        "game",
+        "fucking",
+        "stuff",
+        "video",
+        "doesn",
+        "though",
+        "enough",
+        "speed",
+        "anything",
+        "hear"
+      ]
+    },
+    {
+      "term": "gamer",
+      "tf": 5234,
+      "df": 295,
+      "score": 9724.04,
+      "related": [
+        "gamer",
+        "text",
+        "game",
+        "fucking",
+        "channel",
+        "video",
+        "doesn",
+        "stuff",
+        "hear"
+      ]
+    },
+    {
+      "term": "until",
+      "tf": 6627,
+      "df": 442,
+      "score": 9639.96,
+      "related": [
+        "text",
+        "fighting",
+        "winner",
+        "game",
+        "until",
+        "win",
+        "almost",
+        "won",
+        "final",
+        "power",
+        "spider",
+        "fire"
+      ]
+    },
+    {
+      "term": "press",
+      "tf": 5706,
+      "df": 351,
+      "score": 9612.26,
+      "related": [
+        "press",
+        "forward",
+        "text",
+        "button",
+        "fucking",
+        "game",
+        "ball",
+        "push",
+        "hold"
+      ]
+    },
+    {
+      "term": "stay",
+      "tf": 6553,
+      "df": 437,
+      "score": 9606.7,
+      "related": [
+        "text",
+        "stay",
+        "game",
+        "coming",
+        "strong",
+        "away",
+        "difference",
+        "starts",
+        "point",
+        "fucking",
+        "five"
+      ]
+    },
+    {
+      "term": "best",
+      "tf": 6833,
+      "df": 465,
+      "score": 9593.76,
+      "related": [
+        "text",
+        "game",
+        "best",
+        "ever",
+        "fucking",
+        "friend",
+        "mario",
+        "video",
+        "probably",
+        "please",
+        "five",
+        "though"
+      ]
+    },
+    {
+      "term": "ain",
+      "tf": 6271,
+      "df": 411,
+      "score": 9577.04,
+      "related": [
+        "text",
+        "ain",
+        "game",
+        "nothing",
+        "power",
+        "fucking",
+        "fire",
+        "welcome",
+        "boy",
+        "coming"
+      ]
+    },
+    {
+      "term": "hold",
+      "tf": 6655,
+      "df": 450,
+      "score": 9561.58,
+      "related": [
+        "text",
+        "hold",
+        "game",
+        "button",
+        "fucking",
+        "doesn",
+        "though",
+        "show",
+        "kill",
+        "charge",
+        "away",
+        "point"
+      ]
+    },
+    {
+      "term": "forward",
+      "tf": 4145,
+      "df": 190,
+      "score": 9516.69,
+      "related": [
+        "forward",
+        "press",
+        "push",
+        "text",
+        "fucking",
+        "game",
+        "ball",
+        "walking",
+        "move"
+      ]
+    },
+    {
+      "term": "everyone",
+      "tf": 6719,
+      "df": 464,
+      "score": 9448.13,
+      "related": [
+        "text",
+        "game",
+        "everyone",
+        "fucking",
+        "point",
+        "team",
+        "doesn",
+        "wants",
+        "please",
+        "show",
+        "everything",
+        "someone"
+      ]
+    },
+    {
+      "term": "means",
+      "tf": 6762,
+      "df": 476,
+      "score": 9336.31,
+      "related": [
+        "text",
+        "game",
+        "means",
+        "fucking",
+        "probably",
+        "whatever",
+        "stuff",
+        "doesn",
+        "though",
+        "five",
+        "run",
+        "cool"
+      ]
+    },
+    {
+      "term": "yet",
+      "tf": 6518,
+      "df": 452,
+      "score": 9335.91,
+      "related": [
+        "text",
+        "game",
+        "yet",
+        "isn",
+        "haven",
+        "fucking",
+        "vehicle",
+        "fight",
+        "mission",
+        "power"
+      ]
+    },
+    {
+      "term": "daniel",
+      "tf": 2753,
+      "df": 63,
+      "score": 9330.84,
+      "related": [
+        "daniel",
+        "please",
+        "giving",
+        "hello",
+        "text",
+        "story",
+        "show",
+        "fucking",
+        "kill",
+        "hear"
+      ]
+    },
+    {
+      "term": "fine",
+      "tf": 6762,
+      "df": 479,
+      "score": 9293.92,
+      "related": [
+        "text",
+        "fine",
+        "game",
+        "fucking",
+        "stuff",
+        "everything",
+        "doesn",
+        "hear",
+        "probably",
+        "though",
+        "guess"
+      ]
+    },
+    {
+      "term": "black",
+      "tf": 5898,
+      "df": 393,
+      "score": 9270.88,
+      "related": [
+        "black",
+        "text",
+        "game",
+        "white",
+        "fucking",
+        "whole",
+        "guess",
+        "song"
+      ]
+    },
+    {
+      "term": "move",
+      "tf": 6550,
+      "df": 460,
+      "score": 9267.08,
+      "related": [
+        "text",
+        "move",
+        "game",
+        "fucking",
+        "moving",
+        "turn",
+        "stuff",
+        "please",
+        "doesn",
+        "away",
+        "hear",
+        "kill"
+      ]
+    },
+    {
+      "term": "behind",
+      "tf": 5954,
+      "df": 407,
+      "score": 9151.01,
+      "related": [
+        "text",
+        "behind",
+        "turn",
+        "game",
+        "coming",
+        "spider",
+        "vehicle",
+        "mission",
+        "fire",
+        "fucking",
+        "someone",
+        "hurt"
+      ]
+    },
+    {
+      "term": "head",
+      "tf": 6354,
+      "df": 451,
+      "score": 9115.05,
+      "related": [
+        "text",
+        "head",
+        "game",
+        "fucking",
+        "poop",
+        "thought",
+        "someone",
+        "doesn",
+        "talking",
+        "please",
+        "hear",
+        "kill"
+      ]
+    },
+    {
+      "term": "welcome",
+      "tf": 5054,
+      "df": 312,
+      "score": 9107.39,
+      "related": [
+        "text",
+        "welcome",
+        "power",
+        "fire",
+        "patch",
+        "vehicle",
+        "action",
+        "nice",
+        "hurt",
+        "mission",
+        "game",
+        "team"
+      ]
+    },
+    {
+      "term": "red",
+      "tf": 5807,
+      "df": 403,
+      "score": 8982.29,
+      "related": [
+        "red",
+        "text",
+        "game",
+        "blue",
+        "fucking",
+        "green",
+        "gun",
+        "everything",
+        "whole",
+        "doesn"
+      ]
+    },
+    {
+      "term": "makes",
+      "tf": 6490,
+      "df": 478,
+      "score": 8933.61,
+      "related": [
+        "text",
+        "game",
+        "sense",
+        "makes",
+        "fucking",
+        "doesn",
+        "stuff",
+        "everything",
+        "though",
+        "making",
+        "whole",
+        "guess"
+      ]
+    },
+    {
+      "term": "youtube",
+      "tf": 5796,
+      "df": 409,
+      "score": 8879.83,
+      "related": [
+        "youtube",
+        "text",
+        "video",
+        "twitch",
+        "channel",
+        "game",
+        "watch",
+        "fucking",
+        "chat",
+        "streaming",
+        "content"
+      ]
+    },
+    {
+      "term": "job",
+      "tf": 5814,
+      "df": 412,
+      "score": 8865.02,
+      "related": [
+        "text",
+        "job",
+        "game",
+        "great",
+        "fucking",
+        "youtube",
+        "point",
+        "kill",
+        "person",
+        "stuff",
+        "doesn",
+        "someone"
+      ]
+    },
+    {
+      "term": "full",
+      "tf": 6237,
+      "df": 457,
+      "score": 8864.96,
+      "related": [
+        "text",
+        "full",
+        "game",
+        "fucking",
+        "screen",
+        "health",
+        "video",
+        "everything",
+        "channel",
+        "stuff",
+        "whole",
+        "doesn"
+      ]
+    },
+    {
+      "term": "blah",
+      "tf": 3762,
+      "df": 179,
+      "score": 8860.5,
+      "related": [
+        "blah",
+        "text",
+        "game",
+        "whoa",
+        "please",
+        "fucking",
+        "whatever",
+        "stuff",
+        "cool",
+        "change",
+        "care",
+        "start"
+      ]
+    },
+    {
+      "term": "norman",
+      "tf": 2740,
+      "df": 75,
+      "score": 8815.91,
+      "related": [
+        "norman",
+        "text",
+        "alan",
+        "reus",
+        "game",
+        "movie",
+        "dark",
+        "fucking",
+        "baby"
+      ]
+    },
+    {
+      "term": "supposed",
+      "tf": 6069,
+      "df": 443,
+      "score": 8814.58,
+      "related": [
+        "text",
+        "supposed",
+        "game",
+        "fucking",
+        "thought",
+        "guess",
+        "doesn",
+        "anything",
+        "door",
+        "stuff",
+        "though",
+        "kill"
+      ]
+    },
+    {
+      "term": "die",
+      "tf": 5845,
+      "df": 419,
+      "score": 8814.05,
+      "related": [
+        "text",
+        "die",
+        "game",
+        "fucking",
+        "kill",
+        "please",
+        "run",
+        "point",
+        "died",
+        "away",
+        "though",
+        "doesn"
+      ]
+    },
+    {
+      "term": "pizza",
+      "tf": 3926,
+      "df": 201,
+      "score": 8794.05,
+      "related": [
+        "pizza",
+        "text",
+        "eat",
+        "game",
+        "fucking",
+        "deep",
+        "cheese"
+      ]
+    },
+    {
+      "term": "understand",
+      "tf": 6026,
+      "df": 441,
+      "score": 8779.33,
+      "related": [
+        "text",
+        "game",
+        "understand",
+        "fucking",
+        "doesn",
+        "enough",
+        "everything",
+        "whole",
+        "stuff",
+        "video",
+        "always",
+        "literally"
+      ]
+    },
+    {
+      "term": "funny",
+      "tf": 5932,
+      "df": 436,
+      "score": 8709.87,
+      "related": [
+        "text",
+        "funny",
+        "game",
+        "fucking",
+        "thought",
+        "video",
+        "poop",
+        "though",
+        "someone",
+        "talk",
+        "mario"
+      ]
+    },
+    {
+      "term": "robocop",
+      "tf": 2284,
+      "df": 44,
+      "score": 8545.72,
+      "related": [
+        "robocop",
+        "text",
+        "game",
+        "cop",
+        "fucking",
+        "stuff",
+        "city",
+        "thought",
+        "means",
+        "doesn"
+      ]
+    },
+    {
+      "term": "dog",
+      "tf": 5219,
+      "df": 371,
+      "score": 8503.45,
+      "related": [
+        "dog",
+        "text",
+        "game",
+        "hot",
+        "fucking",
+        "ass",
+        "please",
+        "head",
+        "doesn",
+        "coming",
+        "though"
+      ]
+    },
+    {
+      "term": "honey",
+      "tf": 4768,
+      "df": 320,
+      "score": 8471.68,
+      "related": [
+        "text",
+        "game",
+        "honey",
+        "fucking",
+        "hear",
+        "stuff",
+        "sorry",
+        "everything",
+        "video",
+        "watch",
+        "baby",
+        "though"
+      ]
+    },
+    {
+      "term": "worry",
+      "tf": 5718,
+      "df": 432,
+      "score": 8448.24,
+      "related": [
+        "text",
+        "worry",
+        "game",
+        "fucking",
+        "coming",
+        "sorry",
+        "though",
+        "kill",
+        "run",
+        "spider",
+        "fine",
+        "anything"
+      ]
+    },
+    {
+      "term": "strong",
+      "tf": 4057,
+      "df": 238,
+      "score": 8405.11,
+      "related": [
+        "text",
+        "strong",
+        "stay",
+        "coming",
+        "starts",
+        "game",
+        "difference",
+        "five",
+        "mission",
+        "cool",
+        "together"
+      ]
+    },
+    {
+      "term": "hate",
+      "tf": 5711,
+      "df": 435,
+      "score": 8398.46,
+      "related": [
+        "text",
+        "hate",
+        "game",
+        "fucking",
+        "doesn",
+        "everything",
+        "though",
+        "spider",
+        "kill",
+        "nice",
+        "guess",
+        "thought"
+      ]
+    },
+    {
+      "term": "problem",
+      "tf": 5780,
+      "df": 451,
+      "score": 8291.62,
+      "related": [
+        "text",
+        "problem",
+        "game",
+        "fucking",
+        "video",
+        "doesn",
+        "fix",
+        "hear",
+        "spider",
+        "someone",
+        "everything",
+        "five"
+      ]
+    },
+    {
+      "term": "hope",
+      "tf": 5785,
+      "df": 452,
+      "score": 8286.01,
+      "related": [
+        "text",
+        "hope",
+        "game",
+        "fucking",
+        "stuff",
+        "video",
+        "enough",
+        "doesn",
+        "everything",
+        "please",
+        "hear",
+        "understand"
+      ]
+    },
+    {
+      "term": "pick",
+      "tf": 5603,
+      "df": 434,
+      "score": 8252.51,
+      "related": [
+        "text",
+        "pick",
+        "game",
+        "fucking",
+        "trash",
+        "phone",
+        "stuff",
+        "though",
+        "doesn",
+        "probably",
+        "whatever"
+      ]
+    },
+    {
+      "term": "twitch",
+      "tf": 4678,
+      "df": 326,
+      "score": 8225.14,
+      "related": [
+        "text",
+        "twitch",
+        "youtube",
+        "chat",
+        "game",
+        "watch",
+        "streaming",
+        "show",
+        "kick",
+        "doesn",
+        "stuff",
+        "fucking"
+      ]
+    },
+    {
+      "term": "damage",
+      "tf": 4194,
+      "df": 266,
+      "score": 8224.31,
+      "related": [
+        "text",
+        "damage",
+        "game",
+        "charge",
+        "speed",
+        "health",
+        "fucking",
+        "attack"
+      ]
+    },
+    {
+      "term": "save",
+      "tf": 5581,
+      "df": 435,
+      "score": 8207.29,
+      "related": [
+        "text",
+        "save",
+        "game",
+        "five",
+        "fucking",
+        "stuff",
+        "point",
+        "wanted",
+        "please",
+        "cool",
+        "kill"
+      ]
+    },
+    {
+      "term": "free",
+      "tf": 5425,
+      "df": 417,
+      "score": 8206.6,
+      "related": [
+        "text",
+        "free",
+        "game",
+        "fucking",
+        "games",
+        "pay",
+        "cool",
+        "buy",
+        "anything",
+        "stuff",
+        "doesn",
+        "probably"
+      ]
+    },
+    {
+      "term": "reason",
+      "tf": 5711,
+      "df": 454,
+      "score": 8154.86,
+      "related": [
+        "text",
+        "game",
+        "reason",
+        "fucking",
+        "doesn",
+        "believe",
+        "whole",
+        "probably",
+        "stuff",
+        "everything",
+        "wanted",
+        "anything"
+      ]
+    },
+    {
+      "term": "water",
+      "tf": 5225,
+      "df": 399,
+      "score": 8134.04,
+      "related": [
+        "text",
+        "water",
+        "drink",
+        "game",
+        "fucking",
+        "doesn",
+        "eat",
+        "though",
+        "stuff",
+        "food",
+        "hot"
+      ]
+    },
+    {
+      "term": "hello",
+      "tf": 5475,
+      "df": 430,
+      "score": 8114.56,
+      "related": [
+        "text",
+        "hello",
+        "game",
+        "please",
+        "daniel",
+        "hear",
+        "fucking",
+        "show",
+        "sorry",
+        "behind",
+        "friend",
+        "mario"
+      ]
+    },
+    {
+      "term": "pay",
+      "tf": 5196,
+      "df": 402,
+      "score": 8050.07,
+      "related": [
+        "text",
+        "pay",
+        "game",
+        "fucking",
+        "free",
+        "buy",
+        "someone",
+        "stuff",
+        "five",
+        "anything"
+      ]
+    },
+    {
+      "term": "jump",
+      "tf": 4501,
+      "df": 317,
+      "score": 8039.54,
+      "related": [
+        "jump",
+        "text",
+        "game",
+        "run",
+        "speed",
+        "button",
+        "mario",
+        "door",
+        "fucking",
+        "check"
+      ]
+    },
+    {
+      "term": "stupid",
+      "tf": 5440,
+      "df": 432,
+      "score": 8037.5,
+      "related": [
+        "text",
+        "game",
+        "stupid",
+        "fucking",
+        "doesn",
+        "thought",
+        "anything",
+        "games",
+        "though",
+        "guess",
+        "whatever",
+        "everything"
+      ]
+    },
+    {
+      "term": "fight",
+      "tf": 4805,
+      "df": 361,
+      "score": 7959.84,
+      "related": [
+        "text",
+        "fight",
+        "game",
+        "mission",
+        "boss",
+        "yet",
+        "vehicle",
+        "coming",
+        "fucking",
+        "win",
+        "power",
+        "team"
+      ]
+    },
+    {
+      "term": "iron",
+      "tf": 3375,
+      "df": 179,
+      "score": 7949.01,
+      "related": [
+        "text",
+        "iron",
+        "game",
+        "fucking",
+        "spider",
+        "team",
+        "point",
+        "kill",
+        "win",
+        "away"
+      ]
+    },
+    {
+      "term": "magic",
+      "tf": 4082,
+      "df": 270,
+      "score": 7943.98,
+      "related": [
+        "text",
+        "magic",
+        "witch",
+        "team",
+        "chaos",
+        "win",
+        "game",
+        "attack",
+        "switch",
+        "coming",
+        "stay"
+      ]
+    },
+    {
+      "term": "wrong",
+      "tf": 5613,
+      "df": 460,
+      "score": 7941.39,
+      "related": [
+        "text",
+        "wrong",
+        "game",
+        "fucking",
+        "nothing",
+        "thought",
+        "anything",
+        "sorry",
+        "guess",
+        "doesn",
+        "everything",
+        "though"
+      ]
+    },
+    {
+      "term": "easy",
+      "tf": 5340,
+      "df": 431,
+      "score": 7902.1,
+      "related": [
+        "text",
+        "game",
+        "easy",
+        "fucking",
+        "whoa",
+        "guess",
+        "fire",
+        "though",
+        "hard",
+        "boy",
+        "kill",
+        "vehicle"
+      ]
+    },
+    {
+      "term": "says",
+      "tf": 5783,
+      "df": 483,
+      "score": 7900.35,
+      "related": [
+        "text",
+        "game",
+        "says",
+        "fucking",
+        "doesn",
+        "anything",
+        "video",
+        "stuff",
+        "someone",
+        "nothing",
+        "talking",
+        "guess"
+      ]
+    },
+    {
+      "term": "fast",
+      "tf": 5205,
+      "df": 417,
+      "score": 7873.8,
+      "related": [
+        "text",
+        "fast",
+        "game",
+        "run",
+        "fucking",
+        "speed",
+        "enough",
+        "fire",
+        "though",
+        "move",
+        "boy",
+        "doesn"
+      ]
+    },
+    {
+      "term": "yep",
+      "tf": 5185,
+      "df": 415,
+      "score": 7868.41,
+      "related": [
+        "text",
+        "yep",
+        "game",
+        "fucking",
+        "huh",
+        "coming",
+        "anything",
+        "everything",
+        "guess",
+        "talking",
+        "went",
+        "probably"
+      ]
+    },
+    {
+      "term": "mind",
+      "tf": 5098,
+      "df": 406,
+      "score": 7847.89,
+      "related": [
+        "text",
+        "mind",
+        "game",
+        "please",
+        "vehicle",
+        "fire",
+        "welcome",
+        "fucking",
+        "power",
+        "spider",
+        "fine"
+      ]
+    },
+    {
+      "term": "movie",
+      "tf": 4068,
+      "df": 278,
+      "score": 7798.39,
+      "related": [
+        "movie",
+        "text",
+        "game",
+        "watch",
+        "mario",
+        "fucking",
+        "norman",
+        "remember",
+        "video"
+      ]
+    },
+    {
+      "term": "night",
+      "tf": 5087,
+      "df": 411,
+      "score": 7768.84,
+      "related": [
+        "text",
+        "night",
+        "game",
+        "fucking",
+        "sleep",
+        "moon",
+        "four",
+        "video",
+        "stuff",
+        "bed"
+      ]
+    },
+    {
+      "term": "nuts",
+      "tf": 3662,
+      "df": 228,
+      "score": 7743.29,
+      "related": [
+        "text",
+        "nuts",
+        "eat",
+        "kick",
+        "win",
+        "team",
+        "game",
+        "difference",
+        "spider",
+        "attack"
+      ]
+    },
+    {
+      "term": "having",
+      "tf": 5610,
+      "df": 478,
+      "score": 7722.27,
+      "related": [
+        "text",
+        "game",
+        "having",
+        "fun",
+        "fucking",
+        "though",
+        "stuff",
+        "probably",
+        "doesn",
+        "everything",
+        "talking",
+        "start"
+      ]
+    },
+    {
+      "term": "fantastic",
+      "tf": 3156,
+      "df": 165,
+      "score": 7688.75,
+      "related": [
+        "text",
+        "fantastic",
+        "feeling",
+        "game",
+        "power",
+        "fire",
+        "hurt",
+        "almost",
+        "until",
+        "mission",
+        "win",
+        "vehicle"
+      ]
+    },
+    {
+      "term": "friends",
+      "tf": 4605,
+      "df": 360,
+      "score": 7641.27,
+      "related": [
+        "text",
+        "friends",
+        "game",
+        "friend",
+        "chance",
+        "power",
+        "hurt",
+        "fire",
+        "show",
+        "fucking",
+        "talking"
+      ]
+    },
+    {
+      "term": "feeling",
+      "tf": 4474,
+      "df": 343,
+      "score": 7639.7,
+      "related": [
+        "text",
+        "feeling",
+        "game",
+        "stronger",
+        "fantastic",
+        "mission",
+        "vehicle",
+        "fire",
+        "power",
+        "welcome",
+        "capture",
+        "chaos"
+      ]
+    },
+    {
+      "term": "control",
+      "tf": 4423,
+      "df": 339,
+      "score": 7604.35,
+      "related": [
+        "text",
+        "control",
+        "chaos",
+        "mission",
+        "game",
+        "lost",
+        "capture",
+        "team",
+        "almost",
+        "power",
+        "until",
+        "spider"
+      ]
+    },
+    {
+      "term": "today",
+      "tf": 5483,
+      "df": 474,
+      "score": 7593.43,
+      "related": [
+        "text",
+        "game",
+        "today",
+        "fucking",
+        "eat",
+        "video",
+        "show",
+        "everything",
+        "talking",
+        "nuts",
+        "probably",
+        "five"
+      ]
+    },
+    {
+      "term": "switch",
+      "tf": 4529,
+      "df": 355,
+      "score": 7578.32,
+      "related": [
+        "text",
+        "switch",
+        "game",
+        "score",
+        "team",
+        "win",
+        "camera",
+        "magic",
+        "difference"
+      ]
+    },
+    {
+      "term": "lost",
+      "tf": 4970,
+      "df": 413,
+      "score": 7566.1,
+      "related": [
+        "text",
+        "game",
+        "lost",
+        "fucking",
+        "control",
+        "mission",
+        "point",
+        "team",
+        "win",
+        "almost",
+        "thought",
+        "away"
+      ]
+    },
+    {
+      "term": "half",
+      "tf": 5002,
+      "df": 418,
+      "score": 7554.76,
+      "related": [
+        "text",
+        "half",
+        "game",
+        "mission",
+        "fucking",
+        "almost",
+        "yours",
+        "control",
+        "five",
+        "point",
+        "cool"
+      ]
+    },
+    {
+      "term": "seen",
+      "tf": 4970,
+      "df": 416,
+      "score": 7530.21,
+      "related": [
+        "text",
+        "seen",
+        "game",
+        "ever",
+        "haven",
+        "fucking",
+        "eat",
+        "win",
+        "team"
+      ]
+    },
+    {
+      "term": "pass",
+      "tf": 3919,
+      "df": 278,
+      "score": 7512.75,
+      "related": [
+        "text",
+        "pass",
+        "smash",
+        "pokemon",
+        "game",
+        "doesn",
+        "though",
+        "buy",
+        "guess",
+        "fucking",
+        "baby"
+      ]
+    },
+    {
+      "term": "leave",
+      "tf": 5128,
+      "df": 438,
+      "score": 7505.95,
+      "related": [
+        "text",
+        "leave",
+        "game",
+        "fucking",
+        "kill",
+        "room",
+        "anything",
+        "fire",
+        "whole",
+        "please",
+        "everything"
+      ]
+    },
+    {
+      "term": "played",
+      "tf": 4993,
+      "df": 421,
+      "score": 7505.55,
+      "related": [
+        "text",
+        "game",
+        "played",
+        "fucking",
+        "games",
+        "haven",
+        "remember",
+        "ever",
+        "probably",
+        "thought",
+        "team",
+        "fun"
+      ]
+    },
+    {
+      "term": "believe",
+      "tf": 5083,
+      "df": 436,
+      "score": 7463.3,
+      "related": [
+        "text",
+        "believe",
+        "game",
+        "fucking",
+        "reason",
+        "doesn",
+        "five",
+        "anything",
+        "someone",
+        "team",
+        "hear",
+        "everything"
+      ]
+    },
+    {
+      "term": "walk",
+      "tf": 4720,
+      "df": 391,
+      "score": 7443.24,
+      "related": [
+        "text",
+        "walk",
+        "game",
+        "fucking",
+        "away",
+        "walking",
+        "nothing",
+        "run",
+        "stuff",
+        "thought",
+        "room",
+        "open"
+      ]
+    },
+    {
+      "term": "shoot",
+      "tf": 4350,
+      "df": 343,
+      "score": 7427.96,
+      "related": [
+        "text",
+        "shoot",
+        "game",
+        "gun",
+        "fucking",
+        "shot",
+        "kill",
+        "run",
+        "please",
+        "jeff",
+        "fire"
+      ]
+    },
+    {
+      "term": "food",
+      "tf": 4327,
+      "df": 340,
+      "score": 7426.59,
+      "related": [
+        "text",
+        "food",
+        "eat",
+        "game",
+        "fucking",
+        "stuff",
+        "water",
+        "fast",
+        "making"
+      ]
+    },
+    {
+      "term": "friend",
+      "tf": 4777,
+      "df": 400,
+      "score": 7424.69,
+      "related": [
+        "text",
+        "friend",
+        "game",
+        "friends",
+        "best",
+        "fucking",
+        "hurt",
+        "hello",
+        "please",
+        "coming",
+        "someone",
+        "thought"
+      ]
+    },
+    {
+      "term": "super",
+      "tf": 5128,
+      "df": 446,
+      "score": 7413.35,
+      "related": [
+        "text",
+        "super",
+        "game",
+        "mario",
+        "fucking",
+        "video",
+        "games",
+        "though",
+        "stuff",
+        "wanted"
+      ]
+    },
+    {
+      "term": "camera",
+      "tf": 4355,
+      "df": 345,
+      "score": 7411.25,
+      "related": [
+        "camera",
+        "text",
+        "game",
+        "switch",
+        "fucking",
+        "turn",
+        "face",
+        "sorry",
+        "show",
+        "talking"
+      ]
+    },
+    {
+      "term": "happened",
+      "tf": 4955,
+      "df": 429,
+      "score": 7355.37,
+      "related": [
+        "text",
+        "game",
+        "happened",
+        "fucking",
+        "nothing",
+        "went",
+        "talk",
+        "show",
+        "ever",
+        "remember",
+        "someone",
+        "sorry"
+      ]
+    },
+    {
+      "term": "fix",
+      "tf": 5139,
+      "df": 454,
+      "score": 7338.09,
+      "related": [
+        "text",
+        "fix",
+        "game",
+        "audio",
+        "fucking",
+        "stuff",
+        "doesn",
+        "sorry",
+        "everything",
+        "hear",
+        "turn"
+      ]
+    },
+    {
+      "term": "cop",
+      "tf": 2768,
+      "df": 134,
+      "score": 7315.67,
+      "related": [
+        "cop",
+        "text",
+        "game",
+        "fucking",
+        "robocop",
+        "shoot",
+        "car"
+      ]
+    },
+    {
+      "term": "horse",
+      "tf": 2684,
+      "df": 124,
+      "score": 7300.23,
+      "related": [
+        "horse",
+        "text",
+        "game",
+        "arthur",
+        "ain",
+        "boy"
+      ]
+    },
+    {
+      "term": "told",
+      "tf": 4975,
+      "df": 437,
+      "score": 7293.35,
+      "related": [
+        "text",
+        "game",
+        "told",
+        "fucking",
+        "someone",
+        "thought",
+        "stuff",
+        "everything",
+        "show",
+        "talk",
+        "sorry",
+        "though"
+      ]
+    },
+    {
+      "term": "close",
+      "tf": 5056,
+      "df": 449,
+      "score": 7275.44,
+      "related": [
+        "text",
+        "close",
+        "game",
+        "fucking",
+        "open",
+        "door",
+        "though",
+        "anything",
+        "enough",
+        "stay",
+        "point"
+      ]
+    },
+    {
+      "term": "gone",
+      "tf": 4836,
+      "df": 421,
+      "score": 7269.54,
+      "related": [
+        "text",
+        "gone",
+        "game",
+        "fucking",
+        "whole",
+        "sorry",
+        "away",
+        "thought",
+        "stuff",
+        "probably",
+        "though"
+      ]
+    },
+    {
+      "term": "together",
+      "tf": 4402,
+      "df": 363,
+      "score": 7267.99,
+      "related": [
+        "text",
+        "together",
+        "game",
+        "mission",
+        "starts",
+        "capture",
+        "show",
+        "team",
+        "hurt",
+        "vehicle",
+        "victory",
+        "nice"
+      ]
+    },
+    {
+      "term": "against",
+      "tf": 4258,
+      "df": 344,
+      "score": 7258.5,
+      "related": [
+        "text",
+        "game",
+        "against",
+        "team",
+        "vehicle",
+        "spider",
+        "fire",
+        "power",
+        "welcome",
+        "chaos",
+        "fucking",
+        "anything"
+      ]
+    },
+    {
+      "term": "weird",
+      "tf": 4928,
+      "df": 435,
+      "score": 7247.0,
+      "related": [
+        "text",
+        "game",
+        "weird",
+        "fucking",
+        "stuff",
+        "talking",
+        "doesn",
+        "though",
+        "guess",
+        "whole",
+        "hear",
+        "cool"
+      ]
+    },
+    {
+      "term": "girl",
+      "tf": 4064,
+      "df": 320,
+      "score": 7220.83,
+      "related": [
+        "text",
+        "squirrel",
+        "girl",
+        "game",
+        "fucking",
+        "spider",
+        "doesn",
+        "kill",
+        "team",
+        "thought",
+        "witch",
+        "five"
+      ]
+    },
+    {
+      "term": "fighting",
+      "tf": 3547,
+      "df": 247,
+      "score": 7217.4,
+      "related": [
+        "text",
+        "until",
+        "winner",
+        "win",
+        "game",
+        "final",
+        "almost",
+        "spider",
+        "fighting",
+        "attack",
+        "fire",
+        "team"
+      ]
+    },
+    {
+      "term": "streaming",
+      "tf": 4621,
+      "df": 399,
+      "score": 7193.76,
+      "related": [
+        "text",
+        "streaming",
+        "game",
+        "fucking",
+        "twitch",
+        "youtube",
+        "video",
+        "stuff",
+        "chat",
+        "start",
+        "probably",
+        "watch"
+      ]
+    },
+    {
+      "term": "box",
+      "tf": 4382,
+      "df": 367,
+      "score": 7187.08,
+      "related": [
+        "text",
+        "box",
+        "game",
+        "fucking",
+        "open",
+        "buy",
+        "whatever",
+        "though",
+        "stuff",
+        "five",
+        "pizza"
+      ]
+    },
+    {
+      "term": "house",
+      "tf": 4313,
+      "df": 359,
+      "score": 7168.7,
+      "related": [
+        "text",
+        "house",
+        "game",
+        "fucking",
+        "buy",
+        "though",
+        "everything",
+        "home",
+        "stuff",
+        "full",
+        "door",
+        "remember"
+      ]
+    },
+    {
+      "term": "home",
+      "tf": 4530,
+      "df": 389,
+      "score": 7166.79,
+      "related": [
+        "text",
+        "home",
+        "game",
+        "fucking",
+        "star",
+        "stuff",
+        "place",
+        "house",
+        "run",
+        "dog",
+        "thought",
+        "away"
+      ]
+    },
+    {
+      "term": "least",
+      "tf": 4964,
+      "df": 449,
+      "score": 7143.05,
+      "related": [
+        "text",
+        "game",
+        "least",
+        "fucking",
+        "point",
+        "probably",
+        "five",
+        "four",
+        "doesn",
+        "though",
+        "enough",
+        "anything"
+      ]
+    },
+    {
+      "term": "watching",
+      "tf": 4777,
+      "df": 425,
+      "score": 7135.79,
+      "related": [
+        "text",
+        "watching",
+        "game",
+        "watch",
+        "fucking",
+        "video",
+        "youtube",
+        "twitch",
+        "always",
+        "show",
+        "stuff",
+        "hear"
+      ]
+    },
+    {
+      "term": "happy",
+      "tf": 4828,
+      "df": 433,
+      "score": 7122.14,
+      "related": [
+        "text",
+        "happy",
+        "game",
+        "fucking",
+        "video",
+        "boy",
+        "doesn",
+        "makes",
+        "talk",
+        "face",
+        "care"
+      ]
+    },
+    {
+      "term": "score",
+      "tf": 2994,
+      "df": 177,
+      "score": 7085.11,
+      "related": [
+        "text",
+        "win",
+        "final",
+        "switch",
+        "video",
+        "game"
+      ]
+    },
+    {
+      "term": "screen",
+      "tf": 4555,
+      "df": 401,
+      "score": 7068.3,
+      "related": [
+        "text",
+        "screen",
+        "game",
+        "fucking",
+        "full",
+        "video",
+        "doesn",
+        "show",
+        "black",
+        "whole",
+        "sorry",
+        "green"
+      ]
+    },
+    {
+      "term": "cockroach",
+      "tf": 1416,
+      "df": 12,
+      "score": 7056.31,
+      "related": [
+        "cockroach",
+        "text",
+        "hello",
+        "guess",
+        "though",
+        "fix",
+        "channel"
+      ]
+    },
+    {
+      "term": "sam",
+      "tf": 2529,
+      "df": 116,
+      "score": 7045.91,
+      "related": [
+        "text",
+        "sam",
+        "game",
+        "blood",
+        "baby",
+        "norman",
+        "network",
+        "literally"
+      ]
+    },
+    {
+      "term": "myself",
+      "tf": 4931,
+      "df": 454,
+      "score": 7041.08,
+      "related": [
+        "text",
+        "myself",
+        "game",
+        "fucking",
+        "kill",
+        "talking",
+        "stuff",
+        "show",
+        "video",
+        "turn",
+        "hear",
+        "though"
+      ]
+    },
+    {
+      "term": "heard",
+      "tf": 4682,
+      "df": 421,
+      "score": 7038.05,
+      "related": [
+        "text",
+        "heard",
+        "game",
+        "fucking",
+        "hear",
+        "ever",
+        "thought",
+        "talking",
+        "someone",
+        "five",
+        "though"
+      ]
+    },
+    {
+      "term": "gets",
+      "tf": 4744,
+      "df": 430,
+      "score": 7031.13,
+      "related": [
+        "text",
+        "gets",
+        "game",
+        "fucking",
+        "doesn",
+        "nothing",
+        "everything",
+        "someone",
+        "speed",
+        "stuff",
+        "jump",
+        "check"
+      ]
+    },
+    {
+      "term": "phone",
+      "tf": 4302,
+      "df": 372,
+      "score": 6997.81,
+      "related": [
+        "text",
+        "phone",
+        "game",
+        "fucking",
+        "pick",
+        "watch",
+        "stuff",
+        "video",
+        "turn",
+        "talking",
+        "doesn",
+        "probably"
+      ]
+    },
+    {
+      "term": "health",
+      "tf": 3725,
+      "df": 289,
+      "score": 6996.81,
+      "related": [
+        "text",
+        "health",
+        "game",
+        "full",
+        "damage",
+        "fucking",
+        "please",
+        "kill",
+        "heal",
+        "charge"
+      ]
+    },
+    {
+      "term": "change",
+      "tf": 4575,
+      "df": 411,
+      "score": 6986.92,
+      "related": [
+        "text",
+        "change",
+        "game",
+        "fucking",
+        "doesn",
+        "probably",
+        "everything",
+        "hear",
+        "start",
+        "luigi",
+        "video",
+        "gamer"
+      ]
+    },
+    {
+      "term": "moving",
+      "tf": 4256,
+      "df": 367,
+      "score": 6980.42,
+      "related": [
+        "text",
+        "moving",
+        "vehicle",
+        "game",
+        "move",
+        "spider",
+        "fucking",
+        "fire",
+        "nothing",
+        "power",
+        "behind",
+        "turn"
+      ]
+    },
+    {
+      "term": "healer",
+      "tf": 2445,
+      "df": 109,
+      "score": 6962.72,
+      "related": [
+        "text",
+        "healer",
+        "game",
+        "team",
+        "healers",
+        "spider",
+        "heal",
+        "rocket",
+        "jeff",
+        "switch",
+        "healing"
+      ]
+    },
+    {
+      "term": "goes",
+      "tf": 4741,
+      "df": 436,
+      "score": 6961.14,
+      "related": [
+        "text",
+        "goes",
+        "game",
+        "fucking",
+        "doesn",
+        "away",
+        "stuff",
+        "talking",
+        "everything",
+        "went",
+        "whole",
+        "anything"
+      ]
+    },
+    {
+      "term": "kick",
+      "tf": 3704,
+      "df": 290,
+      "score": 6944.61,
+      "related": [
+        "text",
+        "kick",
+        "nuts",
+        "eat",
+        "game",
+        "win",
+        "team",
+        "twitch",
+        "attack",
+        "chat",
+        "difference"
+      ]
+    },
+    {
+      "term": "sound",
+      "tf": 4402,
+      "df": 392,
+      "score": 6930.55,
+      "related": [
+        "text",
+        "sound",
+        "game",
+        "hear",
+        "sounds",
+        "talking",
+        "fucking",
+        "voice",
+        "doesn",
+        "audio",
+        "video",
+        "turn"
+      ]
+    },
+    {
+      "term": "wow",
+      "tf": 4762,
+      "df": 442,
+      "score": 6927.04,
+      "related": [
+        "text",
+        "wow",
+        "game",
+        "fucking",
+        "cool",
+        "four",
+        "someone",
+        "hear",
+        "five",
+        "though",
+        "whoa",
+        "doesn"
+      ]
+    },
+    {
+      "term": "read",
+      "tf": 4314,
+      "df": 380,
+      "score": 6925.78,
+      "related": [
+        "text",
+        "read",
+        "game",
+        "fucking",
+        "stuff",
+        "whole",
+        "chat",
+        "anything",
+        "probably",
+        "five"
+      ]
+    },
+    {
+      "term": "mine",
+      "tf": 4235,
+      "df": 370,
+      "score": 6911.59,
+      "related": [
+        "text",
+        "mine",
+        "game",
+        "nope",
+        "hurt",
+        "turn",
+        "fucking",
+        "spider",
+        "vehicle",
+        "friends",
+        "fire"
+      ]
+    },
+    {
+      "term": "controller",
+      "tf": 3536,
+      "df": 268,
+      "score": 6907.6,
+      "related": [
+        "text",
+        "controller",
+        "game",
+        "button",
+        "fucking",
+        "works",
+        "games",
+        "doesn"
+      ]
+    },
+    {
+      "term": "push",
+      "tf": 3586,
+      "df": 276,
+      "score": 6900.19,
+      "related": [
+        "push",
+        "forward",
+        "text",
+        "game",
+        "point",
+        "fucking",
+        "car",
+        "press",
+        "move",
+        "kill",
+        "team"
+      ]
+    },
+    {
+      "term": "discord",
+      "tf": 3940,
+      "df": 331,
+      "score": 6867.75,
+      "related": [
+        "text",
+        "discord",
+        "game",
+        "server",
+        "fucking",
+        "hear",
+        "chat",
+        "video",
+        "talking",
+        "add",
+        "turn",
+        "join"
+      ]
+    },
+    {
+      "term": "card",
+      "tf": 3736,
+      "df": 301,
+      "score": 6865.99,
+      "related": [
+        "text",
+        "card",
+        "game",
+        "key",
+        "cards",
+        "fucking",
+        "buy",
+        "open",
+        "pay",
+        "five",
+        "probably"
+      ]
+    },
+    {
+      "term": "working",
+      "tf": 4515,
+      "df": 414,
+      "score": 6862.53,
+      "related": [
+        "text",
+        "working",
+        "game",
+        "fucking",
+        "stuff",
+        "fine",
+        "video",
+        "please",
+        "start",
+        "making",
+        "works",
+        "daniel"
+      ]
+    },
+    {
+      "term": "beat",
+      "tf": 4103,
+      "df": 356,
+      "score": 6853.99,
+      "related": [
+        "text",
+        "game",
+        "beat",
+        "fucking",
+        "level",
+        "ass",
+        "doesn",
+        "five",
+        "whole",
+        "though",
+        "guess"
+      ]
+    },
+    {
+      "term": "round",
+      "tf": 3540,
+      "df": 273,
+      "score": 6850.22,
+      "related": [
+        "text",
+        "round",
+        "game",
+        "win",
+        "team",
+        "attack",
+        "fucking",
+        "damage",
+        "coming",
+        "stay",
+        "magic"
+      ]
+    },
+    {
+      "term": "yours",
+      "tf": 3621,
+      "df": 286,
+      "score": 6839.12,
+      "related": [
+        "text",
+        "mission",
+        "capture",
+        "yours",
+        "starts",
+        "almost",
+        "five",
+        "hurt",
+        "control",
+        "half",
+        "power"
+      ]
+    },
+    {
+      "term": "works",
+      "tf": 4820,
+      "df": 460,
+      "score": 6819.44,
+      "related": [
+        "text",
+        "game",
+        "works",
+        "fucking",
+        "doesn",
+        "controller",
+        "stuff",
+        "guess",
+        "turn",
+        "fix",
+        "fine",
+        "everything"
+      ]
+    },
+    {
+      "term": "level",
+      "tf": 3827,
+      "df": 320,
+      "score": 6799.73,
+      "related": [
+        "text",
+        "level",
+        "game",
+        "fucking",
+        "beat",
+        "jump",
+        "probably",
+        "thought",
+        "doesn",
+        "cool",
+        "point",
+        "someone"
+      ]
+    },
+    {
+      "term": "smash",
+      "tf": 2556,
+      "df": 132,
+      "score": 6793.52,
+      "related": [
+        "smash",
+        "text",
+        "pass",
+        "pokemon",
+        "guess",
+        "game",
+        "though",
+        "doesn",
+        "question",
+        "super",
+        "past"
+      ]
+    },
+    {
+      "term": "anyway",
+      "tf": 4609,
+      "df": 435,
+      "score": 6777.89,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "stuff",
+        "probably",
+        "anyway",
+        "though",
+        "sorry",
+        "run",
+        "anything",
+        "wanted",
+        "video"
+      ]
+    },
+    {
+      "term": "idea",
+      "tf": 4405,
+      "df": 408,
+      "score": 6759.49,
+      "related": [
+        "text",
+        "idea",
+        "game",
+        "fucking",
+        "whole",
+        "stuff",
+        "talking",
+        "great",
+        "doesn",
+        "probably",
+        "anything",
+        "someone"
+      ]
+    },
+    {
+      "term": "marvel",
+      "tf": 3147,
+      "df": 221,
+      "score": 6752.02,
+      "related": [
+        "text",
+        "rivals",
+        "marvel",
+        "game",
+        "games",
+        "spider",
+        "fortnite",
+        "video",
+        "fucking",
+        "everything",
+        "whatever"
+      ]
+    },
+    {
+      "term": "bunch",
+      "tf": 4632,
+      "df": 443,
+      "score": 6727.49,
+      "related": [
+        "text",
+        "game",
+        "bunch",
+        "stuff",
+        "fucking",
+        "games",
+        "guess",
+        "whole",
+        "hear",
+        "thought",
+        "cool",
+        "youtube"
+      ]
+    },
+    {
+      "term": "poop",
+      "tf": 3421,
+      "df": 266,
+      "score": 6708.48,
+      "related": [
+        "poop",
+        "text",
+        "game",
+        "head",
+        "funny",
+        "poo",
+        "doesn",
+        "youtube",
+        "baby",
+        "fucking",
+        "talking"
+      ]
+    },
+    {
+      "term": "luigi",
+      "tf": 2103,
+      "df": 78,
+      "score": 6684.96,
+      "related": [
+        "luigi",
+        "text",
+        "mario",
+        "whoa",
+        "door",
+        "blue"
+      ]
+    },
+    {
+      "term": "needs",
+      "tf": 4131,
+      "df": 376,
+      "score": 6675.59,
+      "related": [
+        "text",
+        "needs",
+        "game",
+        "power",
+        "someone",
+        "doesn",
+        "vehicle",
+        "fucking",
+        "welcome",
+        "spider",
+        "mission",
+        "nice"
+      ]
+    },
+    {
+      "term": "death",
+      "tf": 3845,
+      "df": 334,
+      "score": 6667.57,
+      "related": [
+        "text",
+        "stranding",
+        "death",
+        "game",
+        "fucking",
+        "die",
+        "whole",
+        "stuff",
+        "red",
+        "baby",
+        "though",
+        "kill"
+      ]
+    },
+    {
+      "term": "thinking",
+      "tf": 4702,
+      "df": 460,
+      "score": 6652.49,
+      "related": [
+        "text",
+        "game",
+        "thinking",
+        "fucking",
+        "talking",
+        "thought",
+        "stuff",
+        "doesn",
+        "probably",
+        "five",
+        "though",
+        "turn"
+      ]
+    },
+    {
+      "term": "fact",
+      "tf": 4242,
+      "df": 395,
+      "score": 6646.39,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "fact",
+        "doesn",
+        "probably",
+        "stuff",
+        "nothing",
+        "hear",
+        "talking",
+        "games",
+        "someone"
+      ]
+    },
+    {
+      "term": "song",
+      "tf": 3759,
+      "df": 325,
+      "score": 6620.81,
+      "related": [
+        "text",
+        "song",
+        "game",
+        "video",
+        "hear",
+        "youtube",
+        "black",
+        "fucking",
+        "making",
+        "reason"
+      ]
+    },
+    {
+      "term": "speed",
+      "tf": 3375,
+      "df": 267,
+      "score": 6605.66,
+      "related": [
+        "text",
+        "speed",
+        "attack",
+        "game",
+        "jump",
+        "charge",
+        "damage",
+        "check",
+        "door"
+      ]
+    },
+    {
+      "term": "sense",
+      "tf": 4181,
+      "df": 390,
+      "score": 6603.94,
+      "related": [
+        "text",
+        "makes",
+        "game",
+        "sense",
+        "doesn",
+        "fucking",
+        "making",
+        "anything",
+        "stuff",
+        "guess",
+        "though",
+        "thought"
+      ]
+    },
+    {
+      "term": "key",
+      "tf": 3480,
+      "df": 284,
+      "score": 6597.14,
+      "related": [
+        "key",
+        "text",
+        "card",
+        "game",
+        "fucking",
+        "door",
+        "open",
+        "fine",
+        "anything",
+        "someone",
+        "though"
+      ]
+    },
+    {
+      "term": "rocket",
+      "tf": 2845,
+      "df": 186,
+      "score": 6592.18,
+      "related": [
+        "text",
+        "rocket",
+        "game",
+        "team",
+        "healer",
+        "healing",
+        "welcome",
+        "kill",
+        "power",
+        "jeff",
+        "spider"
+      ]
+    },
+    {
+      "term": "healing",
+      "tf": 2674,
+      "df": 161,
+      "score": 6579.71,
+      "related": [
+        "text",
+        "healing",
+        "spider",
+        "game",
+        "vehicle",
+        "power",
+        "team",
+        "healer",
+        "heal",
+        "point",
+        "rocket"
+      ]
+    },
+    {
+      "term": "haven",
+      "tf": 4389,
+      "df": 423,
+      "score": 6576.85,
+      "related": [
+        "text",
+        "game",
+        "haven",
+        "yet",
+        "seen",
+        "fucking",
+        "played",
+        "anything",
+        "stuff",
+        "probably",
+        "though",
+        "guess"
+      ]
+    },
+    {
+      "term": "running",
+      "tf": 4350,
+      "df": 418,
+      "score": 6570.01,
+      "related": [
+        "text",
+        "running",
+        "game",
+        "run",
+        "away",
+        "fucking",
+        "baby",
+        "though",
+        "everything",
+        "stuff",
+        "doesn",
+        "always"
+      ]
+    },
+    {
+      "term": "both",
+      "tf": 4425,
+      "df": 430,
+      "score": 6558.34,
+      "related": [
+        "text",
+        "both",
+        "game",
+        "fucking",
+        "though",
+        "doesn",
+        "hear",
+        "probably",
+        "sorry",
+        "great",
+        "team",
+        "kill"
+      ]
+    },
+    {
+      "term": "hand",
+      "tf": 4078,
+      "df": 379,
+      "score": 6557.62,
+      "related": [
+        "text",
+        "hand",
+        "game",
+        "fucking",
+        "ass",
+        "five",
+        "cool",
+        "hot",
+        "hold",
+        "probably",
+        "doesn"
+      ]
+    },
+    {
+      "term": "double",
+      "tf": 3708,
+      "df": 323,
+      "score": 6553.8,
+      "related": [
+        "text",
+        "double",
+        "game",
+        "kill",
+        "vehicle",
+        "power",
+        "mission",
+        "fire",
+        "chaos",
+        "spider",
+        "almost"
+      ]
+    },
+    {
+      "term": "charge",
+      "tf": 3211,
+      "df": 247,
+      "score": 6533.71,
+      "related": [
+        "text",
+        "charge",
+        "fire",
+        "game",
+        "damage",
+        "attack",
+        "speed",
+        "hold"
+      ]
+    },
+    {
+      "term": "break",
+      "tf": 3956,
+      "df": 363,
+      "score": 6531.61,
+      "related": [
+        "break",
+        "text",
+        "game",
+        "fucking",
+        "show",
+        "open",
+        "kill",
+        "turn",
+        "though"
+      ]
+    },
+    {
+      "term": "thanks",
+      "tf": 4061,
+      "df": 381,
+      "score": 6508.96,
+      "related": [
+        "text",
+        "game",
+        "thanks",
+        "welcome",
+        "follow",
+        "nice",
+        "care",
+        "fucking",
+        "fire",
+        "please",
+        "watch"
+      ]
+    },
+    {
+      "term": "computer",
+      "tf": 4140,
+      "df": 393,
+      "score": 6507.53,
+      "related": [
+        "text",
+        "computer",
+        "game",
+        "fucking",
+        "sorry",
+        "games",
+        "everything",
+        "video",
+        "turn",
+        "doesn",
+        "open"
+      ]
+    },
+    {
+      "term": "witch",
+      "tf": 2470,
+      "df": 141,
+      "score": 6403.21,
+      "related": [
+        "text",
+        "magic",
+        "witch",
+        "team",
+        "win",
+        "game",
+        "switch",
+        "attack",
+        "eat",
+        "difference"
+      ]
+    },
+    {
+      "term": "train",
+      "tf": 2771,
+      "df": 189,
+      "score": 6376.61,
+      "related": [
+        "train",
+        "text",
+        "game",
+        "fucking",
+        "please",
+        "gun",
+        "run",
+        "poo",
+        "thought"
+      ]
+    },
+    {
+      "term": "voice",
+      "tf": 3821,
+      "df": 359,
+      "score": 6350.94,
+      "related": [
+        "text",
+        "voice",
+        "game",
+        "chat",
+        "hear",
+        "fucking",
+        "sound",
+        "talking",
+        "turn",
+        "talk",
+        "doesn"
+      ]
+    },
+    {
+      "term": "tried",
+      "tf": 3964,
+      "df": 382,
+      "score": 6343.13,
+      "related": [
+        "text",
+        "tried",
+        "game",
+        "fucking",
+        "someone",
+        "thought",
+        "sorry",
+        "anything",
+        "run",
+        "best",
+        "point",
+        "spider"
+      ]
+    },
+    {
+      "term": "steam",
+      "tf": 3193,
+      "df": 260,
+      "score": 6333.95,
+      "related": [
+        "steam",
+        "text",
+        "game",
+        "games",
+        "fucking",
+        "bought",
+        "probably",
+        "buy",
+        "played"
+      ]
+    },
+    {
+      "term": "blue",
+      "tf": 3547,
+      "df": 318,
+      "score": 6324.4,
+      "related": [
+        "blue",
+        "text",
+        "game",
+        "red",
+        "green",
+        "fucking",
+        "luigi",
+        "die",
+        "though"
+      ]
+    },
+    {
+      "term": "hot",
+      "tf": 3926,
+      "df": 378,
+      "score": 6323.54,
+      "related": [
+        "text",
+        "hot",
+        "dog",
+        "game",
+        "fucking",
+        "air",
+        "water",
+        "boy",
+        "hand",
+        "eat"
+      ]
+    },
+    {
+      "term": "character",
+      "tf": 3590,
+      "df": 328,
+      "score": 6290.26,
+      "related": [
+        "text",
+        "character",
+        "game",
+        "fucking",
+        "team",
+        "show",
+        "learn",
+        "making",
+        "guess",
+        "doesn"
+      ]
+    },
+    {
+      "term": "ones",
+      "tf": 4053,
+      "df": 401,
+      "score": 6289.31,
+      "related": [
+        "text",
+        "ones",
+        "game",
+        "fucking",
+        "doesn",
+        "games",
+        "though",
+        "probably",
+        "start",
+        "pokemon",
+        "thought",
+        "talking"
+      ]
+    },
+    {
+      "term": "killed",
+      "tf": 3645,
+      "df": 337,
+      "score": 6288.26,
+      "related": [
+        "text",
+        "killed",
+        "game",
+        "kill",
+        "fucking",
+        "died",
+        "shot",
+        "away",
+        "someone",
+        "coming",
+        "gun",
+        "run"
+      ]
+    },
+    {
+      "term": "send",
+      "tf": 3772,
+      "df": 358,
+      "score": 6279.99,
+      "related": [
+        "text",
+        "send",
+        "game",
+        "fucking",
+        "video",
+        "someone",
+        "discord",
+        "youtube",
+        "cool",
+        "show"
+      ]
+    },
+    {
+      "term": "telling",
+      "tf": 4137,
+      "df": 416,
+      "score": 6268.1,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "telling",
+        "doesn",
+        "talking",
+        "though",
+        "talk",
+        "stuff",
+        "please",
+        "probably",
+        "sorry"
+      ]
+    },
+    {
+      "term": "channel",
+      "tf": 3159,
+      "df": 262,
+      "score": 6242.39,
+      "related": [
+        "text",
+        "channel",
+        "youtube",
+        "video",
+        "game",
+        "gamer",
+        "content",
+        "fucking",
+        "watch",
+        "full"
+      ]
+    },
+    {
+      "term": "hole",
+      "tf": 3096,
+      "df": 255,
+      "score": 6201.42,
+      "related": [
+        "hole",
+        "text",
+        "game",
+        "fucking",
+        "black",
+        "show",
+        "whole"
+      ]
+    },
+    {
+      "term": "audio",
+      "tf": 3394,
+      "df": 306,
+      "score": 6181.73,
+      "related": [
+        "text",
+        "audio",
+        "game",
+        "hear",
+        "fix",
+        "video",
+        "sound",
+        "talking",
+        "fucking",
+        "check"
+      ]
+    },
+    {
+      "term": "poo",
+      "tf": 2583,
+      "df": 173,
+      "score": 6171.21,
+      "related": [
+        "poo",
+        "text",
+        "game",
+        "poop",
+        "video",
+        "coming"
+      ]
+    },
+    {
+      "term": "squirrel",
+      "tf": 2175,
+      "df": 112,
+      "score": 6135.31,
+      "related": [
+        "text",
+        "girl",
+        "squirrel",
+        "nuts",
+        "game",
+        "team",
+        "witch",
+        "spider",
+        "eat",
+        "win",
+        "starts",
+        "kill"
+      ]
+    },
+    {
+      "term": "halfway",
+      "tf": 2494,
+      "df": 162,
+      "score": 6121.45,
+      "related": [
+        "text",
+        "vehicle",
+        "team",
+        "point",
+        "almost",
+        "capture",
+        "power",
+        "hurt",
+        "fire",
+        "welcome"
+      ]
+    },
+    {
+      "term": "six",
+      "tf": 3805,
+      "df": 379,
+      "score": 6118.62,
+      "related": [
+        "text",
+        "six",
+        "five",
+        "game",
+        "four",
+        "fucking",
+        "though",
+        "video",
+        "streaming"
+      ]
+    },
+    {
+      "term": "throw",
+      "tf": 3598,
+      "df": 346,
+      "score": 6112.62,
+      "related": [
+        "text",
+        "throw",
+        "game",
+        "away",
+        "fucking",
+        "point",
+        "stuff",
+        "anything",
+        "kill",
+        "coming",
+        "luigi",
+        "always"
+      ]
+    },
+    {
+      "term": "click",
+      "tf": 3594,
+      "df": 346,
+      "score": 6105.83,
+      "related": [
+        "text",
+        "click",
+        "game",
+        "button",
+        "fucking",
+        "point",
+        "games",
+        "doesn",
+        "join",
+        "turn",
+        "video",
+        "open"
+      ]
+    },
+    {
+      "term": "far",
+      "tf": 4051,
+      "df": 420,
+      "score": 6099.13,
+      "related": [
+        "text",
+        "game",
+        "far",
+        "away",
+        "fucking",
+        "though",
+        "enough",
+        "whole",
+        "run",
+        "stuff",
+        "anything",
+        "show"
+      ]
+    },
+    {
+      "term": "chance",
+      "tf": 3447,
+      "df": 324,
+      "score": 6081.87,
+      "related": [
+        "text",
+        "game",
+        "vehicle",
+        "chance",
+        "friends",
+        "fire",
+        "power",
+        "checkpoint",
+        "halfway",
+        "show",
+        "spider",
+        "anything"
+      ]
+    },
+    {
+      "term": "server",
+      "tf": 3212,
+      "df": 286,
+      "score": 6066.62,
+      "related": [
+        "text",
+        "server",
+        "game",
+        "discord",
+        "fucking",
+        "join",
+        "twitch",
+        "chat",
+        "video",
+        "anything",
+        "talking"
+      ]
+    },
+    {
+      "term": "ball",
+      "tf": 3221,
+      "df": 288,
+      "score": 6061.25,
+      "related": [
+        "ball",
+        "text",
+        "game",
+        "fucking",
+        "press",
+        "forward",
+        "everything"
+      ]
+    },
+    {
+      "term": "died",
+      "tf": 3573,
+      "df": 348,
+      "score": 6049.61,
+      "related": [
+        "text",
+        "died",
+        "game",
+        "fucking",
+        "die",
+        "spider",
+        "away",
+        "killed",
+        "point",
+        "kill",
+        "run",
+        "team"
+      ]
+    },
+    {
+      "term": "machine",
+      "tf": 3378,
+      "df": 317,
+      "score": 6033.67,
+      "related": [
+        "text",
+        "machine",
+        "game",
+        "fucking",
+        "gun",
+        "cool",
+        "away",
+        "card",
+        "stuff",
+        "door",
+        "start"
+      ]
+    },
+    {
+      "term": "crazy",
+      "tf": 3617,
+      "df": 357,
+      "score": 6032.02,
+      "related": [
+        "text",
+        "crazy",
+        "game",
+        "fucking",
+        "room",
+        "talking",
+        "baby",
+        "went",
+        "thought",
+        "five",
+        "nothing",
+        "kill"
+      ]
+    },
+    {
+      "term": "map",
+      "tf": 3285,
+      "df": 302,
+      "score": 6026.29,
+      "related": [
+        "text",
+        "map",
+        "game",
+        "fucking",
+        "whole",
+        "run",
+        "point",
+        "stuff",
+        "doesn",
+        "though"
+      ]
+    },
+    {
+      "term": "moon",
+      "tf": 2640,
+      "df": 193,
+      "score": 6020.15,
+      "related": [
+        "text",
+        "moon",
+        "game",
+        "power",
+        "fire",
+        "night",
+        "vehicle",
+        "spider",
+        "moving",
+        "welcome",
+        "fucking"
+      ]
+    },
+    {
+      "term": "finally",
+      "tf": 3972,
+      "df": 417,
+      "score": 6008.59,
+      "related": [
+        "text",
+        "game",
+        "finally",
+        "fucking",
+        "five",
+        "probably",
+        "stuff",
+        "everything",
+        "though",
+        "open",
+        "show",
+        "whole"
+      ]
+    },
+    {
+      "term": "final",
+      "tf": 2899,
+      "df": 238,
+      "score": 6006.02,
+      "related": [
+        "text",
+        "score",
+        "win",
+        "until",
+        "final",
+        "game",
+        "fighting",
+        "winner",
+        "vehicle",
+        "fire",
+        "victory",
+        "power"
+      ]
+    },
+    {
+      "term": "cut",
+      "tf": 3512,
+      "df": 343,
+      "score": 5997.01,
+      "related": [
+        "text",
+        "cut",
+        "game",
+        "fucking",
+        "doesn",
+        "hair",
+        "stuff",
+        "remember",
+        "everything",
+        "though",
+        "someone"
+      ]
+    },
+    {
+      "term": "match",
+      "tf": 3013,
+      "df": 261,
+      "score": 5965.36,
+      "related": [
+        "text",
+        "match",
+        "game",
+        "win",
+        "team",
+        "quick",
+        "eat",
+        "nuts",
+        "witch",
+        "seen",
+        "fucking"
+      ]
+    },
+    {
+      "term": "heal",
+      "tf": 2610,
+      "df": 193,
+      "score": 5951.74,
+      "related": [
+        "text",
+        "heal",
+        "spider",
+        "game",
+        "healer",
+        "point",
+        "health",
+        "healers",
+        "healing",
+        "mission",
+        "jeff"
+      ]
+    },
+    {
+      "term": "rivals",
+      "tf": 2562,
+      "df": 185,
+      "score": 5950.17,
+      "related": [
+        "marvel",
+        "text",
+        "game",
+        "rivals",
+        "games",
+        "spider",
+        "fucking",
+        "watch",
+        "video",
+        "talking"
+      ]
+    },
+    {
+      "term": "shot",
+      "tf": 3525,
+      "df": 350,
+      "score": 5948.2,
+      "related": [
+        "text",
+        "shot",
+        "game",
+        "shoot",
+        "gun",
+        "fucking",
+        "face",
+        "head",
+        "killed",
+        "kill",
+        "run",
+        "away"
+      ]
+    },
+    {
+      "term": "story",
+      "tf": 3300,
+      "df": 312,
+      "score": 5946.65,
+      "related": [
+        "text",
+        "story",
+        "game",
+        "please",
+        "fucking",
+        "daniel",
+        "sorry",
+        "everyone",
+        "someone",
+        "talking",
+        "whole",
+        "stuff"
+      ]
+    },
+    {
+      "term": "arthur",
+      "tf": 1455,
+      "df": 31,
+      "score": 5940.01,
+      "related": [
+        "text",
+        "arthur",
+        "game",
+        "horse",
+        "ain",
+        "please",
+        "boy",
+        "box"
+      ]
+    },
+    {
+      "term": "figure",
+      "tf": 3851,
+      "df": 405,
+      "score": 5937.73,
+      "related": [
+        "text",
+        "game",
+        "figure",
+        "fucking",
+        "probably",
+        "stuff",
+        "guess",
+        "everything",
+        "though",
+        "ever",
+        "doesn",
+        "whatever"
+      ]
+    },
+    {
+      "term": "kid",
+      "tf": 3499,
+      "df": 347,
+      "score": 5934.36,
+      "related": [
+        "text",
+        "kid",
+        "game",
+        "fucking",
+        "remember",
+        "doesn",
+        "talking",
+        "probably",
+        "pokemon",
+        "baby",
+        "pass"
+      ]
+    },
+    {
+      "term": "case",
+      "tf": 3512,
+      "df": 350,
+      "score": 5926.26,
+      "related": [
+        "text",
+        "case",
+        "game",
+        "fucking",
+        "hear",
+        "officer",
+        "making",
+        "probably",
+        "stuff",
+        "against",
+        "care"
+      ]
+    },
+    {
+      "term": "stuck",
+      "tf": 3647,
+      "df": 375,
+      "score": 5903.14,
+      "related": [
+        "text",
+        "stuck",
+        "game",
+        "fucking",
+        "run",
+        "though",
+        "button",
+        "door",
+        "room",
+        "move",
+        "anything",
+        "point"
+      ]
+    },
+    {
+      "term": "yourself",
+      "tf": 3756,
+      "df": 394,
+      "score": 5894.42,
+      "related": [
+        "text",
+        "yourself",
+        "game",
+        "fucking",
+        "kill",
+        "video",
+        "thought",
+        "someone",
+        "please",
+        "myself",
+        "probably",
+        "sorry"
+      ]
+    },
+    {
+      "term": "later",
+      "tf": 3672,
+      "df": 382,
+      "score": 5875.88,
+      "related": [
+        "text",
+        "game",
+        "later",
+        "fucking",
+        "stuff",
+        "though",
+        "cool",
+        "whole",
+        "video",
+        "probably",
+        "watch",
+        "save"
+      ]
+    },
+    {
+      "term": "question",
+      "tf": 3504,
+      "df": 354,
+      "score": 5873.06,
+      "related": [
+        "text",
+        "question",
+        "game",
+        "fucking",
+        "hear",
+        "talking",
+        "doesn",
+        "smash",
+        "stuff",
+        "probably"
+      ]
+    },
+    {
+      "term": "drink",
+      "tf": 3160,
+      "df": 295,
+      "score": 5870.84,
+      "related": [
+        "text",
+        "drink",
+        "water",
+        "game",
+        "fucking",
+        "red",
+        "norman",
+        "eat"
+      ]
+    },
+    {
+      "term": "code",
+      "tf": 2988,
+      "df": 265,
+      "score": 5870.59,
+      "related": [
+        "text",
+        "code",
+        "game",
+        "works",
+        "run",
+        "fucking",
+        "someone",
+        "doesn",
+        "friend"
+      ]
+    },
+    {
+      "term": "rock",
+      "tf": 3070,
+      "df": 283,
+      "score": 5830.68,
+      "related": [
+        "text",
+        "rock",
+        "game",
+        "deep",
+        "fucking",
+        "hole",
+        "pass",
+        "baby",
+        "mario"
+      ]
+    },
+    {
+      "term": "content",
+      "tf": 3198,
+      "df": 307,
+      "score": 5814.35,
+      "related": [
+        "text",
+        "content",
+        "game",
+        "video",
+        "channel",
+        "youtube",
+        "fucking",
+        "making",
+        "watch",
+        "person",
+        "stuff",
+        "watching"
+      ]
+    },
+    {
+      "term": "green",
+      "tf": 3356,
+      "df": 337,
+      "score": 5789.68,
+      "related": [
+        "text",
+        "green",
+        "game",
+        "blue",
+        "red",
+        "fucking",
+        "light",
+        "screen",
+        "guess"
+      ]
+    },
+    {
+      "term": "needed",
+      "tf": 3475,
+      "df": 359,
+      "score": 5775.85,
+      "related": [
+        "text",
+        "needed",
+        "game",
+        "fucking",
+        "mario",
+        "stuff",
+        "welcome",
+        "hurt",
+        "mission",
+        "point",
+        "vehicle",
+        "away"
+      ]
+    },
+    {
+      "term": "blood",
+      "tf": 2971,
+      "df": 272,
+      "score": 5760.02,
+      "related": [
+        "text",
+        "blood",
+        "game",
+        "sam",
+        "fucking",
+        "literally",
+        "norman",
+        "kill"
+      ]
+    },
+    {
+      "term": "officer",
+      "tf": 1800,
+      "df": 78,
+      "score": 5721.79,
+      "related": [
+        "text",
+        "officer",
+        "hear",
+        "case",
+        "against",
+        "game"
+      ]
+    },
+    {
+      "term": "sounds",
+      "tf": 3618,
+      "df": 390,
+      "score": 5714.67,
+      "related": [
+        "text",
+        "sounds",
+        "game",
+        "sound",
+        "great",
+        "fucking",
+        "hear",
+        "talking",
+        "cool",
+        "doesn",
+        "check",
+        "five"
+      ]
+    },
+    {
+      "term": "internet",
+      "tf": 3346,
+      "df": 343,
+      "score": 5713.55,
+      "related": [
+        "text",
+        "internet",
+        "game",
+        "fucking",
+        "person",
+        "streaming",
+        "video",
+        "show",
+        "speed",
+        "probably",
+        "everything",
+        "youtube"
+      ]
+    },
+    {
+      "term": "taking",
+      "tf": 3810,
+      "df": 426,
+      "score": 5682.37,
+      "related": [
+        "text",
+        "game",
+        "taking",
+        "fucking",
+        "care",
+        "stuff",
+        "start",
+        "kill",
+        "doesn",
+        "away",
+        "talking",
+        "probably"
+      ]
+    },
+    {
+      "term": "quick",
+      "tf": 3361,
+      "df": 351,
+      "score": 5661.9,
+      "related": [
+        "text",
+        "quick",
+        "game",
+        "match",
+        "fucking",
+        "though",
+        "sorry",
+        "point",
+        "win"
+      ]
+    },
+    {
+      "term": "trash",
+      "tf": 2381,
+      "df": 175,
+      "score": 5661.39,
+      "related": [
+        "trash",
+        "text",
+        "game",
+        "pick",
+        "fucking",
+        "talk"
+      ]
+    },
+    {
+      "term": "build",
+      "tf": 2786,
+      "df": 250,
+      "score": 5635.43,
+      "related": [
+        "text",
+        "build",
+        "game",
+        "fucking",
+        "poop",
+        "charge",
+        "stuff",
+        "attack",
+        "though",
+        "zero",
+        "hold"
+      ]
+    },
+    {
+      "term": "action",
+      "tf": 2554,
+      "df": 208,
+      "score": 5633.83,
+      "related": [
+        "text",
+        "welcome",
+        "vehicle",
+        "power",
+        "action",
+        "fire",
+        "patch",
+        "hurt",
+        "nice",
+        "team",
+        "spider",
+        "mission"
+      ]
+    },
+    {
+      "term": "drive",
+      "tf": 2832,
+      "df": 259,
+      "score": 5628.71,
+      "related": [
+        "drive",
+        "text",
+        "car",
+        "game",
+        "fucking",
+        "hard",
+        "remember",
+        "stuff",
+        "four"
+      ]
+    },
+    {
+      "term": "bring",
+      "tf": 3477,
+      "df": 375,
+      "score": 5627.98,
+      "related": [
+        "text",
+        "bring",
+        "game",
+        "chaos",
+        "fucking",
+        "someone",
+        "power",
+        "coming",
+        "whole",
+        "doesn",
+        "point",
+        "vehicle"
+      ]
+    },
+    {
+      "term": "patch",
+      "tf": 2075,
+      "df": 125,
+      "score": 5627.27,
+      "related": [
+        "text",
+        "patch",
+        "welcome",
+        "power",
+        "fire",
+        "action",
+        "eye",
+        "vehicle",
+        "nice",
+        "hurt",
+        "mission",
+        "spider"
+      ]
+    },
+    {
+      "term": "lose",
+      "tf": 3232,
+      "df": 332,
+      "score": 5623.93,
+      "related": [
+        "text",
+        "lose",
+        "game",
+        "fucking",
+        "win",
+        "lost",
+        "round",
+        "doesn",
+        "though",
+        "kill",
+        "team"
+      ]
+    },
+    {
+      "term": "definitely",
+      "tf": 3366,
+      "df": 357,
+      "score": 5613.43,
+      "related": [
+        "text",
+        "game",
+        "definitely",
+        "fucking",
+        "stuff",
+        "probably",
+        "though",
+        "doesn",
+        "coming",
+        "anything",
+        "cool",
+        "someone"
+      ]
+    },
+    {
+      "term": "learn",
+      "tf": 3245,
+      "df": 337,
+      "score": 5598.19,
+      "related": [
+        "text",
+        "learn",
+        "game",
+        "fucking",
+        "point",
+        "start",
+        "stuff",
+        "character",
+        "guess",
+        "jeff",
+        "someone"
+      ]
+    },
+    {
+      "term": "light",
+      "tf": 3293,
+      "df": 347,
+      "score": 5584.98,
+      "related": [
+        "text",
+        "light",
+        "game",
+        "turn",
+        "switch",
+        "fucking",
+        "green",
+        "red",
+        "room",
+        "dark",
+        "everything"
+      ]
+    },
+    {
+      "term": "basically",
+      "tf": 3324,
+      "df": 354,
+      "score": 5571.36,
+      "related": [
+        "text",
+        "game",
+        "basically",
+        "fucking",
+        "games",
+        "everything",
+        "stuff",
+        "doesn",
+        "whole",
+        "talking",
+        "person",
+        "anything"
+      ]
+    },
+    {
+      "term": "cards",
+      "tf": 2350,
+      "df": 177,
+      "score": 5561.12,
+      "related": [
+        "text",
+        "cards",
+        "game",
+        "card",
+        "jeff",
+        "open",
+        "buy",
+        "pokemon",
+        "fucking",
+        "damage",
+        "key"
+      ]
+    },
+    {
+      "term": "amazing",
+      "tf": 3104,
+      "df": 316,
+      "score": 5554.04,
+      "related": [
+        "text",
+        "spider",
+        "game",
+        "vehicle",
+        "amazing",
+        "fire",
+        "power",
+        "fucking",
+        "chaos",
+        "show"
+      ]
+    },
+    {
+      "term": "deep",
+      "tf": 2789,
+      "df": 258,
+      "score": 5553.99,
+      "related": [
+        "text",
+        "deep",
+        "nice",
+        "game",
+        "rock",
+        "fucking",
+        "mission",
+        "pizza",
+        "mario"
+      ]
+    },
+    {
+      "term": "walking",
+      "tf": 3034,
+      "df": 304,
+      "score": 5545.87,
+      "related": [
+        "text",
+        "walking",
+        "game",
+        "fucking",
+        "walk",
+        "forward",
+        "away",
+        "door",
+        "stuff",
+        "nothing",
+        "start",
+        "button"
+      ]
+    },
+    {
+      "term": "entire",
+      "tf": 3420,
+      "df": 376,
+      "score": 5526.63,
+      "related": [
+        "text",
+        "game",
+        "entire",
+        "fucking",
+        "team",
+        "whole",
+        "point",
+        "won",
+        "talking",
+        "luigi",
+        "everything",
+        "ever"
+      ]
+    },
+    {
+      "term": "sleep",
+      "tf": 2802,
+      "df": 263,
+      "score": 5526.3,
+      "related": [
+        "text",
+        "sleep",
+        "bed",
+        "night",
+        "game",
+        "ain",
+        "fucking",
+        "place",
+        "probably",
+        "stay"
+      ]
+    },
+    {
+      "term": "fortnite",
+      "tf": 2193,
+      "df": 153,
+      "score": 5507.21,
+      "related": [
+        "fortnite",
+        "text",
+        "game",
+        "fucking",
+        "fun",
+        "marvel",
+        "games",
+        "roblox",
+        "literally",
+        "card",
+        "anything",
+        "everything"
+      ]
+    },
+    {
+      "term": "wants",
+      "tf": 3426,
+      "df": 380,
+      "score": 5500.17,
+      "related": [
+        "text",
+        "wants",
+        "game",
+        "fucking",
+        "everyone",
+        "someone",
+        "doesn",
+        "stuff",
+        "talking",
+        "probably",
+        "talk",
+        "sorry"
+      ]
+    },
+    {
+      "term": "awesome",
+      "tf": 3374,
+      "df": 372,
+      "score": 5488.29,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "awesome",
+        "cool",
+        "stuff",
+        "guess",
+        "great",
+        "though",
+        "whoa",
+        "turn",
+        "video"
+      ]
+    },
+    {
+      "term": "bitch",
+      "tf": 2341,
+      "df": 181,
+      "score": 5487.8,
+      "related": [
+        "bitch",
+        "fucking",
+        "game",
+        "kill",
+        "baby",
+        "please",
+        "run",
+        "though",
+        "hear",
+        "away",
+        "ass"
+      ]
+    },
+    {
+      "term": "inside",
+      "tf": 3417,
+      "df": 381,
+      "score": 5476.76,
+      "related": [
+        "text",
+        "inside",
+        "game",
+        "fucking",
+        "check",
+        "door",
+        "enough",
+        "house",
+        "room",
+        "speed",
+        "video",
+        "whole"
+      ]
+    },
+    {
+      "term": "mode",
+      "tf": 3160,
+      "df": 336,
+      "score": 5460.91,
+      "related": [
+        "text",
+        "game",
+        "mode",
+        "fucking",
+        "turn",
+        "baby",
+        "head",
+        "spider",
+        "fire",
+        "team",
+        "run",
+        "show"
+      ]
+    },
+    {
+      "term": "tank",
+      "tf": 2527,
+      "df": 218,
+      "score": 5456.17,
+      "related": [
+        "text",
+        "tank",
+        "game",
+        "damage",
+        "team",
+        "fantastic",
+        "fucking",
+        "healer"
+      ]
+    },
+    {
+      "term": "waiting",
+      "tf": 3427,
+      "df": 386,
+      "score": 5448.23,
+      "related": [
+        "text",
+        "waiting",
+        "game",
+        "fucking",
+        "until",
+        "though",
+        "open",
+        "probably",
+        "sorry",
+        "show",
+        "fast",
+        "remember"
+      ]
+    },
+    {
+      "term": "bed",
+      "tf": 2941,
+      "df": 298,
+      "score": 5434.31,
+      "related": [
+        "text",
+        "bed",
+        "game",
+        "sleep",
+        "fucking",
+        "night",
+        "stuff",
+        "went",
+        "tired",
+        "doesn",
+        "room",
+        "probably"
+      ]
+    },
+    {
+      "term": "couldn",
+      "tf": 3471,
+      "df": 396,
+      "score": 5429.63,
+      "related": [
+        "text",
+        "game",
+        "couldn",
+        "fucking",
+        "hear",
+        "sorry",
+        "wanted",
+        "thought",
+        "doesn",
+        "guess",
+        "away",
+        "though"
+      ]
+    },
+    {
+      "term": "times",
+      "tf": 3464,
+      "df": 395,
+      "score": 5427.41,
+      "related": [
+        "text",
+        "game",
+        "times",
+        "fucking",
+        "five",
+        "four",
+        "always",
+        "video",
+        "talking",
+        "though",
+        "doesn",
+        "run"
+      ]
+    },
+    {
+      "term": "mimic",
+      "tf": 1397,
+      "df": 38,
+      "score": 5426.87,
+      "related": [
+        "mimic",
+        "text",
+        "game",
+        "fucking",
+        "five",
+        "room",
+        "show",
+        "honey"
+      ]
+    },
+    {
+      "term": "comes",
+      "tf": 3254,
+      "df": 358,
+      "score": 5417.57,
+      "related": [
+        "text",
+        "game",
+        "comes",
+        "fucking",
+        "coming",
+        "point",
+        "someone",
+        "power",
+        "nothing",
+        "doesn",
+        "stuff",
+        "mind"
+      ]
+    },
+    {
+      "term": "healers",
+      "tf": 1823,
+      "df": 97,
+      "score": 5402.01,
+      "related": [
+        "text",
+        "healers",
+        "game",
+        "healer",
+        "four",
+        "point",
+        "team",
+        "jeff",
+        "heal",
+        "fucking",
+        "healing"
+      ]
+    },
+    {
+      "term": "city",
+      "tf": 2619,
+      "df": 243,
+      "score": 5371.7,
+      "related": [
+        "text",
+        "city",
+        "game",
+        "fucking",
+        "spider",
+        "robocop",
+        "luigi",
+        "stuff",
+        "place",
+        "run"
+      ]
+    },
+    {
+      "term": "zero",
+      "tf": 2917,
+      "df": 302,
+      "score": 5351.2,
+      "related": [
+        "text",
+        "zero",
+        "game",
+        "score",
+        "switch",
+        "fucking",
+        "spider",
+        "win",
+        "team",
+        "five"
+      ]
+    },
+    {
+      "term": "winner",
+      "tf": 2245,
+      "df": 174,
+      "score": 5350.81,
+      "related": [
+        "text",
+        "until",
+        "fighting",
+        "win",
+        "final",
+        "winner",
+        "almost",
+        "spider",
+        "game",
+        "fire",
+        "control",
+        "vehicle"
+      ]
+    },
+    {
+      "term": "boss",
+      "tf": 2589,
+      "df": 241,
+      "score": 5331.48,
+      "related": [
+        "text",
+        "boss",
+        "game",
+        "fight",
+        "fucking",
+        "job",
+        "watch",
+        "thought",
+        "beat",
+        "huh",
+        "run",
+        "guess"
+      ]
+    },
+    {
+      "term": "cat",
+      "tf": 2482,
+      "df": 221,
+      "score": 5325.23,
+      "related": [
+        "cat",
+        "text",
+        "fucking",
+        "game",
+        "sorry",
+        "show",
+        "always"
+      ]
+    },
+    {
+      "term": "started",
+      "tf": 3494,
+      "df": 413,
+      "score": 5319.1,
+      "related": [
+        "text",
+        "game",
+        "started",
+        "fucking",
+        "start",
+        "talking",
+        "everything",
+        "stuff",
+        "thought",
+        "whole",
+        "anything",
+        "went"
+      ]
+    },
+    {
+      "term": "stranding",
+      "tf": 1677,
+      "df": 79,
+      "score": 5309.7,
+      "related": [
+        "death",
+        "text",
+        "stranding",
+        "game",
+        "baby",
+        "norman",
+        "dark",
+        "stuff",
+        "whole",
+        "games"
+      ]
+    },
+    {
+      "term": "lag",
+      "tf": 2314,
+      "df": 191,
+      "score": 5300.73,
+      "related": [
+        "text",
+        "lag",
+        "game",
+        "doesn",
+        "fix",
+        "fucking",
+        "though",
+        "internet",
+        "less",
+        "streaming",
+        "turn"
+      ]
+    },
+    {
+      "term": "stronger",
+      "tf": 1836,
+      "df": 105,
+      "score": 5296.46,
+      "related": [
+        "text",
+        "feeling",
+        "chaos",
+        "vehicle",
+        "control",
+        "anywhere",
+        "mission",
+        "spider",
+        "fire",
+        "capture",
+        "goodbye"
+      ]
+    },
+    {
+      "term": "word",
+      "tf": 4803,
+      "df": 629,
+      "score": 5295.3,
+      "related": [
+        "text",
+        "word",
+        "video",
+        "game"
+      ]
+    },
+    {
+      "term": "anywhere",
+      "tf": 2512,
+      "df": 230,
+      "score": 5289.77,
+      "related": [
+        "text",
+        "anywhere",
+        "chaos",
+        "vehicle",
+        "control",
+        "stronger",
+        "spider",
+        "isn",
+        "fire",
+        "game",
+        "show"
+      ]
+    },
+    {
+      "term": "disappear",
+      "tf": 1888,
+      "df": 115,
+      "score": 5276.26,
+      "related": [
+        "text",
+        "vehicle",
+        "fire",
+        "power",
+        "hurt",
+        "chaos",
+        "welcome",
+        "spider",
+        "disappear",
+        "anywhere",
+        "control",
+        "until"
+      ]
+    },
+    {
+      "term": "lady",
+      "tf": 2647,
+      "df": 258,
+      "score": 5271.21,
+      "related": [
+        "text",
+        "lady",
+        "game",
+        "fucking",
+        "talking",
+        "remember",
+        "talk",
+        "baby",
+        "black",
+        "thought",
+        "stuff"
+      ]
+    },
+    {
+      "term": "happen",
+      "tf": 3336,
+      "df": 391,
+      "score": 5260.73,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "happen",
+        "won",
+        "doesn",
+        "thought",
+        "always",
+        "happened",
+        "five",
+        "someone"
+      ]
+    },
+    {
+      "term": "enemy",
+      "tf": 2399,
+      "df": 211,
+      "score": 5257.73,
+      "related": [
+        "text",
+        "enemy",
+        "mission",
+        "team",
+        "capture",
+        "game",
+        "vehicle",
+        "fire",
+        "spider",
+        "yours",
+        "starts",
+        "power"
+      ]
+    },
+    {
+      "term": "stand",
+      "tf": 3023,
+      "df": 333,
+      "score": 5251.19,
+      "related": [
+        "text",
+        "stand",
+        "anything",
+        "game",
+        "fire",
+        "spider",
+        "power",
+        "fucking",
+        "close",
+        "point",
+        "welcome"
+      ]
+    },
+    {
+      "term": "buddy",
+      "tf": 2938,
+      "df": 317,
+      "score": 5247.76,
+      "related": [
+        "text",
+        "buddy",
+        "game",
+        "fucking",
+        "whoa",
+        "baby",
+        "ass",
+        "please",
+        "run",
+        "sorry",
+        "guess",
+        "care"
+      ]
+    },
+    {
+      "term": "victory",
+      "tf": 2086,
+      "df": 153,
+      "score": 5238.5,
+      "related": [
+        "text",
+        "win",
+        "game",
+        "final",
+        "until",
+        "together",
+        "fire",
+        "power",
+        "victory",
+        "team",
+        "spider"
+      ]
+    },
+    {
+      "term": "wouldn",
+      "tf": 3117,
+      "df": 353,
+      "score": 5233.2,
+      "related": [
+        "text",
+        "game",
+        "wouldn",
+        "fucking",
+        "someone",
+        "doesn",
+        "thought",
+        "though",
+        "guess",
+        "open",
+        "probably",
+        "anything"
+      ]
+    },
+    {
+      "term": "instead",
+      "tf": 3456,
+      "df": 419,
+      "score": 5211.52,
+      "related": [
+        "text",
+        "game",
+        "instead",
+        "fucking",
+        "doesn",
+        "five",
+        "talking",
+        "probably",
+        "games",
+        "red",
+        "video",
+        "everything"
+      ]
+    },
+    {
+      "term": "weed",
+      "tf": 2136,
+      "df": 166,
+      "score": 5190.96,
+      "related": [
+        "weed",
+        "text",
+        "fucking",
+        "game",
+        "buy",
+        "night",
+        "stay",
+        "probably",
+        "sleep"
+      ]
+    },
+    {
+      "term": "star",
+      "tf": 2624,
+      "df": 262,
+      "score": 5185.19,
+      "related": [
+        "text",
+        "star",
+        "game",
+        "home",
+        "talking",
+        "fucking",
+        "talk",
+        "enough",
+        "show",
+        "strong"
+      ]
+    },
+    {
+      "term": "straight",
+      "tf": 3255,
+      "df": 388,
+      "score": 5158.0,
+      "related": [
+        "text",
+        "game",
+        "straight",
+        "fucking",
+        "stuff",
+        "away",
+        "went",
+        "run",
+        "five",
+        "enough",
+        "turn",
+        "doesn"
+      ]
+    },
+    {
+      "term": "soon",
+      "tf": 3258,
+      "df": 389,
+      "score": 5154.39,
+      "related": [
+        "text",
+        "game",
+        "soon",
+        "fucking",
+        "start",
+        "five",
+        "anything",
+        "mission",
+        "run",
+        "enough",
+        "stuff",
+        "coming"
+      ]
+    },
+    {
+      "term": "sitting",
+      "tf": 3125,
+      "df": 364,
+      "score": 5151.01,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "sitting",
+        "talking",
+        "point",
+        "though",
+        "whole",
+        "ass",
+        "show",
+        "blood",
+        "stuff"
+      ]
+    },
+    {
+      "term": "past",
+      "tf": 2984,
+      "df": 337,
+      "score": 5147.92,
+      "related": [
+        "text",
+        "past",
+        "game",
+        "fucking",
+        "point",
+        "smash",
+        "luigi",
+        "doesn",
+        "door",
+        "anything",
+        "pass",
+        "turn"
+      ]
+    },
+    {
+      "term": "giving",
+      "tf": 3009,
+      "df": 342,
+      "score": 5146.86,
+      "related": [
+        "text",
+        "daniel",
+        "giving",
+        "game",
+        "please",
+        "away",
+        "fucking",
+        "five",
+        "someone",
+        "stuff",
+        "talk"
+      ]
+    },
+    {
+      "term": "white",
+      "tf": 2883,
+      "df": 318,
+      "score": 5140.47,
+      "related": [
+        "text",
+        "white",
+        "black",
+        "game",
+        "fucking",
+        "red",
+        "song",
+        "makes",
+        "though",
+        "coming"
+      ]
+    },
+    {
+      "term": "anyone",
+      "tf": 3045,
+      "df": 350,
+      "score": 5138.23,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "someone",
+        "anyone",
+        "vehicle",
+        "though",
+        "hear",
+        "mission",
+        "kill",
+        "five"
+      ]
+    },
+    {
+      "term": "happens",
+      "tf": 3380,
+      "df": 417,
+      "score": 5113.05,
+      "related": [
+        "text",
+        "game",
+        "happens",
+        "fucking",
+        "nothing",
+        "someone",
+        "video",
+        "start",
+        "turn",
+        "whatever",
+        "doesn",
+        "always"
+      ]
+    },
+    {
+      "term": "deal",
+      "tf": 3080,
+      "df": 361,
+      "score": 5102.25,
+      "related": [
+        "text",
+        "game",
+        "deal",
+        "fucking",
+        "five",
+        "everything",
+        "doesn",
+        "stuff",
+        "video",
+        "probably",
+        "sorry",
+        "four"
+      ]
+    },
+    {
+      "term": "apparently",
+      "tf": 3029,
+      "df": 352,
+      "score": 5094.02,
+      "related": [
+        "text",
+        "game",
+        "apparently",
+        "fucking",
+        "jump",
+        "whole",
+        "check",
+        "doesn",
+        "guess",
+        "stuff",
+        "pick",
+        "speed"
+      ]
+    },
+    {
+      "term": "yummy",
+      "tf": 1326,
+      "df": 40,
+      "score": 5084.74,
+      "related": [
+        "yummy",
+        "text",
+        "game",
+        "red",
+        "lag",
+        "norman",
+        "huh",
+        "jump",
+        "heat"
+      ]
+    },
+    {
+      "term": "shield",
+      "tf": 2036,
+      "df": 156,
+      "score": 5073.66,
+      "related": [
+        "text",
+        "shield",
+        "behind",
+        "game",
+        "mission",
+        "fantastic",
+        "spider",
+        "hurt",
+        "power",
+        "vehicle",
+        "until",
+        "fire"
+      ]
+    },
+    {
+      "term": "network",
+      "tf": 2065,
+      "df": 163,
+      "score": 5055.85,
+      "related": [
+        "text",
+        "network",
+        "game",
+        "sam",
+        "lag",
+        "doesn",
+        "nothing",
+        "server",
+        "stuff",
+        "everything",
+        "fucking"
+      ]
+    },
+    {
+      "term": "sucks",
+      "tf": 2955,
+      "df": 343,
+      "score": 5045.89,
+      "related": [
+        "text",
+        "game",
+        "sucks",
+        "fucking",
+        "gun",
+        "ass",
+        "doesn",
+        "everything",
+        "though",
+        "cool",
+        "anything",
+        "whatever"
+      ]
+    },
+    {
+      "term": "gold",
+      "tf": 2804,
+      "df": 313,
+      "score": 5043.91,
+      "related": [
+        "text",
+        "gold",
+        "game",
+        "start",
+        "fucking"
+      ]
+    },
+    {
+      "term": "sick",
+      "tf": 2815,
+      "df": 319,
+      "score": 5010.41,
+      "related": [
+        "text",
+        "sick",
+        "tired",
+        "game",
+        "fucking",
+        "though",
+        "jump",
+        "everything",
+        "cool",
+        "wanted",
+        "buy",
+        "please"
+      ]
+    },
+    {
+      "term": "checkpoint",
+      "tf": 1802,
+      "df": 118,
+      "score": 4989.91,
+      "related": [
+        "text",
+        "vehicle",
+        "power",
+        "turn",
+        "halfway",
+        "fire",
+        "welcome",
+        "spider",
+        "chance",
+        "almost"
+      ]
+    },
+    {
+      "term": "join",
+      "tf": 2661,
+      "df": 291,
+      "score": 4979.97,
+      "related": [
+        "text",
+        "join",
+        "game",
+        "server",
+        "discord",
+        "click",
+        "fucking",
+        "hear",
+        "leave",
+        "start",
+        "chat"
+      ]
+    },
+    {
+      "term": "add",
+      "tf": 2904,
+      "df": 341,
+      "score": 4975.74,
+      "related": [
+        "text",
+        "add",
+        "game",
+        "fucking",
+        "discord",
+        "steam",
+        "games",
+        "video",
+        "chat",
+        "twitch",
+        "friend"
+      ]
+    },
+    {
+      "term": "venom",
+      "tf": 1590,
+      "df": 82,
+      "score": 4975.71,
+      "related": [
+        "venom",
+        "text",
+        "spider",
+        "game",
+        "team",
+        "coming",
+        "kill",
+        "jeff",
+        "point",
+        "black"
+      ]
+    },
+    {
+      "term": "bet",
+      "tf": 3006,
+      "df": 362,
+      "score": 4971.37,
+      "related": [
+        "text",
+        "bet",
+        "game",
+        "fucking",
+        "best",
+        "probably",
+        "though",
+        "blah",
+        "stuff",
+        "coming",
+        "great",
+        "ass"
+      ]
+    },
+    {
+      "term": "space",
+      "tf": 2738,
+      "df": 308,
+      "score": 4969.14,
+      "related": [
+        "text",
+        "space",
+        "game",
+        "fucking",
+        "stuff",
+        "doesn",
+        "video",
+        "anything",
+        "everything",
+        "whatever"
+      ]
+    },
+    {
+      "term": "cheese",
+      "tf": 2338,
+      "df": 227,
+      "score": 4953.93,
+      "related": [
+        "cheese",
+        "text",
+        "fucking",
+        "game",
+        "eat",
+        "pizza",
+        "dog",
+        "stuff",
+        "watch"
+      ]
+    },
+    {
+      "term": "hair",
+      "tf": 2586,
+      "df": 279,
+      "score": 4948.13,
+      "related": [
+        "text",
+        "hair",
+        "game",
+        "face",
+        "fucking",
+        "cut",
+        "guess",
+        "everything",
+        "black",
+        "away",
+        "doesn",
+        "ever"
+      ]
+    },
+    {
+      "term": "anymore",
+      "tf": 3270,
+      "df": 417,
+      "score": 4946.65,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "anymore",
+        "doesn",
+        "someone",
+        "nothing",
+        "anything",
+        "hear",
+        "stuff"
+      ]
+    },
+    {
+      "term": "shut",
+      "tf": 2980,
+      "df": 361,
+      "score": 4936.59,
+      "related": [
+        "text",
+        "shut",
+        "game",
+        "fucking",
+        "talking",
+        "please",
+        "boy",
+        "sorry",
+        "kill",
+        "stuff",
+        "care",
+        "talk"
+      ]
+    },
+    {
+      "term": "difference",
+      "tf": 2323,
+      "df": 226,
+      "score": 4932.35,
+      "related": [
+        "text",
+        "stay",
+        "coming",
+        "strong",
+        "game",
+        "switch",
+        "nuts",
+        "score",
+        "witch",
+        "kick",
+        "eat"
+      ]
+    },
+    {
+      "term": "appreciate",
+      "tf": 1943,
+      "df": 149,
+      "score": 4930.53,
+      "related": [
+        "text",
+        "vehicle",
+        "nuts",
+        "spider",
+        "mission",
+        "power",
+        "fire",
+        "appreciate",
+        "hurt",
+        "welcome",
+        "action"
+      ]
+    },
+    {
+      "term": "single",
+      "tf": 2797,
+      "df": 329,
+      "score": 4892.31,
+      "related": [
+        "text",
+        "game",
+        "single",
+        "fucking",
+        "person",
+        "video",
+        "games",
+        "doesn",
+        "ever",
+        "point",
+        "anything"
+      ]
+    },
+    {
+      "term": "goodbye",
+      "tf": 2391,
+      "df": 245,
+      "score": 4884.54,
+      "related": [
+        "text",
+        "goodbye",
+        "game",
+        "chaos",
+        "mission",
+        "vehicle",
+        "anywhere",
+        "team",
+        "control",
+        "stronger",
+        "fire"
+      ]
+    },
+    {
+      "term": "since",
+      "tf": 3006,
+      "df": 373,
+      "score": 4881.63,
+      "related": [
+        "text",
+        "game",
+        "fucking",
+        "since",
+        "ever",
+        "though",
+        "remember",
+        "four",
+        "doesn",
+        "whole",
+        "youtube",
+        "stuff"
+      ]
+    },
+    {
+      "term": "follow",
+      "tf": 2739,
+      "df": 319,
+      "score": 4875.14,
+      "related": [
+        "text",
+        "follow",
+        "game",
+        "thanks",
+        "fucking",
+        "please",
+        "poo",
+        "show",
+        "hello",
+        "twitch"
+      ]
+    },
+    {
+      "term": "air",
+      "tf": 2655,
+      "df": 302,
+      "score": 4870.56,
+      "related": [
+        "text",
+        "air",
+        "game",
+        "hot",
+        "fucking",
+        "room",
+        "though",
+        "fire",
+        "heat",
+        "cool",
+        "doesn"
+      ]
+    },
+    {
+      "term": "pop",
+      "tf": 2756,
+      "df": 324,
+      "score": 4862.67,
+      "related": [
+        "text",
+        "pop",
+        "game",
+        "fucking",
+        "chat",
+        "video",
+        "stuff",
+        "show",
+        "five",
+        "though",
+        "rock",
+        "guess"
+      ]
+    },
+    {
+      "term": "alan",
+      "tf": 1276,
+      "df": 41,
+      "score": 4862.26,
+      "related": [
+        "alan",
+        "norman",
+        "text",
+        "dark",
+        "movie",
+        "game"
+      ]
+    },
+    {
+      "term": "reus",
+      "tf": 1122,
+      "df": 24,
+      "score": 4857.52,
+      "related": [
+        "text",
+        "norman",
+        "reus",
+        "game",
+        "drink",
+        "run",
+        "alan",
+        "baby",
+        "death"
+      ]
+    },
+    {
+      "term": "perfect",
+      "tf": 2842,
+      "df": 343,
+      "score": 4852.94,
+      "related": [
+        "text",
+        "game",
+        "perfect",
+        "fucking",
+        "hear",
+        "though",
+        "great",
+        "nothing",
+        "please",
+        "five",
+        "everything",
+        "nice"
+      ]
+    },
+    {
+      "term": "favorite",
+      "tf": 2803,
+      "df": 335,
+      "score": 4852.3,
+      "related": [
+        "text",
+        "game",
+        "favorite",
+        "fucking",
+        "spider",
+        "song",
+        "cool",
+        "thought",
+        "hate",
+        "please",
+        "isn",
+        "video"
+      ]
+    },
+    {
+      "term": "dark",
+      "tf": 2611,
+      "df": 295,
+      "score": 4850.87,
+      "related": [
+        "text",
+        "dark",
+        "game",
+        "alan",
+        "norman",
+        "fucking",
+        "movie",
+        "watch"
+      ]
+    },
+    {
+      "term": "miss",
+      "tf": 2766,
+      "df": 328,
+      "score": 4846.48,
+      "related": [
+        "text",
+        "miss",
+        "game",
+        "fucking",
+        "ain",
+        "spider",
+        "show",
+        "please",
+        "always",
+        "anything",
+        "nothing",
+        "power"
+      ]
+    },
+    {
+      "term": "human",
+      "tf": 2614,
+      "df": 297,
+      "score": 4838.84,
+      "related": [
+        "text",
+        "human",
+        "game",
+        "fucking",
+        "pokemon",
+        "person",
+        "show",
+        "anything"
+      ]
+    },
+    {
+      "term": "body",
+      "tf": 2808,
+      "df": 338,
+      "score": 4835.99,
+      "related": [
+        "text",
+        "body",
+        "game",
+        "pokemon",
+        "baby",
+        "away",
+        "fucking",
+        "full",
+        "head",
+        "smash",
+        "guess",
+        "ass"
+      ]
+    },
+    {
+      "term": "roblox",
+      "tf": 1679,
+      "df": 106,
+      "score": 4827.78,
+      "related": [
+        "roblox",
+        "text",
+        "game",
+        "fortnite",
+        "poop",
+        "games",
+        "played",
+        "fun",
+        "chat",
+        "fucking",
+        "anything"
+      ]
+    },
+    {
+      "term": "tired",
+      "tf": 2708,
+      "df": 319,
+      "score": 4819.96,
+      "related": [
+        "text",
+        "tired",
+        "sick",
+        "game",
+        "fucking",
+        "stuff",
+        "everything",
+        "bed",
+        "night",
+        "probably",
+        "five",
+        "though"
+      ]
+    },
+    {
+      "term": "bought",
+      "tf": 2654,
+      "df": 308,
+      "score": 4816.69,
+      "related": [
+        "text",
+        "bought",
+        "game",
+        "buy",
+        "fucking",
+        "games",
+        "steam",
+        "someone",
+        "probably",
+        "stuff",
+        "five",
+        "phone"
+      ]
+    },
+    {
+      "term": "nope",
+      "tf": 2622,
+      "df": 303,
+      "score": 4801.38,
+      "related": [
+        "nope",
+        "text",
+        "game",
+        "mine",
+        "fucking",
+        "thought",
+        "sorry",
+        "doesn",
+        "anything",
+        "hate",
+        "check"
+      ]
+    },
+    {
+      "term": "eye",
+      "tf": 2517,
+      "df": 282,
+      "score": 4789.28,
+      "related": [
+        "text",
+        "eye",
+        "patch",
+        "power",
+        "game",
+        "vehicle",
+        "fire",
+        "spider",
+        "please",
+        "welcome",
+        "hurt"
+      ]
+    },
+    {
+      "term": "mom",
+      "tf": 2611,
+      "df": 303,
+      "score": 4781.24,
+      "related": [
+        "mom",
+        "text",
+        "game",
+        "fucking",
+        "stuff",
+        "doesn",
+        "talking",
+        "everything",
+        "baby",
+        "ass"
+      ]
+    },
+    {
+      "term": "line",
+      "tf": 2722,
+      "df": 328,
+      "score": 4769.38,
+      "related": [
+        "text",
+        "line",
+        "game",
+        "fucking",
+        "away",
+        "doesn",
+        "hear",
+        "talk",
+        "whole",
+        "probably"
+      ]
+    },
+    {
+      "term": "less",
+      "tf": 2800,
+      "df": 345,
+      "score": 4764.98,
+      "related": [
+        "text",
+        "game",
+        "less",
+        "fucking",
+        "lag",
+        "point",
+        "doesn",
+        "please",
+        "stuff",
+        "video",
+        "everything",
+        "care"
+      ]
+    },
+    {
+      "term": "pull",
+      "tf": 2804,
+      "df": 346,
+      "score": 4763.7,
+      "related": [
+        "text",
+        "pull",
+        "game",
+        "fucking",
+        "though",
+        "spider",
+        "show",
+        "hold",
+        "nothing",
+        "start",
+        "four"
+      ]
+    }
+  ]
+}

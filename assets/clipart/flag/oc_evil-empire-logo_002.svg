@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="600" height="614" viewBox="0, 0, 600, 614">
+  <g id="exstika" transform="translate(-400, -143)">
+    <g>
+      <path d="M520,613 L868,265 L1000,397 L964,397 L868,301 L520,649 L400,529 L436,529" fill="#000000"/>
+      <path d="M892,601 L736,757 L736,637 L772,601 L484,313 L654,143 L654,263 L606,313 L892,601 z" fill="#000000"/>
+      <path d="M568,313 L856,601 L760,697 L760,649 L808,601 L520,313 L628,205 L628,253" fill="#FFFFFF"/>
+      <path d="M544,325" fill="#000000" fill-opacity="0.29"/>
+    </g>
+  </g>
+</svg>
