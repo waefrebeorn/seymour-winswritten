@@ -99,3 +99,6 @@ pdf/
 patreon_payloads/
 # === Factoid engine (local generated content, not committed) ===
 factoids/
+# === Magazine engine: built PDFs + downloaded wiki image cache (local only) ===
+pdf/magazine/
+pdf/magazine_imgs/
