@@ -69,7 +69,7 @@ def build_individual(year, month, day, tmap):
     if not os.path.exists(p):
         return None
     title, theme, fact, body = parse_issue(p)
-    tier = tmap["post_model"]["individual"]["tier"]  # free
+    tier = tmap["post_model"]["individual_real"]["tier"]  # free (real 1pg funnel)
     tags = ["seymour-wins", theme, str(year), f"{month:02d}{day:02d}", "daily"]
     content = (f"{body}\n\n---\n*Part of the Seymour Wins daily chronicle. "
                f"Searchable by theme, year, and date.*")
