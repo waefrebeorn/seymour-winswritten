@@ -1,0 +1,80 @@
+{
+  "derived_from": "ponderables/SERIES-BIBLE-v1.md (base project pricing: $7.99-$12.99 per volume)",
+  "note": "The base doc specifies per-volume PRINT pricing only. This ladder maps that same value range onto a Patreon subscription structure. Tiers are gated via Patreon access rules (benefits/tiers). Single source of truth for the uploader.",
+  "campaign": {
+    "currency": "USD",
+    "base_doc_price_low": 7.99,
+    "base_doc_price_high": 12.99
+  },
+  "tiers": [
+    {
+      "id": "free",
+      "name": "The Feed (Free)",
+      "price_usd": 0,
+      "gated": false,
+      "maps_to_base": "Top-of-funnel sample; base doc does not price free content.",
+      "unlocks": [
+        "Daily issue (1 real page) as an individual searchable post"
+      ],
+      "content_product": "daily_issue"
+    },
+    {
+      "id": "ponderable",
+      "name": "Ponderable ($5/mo)",
+      "price_usd": 5,
+      "gated": true,
+      "maps_to_base": "Below base $7.99/vol — monthly slice of one volume's worth of chronicle.",
+      "unlocks": [
+        "Everything in Free",
+        "Weekly chronicle volume PDF (52-53/week per year) as gated posts"
+      ],
+      "content_product": "weekly_volume"
+    },
+    {
+      "id": "archivist",
+      "name": "Archivist ($12/mo)",
+      "price_usd": 12,
+      "gated": true,
+      "maps_to_base": "Anchored to base $12.99 top of range — full multiverse access monthly.",
+      "unlocks": [
+        "Everything in Ponderable",
+        "30-pages/day MULTIVERSE AU spins (alternate-universe posts) gated per day"
+      ],
+      "content_product": "multiverse_au"
+    },
+    {
+      "id": "first_principles",
+      "name": "First Principles ($13/mo)",
+      "price_usd": 13,
+      "gated": true,
+      "maps_to_base": "Just above base $12.99 — complete collected works, annual bundles.",
+      "unlocks": [
+        "Everything in Archivist",
+        "Full annual multiverse PDF (11k+ pages) + yearly collection index post"
+      ],
+      "content_product": "annual_pdf"
+    }
+  ],
+  "post_model": {
+    "individual": {
+      "description": "One Patreon post per daily issue. Searchable via tags. Free tier (public).",
+      "tags": ["seymour-wins", "<theme>", "<year>", "<MMDD>", "daily", "<stream-topics>"],
+      "tier": "free"
+    },
+    "multiverse_individual": {
+      "description": "One Patreon post per day's 30 AU spins (or split into a few). Gated to Archivist.",
+      "tags": ["seymour-wins", "multiverse", "<theme>", "<year>", "<MMDD>"],
+      "tier": "archivist"
+    },
+    "collection": {
+      "description": "One yearly COLLECTION post indexing all that year's individual posts. Public hub for accessibility.",
+      "tags": ["seymour-wins", "collection", "<year>"],
+      "tier": "free"
+    },
+    "weekly_volume": {
+      "description": "One gated post per weekly volume PDF (links/attaches the local PDF). Gated to Ponderable.",
+      "tags": ["seymour-wins", "weekly", "<year>", "week<NN>"],
+      "tier": "ponderable"
+    }
+  }
+}

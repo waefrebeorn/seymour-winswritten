@@ -92,3 +92,7 @@ Thumbs.db
 ponderables/pdf/
 pdf/
 *.pdf
+
+# === Patreon uploader (local secrets + build artifacts) ===
+.env
+patreon_payloads/
