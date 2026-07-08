@@ -89,9 +89,28 @@ def rect(doc, page, x0, y0, x1, y1, color, fill=None, width=1.0):
 def line(page, x0, y0, x1, y1, color, width=1.0):
     page.draw_line(fitz.Point(x0, y0), fitz.Point(x1, y1), color=_col(color), width=width)
 
-def text(page, pos, s, size=10, color=INK, bold=False, font=None):
-    page.insert_text(pos, s, fontsize=size, color=_col(color),
-                   fontname=("Helvetica-Bold" if bold else "Helvetica"))
+FONT_DIR = os.path.join(ROOT, "assets", "fonts")
+_FONT_FILES = {
+    "dmserif": "DMSerifDisplay-Regular.ttf",
+    "specialelite": "SpecialElite-Regular.ttf",
+}
+
+def _ensure_font(page, name):
+    """Embed a display font on the page if not already present."""
+    if name in _FONT_FILES:
+        p = os.path.join(FONT_DIR, _FONT_FILES[name])
+        if os.path.exists(p):
+            try:
+                page.insert_font(fontname=name, fontfile=p)
+            except Exception:
+                pass
+
+def text(page, pos, s, size=10, color=INK, bold=False, font=None, fontfile=None):
+    fn = font or ("Helvetica-Bold" if bold else "Helvetica")
+    if fontfile:
+        fn = fontfile
+        _ensure_font(page, fontfile)
+    page.insert_text(pos, s, fontsize=size, color=_col(color), fontname=fn)
 
 def wrap(words, maxw):
     lines, cur = [], ""
@@ -136,14 +155,14 @@ def p_cover(doc, theme, date, evs, issue_no, colonel):
     hero = v1.raster(clips[0], 300) if clips else None
     place_img(pg, (330, 60, 560, 290), hero, accent)
     # title block
-    text(pg, (40, 70), "SEYMOUR WINS", size=40, color=INK, bold=True)
-    text(pg, (40, 110), "DAILY MAGAZINE", size=18, color=accent, bold=True)
-    text(pg, (40, 140), date.strftime("%A  %B %d, %Y").upper(), size=13, color=INK)
-    text(pg, (40, 162), f"ISSUE #{issue_no:04d}   -   THEME: {theme.upper()}", size=10, color=(0.4,0.4,0.4))
+    text(pg, (40, 70), "SEYMOUR WINS", size=42, color=INK, fontfile="dmserif")
+    text(pg, (40, 112), "DAILY MAGAZINE", size=18, color=accent, bold=True)
+    text(pg, (40, 142), date.strftime("%A %B %d, %Y").upper(), size=13, color=INK)
+    text(pg, (40, 164), f"ISSUE #{issue_no:04d}   -   THEME: {theme.upper()}", size=10, color=(0.4,0.4,0.4))
     # "through the years" teaser strip
     y = 330
     rect(doc, pg, 40, y-18, W-40, y-14, accent, fill=accent, width=0)
-    text(pg, (44, y-22), "ON THIS DAY -- THROUGH THE YEARS", size=12, color=(1,1,1), bold=True)
+    text(pg, (44, y-22), "ON THIS DAY - THROUGH THE YEARS", size=12, color=(1,1,1), bold=True, fontfile="dmserif")
     y += 6
     shown = sorted(evs, key=lambda e: int(e[0]) if str(e[0]).isdigit() else 0)[:6]
     for e in shown:
@@ -212,7 +231,7 @@ def p_editorial(doc, theme, issue_text, colonel):
     accent = THEME_COLOR.get(theme, (0.3,0.3,0.3))
     pg = doc.new_page()
     rect(doc, pg, 0, 0, 595, 16, accent, fill=accent, width=0)
-    text(pg, (40, 50), "EDITORIAL", size=16, color=accent, bold=True)
+    text(pg, (40, 50), "EDITORIAL", size=16, color=accent, bold=True, fontfile="dmserif")
     line(pg, 40, 60, 555, 60, accent, width=1.5)
     if not issue_text:
         para(pg, 40, 90, "No editorial seeded for this day. The thread continues in the archive.", size=11)
@@ -224,7 +243,7 @@ def p_editorial(doc, theme, issue_text, colonel):
     for ln in lines:
         if y > 770: break
         if first and len(ln) > 12:
-            text(pg, (40, y), ln[:1], size=34, color=accent, bold=True)
+            text(pg, (40, y), ln[:1], size=34, color=accent, fontfile="specialelite")
             text(pg, (78, y), ln[1:89], size=10.5, color=INK)
             y += 16
             first = False
@@ -240,7 +259,7 @@ def p_through_years(doc, theme, evs, date):
     accent = THEME_COLOR.get(theme, (0.3,0.3,0.3))
     pg = doc.new_page()
     rect(doc, pg, 0, 0, 595, 16, accent, fill=accent, width=0)
-    text(pg, (40, 50), "THROUGH THE YEARS", size=16, color=accent, bold=True)
+    text(pg, (40, 50), "THROUGH THE YEARS", size=16, color=accent, bold=True, fontfile="dmserif")
     text(pg, (40, 70), f"{date.strftime('%B %d')} -- every year on record. The Seymour spine.", size=9.5, color=(0.4,0.4,0.4))
     line(pg, 40, 80, 555, 80, accent, width=1.5)
     # sort by year
@@ -316,8 +335,8 @@ def p_persona(doc, theme, uf, colonel):
     universe = m_u.group(1).strip() if m_u else persona
     ground = m_g.group(1).strip() if m_g else ""
     rect(doc, pg, 0, 0, 595, 16, accent, fill=accent, width=0)
-    text(pg, (40, 50), f"AU PERSONA - {persona}", size=15, color=accent, bold=True)
-    text(pg, (40, 70), f"Universe: {universe}", size=9.5, color=(0.4,0.4,0.4))
+    text(pg, (40, 50), f"AU PERSONA - {persona}", size=15, color=accent, bold=True, fontfile="dmserif")
+    text(pg, (40, 70), f"Universe: {universe}", size=9.5, color=(0.4,0.4,0.4), fontfile="specialelite")
     # grounding pull-quote
     rect(doc, pg, 40, 84, 555, 150, accent, fill=(0.96,0.95,0.92), width=1)
     text(pg, (50, 98), "GROUNDING FACT (verified anchor)", size=8.5, color=accent, bold=True)
@@ -332,6 +351,19 @@ def p_persona(doc, theme, uf, colonel):
     text(pg, (40, 380), "SPECULATIVE FICTION (forked from a verified anchor)", size=9, color=accent, bold=True)
     para(pg, 40, 398, ex.strip(), size=9, maxw=92, color=INK)
     text(pg, (40, 800), f'"{colonel}"', size=9, color=(0.45,0.45,0.45))
+    return pg
+
+def p_divider(doc, theme, label, sub):
+    accent = THEME_COLOR.get(theme, (0.3,0.3,0.3))
+    pg = doc.new_page()
+    W, H = 595, 842
+    rect(doc, pg, 0, 0, W, 26, accent, fill=accent, width=0)
+    rect(doc, pg, 0, H-26, W, H, accent, fill=accent, width=0)
+    # big centered label
+    text(pg, (40, 400), label, size=46, color=INK, fontfile="dmserif")
+    line(pg, 40, 430, 555, 430, accent, width=2)
+    text(pg, (40, 460), sub, size=14, color=accent, bold=True)
+    text(pg, (40, 790), "SEYMOUR WINS - DAILY MAGAZINE", size=9, color=(0.5,0.5,0.5))
     return pg
 
 # ---------------------------------------------------------------------------
@@ -380,6 +412,10 @@ def make_magazine(year, month, day, cfg=None):
     while ci < len(clips):
         p_clip_spread(doc, theme, clips[ci:ci+2], ci, content_line)
         ci += 2
+
+    # section divider before personas
+    p_divider(doc, theme, "PERSONAE",
+                 f"{cfg['personas_per_day']} AI voices fork the day")
 
     # persona pages
     au_dir = os.path.join(v1.CAL, str(year), f"{month:02d}", f"{day:02d}_au")
