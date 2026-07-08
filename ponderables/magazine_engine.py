@@ -167,12 +167,16 @@ def wiki_pd_image(query, seed):
     if os.path.exists(cached):
         return cached
     words = [w for w in re.split(r"[^a-z0-9]+", query.lower()) if len(w) > 2]
-    # candidate queries: full phrase, then progressively shorter tails
     queries = []
-    for cutoff in (len(words), max(2, len(words)-2), max(2, len(words)-4)):
-        q = " ".join(words[:cutoff])
-        if q and q not in queries:
-            queries.append(q)
+    # candidate queries: full phrase, progressively shorter fronts,
+    # AND the leading proper-noun phrase (capitalized words from the
+    # original query) which usually IS the article subject.
+    caps = " ".join(w for w in query.split() if w[:1].isupper() and len(w) > 2)
+    for cand in (query, caps, " ".join(words[:6]), " ".join(words[:4]),
+                   " ".join(words[:2])):
+        c = cand.lower().strip()
+        if c and c not in queries:
+            queries.append(c)
     rnd = random.Random(seed)
     for q in (rnd.sample(queries, len(queries)) if queries else []):
         article = wiki_resolve_article(q)
