@@ -153,7 +153,9 @@ def p_cover(doc, theme, date, evs, issue_no, colonel):
     # hero clip (themed) upper-right
     clips = v1.clip_for(theme, 1, seed=f"{date.isoformat()}cv")
     hero = v1.raster(clips[0], 300) if clips else None
-    place_img(pg, (330, 60, 560, 290), hero, accent)
+    place_img(pg, (330, 60, 560, 470), hero, accent)
+    # tinted panel behind hero for bleed
+    rect(doc, pg, 330, 60, 560, 470, accent, fill=(0.97,0.96,0.93), width=0)
     # title block
     text(pg, (40, 70), "SEYMOUR WINS", size=42, color=INK, fontfile="dmserif")
     text(pg, (40, 112), "DAILY MAGAZINE", size=18, color=accent, bold=True)
@@ -168,10 +170,10 @@ def p_cover(doc, theme, date, evs, issue_no, colonel):
     for e in shown:
         yr = str(e[0])
         body = re.split(r"[:—-]", e[1])[0].strip()
-        body = body if len(body) <= 78 else body[:78] + "..."
-        text(pg, (44, y), yr, size=11, color=accent, bold=True)
-        text(pg, (92, y), body, size=9.5, color=INK)
-        y += 18
+        body = body if len(body) <= 52 else body[:52] + "..."
+        text(pg, (44, y), yr, size=11, color=accent, bold=True, fontfile="dmserif")
+        y = para(pg, 92, y, body, size=9.5, maxw=26, color=INK)
+        y += 4
     # "IN THIS ISSUE" section band -- fills lower half
     by = 470
     rect(doc, pg, 40, by-18, W-40, by-14, accent, fill=accent, width=0)
@@ -186,8 +188,8 @@ def p_cover(doc, theme, date, evs, issue_no, colonel):
     ]
     yy = by + 8
     for s in sections:
-        text(pg, (50, yy), "- " + s, size=10, color=INK)
-        yy += 20
+        yy = para(pg, 50, yy, "- " + s, size=10, maxw=32, color=INK)
+        yy += 2
     # thematic statement block -- fills the lower band
     rect(doc, pg, 40, 620, W-40, 760, (0.94,0.93,0.90), fill=(0.96,0.95,0.92), width=1)
     stmt = v1.THEME_LINES.get(theme, "Winds riding information: the thread continues.")
