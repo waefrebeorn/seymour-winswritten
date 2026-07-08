@@ -1,0 +1,11 @@
+**PAGE:** ALTERNATE UNIVERSE 07/30
+**UNIVERSE:** Alt-History (u_alt-hist)
+**SKILL:** timeline
+**GROUNDING FACT:** 1791: HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day.¹
+**MODE:** SPECULATIVE FICTION (forked from a verified anchor — not a historical claim)
+
+Under a different calendar this date belonged to another empire; still: HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day. This is SPECULATIVE FICTION forked from a verified anchor — not a historical claim.
+
+> **COLONEL (codec transmission):** The hybrid is a compromise the system forced. The supercapacitor is the dream it delayed.
+
+The fossil record above is real. This page is what the feed would have invented if the day had gone differently.

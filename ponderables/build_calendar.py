@@ -379,6 +379,72 @@ def build_constants_volume():
     print(f"PDF: {pdf_path} ({os.path.getsize(pdf_path)} bytes), {len(doc['constants'])} constants")
     return pdf_path
 
+def parse_au(text):
+    meta = {}
+    body = []
+    for ln in text.splitlines():
+        m = ISSUE_RE.match(ln.strip())
+        if m and m.group(1) in ("PAGE", "UNIVERSE", "SKILL", "GROUNDING FACT", "MODE"):
+            meta[m.group(1).lower()] = m.group(2).strip()
+            continue
+        body.append(ln)
+    meta["body"] = "\n".join(body).strip()
+    return meta
+
+def au_html(meta, datestamp):
+    universe = html.escape(meta.get("universe", "AU"))
+    skill = html.escape(meta.get("skill", ""))
+    grounding = html.escape(meta.get("grounding fact", ""))
+    mode = html.escape(meta.get("mode", "SPECULATIVE FICTION"))
+    rendered = render_body(meta.get("body", ""))
+    return f"""
+<section class="entry au">
+  <p class="datestamp">{datestamp}</p>
+  <p class="aulabel">ALTERNATE UNIVERSE &middot; {universe} &middot; SKILL: {skill}</p>
+  <div class="grounding">GROUNDING FACT: {grounding}</div>
+  <div class="modeflag">{mode}</div>
+  {rendered}
+</section>
+<div class="pagebreak"></div>
+"""
+
+def build_year_mv(y):
+    """Annual PDF WITH the multiverse: real day, then its AU pages interleaved."""
+    months = [m for m in range(1, 13) if list_days(y, m)]
+    if not months:
+        print(f"no issues for {y}"); return None
+    css = font_face_css() + CSS
+    parts = [cover_html(y, subtitle="COVID Cambrian Explosion &mdash; the year it all mutated &middot; MULTIVERSE EDITION")]
+    n_au = 0
+    for m in months:
+        for d in list_days(y, m):
+            meta = load_issue(y, m, d)
+            if meta:
+                parts.append(issue_html(meta, datestamp_str(y, m, d)))
+            au_dir = f"{CAL}/{y:04d}/{m:02d}/{d:02d}_au"
+            if os.path.isdir(au_dir):
+                for af in sorted(os.listdir(au_dir)):
+                    if af.endswith(".md"):
+                        am = parse_au(open(f"{au_dir}/{af}").read())
+                        parts.append(au_html(am, datestamp_str(y, m, d)))
+                        n_au += 1
+    full = (f"<!doctype html><html><head><meta charset='utf-8'>"
+            f"<style>{css}</style></head><body>\n" + "\n".join(parts) + "</body></html>")
+    html_path = f"{OUT}/_tmp_{y}_mv.html"
+    with open(html_path, "w") as f:
+        f.write(full)
+    pdf_path = f"{OUT}/seymour_wins_{y}_multiverse.pdf"
+    chrome = shutil.which("chromium") or shutil.which("chromium-browser") or "/snap/bin/chromium"
+    r = subprocess.run([chrome, "--headless", "--no-sandbox", "--disable-gpu",
+                        "--no-pdf-header-footer", f"--print-to-pdf={pdf_path}",
+                        "file://" + html_path], capture_output=True, text=True)
+    if r.returncode != 0:
+        print("CHROMIUM ERR:\n", r.stderr[-1500:]); return None
+    os.remove(html_path)
+    n = sum(len(list_days(y, m)) for m in months)
+    print(f"PDF: {pdf_path} ({os.path.getsize(pdf_path)} bytes), {n} real + {n_au} AU pages")
+    return pdf_path
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if not args:
@@ -388,6 +454,10 @@ if __name__ == "__main__":
         sys.exit(0)
     y = int(args[0])
     through = "--through-years" in args
+    mv = "--multiverse" in args
+    if mv:
+        build_year_mv(y)
+        sys.exit(0)
     if len(args) >= 2 and not through:
         m = int(args[1])
         if len(args) >= 3:
