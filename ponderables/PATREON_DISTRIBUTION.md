@@ -7,19 +7,21 @@ Turns the daily chronicle into Patreon-ready posts:
 - **Yearly COLLECTION posts** — one index post per year linking all individual
   posts, so the catalog is easily accessible in one place.
 
-## Pricing ladder (derived from base doc)
-Source of truth: `SERIES-BIBLE-v1.md` (base project pricing **$7.99–$12.99/volume**).
-Mapped to a Patreon subscription ladder in `patreon_tiers.json`:
+## Pricing ladder (derived from base doc + user directive)
+Spine (user directive 2026-07-08): **$1/week × 52 = $52/year**. Months = volume.
+Years = competent archive. Base print doc `SERIES-BIBLE-v1.md` ($7.99–$12.99/vol)
+is the *physical book* price, distinct from this subscription ladder. Full
+authority in `PRICING.md`; machine-readable in `patreon_tiers.json`.
 
 | Tier | Price | Unlocks | Gating |
 |------|-------|---------|--------|
 | The Feed | Free | Daily issue (1 page), individual + collection posts | public |
-| Ponderable | $5/mo | + weekly chronicle volume PDFs | tier-gated |
-| Archivist | $12/mo | + 30-pages/day MULTIVERSE AU spins | tier-gated |
-| First Principles | $13/mo | + full annual multiverse PDFs | tier-gated |
+| Weekly Reader | $52/yr ($1/wk) | + weekly chronicle volume PDFs (52–53/yr) | tier-gated |
+| Monthly Volume | $120/yr ($10/mo) | + month-as-volume bundle (12/yr) + 30-pg/day AU | tier-gated |
+| Annual Archive | $156/yr | + full annual multiverse PDF (11k+ pp) + archive | tier-gated |
 
-The ladder is anchored to the base doc's price range: $5 sits below the
-$7.99 floor (a monthly slice), $12/$13 bracket the $12.99 top.
+Post-product counts (dry-run, all 7 years): 2,557 daily + 7 collection + 367
+weekly + 84 monthly = 3,015 payloads.
 
 ## ToS compliance (IMPORTANT)
 - Uses the **official Patreon API v2** (OAuth2, `POST /api/oauth2/v2/posts`).

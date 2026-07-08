@@ -104,6 +104,51 @@ def build_collection(year, tmap, individual_posts):
         "product": "collection",
     }
 
+def build_weekly_volume(year, tmap):
+    """One gated post per weekly volume PDF (the $1/week spine product)."""
+    vols = sorted(glob.glob(os.path.join(HERE, "pdf", "volumes", str(year), "*.pdf")))
+    posts = []
+    for v in vols:
+        bn = os.path.basename(v).replace(".pdf", "")
+        # SeymourWins_2020_week01 -> week 01
+        m = re.search(r"week(\d+)", bn)
+        wk = m.group(1) if m else "?"
+        tags = ["seymour-wins", "weekly", str(year), f"week{wk.zfill(2)}"]
+        posts.append({
+            "type": "post",
+            "title": f"Seymour Wins {year} — Weekly Volume {wk.zfill(2)}",
+            "content": (f"Weekly chronicle volume for {year}, week {wk.zfill(2)}.\n\n"
+                        f"This week's daily issues (7 days × 31 pages: 1 real + 30 multiverse AU spins) "
+                        f"compiled into one volume.\n\n*Weekly Reader tier ($1/week) — the spine of the publication.*"),
+            "tags": tags,
+            "tier": "weekly",
+            "date": f"{year}-w{wk.zfill(2)}",
+            "product": "weekly_volume",
+            "pdf": v,
+        })
+    return posts
+
+def build_monthly_volume(year, tmap):
+    """One gated post per MONTH-as-volume (12/yr) + note the AU spins included."""
+    posts = []
+    for mo in range(1, 13):
+        ndays = (datetime.date(year+1, 1, 1) - datetime.date(year, mo, 1)).days if mo == 12 \
+                else (datetime.date(year, mo+1, 1) - datetime.date(year, mo, 1)).days
+        tags = ["seymour-wins", "monthly", "volume", str(year), f"month{mo:02d}"]
+        posts.append({
+            "type": "post",
+            "title": f"Seymour Wins {year} — Volume {mo:02d} (Month {mo:02d})",
+            "content": (f"Month {mo:02d} of {year}, compiled as VOLUME {mo:02d} "
+                        f"(~{ndays} days).\n\nIncludes the month's daily issues plus the "
+                        f"30-pages/day MULTIVERSE alternate-universe spins.\n\n"
+                        f"*Monthly Volume tier ($10/mo) — month = volume.*"),
+            "tags": tags,
+            "tier": "monthly_volume",
+            "date": f"{year}-m{mo:02d}",
+            "product": "month_volume",
+        })
+    return posts
+
 def collect_year(year):
     tj, tmap = load_tier_map()
     indiv = []
@@ -113,21 +158,30 @@ def collect_year(year):
             if p:
                 indiv.append(p)
     coll = build_collection(year, tj, indiv)
-    return indiv, coll
+    weekly = build_weekly_volume(year, tj)
+    monthly = build_monthly_volume(year, tj)
+    return indiv, coll, weekly, monthly
 
-def save_payloads(year, indiv, coll):
+def save_payloads(year, indiv, coll, weekly, monthly):
     yd = os.path.join(OUT, str(year))
     os.makedirs(yd, exist_ok=True)
-    meta = {"year": year, "individual_count": len(indiv), "collection": True}
+    meta = {"year": year, "individual_count": len(indiv), "collection": True,
+            "weekly_volumes": len(weekly), "monthly_volumes": len(monthly)}
     for ip in indiv:
         fn = f"{ip['date']}.json"
         with open(os.path.join(yd, fn), "w") as f:
             json.dump(ip, f, indent=2)
     with open(os.path.join(yd, "collection.json"), "w") as f:
         json.dump(coll, f, indent=2)
+    for w in weekly:
+        with open(os.path.join(yd, f"week_{w['date']}.json"), "w") as f:
+            json.dump(w, f, indent=2)
+    for m in monthly:
+        with open(os.path.join(yd, f"month_{m['date']}.json"), "w") as f:
+            json.dump(m, f, indent=2)
     with open(os.path.join(yd, "_meta.json"), "w") as f:
         json.dump(meta, f, indent=2)
-    return len(indiv)
+    return len(indiv) + 1 + len(weekly) + len(monthly)
 
 # ---------------- sender ----------------
 def load_token():
@@ -190,10 +244,10 @@ def main():
     years = [int(a) for a in args if a.isdigit()] or list(range(2020, 2027))
     total = 0
     for y in years:
-        indiv, coll = collect_year(y)
-        n = save_payloads(y, indiv, coll)
-        total += n + 1  # +collection
-        print(f"  {y}: built {n} individual + 1 collection payload -> patreon_payloads/{y}/", flush=True)
+        indiv, coll, weekly, monthly = collect_year(y)
+        n = save_payloads(y, indiv, coll, weekly, monthly)
+        total += n
+        print(f"  {y}: {len(indiv)} individual + 1 collection + {len(weekly)} weekly + {len(monthly)} monthly -> patreon_payloads/{y}/", flush=True)
     print(f"BUILT {total} post payloads (dry-run={dry}).", flush=True)
     if live:
         token = load_token()

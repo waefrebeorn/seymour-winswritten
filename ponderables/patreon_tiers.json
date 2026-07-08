@@ -1,80 +1,104 @@
 {
-  "derived_from": "ponderables/SERIES-BIBLE-v1.md (base project pricing: $7.99-$12.99 per volume)",
-  "note": "The base doc specifies per-volume PRINT pricing only. This ladder maps that same value range onto a Patreon subscription structure. Tiers are gated via Patreon access rules (benefits/tiers). Single source of truth for the uploader.",
-  "campaign": {
-    "currency": "USD",
-    "base_doc_price_low": 7.99,
-    "base_doc_price_high": 12.99
+  "pricing_spine": {
+    "directive": "User 2026-07-08: $1/page is dumb. Use $1/week x 52 weeks = $52/year. Months = volume. Years = competent archive.",
+    "unit": "week",
+    "weekly_rate_usd": 1,
+    "annual_from_weekly_usd": 52,
+    "structure": "day -> week -> month(volume) -> year(archive)"
   },
+  "derived_from": [
+    "User directive 2026-07-08 ($1/week x 52 spine)",
+    "SERIES-BIBLE-v1.md base print pricing ($7.99-$12.99/vol)",
+    "Market comps: Patreon $5 entry / $10-20 premium (Patreon ~10% + ~3% processing); Uncle John's $6-17/book; weekly newsletters $12/mo or $120/yr; zines $1.50-5/issue"
+  ],
+  "campaign": { "currency": "USD" },
   "tiers": [
     {
       "id": "free",
       "name": "The Feed (Free)",
       "price_usd": 0,
+      "billing": "free",
       "gated": false,
-      "maps_to_base": "Top-of-funnel sample; base doc does not price free content.",
+      "maps_to": "Top-of-funnel. Base doc does not price free content.",
       "unlocks": [
-        "Daily issue (1 real page) as an individual searchable post"
+        "Daily issue (1 real page) — individual searchable posts",
+        "Yearly COLLECTION index post (links all daily posts)"
       ],
       "content_product": "daily_issue"
     },
     {
-      "id": "ponderable",
-      "name": "Ponderable ($5/mo)",
-      "price_usd": 5,
+      "id": "weekly",
+      "name": "Weekly Reader ($1/wk = $52/yr)",
+      "price_usd": 52,
+      "billing": "annual",
       "gated": true,
-      "maps_to_base": "Below base $7.99/vol — monthly slice of one volume's worth of chronicle.",
+      "maps_to": "THE SPINE: $1/week x 52. ~$5/mo equivalent. Replaces per-page $1.",
       "unlocks": [
         "Everything in Free",
-        "Weekly chronicle volume PDF (52-53/week per year) as gated posts"
+        "Weekly chronicle volume PDF (52-53/week per year) — the 1-page/day digest bound by week"
       ],
       "content_product": "weekly_volume"
     },
     {
-      "id": "archivist",
-      "name": "Archivist ($12/mo)",
-      "price_usd": 12,
+      "id": "monthly_volume",
+      "name": "Monthly Volume ($10/mo = $120/yr)",
+      "price_usd": 120,
+      "billing": "annual",
       "gated": true,
-      "maps_to_base": "Anchored to base $12.99 top of range — full multiverse access monthly.",
+      "maps_to": "MONTH = VOLUME (12/yr). Premium 'weird publishing' tier. ~2.3x weekly.",
       "unlocks": [
-        "Everything in Ponderable",
+        "Everything in Weekly",
+        "Month-as-volume bundle PDF (12/yr) — the month compiled as one volume",
         "30-pages/day MULTIVERSE AU spins (alternate-universe posts) gated per day"
       ],
-      "content_product": "multiverse_au"
+      "content_product": "month_volume_plus_au"
     },
     {
-      "id": "first_principles",
-      "name": "First Principles ($13/mo)",
-      "price_usd": 13,
+      "id": "annual_archive",
+      "name": "Annual Archive ($156/yr)",
+      "price_usd": 156,
+      "billing": "annual",
       "gated": true,
-      "maps_to_base": "Just above base $12.99 — complete collected works, annual bundles.",
+      "maps_to": "YEAR = COMPETENT ARCHIVE. 3x weekly. Complete collected works.",
       "unlocks": [
-        "Everything in Archivist",
-        "Full annual multiverse PDF (11k+ pages) + yearly collection index post"
+        "Everything in Monthly Volume",
+        "Full annual multiverse PDF (11k+ pages) — the complete year",
+        "Yearly collection index + permanent archive access"
       ],
       "content_product": "annual_pdf"
     }
   ],
+  "publishing_calendar": {
+    "daily":   { "cadence": "365/yr", "product": "individual issue post", "tier": "free",        "pages": "~1" },
+    "weekly":  { "cadence": "52-53/yr", "product": "weekly volume PDF",   "tier": "weekly",      "pages": "~217 (7 days x 31)" },
+    "monthly": { "cadence": "12/yr",   "product": "month volume + AU",    "tier": "monthly_volume", "pages": "~940 (4-5 wks x 217) + 30/day AU" },
+    "yearly":  { "cadence": "1/yr",    "product": "annual archive PDF",   "tier": "annual_archive", "pages": "~11,300" }
+  },
   "post_model": {
     "individual": {
       "description": "One Patreon post per daily issue. Searchable via tags. Free tier (public).",
-      "tags": ["seymour-wins", "<theme>", "<year>", "<MMDD>", "daily", "<stream-topics>"],
-      "tier": "free"
-    },
-    "multiverse_individual": {
-      "description": "One Patreon post per day's 30 AU spins (or split into a few). Gated to Archivist.",
-      "tags": ["seymour-wins", "multiverse", "<theme>", "<year>", "<MMDD>"],
-      "tier": "archivist"
-    },
-    "collection": {
-      "description": "One yearly COLLECTION post indexing all that year's individual posts. Public hub for accessibility.",
-      "tags": ["seymour-wins", "collection", "<year>"],
+      "tags": ["seymour-wins", "<theme>", "<year>", "<MMDD>", "daily"],
       "tier": "free"
     },
     "weekly_volume": {
-      "description": "One gated post per weekly volume PDF (links/attaches the local PDF). Gated to Ponderable.",
+      "description": "One gated post per weekly volume (links/attaches the local week PDF). Gated to Weekly.",
       "tags": ["seymour-wins", "weekly", "<year>", "week<NN>"],
-      "tier": "ponderable"
+      "tier": "weekly"
+    },
+    "monthly_volume": {
+      "description": "One gated post per month-as-volume (links/attaches the month bundle + AU spins). Gated to Monthly Volume.",
+      "tags": ["seymour-wins", "monthly", "volume", "<year>", "month<NN>"],
+      "tier": "monthly_volume"
+    },
+    "multiverse_individual": {
+      "description": "One gated post per day's 30 AU spins. Gated to Monthly Volume.",
+      "tags": ["seymour-wins", "multiverse", "<theme>", "<year>", "<MMDD>"],
+      "tier": "monthly_volume"
+    },
+    "collection_yearly": {
+      "description": "One yearly COLLECTION post indexing all that year's individual posts. Public hub for accessibility.",
+      "tags": ["seymour-wins", "collection", "<year>"],
+      "tier": "free"
     }
   }
 }
