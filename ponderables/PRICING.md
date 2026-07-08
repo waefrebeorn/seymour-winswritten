@@ -1,40 +1,48 @@
-# SEYMOUR WINS — PRICING STRUCTURE (v2, 2026-07-08)
+# SEYMOUR WINS — PRICING STRUCTURE (v3, 2026-07-08 reframe)
 
-## Spine (directive)
-> "$1 a page is dumb. It's $1 a week, 52 weeks a year. Months = volume. Years = competent archive."
+## Why v3 (the logic fix)
+v2 let a **Weekly Reader ($52/yr)** subscriber capture the entire real chronicle
+with zero reason to ascend — the upper tiers only rebundled the same content
+into bigger chunks. That capped revenue at $52/sub and broke the funnel.
 
-- **Unit of sale: the WEEK.** `$1/week × 52 = $52/year`.
-- **Month = a VOLUME** (12 volumes/year).
-- **Year = the COMPETENT ARCHIVE** (the whole collected year).
+**Fix (principle):**
+1. **Free = funnel only** (daily real 1-pager, searchable for discovery). Never the full experience.
+2. **$1/issue anchors the true per-day value** of the FULL daily (real + 30 AU).
+3. **Each ascending tier adds EXCLUSIVE content** (not just rebundling), so subscribers want to climb.
+4. **Commitment discount**: longer commitment = lower $/day, but ONLY the Annual tier is "complete" + gets the exclusives.
 
-## Tiers (anchored to spine + market comps)
-| Tier | Price | Billing | Unlocks | Gating |
-|------|-------|---------|---------|--------|
-| **The Feed** | Free | — | Daily issue (1 pg) + yearly collection index | public |
-| **Weekly Reader** | **$52/yr** ($1/wk) | annual | + weekly chronicle volume PDFs (52–53/yr) | gated |
-| **Monthly Volume** | **$120/yr** ($10/mo) | annual | + month-as-volume bundle (12/yr) + 30-pg/day MULTIVERSE AU | gated |
-| **Annual Archive** | **$156/yr** | annual | + full annual multiverse PDF (11k+ pp) + permanent archive | gated |
+## Tiers
+| Tier | Price | Gets | Exclusive add | $/day |
+|------|-------|------|---------------|-------|
+| **The Feed** | Free | Daily real issue (1pg), searchable | — (funnel) | $0 |
+| **The Spinner** | **$1/issue** (~$30/mo cap) | FULL daily = real + 30 AU pages, every day | — | $1.00 |
+| **Weekly Reader** | **$3/wk ($156/yr)** | 7 full issues compiled weekly (217pp) + weekly Colonel codec | weekly codec page | $0.43 |
+| **Monthly Volume** | **$10/mo ($120/yr)** | weekly + month-as-volume (940pp) | **exclusive** monthly Colonel briefing essay + AU-theme poll | $0.33 |
+| **Annual Archive** | **$99/yr** | everything + complete annual PDF (11,300pp) | **exclusive** yearbook framing essay + 20% off print Ponderables | $0.27 |
 
-### Why these numbers
-- **$1/week ($52/yr)** is the spine — exactly the directive. ~$4.33/mo equivalent, sits just above Patreon's usual $5 entry but maps to a *weekly product*, not a month.
-- **$10/mo ($120/yr)** = the "premium weird-publishing" tier (Patreon norms: $10–20 premium; Uncle John's $6–17/book; weekly newsletters $12/mo or $120/yr). Month = volume.
-- **$156/yr** = 3× weekly, the complete archive. Below Trends.co ($299/yr) but we ship far more volume.
-- **Patreon cut**: ~10% platform + ~3% processing → net ~$47 / $108 / $140 per sub/yr. Honest math for the user.
+## The ascent logic (no more dead-end)
+- Free subscriber reads 1pg/day → hits the AU wall → buys **Spinner ($1/issue)** for the full weird daily.
+- Spinner reader likes the bundle → **Weekly ($3/wk)** for the compiled volume + codec, cheaper $/day.
+- Weekly reader wants the **exclusive Colonel essay + poll** → **Monthly ($10/mo)**.
+- Monthly reader wants the **complete archive + yearbook + print discount** → **Annual ($99/yr)**, the only complete tier, cheapest $/day.
+
+Every tier reserves something the cheaper one lacks → natural climb, no $52 ceiling.
 
 ## Publishing strategy (constant cadence)
 | Cadence | Count/yr | Product | Tier | Pages |
 |---------|----------|---------|------|-------|
-| Daily | 365 | Individual issue post (searchable) | Free | ~1 |
-| Weekly | 52–53 | Weekly volume PDF (7 days × 31pp) | Weekly Reader | ~217 |
-| Monthly | 12 | Month volume + 30/day AU spins | Monthly Volume | ~940 + AU |
-| Yearly | 1 | Annual archive PDF (complete year) | Annual Archive | ~11,300 |
+| Daily | 365 | Issue post (real free; full+AU gated Spinner) | Free/Spinner | ~1 / ~31 |
+| Weekly | 52–53 | Weekly volume PDF + codec | Weekly Reader | ~217 |
+| Monthly | 12 | Month volume + AU + Colonel essay | Monthly Volume | ~940 + AU |
+| Yearly | 1 | Annual archive PDF | Annual Archive | ~11,300 |
 
-This is the "constant publishing strategy": every day a post drops (free, searchable), every week a volume compiles, every month a volume + AU ships, every year the archive closes. No gaps — the content engine already produces 2,557 daily issues + 76,560 AU pages, so cadence is fully backed.
+Content engine already backs all cadence: 2,557 daily issues + 76,560 AU pages + 367 weekly volumes. Zero gaps.
 
 ## Source traceability
-- Spine: user directive 2026-07-08 (overrides old $1/page and $7.99–$12.99/vol print model).
-- Base print doc: `SERIES-BIBLE-v1.md` ($7.99–$12.99/vol) — now the *print* price for physical Ponderables books, distinct from the *subscription* ladder above.
-- Comps: Patreon tiers guide ($5/$10–20), Uncle John's ($6–17), weekly newsletters ($12/mo, $120/yr), zines ($1.50–5).
+- Spine: user directive 2026-07-08 (overrides $1/page). $1/issue anchor + exclusive-tier reframe also 2026-07-08.
+- Base print doc `SERIES-BIBLE-v1.md` ($7.99–$12.99/vol) = **physical book** price, separate from subscription ladder.
+- Comps: Patreon $5/$10–20; Uncle John's $6–17; weekly newsletters $12/mo–$120/yr; zines $1.50–5.
+- Patreon take: ~10% platform + ~3% processing → net ~$0/$329/$141/$108/$89 per sub/yr (free/spinner/weekly/monthly/annual).
 
 ## Machine-readable
-`patreon_tiers.json` is the single source of truth for the uploader. This doc is human-readable authority. Keep them in sync.
+`patreon_tiers.json` is the single source of truth for the uploader. Keep in sync.

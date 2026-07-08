@@ -1,15 +1,15 @@
 {
   "pricing_spine": {
-    "directive": "User 2026-07-08: $1/page is dumb. Use $1/week x 52 weeks = $52/year. Months = volume. Years = competent archive.",
-    "unit": "week",
-    "weekly_rate_usd": 1,
-    "annual_from_weekly_usd": 52,
-    "structure": "day -> week -> month(volume) -> year(archive)"
+    "directive": "User 2026-07-08: $1/page is dumb -> $1/week x 52. User 2026-07-08 (reframe): tiers must not let a weekly subscriber capture everything; use $1/issue anchor + exclusive content per tier.",
+    "unit": "issue (full daily = real + AU)",
+    "per_issue_anchor_usd": 1,
+    "structure": "day -> week -> month(volume) -> year(archive)",
+    "principle": "Free=funnel. $1/issue anchors value. Each ascending tier adds EXCLUSIVE content (not just rebundle). Commitment discount: longer commit = lower $/day, but only Annual is 'complete'."
   },
   "derived_from": [
-    "User directive 2026-07-08 ($1/week x 52 spine)",
-    "SERIES-BIBLE-v1.md base print pricing ($7.99-$12.99/vol)",
-    "Market comps: Patreon $5 entry / $10-20 premium (Patreon ~10% + ~3% processing); Uncle John's $6-17/book; weekly newsletters $12/mo or $120/yr; zines $1.50-5/issue"
+    "User directive 2026-07-08 ($1/week spine + $1/issue reframe)",
+    "SERIES-BIBLE-v1.md base print pricing ($7.99-$12.99/vol) = PHYSICAL book price, separate",
+    "Market comps: Patreon $5 entry/$10-20 premium; Uncle John's $6-17/book; weekly newsletters $12/mo-$120/yr; zines $1.50-5/issue"
   ],
   "campaign": { "currency": "USD" },
   "tiers": [
@@ -19,86 +19,62 @@
       "price_usd": 0,
       "billing": "free",
       "gated": false,
-      "maps_to": "Top-of-funnel. Base doc does not price free content.",
-      "unlocks": [
-        "Daily issue (1 real page) — individual searchable posts",
-        "Yearly COLLECTION index post (links all daily posts)"
-      ],
+      "maps_to": "Funnel. Daily real issue (1pg) only — searchable for discovery. Never the full experience.",
+      "unlocks": ["Daily real issue (1pg) — individual searchable posts", "Yearly COLLECTION index post"],
       "content_product": "daily_issue"
     },
     {
-      "id": "weekly",
-      "name": "Weekly Reader ($1/wk = $52/yr)",
-      "price_usd": 52,
-      "billing": "annual",
+      "id": "spinner",
+      "name": "The Spinner ($1/issue)",
+      "price_usd": 365,
+      "billing": "per-issue (~$30/mo cap)",
       "gated": true,
-      "maps_to": "THE SPINE: $1/week x 52. ~$5/mo equivalent. Replaces per-page $1.",
-      "unlocks": [
-        "Everything in Free",
-        "Weekly chronicle volume PDF (52-53/week per year) — the 1-page/day digest bound by week"
-      ],
+      "maps_to": "ANCHOR: $1 for the FULL daily (real + 30 AU pages). Establishes per-day value.",
+      "unlocks": ["Everything in Free", "FULL daily issue = real + 30-page MULTIVERSE AU spins, every day"],
+      "content_product": "daily_full_au"
+    },
+    {
+      "id": "weekly",
+      "name": "Weekly Reader ($3/wk = $156/yr)",
+      "price_usd": 156,
+      "billing": "annual (billed weekly-flex)",
+      "gated": true,
+      "maps_to": "7 full issues compiled weekly. $3 vs $7 per-issue = discount, but flexible (no hard commit).",
+      "unlocks": ["Everything in Spinner", "Weekly chronicle volume PDF (217pp) + weekly Colonel codec page"],
       "content_product": "weekly_volume"
     },
     {
-      "id": "monthly_volume",
+      "id": "monthly",
       "name": "Monthly Volume ($10/mo = $120/yr)",
       "price_usd": 120,
-      "billing": "annual",
+      "billing": "annual (billed monthly)",
       "gated": true,
-      "maps_to": "MONTH = VOLUME (12/yr). Premium 'weird publishing' tier. ~2.3x weekly.",
-      "unlocks": [
-        "Everything in Weekly",
-        "Month-as-volume bundle PDF (12/yr) — the month compiled as one volume",
-        "30-pages/day MULTIVERSE AU spins (alternate-universe posts) gated per day"
-      ],
+      "maps_to": "MONTH = VOLUME. More content, lower $/day than weekly (commitment discount).",
+      "unlocks": ["Everything in Weekly", "Month-as-volume bundle (940pp)", "EXCLUSIVE monthly Colonel briefing essay", "AU-theme community poll"],
       "content_product": "month_volume_plus_au"
     },
     {
-      "id": "annual_archive",
-      "name": "Annual Archive ($156/yr)",
-      "price_usd": 156,
-      "billing": "annual",
+      "id": "annual",
+      "name": "Annual Archive ($99/yr)",
+      "price_usd": 99,
+      "billing": "annual (one-time)",
       "gated": true,
-      "maps_to": "YEAR = COMPETENT ARCHIVE. 3x weekly. Complete collected works.",
-      "unlocks": [
-        "Everything in Monthly Volume",
-        "Full annual multiverse PDF (11k+ pages) — the complete year",
-        "Yearly collection index + permanent archive access"
-      ],
+      "maps_to": "YEAR = COMPETENT ARCHIVE. Only 'complete' tier. Cheapest $/day (hardest commit).",
+      "unlocks": ["Everything in Monthly", "Full annual multiverse PDF (11,300pp)", "EXCLUSIVE yearbook framing essay", "20% off any print Ponderables book"],
       "content_product": "annual_pdf"
     }
   ],
   "publishing_calendar": {
-    "daily":   { "cadence": "365/yr", "product": "individual issue post", "tier": "free",        "pages": "~1" },
-    "weekly":  { "cadence": "52-53/yr", "product": "weekly volume PDF",   "tier": "weekly",      "pages": "~217 (7 days x 31)" },
-    "monthly": { "cadence": "12/yr",   "product": "month volume + AU",    "tier": "monthly_volume", "pages": "~940 (4-5 wks x 217) + 30/day AU" },
-    "yearly":  { "cadence": "1/yr",    "product": "annual archive PDF",   "tier": "annual_archive", "pages": "~11,300" }
+    "daily":   { "cadence": "365/yr", "product": "individual issue post (real 1pg free; full+AU gated Spinner)", "tier": "free/spinner", "pages": "~1 / ~31" },
+    "weekly":  { "cadence": "52-53/yr", "product": "weekly volume PDF", "tier": "weekly", "pages": "~217" },
+    "monthly": { "cadence": "12/yr",   "product": "month volume + AU + Colonel essay", "tier": "monthly", "pages": "~940 + AU" },
+    "yearly":  { "cadence": "1/yr",    "product": "annual archive PDF",   "tier": "annual", "pages": "~11,300" }
   },
   "post_model": {
-    "individual": {
-      "description": "One Patreon post per daily issue. Searchable via tags. Free tier (public).",
-      "tags": ["seymour-wins", "<theme>", "<year>", "<MMDD>", "daily"],
-      "tier": "free"
-    },
-    "weekly_volume": {
-      "description": "One gated post per weekly volume (links/attaches the local week PDF). Gated to Weekly.",
-      "tags": ["seymour-wins", "weekly", "<year>", "week<NN>"],
-      "tier": "weekly"
-    },
-    "monthly_volume": {
-      "description": "One gated post per month-as-volume (links/attaches the month bundle + AU spins). Gated to Monthly Volume.",
-      "tags": ["seymour-wins", "monthly", "volume", "<year>", "month<NN>"],
-      "tier": "monthly_volume"
-    },
-    "multiverse_individual": {
-      "description": "One gated post per day's 30 AU spins. Gated to Monthly Volume.",
-      "tags": ["seymour-wins", "multiverse", "<theme>", "<year>", "<MMDD>"],
-      "tier": "monthly_volume"
-    },
-    "collection_yearly": {
-      "description": "One yearly COLLECTION post indexing all that year's individual posts. Public hub for accessibility.",
-      "tags": ["seymour-wins", "collection", "<year>"],
-      "tier": "free"
-    }
+    "individual_real":  { "description": "Daily REAL issue (1pg). Free, searchable.", "tags": ["seymour-wins","<theme>","<year>","<MMDD>","daily"], "tier": "free" },
+    "individual_full":  { "description": "FULL daily (real + 30 AU). Gated Spinner ($1/issue).", "tags": ["seymour-wins","multiverse","<theme>","<year>","<MMDD>"], "tier": "spinner" },
+    "weekly_volume":    { "description": "Weekly volume PDF. Gated Weekly.", "tags": ["seymour-wins","weekly","<year>","week<NN>"], "tier": "weekly" },
+    "monthly_volume":   { "description": "Month-as-volume + AU + Colonel essay. Gated Monthly.", "tags": ["seymour-wins","monthly","volume","<year>","month<NN>"], "tier": "monthly" },
+    "collection_yearly":{ "description": "Yearly collection index. Public hub.", "tags": ["seymour-wins","collection","<year>"], "tier": "free" }
   }
 }
