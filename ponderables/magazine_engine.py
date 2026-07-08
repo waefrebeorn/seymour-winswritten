@@ -24,7 +24,7 @@ Principles:
 
 Requires: uv run --with cairosvg --with pymupdf python3 magazine_engine.py [opts]
 """
-import os, re, json, glob, random, datetime, argparse, time, urllib.request, urllib.parse, urllib.error
+import os, re, json, glob, random, datetime, argparse, time, sys, urllib.request, urllib.parse, urllib.error
 from collections import defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -216,15 +216,23 @@ def wiki_pd_image(query, seed):
 
 # --- PDF helpers ---
 def raster(svg_path, w=320):
-    import cairosvg
-    png = svg_path.rsplit(".",1)[0] + f"_r{w}.png"
-    if not os.path.exists(png):
-        try:
-            cairosvg.svg2png(url=svg_path, write_to=png, output_width=w)
-        except Exception as e:
-            # malformed SVG (unclosed token / bad XML) — skip it
-            return None
-    return png
+    """Rasterize an SVG to PNG via the cairosvg CLI in a subprocess with a
+    hard timeout. cairosvg can INFINITE-LOOP (not raise) on malformed
+    gradient/href references, so we must time-box it; a hang => skip."""
+    import subprocess
+    png = svg_path.rsplit(".", 1)[0] + f"_r{w}.png"
+    if os.path.exists(png) and os.path.getsize(png) > 0:
+        return png
+    try:
+        subprocess.run(
+            [sys.executable, "-m", "cairosvg", svg_path, "-o", png, "-W", str(w)],
+            timeout=12, capture_output=True, check=False,
+        )
+    except (subprocess.TimeoutExpired, Exception):
+        return None
+    if os.path.exists(png) and os.path.getsize(png) > 0:
+        return png
+    return None
 
 def _factoid_text(year, month, day):
     p = os.path.join(FAC, str(year), f"{year}-{month:02d}-{day:02d}.json")
