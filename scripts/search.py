@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
-"""
-Seymour Free Search Engine
+"""Seymour Free Absorb Engine
 ===========================
 Multi-layered search tool that avoids API key usage.
 
 Layers:
   1. DuckDuckGo Instant Answer API (no key, instant facts)
   2. SearXNG self-hosted meta-search (no key, full web search)
-  3. Direct web scraping fallback (BeautifulSoup)
+  3. Direct web page absorb fallback (BeautifulSoup)
 
 Usage:
-  python3 search.py "query" [--layer all|ddg|searx|scrape] [--count 10] [--json]
+  python3 search.py "query" [--layer all|ddg|searx|absorb] [--count 10] [--json]
 """
 
 import sys
@@ -180,11 +179,11 @@ def searxng_search(query: str, count: int = 10, categories: str = "general") -> 
     except Exception as e:
         return {"layer": "searxng", "query": query, "error": str(e)}
 
-# ── Layer 3: Direct Web Scraping ───────────────────────────────────────────────
+# ── Layer 3: Direct Web Page Absorb ───────────────────────────────────────────────
 
-def scrape_page(url: str) -> dict:
+def absorb_page(url: str) -> dict:
     """
-    Direct web page scraping fallback.
+    Direct web page content absorb fallback.
     Uses urllib + basic HTML parsing. No external dependencies.
     """
     try:
@@ -227,7 +226,7 @@ def scrape_page(url: str) -> dict:
         text = re.sub(r'\s+', ' ', text).strip()
 
         return {
-            "layer": "scrape",
+            "layer": "absorb",
             "url": url,
             "title": title,
             "description": description,
@@ -236,7 +235,7 @@ def scrape_page(url: str) -> dict:
         }
 
     except Exception as e:
-        return {"layer": "scrape", "url": url, "error": str(e)}
+        return {"layer": "absorb", "url": url, "error": str(e)}
 
 # ── Unified Search ─────────────────────────────────────────────────────────────
 
@@ -244,10 +243,10 @@ def search(query: str, layer: str = "all", count: int = 10) -> dict:
     """
     Unified search across all available layers.
     
-    layer="all"     → DDG + SearXNG + scrape top result
+    layer="all"     → DDG + SearXNG + absorb top result
     layer="ddg"     → DuckDuckGo Instant Answer only
     layer="searxng" → SearXNG meta-search only
-    layer="scrape"  → Direct scrape of a URL (query must be a URL)
+    layer="absorb"  → Direct absorb of a URL (query must be a URL)
     """
     if layer == "ddg":
         return ddg_search(query)
@@ -255,10 +254,10 @@ def search(query: str, layer: str = "all", count: int = 10) -> dict:
     if layer == "searxng":
         return searxng_search(query, count=count)
 
-    if layer == "scrape":
+    if layer == "absorb":
         if not query.startswith("http"):
-            return {"error": "Scrape layer requires a URL as query"}
-        return scrape_page(query)
+            return {"error": "Absorb layer requires a URL as query"}
+        return absorb_page(query)
 
     # Layer "all" — combine DDG + SearXNG
     result = {
@@ -275,12 +274,12 @@ def search(query: str, layer: str = "all", count: int = 10) -> dict:
     searx = searxng_search(query, count=count)
     result["layers"]["searxng"] = searx
 
-    # If SearXNG returned results, scrape the top one for full text
+    # If SearXNG returned results, absorb the top one for full text
     if searx.get("results"):
         top_url = searx["results"][0].get("url", "")
         if top_url:
-            scrape = scrape_page(top_url)
-            result["layers"]["top_page"] = scrape
+            absorbed = absorb_page(top_url)
+            result["layers"]["top_page"] = absorbed
 
     return result
 
@@ -289,8 +288,8 @@ def search(query: str, layer: str = "all", count: int = 10) -> dict:
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Seymour Free Search Engine")
-    parser.add_argument("query", help="Search query or URL (for scrape layer)")
-    parser.add_argument("--layer", default="all", choices=["all", "ddg", "searxng", "scrape"])
+    parser.add_argument("query", help="Search query or URL (for absorb layer)")
+    parser.add_argument("--layer", default="all", choices=["all", "ddg", "searxng", "absorb"])
     parser.add_argument("--count", type=int, default=10, help="Number of results")
     parser.add_argument("--json", action="store_true", help="Output raw JSON")
     parser.add_argument("--searxng-url", default=None, help="SearXNG base URL")
@@ -351,10 +350,10 @@ def main():
                         print(f"     [via {r['source']}]")
                 print()
 
-        if args.layer == "scrape" or (args.layer == "all" and result.get("layers", {}).get("top_page")):
+        if args.layer == "absorb" or (args.layer == "all" and result.get("layers", {}).get("top_page")):
             tp = result.get("layers", {}).get("top_page", result)
             if tp.get("error"):
-                print(f"⚠️  Scrape: {tp['error']}\n")
+                print(f"⚠️  Absorb: {tp['error']}\n")
             else:
                 print(f"📄 TOP PAGE: {tp.get('title', '')}")
                 print(f"   URL: {tp.get('url', args.query)}")

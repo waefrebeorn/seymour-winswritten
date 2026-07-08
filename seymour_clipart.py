@@ -30,7 +30,7 @@ CLIPART_DIR = PROJECT_DIR / "clipart"
 METADATA_DIR = PROJECT_DIR / "clipart-metadata"
 PONDERABLES_DIR = PROJECT_DIR / "ponderables"
 
-# IA collections to scrape for 90s clipart
+# IA collections to absorb for 90s clipart
 IA_CLIPART_COLLECTIONS = [
     "web-clipart-1",
     "clickart-200000",

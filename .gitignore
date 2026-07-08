@@ -102,3 +102,9 @@ factoids/
 # === Magazine engine: built PDFs + downloaded wiki image cache (local only) ===
 pdf/magazine/
 pdf/magazine_imgs/
+# === Rasterization byproducts (cairosvg -> png caches next to SVGs) ===
+assets/clipart/**/*_r*.png
+# === Bulk clipart scratch download (intermediate, not product) ===
+assets/bulk/
+# === Local status scratch files ===
+ABSORPTION_STATUS.md
