@@ -28,3 +28,67 @@ __pycache__/
 .venv/
 venv/
 raw_archives
+
+# Credentials & cookies (never commit)
+*cookies*.txt
+*cookie*.txt
+*.pem
+*.key
+*.crt
+.env
+.env.*
+config.json
+credentials*
+secrets*
+token*
+*secret*
+*credential*
+
+# Build artifacts
+*.o
+scraper/engine/*.o
+scraper/engine/scraper_c11
+scraper/engine/whisper_fallback
+scraper/engine/fuzz_*
+scraper/engine/cdp_client.o
+scraper/engine/http_raw.o
+scraper/engine/video_store.o
+scraper/engine/scraper_main.o
+
+# Logs & runtime artifacts
+*.log
+whiteboard/seymour-pipe/cookies.txt
+whiteboard/seymour-pipe/*.log
+whiteboard/seymour-pipe/audio/
+whiteboard/seymour-pipe/whisper_transcripts/
+whiteboard/seymour-pipe/browser_extract_progress.json
+whiteboard/seymour-pipe/engagement_progress.json
+whiteboard/youtube-context/
+whiteboard/seymour-pipe/captions/
+whiteboard/seymour-pipe/whisper_videos.txt
+whiteboard/seymour-pipe/problematic_videos.json
+whiteboard/seymour-pipe/retry_cdp_videos.txt
+whiteboard/seymour-pipe/whisper_remaining.txt
+whiteboard/seymour-pipe/video_ids.txt
+whiteboard/seymour-pipe/scraper_final_results.jsonl
+whiteboard/seymour-pipe/scraper_final_stderr.log
+whiteboard/seymour-pipe/scraper_retry_stderr.log
+# Scraper data (regenerable)
+scraper/data/transcripts/
+scraper/data/timestamp_index.json
+scraper/corpus/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# === PRODUCT PDFs (SELLABLE — never push to GitHub) ===
+# The PDFs are the product we sell; they live on local disk only.
+# Source (markdown issues, AU pages, scripts) is pushed; PDFs are regenerable
+# via build_calendar.py / multiverse.py and must NOT be committed.
+ponderables/pdf/
+pdf/
+*.pdf
