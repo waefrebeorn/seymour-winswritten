@@ -307,7 +307,10 @@ def cmd_clipart(args):
 
     for base_name in batch:
         print(f"  {base_name}...", end=" ", flush=True)
-        result = categorize_image(base_name)
+        try:
+            result = categorize_image(base_name)
+        except Exception as _e:
+            result = {"error": f"uncaught: {_e}"}
         if "category" in result:
             progress.setdefault("completed", []).append(base_name)
             progress.setdefault("results", {})[base_name] = result
@@ -925,8 +928,11 @@ Respond with ONLY the category name."""
     except Exception as e:
         return {"error": str(e)}
     finally:
-        if png_path.exists():
-            png_path.unlink()
+        try:
+            if png_path.exists():
+                png_path.unlink()
+        except Exception:
+            pass
 
 def update_wiki():
     with open(CATALOG_DIR / "progress.json") as f:
