@@ -1,0 +1,56 @@
+{
+  "model": "back_catalog",
+  "principle": "ONE PAGE = ONE PAGE. No fluff inflation (unlike Uncle John's editorial padding). Value is per-page, consistent across all products.",
+  "page_value_usd": 0.10,
+  "constraint": "Every sold page must carry a genuine factoid (history + stream lens + Colonel) or genuine clipart. No filler pages.",
+  "catalog": {
+    "pre_2026_years": ["2020", "2021", "2022", "2023", "2024", "2025"],
+    "note": "Most buyers only arrive in 2026. Pre-2026 = back catalog sold as ONE-TIME volume buys (artwork gathered in the past timeline). 2026+ = subscription (future-timeline works)."
+  },
+  "volume_tiers": {
+    "single_volume": {
+      "what": "One weekly volume PDF (~217pp: 7 days x 31)",
+      "price_usd": 21.70,
+      "math": "217pp x $0.10",
+      "tier": "one_time_buy"
+    },
+    "year_as_volumes": {
+      "what": "One year split into 52-53 weekly volumes, bought individually OR as a year set",
+      "price_per_volume_usd": 21.70,
+      "year_set_usd": 520,
+      "math": "52 x $10 (weekly sub equiv) or 52 x $21.70 a la carte; year-set discounts to ~$10/wk equivalent",
+      "tier": "one_time_buy"
+    },
+    "three_year_bundle": {
+      "what": "2020-2022 OR 2023-2025 (three consecutive years) as a complete back-catalog bundle",
+      "pages": "~2100 per year x 3 = ~6300pp",
+      "price_usd": 315,
+      "math": "6300pp x $0.05 (bundle discount, half page-value) — rewards bulk, still honest per-page",
+      "tier": "one_time_bundle",
+      "why": "Most new buyers (arrived 2026) want the whole origin story cheap. 3-year chunk = the 'origin trilogy'."
+    },
+    "complete_back_catalog": {
+      "what": "All 6 pre-2026 years (2020-2025), ~12,600pp",
+      "price_usd": 520,
+      "math": "12600pp x $0.041 (deep bundle discount)",
+      "tier": "one_time_bundle",
+      "why": "The collector's shelf. One price, the entire past timeline."
+    }
+  },
+  "split_doctrine": {
+    "past_timeline": {
+      "sells_as": "ONE-TIME volume buys (artwork + factoids gathered 2020-2025)",
+      "reason": "Fixed product. No recurring obligation. Buy the history once."
+    },
+    "future_timeline": {
+      "sells_as": "SUBSCRIPTION (2026+ daily issues, volumes, AU, archive)",
+      "reason": "Ongoing work. Recurring value. Tiers per PRICING.md."
+    },
+    "cross_promo": "Back-catalog buyers get 20% off first subscription month (links the one-time + recurring)."
+  },
+  "self_reference": {
+    "system": "From 2026, stream 'concept' references are tagged by the transcript pipeline. Each new factoid cites its 'pastor' (prior tagged work) so the system builds on itself.",
+    "tag_file": "ponderables/concept_tags.json",
+    "use": "factoid_engine.py reads concept_tags to cross-link; the subscription (future timeline) surfaces these as 'continued threads'."
+  }
+}
