@@ -18,6 +18,9 @@ TRANS = os.path.join(HERE, "normalized_transcripts")
 OUT = os.path.join(HERE, "concept_tags.json")
 
 # concept -> regex (case-insensitive)
+# NOTE: the 9 core themes stay, but we STOP hammerheading them by adding
+# the genuinely recurring topics mined from 1.1M words of real transcripts
+# (freq scan, not the old hand-picked set). These give factoids NEW pastors.
 CONCEPTS = {
     "penny": r"\b(penny|pennies|penny gospel|street penny)\b",
     "supercap": r"\b(super ?capacitor|supercap|capacitor|generator hybrid|grid freedom)\b",
@@ -28,6 +31,16 @@ CONCEPTS = {
     "paulsen": r"\b(paulsen|hatchet|foster|100 books|gary paulsen)\b",
     "meme": r"\b(meme|mimetic|viral|replicate)\b",
     "colonel": r"\b(colonel|metal gear|mgs2|create context)\b",
+    # --- NEW topics from stream mining (2026-07-08) ---
+    "music": r"\b(music|song|play ?list|spotify|turn the music|put the music)\b",
+    "homestarrunner": r"\b(home ?star ?runner|strong bad|the cheat|trogdor)\b",
+    "fortnite": r"\b(fortnite|fortnight)\b",
+    "discord": r"\b(discord|screen ?share|the discord)\b",
+    "obama": r"\b(obama|barack)\b",
+    "metaldetector": r"\b(metal detector|metal detect)\b",
+    "rave": r"\b(rave|light switch rave)\b",
+    "techrant": r"\b(windows update|xbox|d-?pad|driver|blue ?screen|patch tuesday)\b",
+    "chatbit": r"\b(smoke crack|guess the color|beanie|chat tells you)\b",
 }
 
 def tag_all():

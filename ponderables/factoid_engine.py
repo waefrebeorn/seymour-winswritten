@@ -33,7 +33,26 @@ THEMES = {
     "internet": "the open web — scraped, absorbed, re-served as context",
     "paulsen":  "Gary Paulsen — Hatchet, the foster-kid who read 100 books by lamplight",
     "meme":     "the meme — the unit of culture that replicates whether you like it or not",
+    # --- NEW topics mined from real transcripts (2026-07-08) ---
+    # These are surfaced to STOP hammerheading the 9 core themes. Weighted
+    # 2x in selection (see weighted_themes) so fresh pastors dominate.
+    "music":     "the music on stream — playlists, the song that loops, the beat behind the grind",
+    "homestarrunner": "HomeStar Runner — Strong Bad, the Cheat, Trogdor; the flash era we absorbed",
+    "fortnite":  "Fortnite — the fashion shows, the dying game, the emote that says it all",
+    "discord":   "Discord — the screen-share, the community, the server that never sleeps",
+    "obama":     "the Obama message — the bit at the end of the stream, the callback that lands",
+    "metaldetector": "the Tarantula Black metal detector — the haunted-history hobby, the dig",
+    "rave":      "the Rave light-switch — the room flick, the charger, the bit we keep",
+    "techrant":  "the tech rant — Windows updates, Xbox D-pad drift, the patch that broke it",
+    "chatbit":   "the chat bit — Guess the Color, the beanie, the guy telling you to smoke crack",
 }
+
+# Weighted selection: new topics get 2x weight so factoids stop hammerheading
+# the 9 core themes and start citing fresh pastors from the stream timeline.
+_CORE = ["penny", "supercap", "versa", "gaming", "cuda", "internet", "paulsen", "meme"]
+_NEW = ["music", "homestarrunner", "fortnite", "discord", "obama",
+        "metaldetector", "rave", "techrant", "chatbit"]
+WEIGHTED_THEMES = _CORE + _NEW * 2
 
 COLONEL = [
     "Create context, not control content.",
@@ -48,7 +67,13 @@ def find_pastor(theme):
     kw = {"penny":["penny","pennies","cent"], "supercap":["capacitor","supercap","generator","battery"],
           "versa":["versa","nissan","commute","mpg","gas"], "gaming":["game","raid","stream","player","boss"],
           "cuda":["cuda","gpu","kernel","inference","model"], "internet":["internet","web","site","online","data"],
-          "paulsen":["paulsen","hatchet","book","read"], "meme":["meme","post","twitter","video"]}
+          "paulsen":["paulsen","hatchet","book","read"], "meme":["meme","post","twitter","video"],
+          # new topics (2026-07-08) -> pull real pastors from concept_tags.json
+          "music":["music","song","playlist","spotify"], "homestarrunner":["strong bad","cheat","trogdor","homestar"],
+          "fortnite":["fortnite","fortnight"], "discord":["discord","screen share"],
+          "obama":["obama","barack"], "metaldetector":["metal detector","tarantula"],
+          "rave":["rave","light switch"], "techrant":["windows update","xbox","d-pad","dpad"],
+          "chatbit":["smoke crack","guess the color","beanie"]}
     junk = re.compile(r"\[?\d{1,2}:\d{2}(:\d{2})?\]?|\[music\]|\[applause\]|\[laugh\]|foreign|\b\d+\s*(hours|minutes|seconds)\b", re.I)
     hits = []
     for f in glob.glob(os.path.join(TRANS, "*.txt"))[:40]:
@@ -131,7 +156,7 @@ def main():
                     datetime.date(year, mm, dd)
                 except ValueError:
                     continue
-                theme = random.choice(list(THEMES.keys()))
+                theme = random.choice(WEIGHTED_THEMES)
                 fct = make_factoid(year, mm, dd, theme)
                 with open(os.path.join(yd, f"{year}-{mm:02d}-{dd:02d}.json"), "w") as fp:
                     json.dump(fct, fp, indent=2)
