@@ -1,0 +1,2983 @@
+{
+  "generated": "2026-07-07",
+  "years": {
+    "2020": {
+      "volumes": 53,
+      "total_pages": 11399,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2020_week01",
+          "week": 1,
+          "range": "Jan 01 \u2013 Jan 05",
+          "days": 5,
+          "pages": 156,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week02",
+          "week": 2,
+          "range": "Jan 06 \u2013 Jan 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week03",
+          "week": 3,
+          "range": "Jan 13 \u2013 Jan 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week04",
+          "week": 4,
+          "range": "Jan 20 \u2013 Jan 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week05",
+          "week": 5,
+          "range": "Jan 27 \u2013 Feb 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week06",
+          "week": 6,
+          "range": "Feb 03 \u2013 Feb 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week07",
+          "week": 7,
+          "range": "Feb 10 \u2013 Feb 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week08",
+          "week": 8,
+          "range": "Feb 17 \u2013 Feb 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week09",
+          "week": 9,
+          "range": "Feb 24 \u2013 Mar 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week10",
+          "week": 10,
+          "range": "Mar 02 \u2013 Mar 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week11",
+          "week": 11,
+          "range": "Mar 09 \u2013 Mar 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week12",
+          "week": 12,
+          "range": "Mar 16 \u2013 Mar 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week13",
+          "week": 13,
+          "range": "Mar 23 \u2013 Mar 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week14",
+          "week": 14,
+          "range": "Mar 30 \u2013 Apr 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week15",
+          "week": 15,
+          "range": "Apr 06 \u2013 Apr 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week16",
+          "week": 16,
+          "range": "Apr 13 \u2013 Apr 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week17",
+          "week": 17,
+          "range": "Apr 20 \u2013 Apr 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week18",
+          "week": 18,
+          "range": "Apr 27 \u2013 May 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week19",
+          "week": 19,
+          "range": "May 04 \u2013 May 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week20",
+          "week": 20,
+          "range": "May 11 \u2013 May 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week21",
+          "week": 21,
+          "range": "May 18 \u2013 May 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week22",
+          "week": 22,
+          "range": "May 25 \u2013 May 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week23",
+          "week": 23,
+          "range": "Jun 01 \u2013 Jun 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week24",
+          "week": 24,
+          "range": "Jun 08 \u2013 Jun 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week25",
+          "week": 25,
+          "range": "Jun 15 \u2013 Jun 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week26",
+          "week": 26,
+          "range": "Jun 22 \u2013 Jun 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week27",
+          "week": 27,
+          "range": "Jun 29 \u2013 Jul 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week28",
+          "week": 28,
+          "range": "Jul 06 \u2013 Jul 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week29",
+          "week": 29,
+          "range": "Jul 13 \u2013 Jul 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week30",
+          "week": 30,
+          "range": "Jul 20 \u2013 Jul 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week31",
+          "week": 31,
+          "range": "Jul 27 \u2013 Aug 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week32",
+          "week": 32,
+          "range": "Aug 03 \u2013 Aug 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week33",
+          "week": 33,
+          "range": "Aug 10 \u2013 Aug 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week34",
+          "week": 34,
+          "range": "Aug 17 \u2013 Aug 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week35",
+          "week": 35,
+          "range": "Aug 24 \u2013 Aug 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week36",
+          "week": 36,
+          "range": "Aug 31 \u2013 Sep 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week37",
+          "week": 37,
+          "range": "Sep 07 \u2013 Sep 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week38",
+          "week": 38,
+          "range": "Sep 14 \u2013 Sep 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week39",
+          "week": 39,
+          "range": "Sep 21 \u2013 Sep 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week40",
+          "week": 40,
+          "range": "Sep 28 \u2013 Oct 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week41",
+          "week": 41,
+          "range": "Oct 05 \u2013 Oct 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week42",
+          "week": 42,
+          "range": "Oct 12 \u2013 Oct 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week43",
+          "week": 43,
+          "range": "Oct 19 \u2013 Oct 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week44",
+          "week": 44,
+          "range": "Oct 26 \u2013 Nov 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week45",
+          "week": 45,
+          "range": "Nov 02 \u2013 Nov 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week46",
+          "week": 46,
+          "range": "Nov 09 \u2013 Nov 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week47",
+          "week": 47,
+          "range": "Nov 16 \u2013 Nov 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week48",
+          "week": 48,
+          "range": "Nov 23 \u2013 Nov 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week49",
+          "week": 49,
+          "range": "Nov 30 \u2013 Dec 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week50",
+          "week": 50,
+          "range": "Dec 07 \u2013 Dec 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week51",
+          "week": 51,
+          "range": "Dec 14 \u2013 Dec 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week52",
+          "week": 52,
+          "range": "Dec 21 \u2013 Dec 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week52.pdf"
+        },
+        {
+          "volume": "SeymourWins_2020_week53",
+          "week": 53,
+          "range": "Dec 28 \u2013 Dec 31",
+          "days": 4,
+          "pages": 125,
+          "file": "ponderables/pdf/volumes/2020/SeymourWins_2020_week53.pdf"
+        }
+      ]
+    },
+    "2021": {
+      "volumes": 53,
+      "total_pages": 11368,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2021_week01",
+          "week": 1,
+          "range": "Jan 04 \u2013 Jan 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week02",
+          "week": 2,
+          "range": "Jan 11 \u2013 Jan 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week03",
+          "week": 3,
+          "range": "Jan 18 \u2013 Jan 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week04",
+          "week": 4,
+          "range": "Jan 25 \u2013 Jan 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week05",
+          "week": 5,
+          "range": "Feb 01 \u2013 Feb 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week06",
+          "week": 6,
+          "range": "Feb 08 \u2013 Feb 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week07",
+          "week": 7,
+          "range": "Feb 15 \u2013 Feb 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week08",
+          "week": 8,
+          "range": "Feb 22 \u2013 Feb 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week09",
+          "week": 9,
+          "range": "Mar 01 \u2013 Mar 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week10",
+          "week": 10,
+          "range": "Mar 08 \u2013 Mar 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week11",
+          "week": 11,
+          "range": "Mar 15 \u2013 Mar 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week12",
+          "week": 12,
+          "range": "Mar 22 \u2013 Mar 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week13",
+          "week": 13,
+          "range": "Mar 29 \u2013 Apr 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week14",
+          "week": 14,
+          "range": "Apr 05 \u2013 Apr 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week15",
+          "week": 15,
+          "range": "Apr 12 \u2013 Apr 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week16",
+          "week": 16,
+          "range": "Apr 19 \u2013 Apr 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week17",
+          "week": 17,
+          "range": "Apr 26 \u2013 May 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week18",
+          "week": 18,
+          "range": "May 03 \u2013 May 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week19",
+          "week": 19,
+          "range": "May 10 \u2013 May 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week20",
+          "week": 20,
+          "range": "May 17 \u2013 May 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week21",
+          "week": 21,
+          "range": "May 24 \u2013 May 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week22",
+          "week": 22,
+          "range": "May 31 \u2013 Jun 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week23",
+          "week": 23,
+          "range": "Jun 07 \u2013 Jun 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week24",
+          "week": 24,
+          "range": "Jun 14 \u2013 Jun 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week25",
+          "week": 25,
+          "range": "Jun 21 \u2013 Jun 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week26",
+          "week": 26,
+          "range": "Jun 28 \u2013 Jul 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week27",
+          "week": 27,
+          "range": "Jul 05 \u2013 Jul 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week28",
+          "week": 28,
+          "range": "Jul 12 \u2013 Jul 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week29",
+          "week": 29,
+          "range": "Jul 19 \u2013 Jul 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week30",
+          "week": 30,
+          "range": "Jul 26 \u2013 Aug 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week31",
+          "week": 31,
+          "range": "Aug 02 \u2013 Aug 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week32",
+          "week": 32,
+          "range": "Aug 09 \u2013 Aug 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week33",
+          "week": 33,
+          "range": "Aug 16 \u2013 Aug 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week34",
+          "week": 34,
+          "range": "Aug 23 \u2013 Aug 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week35",
+          "week": 35,
+          "range": "Aug 30 \u2013 Sep 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week36",
+          "week": 36,
+          "range": "Sep 06 \u2013 Sep 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week37",
+          "week": 37,
+          "range": "Sep 13 \u2013 Sep 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week38",
+          "week": 38,
+          "range": "Sep 20 \u2013 Sep 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week39",
+          "week": 39,
+          "range": "Sep 27 \u2013 Oct 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week40",
+          "week": 40,
+          "range": "Oct 04 \u2013 Oct 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week41",
+          "week": 41,
+          "range": "Oct 11 \u2013 Oct 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week42",
+          "week": 42,
+          "range": "Oct 18 \u2013 Oct 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week43",
+          "week": 43,
+          "range": "Oct 25 \u2013 Oct 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week44",
+          "week": 44,
+          "range": "Nov 01 \u2013 Nov 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week45",
+          "week": 45,
+          "range": "Nov 08 \u2013 Nov 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week46",
+          "week": 46,
+          "range": "Nov 15 \u2013 Nov 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week47",
+          "week": 47,
+          "range": "Nov 22 \u2013 Nov 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week48",
+          "week": 48,
+          "range": "Nov 29 \u2013 Dec 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week49",
+          "week": 49,
+          "range": "Dec 06 \u2013 Dec 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week50",
+          "week": 50,
+          "range": "Dec 13 \u2013 Dec 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week51",
+          "week": 51,
+          "range": "Dec 20 \u2013 Dec 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week52",
+          "week": 52,
+          "range": "Dec 27 \u2013 Dec 31",
+          "days": 5,
+          "pages": 156,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week52.pdf"
+        },
+        {
+          "volume": "SeymourWins_2021_week53",
+          "week": 53,
+          "range": "Jan 03 \u2013 Dec 31",
+          "days": -2,
+          "pages": 94,
+          "file": "ponderables/pdf/volumes/2021/SeymourWins_2021_week53.pdf"
+        }
+      ]
+    },
+    "2022": {
+      "volumes": 52,
+      "total_pages": 11337,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2022_week01",
+          "week": 1,
+          "range": "Jan 03 \u2013 Jan 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week02",
+          "week": 2,
+          "range": "Jan 10 \u2013 Jan 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week03",
+          "week": 3,
+          "range": "Jan 17 \u2013 Jan 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week04",
+          "week": 4,
+          "range": "Jan 24 \u2013 Jan 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week05",
+          "week": 5,
+          "range": "Jan 31 \u2013 Feb 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week06",
+          "week": 6,
+          "range": "Feb 07 \u2013 Feb 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week07",
+          "week": 7,
+          "range": "Feb 14 \u2013 Feb 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week08",
+          "week": 8,
+          "range": "Feb 21 \u2013 Feb 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week09",
+          "week": 9,
+          "range": "Feb 28 \u2013 Mar 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week10",
+          "week": 10,
+          "range": "Mar 07 \u2013 Mar 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week11",
+          "week": 11,
+          "range": "Mar 14 \u2013 Mar 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week12",
+          "week": 12,
+          "range": "Mar 21 \u2013 Mar 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week13",
+          "week": 13,
+          "range": "Mar 28 \u2013 Apr 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week14",
+          "week": 14,
+          "range": "Apr 04 \u2013 Apr 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week15",
+          "week": 15,
+          "range": "Apr 11 \u2013 Apr 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week16",
+          "week": 16,
+          "range": "Apr 18 \u2013 Apr 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week17",
+          "week": 17,
+          "range": "Apr 25 \u2013 May 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week18",
+          "week": 18,
+          "range": "May 02 \u2013 May 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week19",
+          "week": 19,
+          "range": "May 09 \u2013 May 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week20",
+          "week": 20,
+          "range": "May 16 \u2013 May 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week21",
+          "week": 21,
+          "range": "May 23 \u2013 May 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week22",
+          "week": 22,
+          "range": "May 30 \u2013 Jun 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week23",
+          "week": 23,
+          "range": "Jun 06 \u2013 Jun 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week24",
+          "week": 24,
+          "range": "Jun 13 \u2013 Jun 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week25",
+          "week": 25,
+          "range": "Jun 20 \u2013 Jun 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week26",
+          "week": 26,
+          "range": "Jun 27 \u2013 Jul 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week27",
+          "week": 27,
+          "range": "Jul 04 \u2013 Jul 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week28",
+          "week": 28,
+          "range": "Jul 11 \u2013 Jul 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week29",
+          "week": 29,
+          "range": "Jul 18 \u2013 Jul 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week30",
+          "week": 30,
+          "range": "Jul 25 \u2013 Jul 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week31",
+          "week": 31,
+          "range": "Aug 01 \u2013 Aug 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week32",
+          "week": 32,
+          "range": "Aug 08 \u2013 Aug 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week33",
+          "week": 33,
+          "range": "Aug 15 \u2013 Aug 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week34",
+          "week": 34,
+          "range": "Aug 22 \u2013 Aug 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week35",
+          "week": 35,
+          "range": "Aug 29 \u2013 Sep 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week36",
+          "week": 36,
+          "range": "Sep 05 \u2013 Sep 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week37",
+          "week": 37,
+          "range": "Sep 12 \u2013 Sep 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week38",
+          "week": 38,
+          "range": "Sep 19 \u2013 Sep 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week39",
+          "week": 39,
+          "range": "Sep 26 \u2013 Oct 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week40",
+          "week": 40,
+          "range": "Oct 03 \u2013 Oct 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week41",
+          "week": 41,
+          "range": "Oct 10 \u2013 Oct 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week42",
+          "week": 42,
+          "range": "Oct 17 \u2013 Oct 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week43",
+          "week": 43,
+          "range": "Oct 24 \u2013 Oct 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week44",
+          "week": 44,
+          "range": "Oct 31 \u2013 Nov 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week45",
+          "week": 45,
+          "range": "Nov 07 \u2013 Nov 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week46",
+          "week": 46,
+          "range": "Nov 14 \u2013 Nov 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week47",
+          "week": 47,
+          "range": "Nov 21 \u2013 Nov 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week48",
+          "week": 48,
+          "range": "Nov 28 \u2013 Dec 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week49",
+          "week": 49,
+          "range": "Dec 05 \u2013 Dec 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week50",
+          "week": 50,
+          "range": "Dec 12 \u2013 Dec 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week51",
+          "week": 51,
+          "range": "Dec 19 \u2013 Dec 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2022_week52",
+          "week": 52,
+          "range": "Dec 26 \u2013 Dec 31",
+          "days": 6,
+          "pages": 219,
+          "file": "ponderables/pdf/volumes/2022/SeymourWins_2022_week52.pdf"
+        }
+      ]
+    },
+    "2023": {
+      "volumes": 52,
+      "total_pages": 11337,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2023_week01",
+          "week": 1,
+          "range": "Jan 02 \u2013 Jan 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week02",
+          "week": 2,
+          "range": "Jan 09 \u2013 Jan 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week03",
+          "week": 3,
+          "range": "Jan 16 \u2013 Jan 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week04",
+          "week": 4,
+          "range": "Jan 23 \u2013 Jan 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week05",
+          "week": 5,
+          "range": "Jan 30 \u2013 Feb 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week06",
+          "week": 6,
+          "range": "Feb 06 \u2013 Feb 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week07",
+          "week": 7,
+          "range": "Feb 13 \u2013 Feb 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week08",
+          "week": 8,
+          "range": "Feb 20 \u2013 Feb 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week09",
+          "week": 9,
+          "range": "Feb 27 \u2013 Mar 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week10",
+          "week": 10,
+          "range": "Mar 06 \u2013 Mar 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week11",
+          "week": 11,
+          "range": "Mar 13 \u2013 Mar 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week12",
+          "week": 12,
+          "range": "Mar 20 \u2013 Mar 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week13",
+          "week": 13,
+          "range": "Mar 27 \u2013 Apr 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week14",
+          "week": 14,
+          "range": "Apr 03 \u2013 Apr 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week15",
+          "week": 15,
+          "range": "Apr 10 \u2013 Apr 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week16",
+          "week": 16,
+          "range": "Apr 17 \u2013 Apr 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week17",
+          "week": 17,
+          "range": "Apr 24 \u2013 Apr 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week18",
+          "week": 18,
+          "range": "May 01 \u2013 May 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week19",
+          "week": 19,
+          "range": "May 08 \u2013 May 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week20",
+          "week": 20,
+          "range": "May 15 \u2013 May 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week21",
+          "week": 21,
+          "range": "May 22 \u2013 May 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week22",
+          "week": 22,
+          "range": "May 29 \u2013 Jun 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week23",
+          "week": 23,
+          "range": "Jun 05 \u2013 Jun 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week24",
+          "week": 24,
+          "range": "Jun 12 \u2013 Jun 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week25",
+          "week": 25,
+          "range": "Jun 19 \u2013 Jun 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week26",
+          "week": 26,
+          "range": "Jun 26 \u2013 Jul 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week27",
+          "week": 27,
+          "range": "Jul 03 \u2013 Jul 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week28",
+          "week": 28,
+          "range": "Jul 10 \u2013 Jul 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week29",
+          "week": 29,
+          "range": "Jul 17 \u2013 Jul 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week30",
+          "week": 30,
+          "range": "Jul 24 \u2013 Jul 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week31",
+          "week": 31,
+          "range": "Jul 31 \u2013 Aug 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week32",
+          "week": 32,
+          "range": "Aug 07 \u2013 Aug 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week33",
+          "week": 33,
+          "range": "Aug 14 \u2013 Aug 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week34",
+          "week": 34,
+          "range": "Aug 21 \u2013 Aug 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week35",
+          "week": 35,
+          "range": "Aug 28 \u2013 Sep 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week36",
+          "week": 36,
+          "range": "Sep 04 \u2013 Sep 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week37",
+          "week": 37,
+          "range": "Sep 11 \u2013 Sep 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week38",
+          "week": 38,
+          "range": "Sep 18 \u2013 Sep 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week39",
+          "week": 39,
+          "range": "Sep 25 \u2013 Oct 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week40",
+          "week": 40,
+          "range": "Oct 02 \u2013 Oct 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week41",
+          "week": 41,
+          "range": "Oct 09 \u2013 Oct 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week42",
+          "week": 42,
+          "range": "Oct 16 \u2013 Oct 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week43",
+          "week": 43,
+          "range": "Oct 23 \u2013 Oct 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week44",
+          "week": 44,
+          "range": "Oct 30 \u2013 Nov 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week45",
+          "week": 45,
+          "range": "Nov 06 \u2013 Nov 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week46",
+          "week": 46,
+          "range": "Nov 13 \u2013 Nov 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week47",
+          "week": 47,
+          "range": "Nov 20 \u2013 Nov 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week48",
+          "week": 48,
+          "range": "Nov 27 \u2013 Dec 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week49",
+          "week": 49,
+          "range": "Dec 04 \u2013 Dec 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week50",
+          "week": 50,
+          "range": "Dec 11 \u2013 Dec 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week51",
+          "week": 51,
+          "range": "Dec 18 \u2013 Dec 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2023_week52",
+          "week": 52,
+          "range": "Dec 25 \u2013 Dec 31",
+          "days": 7,
+          "pages": 219,
+          "file": "ponderables/pdf/volumes/2023/SeymourWins_2023_week52.pdf"
+        }
+      ]
+    },
+    "2024": {
+      "volumes": 52,
+      "total_pages": 11398,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2024_week01",
+          "week": 1,
+          "range": "Jan 01 \u2013 Jan 07",
+          "days": 7,
+          "pages": 280,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week02",
+          "week": 2,
+          "range": "Jan 08 \u2013 Jan 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week03",
+          "week": 3,
+          "range": "Jan 15 \u2013 Jan 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week04",
+          "week": 4,
+          "range": "Jan 22 \u2013 Jan 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week05",
+          "week": 5,
+          "range": "Jan 29 \u2013 Feb 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week06",
+          "week": 6,
+          "range": "Feb 05 \u2013 Feb 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week07",
+          "week": 7,
+          "range": "Feb 12 \u2013 Feb 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week08",
+          "week": 8,
+          "range": "Feb 19 \u2013 Feb 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week09",
+          "week": 9,
+          "range": "Feb 26 \u2013 Mar 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week10",
+          "week": 10,
+          "range": "Mar 04 \u2013 Mar 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week11",
+          "week": 11,
+          "range": "Mar 11 \u2013 Mar 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week12",
+          "week": 12,
+          "range": "Mar 18 \u2013 Mar 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week13",
+          "week": 13,
+          "range": "Mar 25 \u2013 Mar 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week14",
+          "week": 14,
+          "range": "Apr 01 \u2013 Apr 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week15",
+          "week": 15,
+          "range": "Apr 08 \u2013 Apr 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week16",
+          "week": 16,
+          "range": "Apr 15 \u2013 Apr 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week17",
+          "week": 17,
+          "range": "Apr 22 \u2013 Apr 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week18",
+          "week": 18,
+          "range": "Apr 29 \u2013 May 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week19",
+          "week": 19,
+          "range": "May 06 \u2013 May 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week20",
+          "week": 20,
+          "range": "May 13 \u2013 May 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week21",
+          "week": 21,
+          "range": "May 20 \u2013 May 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week22",
+          "week": 22,
+          "range": "May 27 \u2013 Jun 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week23",
+          "week": 23,
+          "range": "Jun 03 \u2013 Jun 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week24",
+          "week": 24,
+          "range": "Jun 10 \u2013 Jun 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week25",
+          "week": 25,
+          "range": "Jun 17 \u2013 Jun 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week26",
+          "week": 26,
+          "range": "Jun 24 \u2013 Jun 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week27",
+          "week": 27,
+          "range": "Jul 01 \u2013 Jul 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week28",
+          "week": 28,
+          "range": "Jul 08 \u2013 Jul 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week29",
+          "week": 29,
+          "range": "Jul 15 \u2013 Jul 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week30",
+          "week": 30,
+          "range": "Jul 22 \u2013 Jul 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week31",
+          "week": 31,
+          "range": "Jul 29 \u2013 Aug 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week32",
+          "week": 32,
+          "range": "Aug 05 \u2013 Aug 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week33",
+          "week": 33,
+          "range": "Aug 12 \u2013 Aug 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week34",
+          "week": 34,
+          "range": "Aug 19 \u2013 Aug 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week35",
+          "week": 35,
+          "range": "Aug 26 \u2013 Sep 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week36",
+          "week": 36,
+          "range": "Sep 02 \u2013 Sep 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week37",
+          "week": 37,
+          "range": "Sep 09 \u2013 Sep 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week38",
+          "week": 38,
+          "range": "Sep 16 \u2013 Sep 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week39",
+          "week": 39,
+          "range": "Sep 23 \u2013 Sep 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week40",
+          "week": 40,
+          "range": "Sep 30 \u2013 Oct 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week41",
+          "week": 41,
+          "range": "Oct 07 \u2013 Oct 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week42",
+          "week": 42,
+          "range": "Oct 14 \u2013 Oct 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week43",
+          "week": 43,
+          "range": "Oct 21 \u2013 Oct 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week44",
+          "week": 44,
+          "range": "Oct 28 \u2013 Nov 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week45",
+          "week": 45,
+          "range": "Nov 04 \u2013 Nov 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week46",
+          "week": 46,
+          "range": "Nov 11 \u2013 Nov 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week47",
+          "week": 47,
+          "range": "Nov 18 \u2013 Nov 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week48",
+          "week": 48,
+          "range": "Nov 25 \u2013 Dec 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week49",
+          "week": 49,
+          "range": "Dec 02 \u2013 Dec 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week50",
+          "week": 50,
+          "range": "Dec 09 \u2013 Dec 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week51",
+          "week": 51,
+          "range": "Dec 16 \u2013 Dec 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2024_week52",
+          "week": 52,
+          "range": "Dec 23 \u2013 Dec 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2024/SeymourWins_2024_week52.pdf"
+        }
+      ]
+    },
+    "2025": {
+      "volumes": 52,
+      "total_pages": 11308,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2025_week01",
+          "week": 1,
+          "range": "Jan 01 \u2013 Jan 05",
+          "days": 5,
+          "pages": 190,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week02",
+          "week": 2,
+          "range": "Jan 06 \u2013 Jan 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week03",
+          "week": 3,
+          "range": "Jan 13 \u2013 Jan 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week04",
+          "week": 4,
+          "range": "Jan 20 \u2013 Jan 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week05",
+          "week": 5,
+          "range": "Jan 27 \u2013 Feb 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week06",
+          "week": 6,
+          "range": "Feb 03 \u2013 Feb 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week07",
+          "week": 7,
+          "range": "Feb 10 \u2013 Feb 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week08",
+          "week": 8,
+          "range": "Feb 17 \u2013 Feb 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week09",
+          "week": 9,
+          "range": "Feb 24 \u2013 Mar 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week10",
+          "week": 10,
+          "range": "Mar 03 \u2013 Mar 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week11",
+          "week": 11,
+          "range": "Mar 10 \u2013 Mar 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week12",
+          "week": 12,
+          "range": "Mar 17 \u2013 Mar 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week13",
+          "week": 13,
+          "range": "Mar 24 \u2013 Mar 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week14",
+          "week": 14,
+          "range": "Mar 31 \u2013 Apr 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week15",
+          "week": 15,
+          "range": "Apr 07 \u2013 Apr 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week16",
+          "week": 16,
+          "range": "Apr 14 \u2013 Apr 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week17",
+          "week": 17,
+          "range": "Apr 21 \u2013 Apr 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week18",
+          "week": 18,
+          "range": "Apr 28 \u2013 May 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week19",
+          "week": 19,
+          "range": "May 05 \u2013 May 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week20",
+          "week": 20,
+          "range": "May 12 \u2013 May 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week21",
+          "week": 21,
+          "range": "May 19 \u2013 May 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week22",
+          "week": 22,
+          "range": "May 26 \u2013 Jun 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week23",
+          "week": 23,
+          "range": "Jun 02 \u2013 Jun 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week24",
+          "week": 24,
+          "range": "Jun 09 \u2013 Jun 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week25",
+          "week": 25,
+          "range": "Jun 16 \u2013 Jun 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week26",
+          "week": 26,
+          "range": "Jun 23 \u2013 Jun 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week27",
+          "week": 27,
+          "range": "Jun 30 \u2013 Jul 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week28",
+          "week": 28,
+          "range": "Jul 07 \u2013 Jul 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week29",
+          "week": 29,
+          "range": "Jul 14 \u2013 Jul 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week30",
+          "week": 30,
+          "range": "Jul 21 \u2013 Jul 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week31",
+          "week": 31,
+          "range": "Jul 28 \u2013 Aug 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week32",
+          "week": 32,
+          "range": "Aug 04 \u2013 Aug 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week33",
+          "week": 33,
+          "range": "Aug 11 \u2013 Aug 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week34",
+          "week": 34,
+          "range": "Aug 18 \u2013 Aug 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week35",
+          "week": 35,
+          "range": "Aug 25 \u2013 Aug 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week36",
+          "week": 36,
+          "range": "Sep 01 \u2013 Sep 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week37",
+          "week": 37,
+          "range": "Sep 08 \u2013 Sep 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week38",
+          "week": 38,
+          "range": "Sep 15 \u2013 Sep 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week39",
+          "week": 39,
+          "range": "Sep 22 \u2013 Sep 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week40",
+          "week": 40,
+          "range": "Sep 29 \u2013 Oct 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week41",
+          "week": 41,
+          "range": "Oct 06 \u2013 Oct 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week42",
+          "week": 42,
+          "range": "Oct 13 \u2013 Oct 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week43",
+          "week": 43,
+          "range": "Oct 20 \u2013 Oct 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week44",
+          "week": 44,
+          "range": "Oct 27 \u2013 Nov 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week45",
+          "week": 45,
+          "range": "Nov 03 \u2013 Nov 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week46",
+          "week": 46,
+          "range": "Nov 10 \u2013 Nov 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week47",
+          "week": 47,
+          "range": "Nov 17 \u2013 Nov 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week48",
+          "week": 48,
+          "range": "Nov 24 \u2013 Nov 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week49",
+          "week": 49,
+          "range": "Dec 01 \u2013 Dec 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week50",
+          "week": 50,
+          "range": "Dec 08 \u2013 Dec 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week51",
+          "week": 51,
+          "range": "Dec 15 \u2013 Dec 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2025_week52",
+          "week": 52,
+          "range": "Dec 22 \u2013 Dec 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2025/SeymourWins_2025_week52.pdf"
+        }
+      ]
+    },
+    "2026": {
+      "volumes": 53,
+      "total_pages": 11338,
+      "weeks": [
+        {
+          "volume": "SeymourWins_2026_week01",
+          "week": 1,
+          "range": "Jan 01 \u2013 Jan 04",
+          "days": 4,
+          "pages": 125,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week01.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week02",
+          "week": 2,
+          "range": "Jan 05 \u2013 Jan 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week02.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week03",
+          "week": 3,
+          "range": "Jan 12 \u2013 Jan 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week03.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week04",
+          "week": 4,
+          "range": "Jan 19 \u2013 Jan 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week04.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week05",
+          "week": 5,
+          "range": "Jan 26 \u2013 Feb 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week05.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week06",
+          "week": 6,
+          "range": "Feb 02 \u2013 Feb 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week06.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week07",
+          "week": 7,
+          "range": "Feb 09 \u2013 Feb 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week07.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week08",
+          "week": 8,
+          "range": "Feb 16 \u2013 Feb 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week08.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week09",
+          "week": 9,
+          "range": "Feb 23 \u2013 Mar 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week09.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week10",
+          "week": 10,
+          "range": "Mar 02 \u2013 Mar 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week10.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week11",
+          "week": 11,
+          "range": "Mar 09 \u2013 Mar 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week11.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week12",
+          "week": 12,
+          "range": "Mar 16 \u2013 Mar 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week12.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week13",
+          "week": 13,
+          "range": "Mar 23 \u2013 Mar 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week13.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week14",
+          "week": 14,
+          "range": "Mar 30 \u2013 Apr 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week14.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week15",
+          "week": 15,
+          "range": "Apr 06 \u2013 Apr 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week15.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week16",
+          "week": 16,
+          "range": "Apr 13 \u2013 Apr 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week16.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week17",
+          "week": 17,
+          "range": "Apr 20 \u2013 Apr 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week17.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week18",
+          "week": 18,
+          "range": "Apr 27 \u2013 May 03",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week18.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week19",
+          "week": 19,
+          "range": "May 04 \u2013 May 10",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week19.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week20",
+          "week": 20,
+          "range": "May 11 \u2013 May 17",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week20.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week21",
+          "week": 21,
+          "range": "May 18 \u2013 May 24",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week21.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week22",
+          "week": 22,
+          "range": "May 25 \u2013 May 31",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week22.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week23",
+          "week": 23,
+          "range": "Jun 01 \u2013 Jun 07",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week23.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week24",
+          "week": 24,
+          "range": "Jun 08 \u2013 Jun 14",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week24.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week25",
+          "week": 25,
+          "range": "Jun 15 \u2013 Jun 21",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week25.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week26",
+          "week": 26,
+          "range": "Jun 22 \u2013 Jun 28",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week26.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week27",
+          "week": 27,
+          "range": "Jun 29 \u2013 Jul 05",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week27.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week28",
+          "week": 28,
+          "range": "Jul 06 \u2013 Jul 12",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week28.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week29",
+          "week": 29,
+          "range": "Jul 13 \u2013 Jul 19",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week29.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week30",
+          "week": 30,
+          "range": "Jul 20 \u2013 Jul 26",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week30.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week31",
+          "week": 31,
+          "range": "Jul 27 \u2013 Aug 02",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week31.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week32",
+          "week": 32,
+          "range": "Aug 03 \u2013 Aug 09",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week32.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week33",
+          "week": 33,
+          "range": "Aug 10 \u2013 Aug 16",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week33.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week34",
+          "week": 34,
+          "range": "Aug 17 \u2013 Aug 23",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week34.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week35",
+          "week": 35,
+          "range": "Aug 24 \u2013 Aug 30",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week35.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week36",
+          "week": 36,
+          "range": "Aug 31 \u2013 Sep 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week36.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week37",
+          "week": 37,
+          "range": "Sep 07 \u2013 Sep 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week37.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week38",
+          "week": 38,
+          "range": "Sep 14 \u2013 Sep 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week38.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week39",
+          "week": 39,
+          "range": "Sep 21 \u2013 Sep 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week39.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week40",
+          "week": 40,
+          "range": "Sep 28 \u2013 Oct 04",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week40.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week41",
+          "week": 41,
+          "range": "Oct 05 \u2013 Oct 11",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week41.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week42",
+          "week": 42,
+          "range": "Oct 12 \u2013 Oct 18",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week42.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week43",
+          "week": 43,
+          "range": "Oct 19 \u2013 Oct 25",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week43.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week44",
+          "week": 44,
+          "range": "Oct 26 \u2013 Nov 01",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week44.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week45",
+          "week": 45,
+          "range": "Nov 02 \u2013 Nov 08",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week45.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week46",
+          "week": 46,
+          "range": "Nov 09 \u2013 Nov 15",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week46.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week47",
+          "week": 47,
+          "range": "Nov 16 \u2013 Nov 22",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week47.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week48",
+          "week": 48,
+          "range": "Nov 23 \u2013 Nov 29",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week48.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week49",
+          "week": 49,
+          "range": "Nov 30 \u2013 Dec 06",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week49.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week50",
+          "week": 50,
+          "range": "Dec 07 \u2013 Dec 13",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week50.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week51",
+          "week": 51,
+          "range": "Dec 14 \u2013 Dec 20",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week51.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week52",
+          "week": 52,
+          "range": "Dec 21 \u2013 Dec 27",
+          "days": 7,
+          "pages": 218,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week52.pdf"
+        },
+        {
+          "volume": "SeymourWins_2026_week53",
+          "week": 53,
+          "range": "Dec 28 \u2013 Dec 31",
+          "days": 4,
+          "pages": 95,
+          "file": "ponderables/pdf/volumes/2026/SeymourWins_2026_week53.pdf"
+        }
+      ]
+    }
+  }
+}
