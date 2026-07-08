@@ -1,0 +1,3061 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Dog Bone Ship OGA.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4315">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4317" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4319" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4308"
+       id="radialGradient4314"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1.0064633,0,0,6.1022116,-378.51813,-1679.5928)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4308">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4310" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4312" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4308"
+       id="radialGradient4314-0"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1,0,0,6.5021315,-14.626891,-2011.7636)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4308"
+       id="radialGradient4314-0-8"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1,0,0,6.5021315,-14.626891,-2011.7636)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Burst"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Burst balloon texture crumpled and with holes"
+       x="-0.2"
+       y="-0.2"
+       width="1.4"
+       height="1.4"
+       style="color-interpolation-filters:sRGB"
+       id="filter6054">
+      <feTurbulence
+         seed="8"
+         type="fractalNoise"
+         baseFrequency="0.03"
+         numOctaves="5"
+         result="result8"
+         id="feTurbulence6056" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -0.7 "
+         result="result5"
+         id="feColorMatrix6058" />
+      <feComposite
+         result="result11"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         id="feComposite6060" />
+      <feDisplacementMap
+         result="result4"
+         scale="50"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result11"
+         in2="result8"
+         id="feDisplacementMap6062" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         result="result7"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         in="result4"
+         k2="1.3"
+         id="feComposite6064" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="result7"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 4 -2.5 "
+         id="feColorMatrix6066" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result10"
+         id="feGaussianBlur6068" />
+      <feDiffuseLighting
+         surfaceScale="15"
+         diffuseConstant="0.40000001"
+         result="result6"
+         lighting-color="#ffffff"
+         in="result10"
+         id="feDiffuseLighting6070">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight6072" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result6"
+         in2="result7"
+         id="feComposite6074" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in2="result7"
+         operator="arithmetic"
+         k2="0.8"
+         k3="0.8"
+         result="result12"
+         id="feComposite6076" />
+      <feBlend
+         in2="result12"
+         mode="lighten"
+         id="feBlend6078" />
+    </filter>
+    <filter
+       inkscape:label="Burst"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Burst balloon texture crumpled and with holes"
+       x="-0.2"
+       y="-0.2"
+       width="1.4"
+       height="1.4"
+       style="color-interpolation-filters:sRGB"
+       id="filter6054-5">
+      <feTurbulence
+         seed="8"
+         type="fractalNoise"
+         baseFrequency="0.03"
+         numOctaves="5"
+         result="result8"
+         id="feTurbulence6056-4" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -0.7 "
+         result="result5"
+         id="feColorMatrix6058-1" />
+      <feComposite
+         result="result11"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         id="feComposite6060-3" />
+      <feDisplacementMap
+         result="result4"
+         scale="50"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result11"
+         in2="result8"
+         id="feDisplacementMap6062-6" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         result="result7"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         in="result4"
+         k2="1.3"
+         id="feComposite6064-8" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="result7"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 4 -2.5 "
+         id="feColorMatrix6066-6" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result10"
+         id="feGaussianBlur6068-9" />
+      <feDiffuseLighting
+         surfaceScale="15"
+         diffuseConstant="0.40000001"
+         result="result6"
+         lighting-color="#ffffff"
+         in="result10"
+         id="feDiffuseLighting6070-7">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight6072-1" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result6"
+         in2="result7"
+         id="feComposite6074-6" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in2="result7"
+         operator="arithmetic"
+         k2="0.8"
+         k3="0.8"
+         result="result12"
+         id="feComposite6076-0" />
+      <feBlend
+         in2="result12"
+         mode="lighten"
+         id="feBlend6078-7" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6726">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6728" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6730" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6732" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6734" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6736" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6738">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6740" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6742" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6744" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6746" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6748" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6750">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6752" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6754" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6756" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6758" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6760" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6762">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6764" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6766" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6768" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6770" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6772" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6774">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6776" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6778" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6780" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6782" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6784" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6786">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6788" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6790" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6792" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6794" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6796" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6798">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6800" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6802" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6804" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6806" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6808" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6810">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6812" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6814" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6816" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6818" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6820" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6894">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6896" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6898" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6900" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6902" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6904" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6906">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6908" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6910" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6912" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6914" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6916" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6918">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6920" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6922" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6924" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6926" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6928" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6930">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6932" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6934" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6936" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6938" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6940" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6942">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6944" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6946" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6948" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6950" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6952" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6954">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6956" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6958" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6960" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6962" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6964" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6966">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6968" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6970" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6972" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6974" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite6976" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting6978">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight6980" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite6982" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite6984" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite6986" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend6988" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6990">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6992" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6994" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6996" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6998" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7000" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7002">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7004" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7006" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7008" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7010" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7012" />
+    </filter>
+    <filter
+       inkscape:label="Button"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7014">
+      <feGaussianBlur
+         stdDeviation="2.3"
+         in="SourceAlpha"
+         result="result0"
+         id="feGaussianBlur7016" />
+      <feMorphology
+         in="SourceAlpha"
+         radius="6.6"
+         result="result1"
+         id="feMorphology7018" />
+      <feGaussianBlur
+         stdDeviation="8.9"
+         in="result1"
+         id="feGaussianBlur7020" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91"
+         id="feColorMatrix7022" />
+      <feComposite
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91"
+         id="feComposite7024" />
+      <feGaussianBlur
+         stdDeviation="1.7"
+         result="result4"
+         id="feGaussianBlur7026" />
+      <feDiffuseLighting
+         surfaceScale="10"
+         id="feDiffuseLighting7028">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight7030" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="SourceGraphic"
+         mode="multiply"
+         id="feBlend7032" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="result3"
+         id="feComposite7034" />
+      <feSpecularLighting
+         in="result4"
+         surfaceScale="5"
+         specularExponent="17.9"
+         id="feSpecularLighting7036">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight7038" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result3"
+         operator="atop"
+         id="feComposite7040" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       inkscape:menu="Bevels"
+       inkscape:label="Bright Metal"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7116">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="8"
+         in="SourceGraphic"
+         id="feGaussianBlur7118" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result6"
+         operator="xor"
+         result="result10"
+         id="feComposite7120" />
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="8"
+         id="feGaussianBlur7122" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result10"
+         result="result91"
+         id="feComposite7124" />
+      <feComposite
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91"
+         id="feComposite7126" />
+      <feGaussianBlur
+         in="result4"
+         result="result3"
+         stdDeviation="4"
+         id="feGaussianBlur7128" />
+      <feSpecularLighting
+         result="result5"
+         specularExponent="5"
+         specularConstant="1.1"
+         surfaceScale="18"
+         id="feSpecularLighting7130">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7132" />
+      </feSpecularLighting>
+      <feComposite
+         in="result3"
+         k3="1.1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result7"
+         in2="result5"
+         k1="0.5"
+         id="feComposite7134" />
+      <feComposite
+         in="result7"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result8"
+         id="feComposite7136" />
+    </filter>
+    <filter
+       inkscape:label="Button"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7140">
+      <feGaussianBlur
+         stdDeviation="2.3"
+         in="SourceAlpha"
+         result="result0"
+         id="feGaussianBlur7142" />
+      <feMorphology
+         in="SourceAlpha"
+         radius="6.6"
+         result="result1"
+         id="feMorphology7144" />
+      <feGaussianBlur
+         stdDeviation="8.9"
+         in="result1"
+         id="feGaussianBlur7146" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91"
+         id="feColorMatrix7148" />
+      <feComposite
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91"
+         id="feComposite7150" />
+      <feGaussianBlur
+         stdDeviation="1.7"
+         result="result4"
+         id="feGaussianBlur7152" />
+      <feDiffuseLighting
+         surfaceScale="10"
+         id="feDiffuseLighting7154">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight7156" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="SourceGraphic"
+         mode="multiply"
+         id="feBlend7158" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="result3"
+         id="feComposite7160" />
+      <feSpecularLighting
+         in="result4"
+         surfaceScale="5"
+         specularExponent="17.9"
+         id="feSpecularLighting7162">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight7164" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result3"
+         operator="atop"
+         id="feComposite7166" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       inkscape:menu="Bevels"
+       inkscape:label="Bright Metal"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7228">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="8"
+         in="SourceGraphic"
+         id="feGaussianBlur7230" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result6"
+         operator="xor"
+         result="result10"
+         id="feComposite7232" />
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="8"
+         id="feGaussianBlur7234" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result10"
+         result="result91"
+         id="feComposite7236" />
+      <feComposite
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91"
+         id="feComposite7238" />
+      <feGaussianBlur
+         in="result4"
+         result="result3"
+         stdDeviation="4"
+         id="feGaussianBlur7240" />
+      <feSpecularLighting
+         result="result5"
+         specularExponent="5"
+         specularConstant="1.1"
+         surfaceScale="18"
+         id="feSpecularLighting7242">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7244" />
+      </feSpecularLighting>
+      <feComposite
+         in="result3"
+         k3="1.1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result7"
+         in2="result5"
+         k1="0.5"
+         id="feComposite7246" />
+      <feComposite
+         in="result7"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result8"
+         id="feComposite7248" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7470">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7472" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7474" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7476" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7478" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7480" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7482">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7484" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7486" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7488" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7490" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7492" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB"
+       id="filter7470-0">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7472-7" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7474-3" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7476-6" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7478-2" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7480-7" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.29999995"
+         surfaceScale="3"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7482-0">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7484-5" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7486-8" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7488-5" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7490-3" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7492-7" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4314-5"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1.0064633,0,0,6.1022116,-378.51813,-1679.5928)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4314-0-7"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1,0,0,6.5021315,-14.626891,-2011.7636)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4314-0-8-4"
+       cx="287.89346"
+       cy="362.42801"
+       fx="287.89346"
+       fy="362.42801"
+       r="4.3499999"
+       gradientTransform="matrix(1,0,0,6.5021315,-14.626891,-2011.7636)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Burst"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Burst balloon texture crumpled and with holes"
+       x="-0.2"
+       y="-0.2"
+       width="1.4"
+       height="1.4"
+       style="color-interpolation-filters:sRGB"
+       id="filter6054-7">
+      <feTurbulence
+         seed="8"
+         type="fractalNoise"
+         baseFrequency="0.03"
+         numOctaves="5"
+         result="result8"
+         id="feTurbulence6056-1" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -0.7 "
+         result="result5"
+         id="feColorMatrix6058-4" />
+      <feComposite
+         result="result11"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         id="feComposite6060-8" />
+      <feDisplacementMap
+         result="result4"
+         scale="50"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result11"
+         in2="result8"
+         id="feDisplacementMap6062-65" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         result="result7"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         in="result4"
+         k2="1.3"
+         id="feComposite6064-3" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="result7"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 4 -2.5 "
+         id="feColorMatrix6066-5" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result10"
+         id="feGaussianBlur6068-97" />
+      <feDiffuseLighting
+         surfaceScale="15"
+         diffuseConstant="0.40000001"
+         result="result6"
+         lighting-color="#ffffff"
+         in="result10"
+         id="feDiffuseLighting6070-9">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight6072-18" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result6"
+         in2="result7"
+         id="feComposite6074-8" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in2="result7"
+         operator="arithmetic"
+         k2="0.8"
+         k3="0.8"
+         result="result12"
+         id="feComposite6076-5" />
+      <feBlend
+         in2="result12"
+         mode="lighten"
+         id="feBlend6078-1" />
+    </filter>
+    <filter
+       inkscape:label="Torn Edges"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter6393">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence6395" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap6397" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite6399" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7780">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7782" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7784" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7786" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7788" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7790" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7792">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7794" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7796" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7798" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7800" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7802" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7804">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology7806" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite7808" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur7810" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting7812">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight7814" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend7816" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite7818" />
+    </filter>
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter7820">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7822" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7824" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7826" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7828" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7830" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.3"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7832">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7834" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7836" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7838" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7840" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7842" />
+    </filter>
+    <filter
+       inkscape:label="Ridged Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       style="color-interpolation-filters:sRGB"
+       id="filter7804-6">
+      <feMorphology
+         radius="4.3"
+         in="SourceAlpha"
+         result="result91"
+         id="feMorphology7806-4" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite7808-3" />
+      <feGaussianBlur
+         result="result0"
+         stdDeviation="1.2"
+         id="feGaussianBlur7810-4" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         id="feDiffuseLighting7812-9">
+        <feDistantLight
+           elevation="66"
+           azimuth="225"
+           id="feDistantLight7814-9" />
+      </feDiffuseLighting>
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend7816-0" />
+      <feComposite
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite7818-2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4323"
+       id="radialGradient4329"
+       cx="477.33011"
+       cy="373.38162"
+       fx="477.33011"
+       fy="373.38162"
+       r="3.5003052"
+       gradientTransform="matrix(1,0,0,2.3391421,-2.1509219,-500.86632)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4323">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop4325" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop4327" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4321"
+       cx="476.98276"
+       cy="375.35715"
+       fx="476.98276"
+       fy="375.35715"
+       r="2.4244282"
+       gradientTransform="matrix(1,0,0,2.9334067,-1.8035728,-728.54892)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB"
+       id="filter7820-1">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7822-4" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7824-9" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7826-3" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7828-6" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7830-5" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.29999995"
+         surfaceScale="3"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7832-6">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7834-1" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7836-3" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7838-3" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7840-1" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7842-0" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4323"
+       id="radialGradient4329-7"
+       cx="477.33011"
+       cy="373.38162"
+       fx="477.33011"
+       fy="373.38162"
+       r="3.5003052"
+       gradientTransform="matrix(1,0,0,2.3391421,-2.6198783,-512.96935)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4321-6"
+       cx="476.98276"
+       cy="375.35715"
+       fx="476.98276"
+       fy="375.35715"
+       r="2.4244282"
+       gradientTransform="matrix(1,0,0,2.9334067,-2.2725283,-740.65195)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4315"
+       id="radialGradient4298"
+       cx="473.18466"
+       cy="368.02405"
+       fx="473.18466"
+       fy="368.02405"
+       r="5.3419142"
+       gradientTransform="matrix(1.0004665,0,0,2.6394758,-1.1749148,-602.03378)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB"
+       id="filter7780-0">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur7782-5" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite7784-5" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur7786-7" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite7788-9" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7790-7" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.29999995"
+         surfaceScale="3"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7792-2">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7794-3" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7796-5" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7798-4" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7800-0" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7802-2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4395"
+       id="radialGradient4401"
+       cx="526.79456"
+       cy="262.29663"
+       fx="526.79456"
+       fy="262.29663"
+       r="3.9322138"
+       gradientTransform="matrix(0.87155424,0,0,1.766421,65.705144,-198.44113)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4395">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4397" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop4399" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7066"
+       id="radialGradient7072"
+       cx="822.95325"
+       cy="292.42334"
+       fx="822.95325"
+       fy="292.42334"
+       r="22.275391"
+       gradientTransform="matrix(1,0,0,0.10118577,0,262.83427)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7066">
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="0"
+         id="stop7068" />
+      <stop
+         style="stop-color:#800080;stop-opacity:0;"
+         offset="1"
+         id="stop7070" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7066"
+       id="radialGradient7088"
+       cx="756.01111"
+       cy="264.44376"
+       fx="756.01111"
+       fy="264.44376"
+       r="14.203169"
+       gradientTransform="matrix(1,0,0,0.14603017,0,225.82699)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7066"
+       id="radialGradient7080"
+       cx="-351.59726"
+       cy="789.7829"
+       fx="-351.59726"
+       fy="789.7829"
+       r="5.4291253"
+       gradientTransform="matrix(1,0,0,0.36071168,0,504.89897)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Raised Border"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Strongly raised border around a flat surface"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB"
+       id="filter6990-6">
+      <feGaussianBlur
+         stdDeviation="4"
+         result="result1"
+         id="feGaussianBlur6992-6" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite6994-7" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result6"
+         in="result4"
+         id="feGaussianBlur6996-4" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result4"
+         result="result8"
+         id="feComposite6998-7" />
+      <feComposite
+         operator="atop"
+         result="fbSourceGraphic"
+         in="result4"
+         in2="result8"
+         id="feComposite7000-6" />
+      <feSpecularLighting
+         specularExponent="10"
+         specularConstant="1.29999995"
+         surfaceScale="3"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic"
+         id="feSpecularLighting7002-0">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight7004-1" />
+      </feSpecularLighting>
+      <feComposite
+         operator="atop"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite7006-2" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite7008-7" />
+      <feComposite
+         operator="over"
+         in="result4"
+         in2="SourceGraphic"
+         id="feComposite7010-5" />
+      <feBlend
+         mode="multiply"
+         in2="result2"
+         id="feBlend7012-1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8763699"
+     inkscape:cx="427.75696"
+     inkscape:cy="562.25746"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Cockpit">
+    <g
+       transform="translate(-12.942785,131.026)"
+       id="g7844"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54">
+      <rect
+         transform="matrix(0.98763383,-0.15677827,0.17364912,0.98480759,0,0)"
+         ry="5"
+         rx="11.998411"
+         y="353.81885"
+         x="471.94507"
+         height="14.223668"
+         width="4.8488564"
+         id="rect4215-7-9"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.15175366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.98763383,-0.15677827,0.17364912,0.98480759,0,0)"
+         ry="5"
+         rx="11.998411"
+         y="365.00027"
+         x="472.47415"
+         height="14.223668"
+         width="4.8488564"
+         id="rect4215-7-9-9"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.15175366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.99999994"
+         rx="12"
+         y="259.79999"
+         x="520.98346"
+         height="10.482625"
+         width="7.8644276"
+         id="rect4215"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.3041718;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7804-6)" />
+      <rect
+         transform="matrix(0.98763383,-0.15677827,0.17364912,0.98480759,0,0)"
+         ry="5"
+         rx="11.998411"
+         y="365.41449"
+         x="472.75476"
+         height="14.223668"
+         width="4.8488564"
+         id="rect4215-7-9-9-8"
+         style="opacity:0.5;fill:url(#radialGradient4329);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4321);stroke-width:2.15175366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7820-1)" />
+      <rect
+         transform="matrix(0.98763383,-0.15677827,0.17364912,0.98480759,0,0)"
+         ry="5"
+         rx="11.998411"
+         y="353.31149"
+         x="472.28583"
+         height="14.223668"
+         width="4.8488564"
+         id="rect4215-7-9-9-8-8"
+         style="opacity:0.5;fill:url(#radialGradient4329-7);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4321-6);stroke-width:2.15175366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.98629185,-0.16501028,0.16501028,0.98629185,0,0)"
+         ry="0.99999994"
+         rx="12"
+         y="357.30426"
+         x="468.63983"
+         height="26.302559"
+         width="8.5320749"
+         id="rect4215-7"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.15175366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.99999994"
+         rx="12.000001"
+         y="268.45963"
+         x="523.0896"
+         height="6.9570279"
+         width="4.3388305"
+         id="rect4215-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.78915882;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.98655782,-0.1634126,0.1666227,0.98602073,0,0)"
+         ry="0.99999458"
+         rx="11.999938"
+         y="356.32321"
+         x="467.96246"
+         height="26.067207"
+         width="8.5360556"
+         id="rect4215-7-99"
+         style="opacity:0.75;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4298);stroke-width:2.14260483;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7780-0)" />
+      <rect
+         ry="0.99999994"
+         rx="12"
+         y="257.93921"
+         x="521.40808"
+         height="13.89189"
+         width="6.8542752"
+         id="rect4215-4"
+         style="opacity:0.65;fill:url(#radialGradient4401);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3041718;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.79890873,0.16273115,-0.13132381,0.98997536,95.064821,-46.633928)"
+       id="g7856"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4213"
+         d="m 643.52415,351.66329 c 26.69794,22.3611 8.14194,39.5393 26.69794,22.3611 18.55601,-17.1782 63.41513,-10.90939 18.55601,-17.1782 -44.85912,-6.2688 -45.25395,-5.1829 -45.25395,-5.1829 z"
+         style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.9919639,0.12652123,-0.49384469,0.86955012,0,0)"
+         ry="2.7487128"
+         rx="3.6405737"
+         y="290.4545"
+         x="800.96295"
+         height="3.9377019"
+         width="43.980579"
+         id="rect7008"
+         style="opacity:1;fill:url(#radialGradient7072);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.57020336;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.98894857,0.14825896,-0.30010927,0.95390483,0,0)"
+         ry="2.5822237"
+         rx="3.5999222"
+         y="262.59024"
+         x="742.0285"
+         height="3.7070193"
+         width="27.965176"
+         id="rect7008-6"
+         style="opacity:1;fill:url(#radialGradient7088);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.441163;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.35197615,-0.93600897,0.99856228,0.0536038,0,0)"
+         ry="3.0343466"
+         rx="2.1660755"
+         y="787.95917"
+         x="-356.89175"
+         height="3.6474218"
+         width="10.588975"
+         id="rect7008-6-6"
+         style="opacity:1;fill:url(#radialGradient7080);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26927611;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Under">
+    <g
+       transform="matrix(0.93480031,0,0,1.4173683,195.29085,-344.70503)"
+       id="g5821"
+       style="filter:url(#filter7470)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54">
+      <rect
+         transform="matrix(0.99597694,0.08960992,-0.08960992,0.99597694,0,0)"
+         y="508.78046"
+         x="-34.895176"
+         height="38.385796"
+         width="55.053314"
+         id="rect4263"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.99197269,-0.12645227,0.12645227,0.99197269,0,0)"
+         y="507.82281"
+         x="-149.38252"
+         height="38.385796"
+         width="55.053314"
+         id="rect4263-7"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="503.68219"
+         x="-92.260925"
+         height="57"
+         width="14"
+         id="rect4280"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="28.450001"
+         rx="4.3499999"
+         cy="532.15039"
+         cx="-92.449997"
+         id="path4282"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="26.544621"
+         rx="4.3781152"
+         cy="532.01971"
+         cx="-88.763916"
+         id="path4282-9"
+         style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314);stroke-width:1.94376934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.99981824,0,0,1.0058228,-350.60998,185.56361)"
+         id="g4355">
+        <ellipse
+           style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314-0);stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-9-8"
+           cx="273.26657"
+           cy="344.79095"
+           rx="4.3499999"
+           ry="28.284271" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-2"
+           cx="271.3681"
+           cy="344.59045"
+           rx="4.3499999"
+           ry="28.284271" />
+      </g>
+      <g
+         transform="matrix(1.0024404,0,0,0.96072953,-340.46738,200.78795)"
+         id="g4355-9">
+        <ellipse
+           style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314-0-8);stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-9-8-2"
+           cx="273.26657"
+           cy="344.79095"
+           rx="4.3499999"
+           ry="28.284271" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-2-2"
+           cx="271.3681"
+           cy="344.59045"
+           rx="4.3499999"
+           ry="28.284271" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6774)"
+       id="rect4182-66"
+       width="248.9805"
+       height="20.180958"
+       x="254.23892"
+       y="395.62686"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-3"
+       width="116.65051"
+       height="84.325653"
+       x="206.86382"
+       y="435.57877"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-3-2"
+       width="116.65051"
+       height="84.325653"
+       x="431.09366"
+       y="436.43274"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-3-4"
+       width="116.65051"
+       height="25.23173"
+       x="317.41852"
+       y="488.78656"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-3-4-0"
+       width="116.65051"
+       height="25.23173"
+       x="316.90579"
+       y="420.36548"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-3-4-5"
+       width="14.625106"
+       height="66.142906"
+       x="370.40582"
+       y="434.36548"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6918)"
+       id="rect4182-66-5"
+       width="134.83327"
+       height="20.180958"
+       x="436.6698"
+       y="507.64224"
+       transform="matrix(1.3480633,0,0,0.79216193,-206.54816,107.60457)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6990)"
+       id="rect4182-66-5-6"
+       width="134.83327"
+       height="20.180958"
+       x="186.52512"
+       y="507.52826"
+       transform="matrix(1.1945087,0,0,0.87195552,-31.992557,66.278221)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <g
+       transform="matrix(0.93480031,0,0,1.4173683,197.61912,-239.93239)"
+       id="g5821-3"
+       style="filter:url(#filter7470-0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54">
+      <rect
+         transform="matrix(0.99597694,0.08960992,-0.08960992,0.99597694,0,0)"
+         y="508.78046"
+         x="-34.895176"
+         height="38.385796"
+         width="55.053314"
+         id="rect4263-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.99197269,-0.12645227,0.12645227,0.99197269,0,0)"
+         y="507.82281"
+         x="-149.38252"
+         height="38.385796"
+         width="55.053314"
+         id="rect4263-7-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="503.68219"
+         x="-92.260925"
+         height="57"
+         width="14"
+         id="rect4280-8"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="28.450001"
+         rx="4.3499999"
+         cy="532.15039"
+         cx="-92.449997"
+         id="path4282-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="26.544621"
+         rx="4.3781152"
+         cy="532.01971"
+         cx="-88.763916"
+         id="path4282-9-9"
+         style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314-5);stroke-width:1.94376934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.99981824,0,0,1.0058228,-350.60998,185.56361)"
+         id="g4355-7">
+        <ellipse
+           style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314-0-7);stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-9-8-3"
+           cx="273.26657"
+           cy="344.79095"
+           rx="4.3499999"
+           ry="28.284271" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-2-3"
+           cx="271.3681"
+           cy="344.59045"
+           rx="4.3499999"
+           ry="28.284271" />
+      </g>
+      <g
+         transform="matrix(1.0024404,0,0,0.96072953,-340.46738,200.78795)"
+         id="g4355-9-2">
+        <ellipse
+           style="opacity:0.35;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4314-0-8-4);stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-9-8-2-6"
+           cx="273.26657"
+           cy="344.79095"
+           rx="4.3499999"
+           ry="28.284271" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4282-2-2-5"
+           cx="271.3681"
+           cy="344.59045"
+           rx="4.3499999"
+           ry="28.284271" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6990-6)"
+       id="rect4182-66-5-6-3"
+       width="134.83327"
+       height="20.180958"
+       x="186.52512"
+       y="507.52826"
+       transform="matrix(1.1945087,0,0,0.87195552,77.900779,67.577397)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <image
+       y="422.91791"
+       x="311.81931"
+       id="image6769"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABHQAAAPHCAYAAABJ9R7jAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAASOwAAEjsBV4n0CwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAABtiSURB VHic7Ns9q9dlHMfx7+8cXaI6yLHEmuyQSzfQUNDQJEjQE2hpaNFNCIR6AtHk4NITaOgZhNVYg7Sd mrzblDhHSEtw8/wapC0opz9veL2Wa/181zdcy+7xk+uyzszMLLM8fZdlXj27N6+989acefuNeeX1 vTlx6qU5cfrUPL+zMzMzW9vb89yLLwwAAAAAz+7xX4/m6MmTmZl59OfDefD7wfxxeDj3bt6eO/u/ za39X+fujVv/1JqZmVlnnZl1lt3ju+usM1vbx+bdD8/NuU8+njc/eH92Xj65qXsAAAAAmJmHh/dn /6ef58dvvp1frv0wR0dH8zToHNtd3/vo/Fy48uWc3juz6Z0AAAAA/It7t+/M15c/n+vfXZvl00tf rBevfrXpTQAAAAD8h3Vd5+qlz2b5/uD+6nsVAAAAQMODg8NZrq/ruukhAAAAAPx/W5seAAAAAMCz EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG 0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEA AACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACI EXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQA AAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAA YgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQd AAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAA gBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhB BwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAAACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA ACBG0AEAAACIEXQAAAAAYgQdAAAAgBhBBwAA/m7nDnGrDMIoDJ/vb3AIVEkVrkiCoQGBR3QNrIV0 CyRoLBtAo7CVBPCkVTUYxJ0KgmuTqt4c8jxyMpMc/YoBgDKCDgAAAEAZQQcAAACgjKADAAAAUEbQ AQAAACgj6AAAAACUEXQAAAAAygg6AAAAAGUEHQAAAIAygg4AAABAGUEHAAAAoIygAwAAAFBG0AEA AAAoI+gAAAAAlBF0AAAAAMoIOgAAAABlBB0AAACAMoIOAAAAQBlBBwAAAKCMoAMAAABQRtABAAAA KCPoAAAAAJQRdAAAAADKCDoAAAAAZQQdAAAAgDKCDgAAAEAZQQcAAACgjKADAAAAUEbQAQAAACgj 6AAAAACUEXQAAAAAygg6AAAAAGUEHQAAAIAygg4AAABAGUEHAAAAoIygAwAAAFBG0AEAAAAoI+gA AAAAlBF0AAAAAMoIOgAAAABlBB0AAACAMoIOAAAAQBlBBwAAAKCMoAMAAABQRtABAAAAKCPoAAAA AJQRdAAAAADKCDoAAAAAZQQdAAAAgDKCDgAAAEAZQQcAAACgjKADAAAAUEbQAQAAACgj6AAAAACU EXQAAAAAygg6AAAAAGUEHQAAAIAygg4AAABAGUEHAAAAoIygAwAAAFBG0AEAAAAoI+gAAAAAlBF0 AAAAAMoIOgAAAABlBB0AAACAMluSy32PAAAAAODOLrZJzva9AgAAAIA7WSt5t53MvJ/kNMnPfS8C AAAA4FY/Jjl9OfNh/p18WuvgSfJmJW+TvE5yuL99AAAAAOTvVzlfJvn4Ivk8M7skmZturrXma/L0 IHme5NkuOd6Sxys5SvIoycMkD+5tOgAAAMD/6U+S30muJvm1Sy625PtKznfJ+auZbzc9ugYsRnoh 3EPHOAAAAABJRU5ErkJggg== "
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="76.033585"
+       width="139.64981"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+  </g>
+  <g
+     inkscape:label="Bone Base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-6"
+       width="289.89169"
+       height="33.818016"
+       x="226.79028"
+       y="490.15735"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.27248549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6726)"
+       id="path4147"
+       cx="288.63019"
+       cy="357.55563"
+       rx="64.518593"
+       ry="51.891689"
+       transform="matrix(0.97366102,0.22800046,-0.22800046,0.97366102,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.27248549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6750)"
+       id="path4147-5"
+       cx="-53.991207"
+       cy="539.95581"
+       rx="64.518593"
+       ry="51.891689"
+       transform="matrix(0.88917276,-0.45757163,0.45757163,0.88917276,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.27248549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6894)"
+       id="path4147-52"
+       cx="-651.81555"
+       cy="-373.03796"
+       rx="64.518593"
+       ry="51.891689"
+       transform="matrix(-0.97553538,-0.21984251,0.21984251,-0.97553538,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:0.01863355;fill-rule:nonzero;stroke:#000000;stroke-width:3.27248549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6798)"
+       id="path4147-5-6"
+       cx="-296.46375"
+       cy="-625.9848"
+       rx="64.518593"
+       ry="51.891689"
+       transform="matrix(-0.88531154,0.46499836,-0.46499836,-0.88531154,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4199"
+       cx="197.43532"
+       cy="457.88745"
+       rx="24.496199"
+       ry="19.697975"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1"
+       width="116.14544"
+       height="124.22668"
+       x="206.08218"
+       y="399.85788"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.00100374;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4192"
+       sodipodi:type="arc"
+       sodipodi:cx="511.70334"
+       sodipodi:cy="432.86182"
+       sodipodi:rx="78.301544"
+       sodipodi:ry="38.05011"
+       sodipodi:start="0"
+       sodipodi:end="2.2318223"
+       d="m 590.00488,432.86182 a 78.301544,38.05011 0 0 1 -43.89904,34.18085 78.301544,38.05011 0 0 1 -82.47394,-4.14551 l 48.07144,-30.03534 z"
+       transform="matrix(0.99995765,-0.00920273,0.04576074,0.99895243,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1"
+       width="116.65051"
+       height="85.3358"
+       x="432.53522"
+       y="438.80856"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4199-0"
+       cx="553.3833"
+       cy="463.40265"
+       rx="24.496199"
+       ry="19.697975"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       style="opacity:0.6;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.86349344;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5200-4-4"
+       sodipodi:type="arc"
+       sodipodi:cx="478.07019"
+       sodipodi:cy="-688.1452"
+       sodipodi:rx="82.025787"
+       sodipodi:ry="64.833725"
+       sodipodi:start="5.8317057"
+       sodipodi:end="2.2318183"
+       d="m 551.8772,-716.43199 a 82.025787,64.833725 0 0 1 -22.18979,78.67415 82.025787,64.833725 0 0 1 -101.97481,0.79013 l 50.35759,-51.17749 z"
+       transform="matrix(0.8657084,-0.50054867,-0.18589611,-0.98256941,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-1-7"
+       width="80.7901"
+       height="22.201271"
+       x="609.64764"
+       y="164.89639"
+       transform="matrix(0.90400564,0.42752052,-0.42752052,0.90400564,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182"
+       width="257.5668"
+       height="44.929691"
+       x="242.95273"
+       y="399.30963"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01194155;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4182-1-5"
+       width="12.604804"
+       height="108.56931"
+       x="371.40201"
+       y="409.41116"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090"
+       width="150.10767"
+       height="1.9336478"
+       x="172.42857"
+       y="459.05621"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7"
+       width="146.57213"
+       height="1.9336478"
+       x="432.25333"
+       y="459.05655"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7-1"
+       width="63.234543"
+       height="1.9336478"
+       x="-459.25217"
+       y="467.70334"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7-1-6"
+       width="62.520256"
+       height="1.9336478"
+       x="-458.99091"
+       y="376.7135"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7-1-6-8"
+       width="62.520256"
+       height="1.9336478"
+       x="-458.99091"
+       y="278.7135"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-3"
+       width="13.323908"
+       height="1.9336478"
+       x="370.76608"
+       y="459.05655"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7-1-6-8-1"
+       width="65.377396"
+       height="1.9336478"
+       x="-526.28644"
+       y="302.36066"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7090-7-1-3"
+       width="63.234543"
+       height="1.9336478"
+       x="-524.09717"
+       y="450.24902"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ship Pieces">
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7014)"
+       id="rect5958"
+       width="44.285713"
+       height="60"
+       x="491.64792"
+       y="-591.85718"
+       rx="15"
+       ry="15"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7116)"
+       id="rect5958-9"
+       width="21.003944"
+       height="10.454265"
+       x="503.50037"
+       y="-536.08301"
+       rx="2"
+       ry="15"
+       transform="matrix(0,1,-1,0,62,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7140)"
+       id="rect5958-6"
+       width="44.285713"
+       height="60"
+       x="-535.93323"
+       y="162.11139"
+       rx="15"
+       ry="15"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7228)"
+       id="rect5958-9-9"
+       width="21.003944"
+       height="10.454265"
+       x="-524.08075"
+       y="217.88556"
+       rx="2"
+       ry="15"
+       transform="matrix(0,-1,1,0,-60,0)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,255.05874,339.45045)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000649;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,346.47933,339.45071)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6-3"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,437.08015,339.45071)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000649;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6-9"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,353.08015,339.45071)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000649;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6-8"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,346.49082,395.44923)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000649;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6-9-2"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,353.09164,395.44923)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-0"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,255.05915,395.44971)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-6-3-6"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,437.08015,395.44971)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-1"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,278.75625,401.34956)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-0-5"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,278.75666,459.85871)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-1-3"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,420.18015,401.34971)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.25;fill:#000000;fill-opacity:0.96894406;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13163-7-0-5-3"
+       sodipodi:sides="6"
+       sodipodi:cx="394.98611"
+       sodipodi:cy="608.86346"
+       sodipodi:r1="15.859717"
+       sodipodi:r2="12.83078"
+       sodipodi:arg1="0.94531129"
+       sodipodi:arg2="1.4689101"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 404.27183,621.72061 -15.77747,1.61309 -9.28572,-12.85714 6.49176,-14.47024 15.77747,-1.61309 9.28571,12.85714 z"
+       inkscape:transform-center-x="-0.015102465"
+       inkscape:transform-center-y="-0.14225724"
+       transform="matrix(0.08494227,0.01035848,-0.00927607,0.09485406,420.18015,459.85871)"
+       inkscape:export-filename="C:\Users\scare\Desktop\Doggy In Space\Puppynaut Title\Dog Bone ShipV2.png"
+       inkscape:export-xdpi="118.54"
+       inkscape:export-ydpi="118.54" />
+  </g>
+</svg>

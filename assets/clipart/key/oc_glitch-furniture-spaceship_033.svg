@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="170.39999"
+     height="78.000023"
+     id="svg3891"
+     version="1.1"
+     inkscape:version="0.48.5 r10040"
+     sodipodi:docname="New document 1">
+    <defs
+         id="defs3893">
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_13_"
+             id="linearGradient3561"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(1.0101e-4,1,-1,-0.001,3.32585e-4,-9.89921e-5)"
+             x1="28.4639"
+             y1="-86.294403"
+             x2="38.363899"
+             y2="-86.294403" />
+        <linearGradient
+             id="SVGID_13_"
+             gradientUnits="userSpaceOnUse"
+             x1="28.4639"
+             y1="-86.294403"
+             x2="38.363899"
+             y2="-86.294403"
+             gradientTransform="matrix(1.0101e-4,1,-1,-0.001,3.32585e-4,-9.89921e-5)">
+            <stop
+                 offset="0.0157"
+                 style="stop-color:#000000;stop-opacity:0.2"
+                 id="stop183" />
+            <stop
+                 offset="0.9647"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop185" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_14_"
+             id="linearGradient3789"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(4.0404e-5,1,-1,-0.001,324.7289,414.79066)"
+             x1="53.9883"
+             y1="-86.6455"
+             x2="78.738297"
+             y2="-86.6455" />
+        <linearGradient
+             id="SVGID_14_"
+             gradientUnits="userSpaceOnUse"
+             x1="53.9883"
+             y1="-86.6455"
+             x2="78.738297"
+             y2="-86.6455"
+             gradientTransform="matrix(4.0404e-5,1,-1,-0.001,3.26338e-4,-9.80433e-5)">
+            <stop
+                 offset="0.0275"
+                 style="stop-color:#000000;stop-opacity:0.2471"
+                 id="stop200" />
+            <stop
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop202" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_15_"
+             id="linearGradient3756"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22841e-5,1,-1,-0.001,324.72852,458.79066)"
+             x1="50.333"
+             y1="-29.6973"
+             x2="81.307999"
+             y2="-29.6973" />
+        <linearGradient
+             id="SVGID_15_"
+             gradientUnits="userSpaceOnUse"
+             x1="50.333"
+             y1="-29.6973"
+             x2="81.307999"
+             y2="-29.6973"
+             gradientTransform="matrix(3.22841e-5,1,-1,-0.001,-5.61146e-5,-9.80433e-5)">
+            <stop
+                 offset="0.0392"
+                 style="stop-color:#000000;stop-opacity:0.2"
+                 id="stop267" />
+            <stop
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop269" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_16_"
+             id="linearGradient3709"
+             gradientUnits="userSpaceOnUse"
+             x1="67.924797"
+             y1="81"
+             x2="67.924797"
+             y2="50"
+             gradientTransform="translate(324.72857,458.79076)" />
+        <linearGradient
+             id="SVGID_16_"
+             gradientUnits="userSpaceOnUse"
+             x1="67.924797"
+             y1="81"
+             x2="67.924797"
+             y2="50">
+            <stop
+                 offset="0.0392"
+                 style="stop-color:#000000;stop-opacity:0.2"
+                 id="stop362" />
+            <stop
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop364" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_17_"
+             id="linearGradient3662"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22581e-5,1,-1,-0.001,324.7283,458.79066)"
+             x1="51.693802"
+             y1="-106.272"
+             x2="82.693802"
+             y2="-106.272" />
+        <linearGradient
+             id="SVGID_17_"
+             gradientUnits="userSpaceOnUse"
+             x1="51.693802"
+             y1="-106.272"
+             x2="82.693802"
+             y2="-106.272"
+             gradientTransform="matrix(3.22581e-5,1,-1,-0.001,-2.67145e-4,-9.70946e-5)">
+            <stop
+                 offset="0.0392"
+                 style="stop-color:#000000;stop-opacity:0.2"
+                 id="stop457" />
+            <stop
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop459" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_18_"
+             id="linearGradient3615"
+             gradientUnits="userSpaceOnUse"
+             x1="144.5"
+             y1="80.662102"
+             x2="144.5"
+             y2="51.437099"
+             gradientTransform="translate(324.72857,458.79076)" />
+        <linearGradient
+             id="SVGID_18_"
+             gradientUnits="userSpaceOnUse"
+             x1="144.5"
+             y1="80.662102"
+             x2="144.5"
+             y2="51.437099">
+            <stop
+                 offset="0.0392"
+                 style="stop-color:#000000;stop-opacity:0.2"
+                 id="stop552" />
+            <stop
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0"
+                 id="stop554" />
+        </linearGradient>
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_15_"
+             id="linearGradient4785"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22841e-5,1,-1,-0.001,324.72852,458.79066)"
+             x1="50.333"
+             y1="-29.6973"
+             x2="81.307999"
+             y2="-29.6973" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_15_"
+             id="linearGradient4945"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22841e-5,1,-1,-0.001,324.72852,458.79066)"
+             x1="50.333"
+             y1="-29.6973"
+             x2="81.307999"
+             y2="-29.6973" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_16_"
+             id="linearGradient4947"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(324.72857,458.79076)"
+             x1="67.924797"
+             y1="81"
+             x2="67.924797"
+             y2="50" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_17_"
+             id="linearGradient4949"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22581e-5,1,-1,-0.001,324.7283,458.79066)"
+             x1="51.693802"
+             y1="-106.272"
+             x2="82.693802"
+             y2="-106.272" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_18_"
+             id="linearGradient4951"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(324.72857,458.79076)"
+             x1="144.5"
+             y1="80.662102"
+             x2="144.5"
+             y2="51.437099" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_13_"
+             id="linearGradient5112"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(1.0101e-4,1,-1,-0.001,3.32585e-4,-9.89921e-5)"
+             x1="28.4639"
+             y1="-86.294403"
+             x2="38.363899"
+             y2="-86.294403" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_14_"
+             id="linearGradient5114"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(4.0404e-5,1,-1,-0.001,324.7289,414.79066)"
+             x1="53.9883"
+             y1="-86.6455"
+             x2="78.738297"
+             y2="-86.6455" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_15_"
+             id="linearGradient5116"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22841e-5,1,-1,-0.001,324.72852,458.79066)"
+             x1="50.333"
+             y1="-29.6973"
+             x2="81.307999"
+             y2="-29.6973" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_16_"
+             id="linearGradient5118"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(324.72857,458.79076)"
+             x1="67.924797"
+             y1="81"
+             x2="67.924797"
+             y2="50" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_17_"
+             id="linearGradient5120"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(3.22581e-5,1,-1,-0.001,324.7283,458.79066)"
+             x1="51.693802"
+             y1="-106.272"
+             x2="82.693802"
+             y2="-106.272" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#SVGID_18_"
+             id="linearGradient5122"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(324.72857,458.79076)"
+             x1="144.5"
+             y1="80.662102"
+             x2="144.5"
+             y2="51.437099" />
+    </defs>
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageopacity="0.0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="3.5"
+         inkscape:cx="131.53539"
+         inkscape:cy="-8.5714111"
+         inkscape:document-units="px"
+         inkscape:current-layer="layer1"
+         showgrid="false"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0" />
+    <metadata
+         id="metadata3896">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         inkscape:label="Layer 1"
+         inkscape:groupmode="layer"
+         id="layer1"
+         transform="translate(-326.22857,-445.79075)">
+        <g
+             id="g4961">
+            <polygon
+                 transform="translate(324.72857,418.79075)"
+                 id="polygon178"
+                 points="25.9,27.4 150.15,28.4 165.35,42.5 165.35,103 8.5,103 8.5,44.4 "
+                 style="fill:#33484f;fill-rule:evenodd" />
+            <rect
+                 id="rect191"
+                 height="2.6500001"
+                 width="156.85001"
+                 style="fill:#121b1c;fill-rule:evenodd"
+                 y="464.84076"
+                 x="333.22858" />
+            <rect
+                 id="rect193"
+                 height="5.25"
+                 width="156.75"
+                 style="fill:#253538;fill-rule:evenodd"
+                 y="518.54077"
+                 x="333.32858" />
+            <rect
+                 id="rect195"
+                 height="2.05"
+                 width="156.75"
+                 style="fill:#182426;fill-rule:evenodd"
+                 y="520.54077"
+                 x="333.32858" />
+            <g
+                 id="g4765">
+                <polygon
+                     style="fill:#46636b;fill-rule:evenodd"
+                     points="155.05,27 171.1,42.15 165.35,44.95 8.5,44.95 1.5,42.2 21.65,27.35 "
+                     id="polygon180"
+                     transform="translate(324.72857,418.79075)" />
+                <polygon
+                     style="fill:url(#linearGradient5112);fill-rule:evenodd"
+                     points="155.05,27 171.1,42.15 165.35,44.95 8.5,44.95 1.5,42.2 21.65,27.35 "
+                     id="polygon187"
+                     transform="translate(324.72857,418.79075)" />
+                <polygon
+                     style="fill:#33484f;fill-rule:evenodd"
+                     points="1.5,42.2 171.9,42.2 171.9,47.45 2.1,47.45 "
+                     id="polygon189"
+                     transform="translate(324.72857,418.79075)" />
+                <polygon
+                     style="fill:#627f82;fill-rule:evenodd"
+                     points="171.1,41.75 171.5,42.75 1.85,42.75 1.5,41.75 "
+                     id="polygon197"
+                     transform="translate(324.72857,418.79075)" />
+            </g>
+            <rect
+                 id="rect204"
+                 height="47.599998"
+                 width="156.3"
+                 style="fill:url(#linearGradient5114);fill-rule:evenodd"
+                 y="465.54074"
+                 x="333.22858" />
+            <g
+                 transform="translate(0,-40)"
+                 id="g4806">
+                <path
+                     style="fill:#253538;fill-rule:evenodd"
+                     d="M 338.12857,510.09076 C 349.04524,510.09076 359.9619,510.09076 370.87857,510.09076 370.87857,524.10743 370.87857,538.12409 370.87857,552.14076 359.9619,552.14076 349.04524,552.14076 338.12857,552.14076 338.12857,538.12409 338.12857,524.10743 338.12857,510.09076 z"
+                     id="rect206"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#33484f;fill-rule:evenodd"
+                     d="M 339.27856,511.39075 C 349.37856,511.39075 359.47856,511.39075 369.57856,511.39075 369.57856,524.42441 369.57856,537.45808 369.57856,550.49175 359.47856,550.49175 349.37856,550.49175 339.27856,550.49175 339.27856,537.45808 339.27856,524.42441 339.27856,511.39075 z"
+                     id="rect208"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#253538;fill-rule:evenodd"
+                     d="M 340.32858,513.29077 C 348.91192,513.29077 357.49525,513.29077 366.07858,513.29077 366.07858,525.05744 366.07858,536.8241 366.07858,548.59077 357.49525,548.59077 348.91192,548.59077 340.32858,548.59077 340.32858,536.8241 340.32858,525.05744 340.32858,513.29077 z"
+                     id="rect210"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#2b3c42;fill-rule:evenodd"
+                     d="M 341.37857,514.54077 C 349.24524,514.54077 357.1119,514.54077 364.97857,514.54077 364.97857,525.35744 364.97857,536.17411 364.97857,546.99077 357.1119,546.99077 349.24524,546.99077 341.37857,546.99077 341.37857,536.17411 341.37857,525.35744 341.37857,514.54077 z"
+                     id="rect212"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#33484f;fill-rule:evenodd"
+                     d="M 342.22858,515.59076 C 349.54524,515.59076 356.86191,515.59076 364.17858,515.59076 364.17858,525.57409 364.17858,535.55743 364.17858,545.54076 356.86191,545.54076 349.54524,545.54076 342.22858,545.54076 342.22858,535.55743 342.22858,525.57409 342.22858,515.59076 z"
+                     id="rect214"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 361.37857,516.69076 C 359.52222,517.09006 357.42869,516.47561 355.75369,517.35226 354.34232,515.90212 352.38432,517.5713 350.72852,517.42542 349.40794,517.1608 348.01319,517.1144 347.15573,518.32723 346.74916,518.59007 347.01975,517.18153 346.88339,516.77743 347.34227,516.56866 348.19733,516.72927 348.80884,516.66279 353.91541,516.58878 359.02199,516.51477 364.12857,516.44076 364.12857,517.19076 364.12857,517.94076 364.12857,518.69076 364.33578,517.3757 363.18407,516.98841 362.07238,516.75624 L 361.80366,516.70312 361.37857,516.69076 z"
+                     id="path218"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     d="M 369.57857,550.49075 C 370.1119,550.97408 370.64524,551.45742 371.17857,551.94075 360.2119,551.97408 349.24524,552.00742 338.27857,552.04075 338.6672,551.55996 338.91408,550.81902 339.38582,550.49075 349.45007,550.49075 359.51432,550.49075 369.57857,550.49075 z"
+                     id="polygon222"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     d="M 369.57857,511.39075 C 359.47857,511.39075 349.37857,511.39075 339.27857,511.39075 339.09625,511.03001 337.75835,510.1793 338.45031,510.18927 349.2264,510.13976 360.00248,510.09026 370.77857,510.04075 370.37857,510.49075 369.97857,510.94075 369.57857,511.39075 z"
+                     id="polygon224"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     d="M 364.97857,514.54075 C 357.1119,514.54075 349.24524,514.54075 341.37857,514.54075 341.23368,514.16969 339.94224,513.26435 340.65031,513.29075 349.1264,513.29075 357.60248,513.29075 366.07857,513.29075 365.7119,513.70742 365.34524,514.12408 364.97857,514.54075 z"
+                     id="polygon226"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     d="M 341.37857,514.54075 C 349.24524,514.54075 357.1119,514.54075 364.97857,514.54075 364.55369,515.0044 364.31154,515.83698 363.53508,515.59075 356.43291,515.59075 349.33074,515.59075 342.22857,515.59075 341.94524,515.24075 341.6619,514.89075 341.37857,514.54075 z"
+                     id="polygon230"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#65858c;fill-rule:evenodd"
+                     d="M 342.27857,516.44075 C 341.93769,515.48092 342.66049,515.52405 343.4083,515.59075 350.33172,515.59075 357.25515,515.59075 364.17857,515.59075 364.40653,516.55058 363.6888,516.50745 362.94884,516.44075 356.05875,516.44075 349.16866,516.44075 342.27857,516.44075 z"
+                     id="polygon234"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 339.27857,511.39076 C 339.63053,512.75193 339.90478,514.12769 339.72857,515.54076 339.97962,518.00488 339.39414,520.42923 339.3661,522.88916 339.32026,523.80603 339.27441,524.72289 339.22857,525.63976 339.24524,520.89009 339.2619,516.14043 339.27857,511.39076 z"
+                     id="path236"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#527580;fill-rule:evenodd"
+                     d="M 363.17857,519.49076 C 363.28036,522.53695 359.52404,520.72714 360.92559,518.50624 361.59351,516.81013 363.39126,518.12303 363.17857,519.49076 z"
+                     id="path240"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#1c2a2d;fill-rule:evenodd"
+                     d="M 363.17857,519.34076 C 363.3937,521.60401 360.2713,521.07712 360.85049,519.02496 361.0611,517.05282 363.3107,517.49327 363.17857,519.34076 z"
+                     id="path242"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#203135;fill-rule:evenodd"
+                     d="M 362.77857,519.64076 C 362.86476,521.82916 360.09158,520.53973 361.11905,518.90079 361.63278,517.69341 362.95835,518.66212 362.77857,519.64076 z"
+                     id="path244"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#2b4147;fill-rule:evenodd"
+                     d="M 362.47857,519.94076 C 362.30085,522.13839 360.15524,519.89366 361.52218,518.95554 362.20775,518.63369 362.53008,519.38607 362.47857,519.94076 z"
+                     id="path246"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#364d54;fill-rule:evenodd"
+                     d="M 362.32857,519.99076 C 362.01241,522.10657 360.04629,519.04402 361.99107,519.33446 362.25631,519.42703 362.33671,519.74388 362.32857,519.99076 z"
+                     id="path248"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#65858c;fill-rule:evenodd"
+                     d="M 339.32857,511.99075 C 338.95972,511.03907 340.11602,511.49073 340.6728,511.39075 350.30805,511.39075 359.94331,511.39075 369.57857,511.39075 369.52447,512.293 368.82126,512.25188 368.09887,512.18287 358.50877,512.11883 348.91867,512.05479 339.32857,511.99075 z"
+                     id="polygon262"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 369.57857,550.49076 C 359.47857,550.49076 349.37857,550.49076 339.27857,550.49076 339.32857,549.79076 339.37857,549.09076 339.42857,548.39076 340.00062,549.77509 341.50677,549.93153 342.82873,549.92135 346.62028,550.18586 350.42681,550.43944 354.22857,550.39176 357.05578,550.15719 359.89114,549.79117 362.72845,549.82926 364.23776,550.85996 365.03378,548.1642 366.17857,549.79076 367.577,549.99881 368.93046,549.42254 369.44421,548.0142 369.8142,547.3842 369.52438,549.15732 369.5941,549.62092 369.58893,549.91087 369.58375,550.20081 369.57857,550.49076 z"
+                     id="path264"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:url(#linearGradient5116);fill-rule:evenodd"
+                     d="M 338.02856,509.99075 C 348.9619,509.99075 359.89523,509.99075 370.82856,509.99075 370.82856,524.00742 370.82856,538.02409 370.82856,552.04075 359.89523,552.04075 348.9619,552.04075 338.02856,552.04075 338.02856,538.02409 338.02856,524.00742 338.02856,509.99075 z"
+                     id="rect271"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#172223;fill-rule:evenodd"
+                     d="M 366.97858,524.29077 C 367.57456,524.36387 368.46207,524.14544 368.87858,524.39802 368.87858,529.57894 368.87858,534.75985 368.87858,539.94077 368.28259,539.86767 367.39508,540.0861 366.97858,539.83352 366.97858,534.65261 366.97858,529.47169 366.97858,524.29077 z"
+                     id="rect275"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#243435;fill-rule:evenodd"
+                     d="M 366.97858,525.04077 C 367.52425,525.17385 368.72097,524.65587 368.47858,525.57701 368.47858,530.09827 368.47858,534.61952 368.47858,539.14077 367.9329,539.0077 366.73618,539.52567 366.97858,538.60453 366.97858,534.08328 366.97858,529.56202 366.97858,525.04077 z"
+                     id="rect277"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#2b3d3d;fill-rule:evenodd"
+                     d="M 366.97858,525.04077 C 367.52425,525.17385 368.72097,524.65587 368.47858,525.57701 368.47858,528.11493 368.47858,530.65285 368.47858,533.19077 367.9329,533.0577 366.73618,533.57567 366.97858,532.65453 366.97858,530.11661 366.97858,527.57869 366.97858,525.04077 z"
+                     id="rect279"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#364948;fill-rule:evenodd"
+                     d="M 366.97858,525.04077 C 367.52425,525.17385 368.72097,524.65587 368.47858,525.57701 368.47858,526.6316 368.47858,527.68619 368.47858,528.74077 367.9329,528.6077 366.73618,529.12567 366.97858,528.20453 366.97858,527.14994 366.97858,526.09536 366.97858,525.04077 z"
+                     id="rect281"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     d="M 366.97858,525.34076 C 367.52425,525.47383 368.72097,524.95586 368.47858,525.877 368.34693,526.10438 366.86993,526.27642 366.97858,525.71901 366.97858,525.59293 366.97858,525.46684 366.97858,525.34076 z"
+                     id="rect283"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     d="M 366.97858,525.69073 C 367.42761,525.91611 367.05816,526.95997 367.17858,527.51395 367.17858,531.37255 367.17858,535.23114 367.17858,539.08974 366.72955,538.86436 367.099,537.8205 366.97858,537.26652 366.97858,533.40792 366.97858,529.54933 366.97858,525.69073 z"
+                     id="rect285"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#27393a;fill-rule:evenodd"
+                     d="M 368.47857,525.04075 C 367.9329,524.90768 366.73618,525.42565 366.97857,524.50451 367.18279,524.02974 368.24782,524.41577 368.80179,524.29075 368.93576,524.37963 368.53765,524.83086 368.47857,525.04075 z"
+                     id="polygon287"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill-rule:evenodd"
+                     d="M 366.97857,539.94075 C 366.67904,538.98131 367.4592,539.10155 368.1583,539.14075 368.82516,539.13909 369.14666,540.35678 368.12783,539.94075 367.74474,539.94075 367.36166,539.94075 366.97857,539.94075 z"
+                     id="polygon289"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     d="M 368.87857,526.99075 C 368.87857,526.09075 368.87857,525.19075 368.87857,524.29075 368.28123,524.36384 367.39776,524.14544 366.97658,524.39798 366.96058,525.26224 366.94457,526.12649 366.92857,526.99075 366.48172,526.66318 366.84743,525.70118 366.72857,525.11753 366.80784,524.52489 366.39907,523.43491 367.37194,523.75289 368.04082,523.76551 368.70969,523.77813 369.37857,523.79075 369.37857,524.87408 369.37857,525.95742 369.37857,527.04075 369.2119,527.02408 369.04524,527.00742 368.87857,526.99075 z"
+                     id="polygon291"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     d="M 366.97857,538.09075 C 367.05652,538.66521 366.82653,539.54762 367.08582,539.94075 367.59841,539.78184 368.78045,540.29239 368.77857,539.61901 368.93839,539.12894 368.42593,537.89601 369.09872,537.97276 369.50887,538.26957 369.16571,539.24812 369.27857,539.81397 369.59313,540.77078 368.59619,540.46751 367.99262,540.54219 367.33268,540.5738 366.46807,540.81843 366.77857,539.84001 366.83711,539.28825 366.66222,538.26964 366.86437,538.0051 L 366.95017,538.06945 366.97857,538.09075 z"
+                     id="polygon293"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill-rule:evenodd"
+                     d="M 369.02857,537.89075 C 369.02857,538.59075 369.02857,539.29075 369.02857,539.99075 368.47226,539.78984 368.92517,538.76157 368.77857,538.22478 368.76013,537.96829 368.74047,537.90528 369.02857,537.89075 z"
+                     id="polygon295"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill-rule:evenodd"
+                     d="M 368.87857,524.29075 C 369.21612,524.83099 368.96494,525.62175 369.06362,526.26363 369.20022,527.42894 368.72374,526.85596 368.87857,526.02552 368.87857,525.44726 368.87857,524.86901 368.87857,524.29075 z"
+                     id="polygon297"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 368.37857,541.54076 C 367.75248,542.64112 365.73163,540.35896 367.42155,540.56504 368.00648,540.46512 368.86754,540.65691 369.28873,540.38399 369.35201,539.71925 369.41529,539.0545 369.47857,538.38976 369.49524,539.38976 369.5119,540.38976 369.52857,541.38976 369.14698,541.42369 368.46031,540.85774 368.37857,541.54076 z"
+                     id="path299"
+                     inkscape:connector-curvature="0" />
+            </g>
+            <g
+                 transform="translate(0,-40)"
+                 id="g4841">
+                <rect
+                     x="376.17856"
+                     y="510.09076"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="32.799999"
+                     height="42.049999"
+                     id="rect301" />
+                <rect
+                     x="377.47858"
+                     y="511.39075"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="30.35"
+                     height="39.101002"
+                     id="rect303" />
+                <rect
+                     x="381.02856"
+                     y="513.29077"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="25.75"
+                     height="35.299999"
+                     id="rect305" />
+                <rect
+                     x="382.07858"
+                     y="514.54077"
+                     style="fill:#2b3c42;fill-rule:evenodd"
+                     width="23.6"
+                     height="32.450001"
+                     id="rect307" />
+                <rect
+                     x="382.87857"
+                     y="515.59076"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="21.950001"
+                     height="29.950001"
+                     id="rect309" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 393.57857,516.89076 C 392.74557,516.72476 392.24557,516.69176 392.07857,516.79076 392.01157,516.82376 391.86157,516.95776 391.62857,517.19076 391.42857,517.35676 391.26157,517.40676 391.12857,517.33976 390.96157,517.20676 390.82857,517.10676 390.72857,517.03976 390.56157,516.93976 390.32857,516.88976 390.02857,516.88976 388.06257,516.88976 386.61157,516.82376 385.67857,516.69076 385.41157,516.65676 384.89457,516.77376 384.12857,517.04076 L 383.07857,517.49076 382.97857,518.69076 V 516.44076 L 400.17857,516.69076 400.12857,518.49076 C 399.39557,517.65676 398.81257,517.24076 398.37857,517.24076 396.77857,517.47376 395.76157,517.50776 395.32857,517.34076 394.96157,517.17476 394.37857,517.02376 393.57857,516.89076 z"
+                     id="path313"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 404.72857,539.29076 404.82857,545.54076 H 387.67857 L 389.47857,544.79076 C 389.87857,544.69076 391.09557,544.64076 393.12857,544.64076 393.26157,544.64076 393.37857,544.45776 393.47857,544.09076 394.91257,544.39076 395.72857,544.50776 395.92857,544.44176 L 398.52857,543.74176 C 398.79557,543.60776 399.52857,543.64076 400.72857,543.84176 400.82857,543.80876 400.87857,543.29176 400.87857,542.29176 400.87857,542.05876 401.12857,541.94176 401.62857,541.94176 401.76157,541.94176 402.06257,541.45876 402.52857,540.49176 402.59557,540.42576 402.87857,540.54176 403.37857,540.84176 403.91257,541.14176 404.21157,541.29176 404.27857,541.29176 404.47857,541.29076 404.62857,540.62376 404.72857,539.29076 z"
+                     id="path315"
+                     inkscape:connector-curvature="0" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="52.75,91.7 83.1,91.7 84.1,93.25 51.2,93.15 "
+                     id="polygon317"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="52.75,52.6 51.55,51.25 84.25,51.4 83.1,52.6 "
+                     id="polygon319"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="57.35,55.75 56.3,54.5 82.05,54.5 80.95,55.75 "
+                     id="polygon321"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#2d4145;fill-rule:evenodd"
+                     points="57.35,88.2 80.95,88.2 82.05,89.8 56.3,89.8 "
+                     id="polygon323"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="80.1,56.8 58.15,56.8 57.35,55.75 80.95,55.75 "
+                     id="polygon325"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#233136;fill-rule:evenodd"
+                     points="57.35,88.2 58.15,86.75 80.1,86.75 80.95,88.2 "
+                     id="polygon327"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="58.15,56.8 80.1,56.8 80.05,57.65 58.25,57.65 "
+                     id="polygon329"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 407.82857,511.39076 407.87857,525.64076 407.57857,520.64076 C 407.31157,518.74176 407.22857,517.52476 407.32857,516.99176 407.42857,516.39076 407.42857,515.42576 407.32857,514.09176 407.29457,513.82476 407.36157,513.29176 407.52857,512.49176 L 407.82857,511.39076 z"
+                     id="path331"
+                     inkscape:connector-curvature="0" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="83,53.2 53.1,53.4 52.75,52.6 83.1,52.6 "
+                     id="polygon357"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 407.67857,548.39076 407.82857,550.49076 H 377.47857 V 547.69076 L 377.92857,548.44076 C 378.26157,548.94076 378.54457,549.29076 378.77857,549.49076 379.14557,549.79076 379.84557,549.88976 380.87857,549.79076 L 381.87857,549.14076 C 382.01157,549.10776 382.14557,549.20776 382.27857,549.44176 382.44557,549.74176 382.59557,549.90776 382.72857,549.94176 382.89557,550.00776 383.17857,550.00776 383.57857,549.94176 384.14457,549.84076 384.57857,549.79176 384.87857,549.79176 386.57857,549.79176 389.22857,549.99176 392.82857,550.39176 393.29457,550.45876 394.94557,550.42576 397.77857,550.29176 400.61157,550.19176 402.14557,550.10776 402.37857,550.04176 402.71157,549.90776 404.06257,549.79176 406.42857,549.69176 406.79457,549.55776 407.21157,549.12376 407.67857,548.39076 z"
+                     id="path359"
+                     inkscape:connector-curvature="0" />
+                <rect
+                     x="376.27856"
+                     y="509.99075"
+                     style="fill:url(#linearGradient5118);fill-rule:evenodd"
+                     width="32.75"
+                     height="42.049999"
+                     id="rect366" />
+                <rect
+                     id="rect370"
+                     height="15.65"
+                     width="1.85"
+                     style="fill:#172223;fill-rule:evenodd"
+                     y="524.29077"
+                     x="378.22858" />
+                <rect
+                     id="rect372"
+                     height="14.1"
+                     width="1.45"
+                     style="fill:#243435;fill-rule:evenodd"
+                     y="525.04077"
+                     x="378.62857" />
+                <rect
+                     id="rect374"
+                     height="8.1499996"
+                     width="1.45"
+                     style="fill:#2b3d3d;fill-rule:evenodd"
+                     y="525.04077"
+                     x="378.62857" />
+                <rect
+                     id="rect376"
+                     height="3.7"
+                     width="1.45"
+                     style="fill:#364948;fill-rule:evenodd"
+                     y="525.04077"
+                     x="378.62857" />
+                <rect
+                     id="rect378"
+                     height="0.69999999"
+                     width="1.45"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.34076"
+                     x="378.62857" />
+                <rect
+                     id="rect380"
+                     height="13.399"
+                     width="0.2"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.69073"
+                     x="379.92856" />
+                <polygon
+                     id="polygon382"
+                     points="55.35,65.5 55.35,66.25 53.9,66.25 53.5,65.5 "
+                     style="fill:#27393a;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon384"
+                     points="53.9,80.35 55.35,80.35 55.35,81.15 53.5,81.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon386"
+                     points="55.35,65.5 53.5,65.5 53.5,68.2 53,68.25 53,65 55.65,64.95 55.65,68.15 55.4,68.2 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon388"
+                     points="53.55,81.15 55.35,81.15 55.35,79.3 55.6,79.15 55.6,81.8 53.1,81.7 53.1,79.2 53.55,79.15 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon390"
+                     points="53.55,81.15 53.35,81.2 53.3,79.1 53.55,79.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon392"
+                     points="53.25,68.25 53.3,65.65 53.5,65.5 53.5,68.2 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path394"
+                     d="M 380.32857,540.59076 C 380.39457,541.22476 380.31157,541.52476 380.07857,541.49076 379.91157,541.45776 379.54457,541.57376 378.97857,541.84076 378.91257,541.87376 378.82857,541.77476 378.72857,541.54076 378.62857,541.30676 378.54457,541.19076 378.47857,541.19076 L 377.52857,541.39076 377.57857,538.39076 377.82857,540.49076 380.32857,540.59076 z"
+                     style="fill:#30393b;fill-rule:evenodd" />
+            </g>
+            <g
+                 transform="translate(0,-40)"
+                 id="g4874">
+                <rect
+                     x="414.67856"
+                     y="510.09076"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="32.799999"
+                     height="42.049999"
+                     id="rect396" />
+                <rect
+                     x="415.82858"
+                     y="511.39075"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="30.351"
+                     height="39.101002"
+                     id="rect398" />
+                <rect
+                     x="416.87857"
+                     y="513.29077"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="25.75"
+                     height="35.299999"
+                     id="rect400" />
+                <rect
+                     x="417.97858"
+                     y="514.54077"
+                     style="fill:#2b3c42;fill-rule:evenodd"
+                     width="23.6"
+                     height="32.450001"
+                     id="rect402" />
+                <rect
+                     x="418.82858"
+                     y="515.59076"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="21.950001"
+                     height="29.950001"
+                     id="rect404" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 440.67857,516.44076 V 518.69076 L 440.57757,517.49076 C 439.27757,516.88976 438.39457,516.62376 437.92857,516.69076 437.06157,516.82376 435.62857,516.88976 433.62857,516.88976 433.32757,516.88976 433.09457,516.94076 432.92857,517.03976 432.79457,517.17376 432.66157,517.27276 432.52857,517.33976 432.39557,517.40576 432.24557,517.35676 432.07857,517.19076 431.81157,516.95776 431.64557,516.82376 431.57857,516.79076 431.41257,516.69076 430.91257,516.72476 430.07857,516.89076 429.27857,517.02476 428.69557,517.17476 428.32857,517.34076 428.06157,517.44176 427.54557,517.45776 426.77857,517.39076 425.97857,517.29076 425.47857,517.24176 425.27857,517.24176 425.01157,517.24176 424.64557,517.45876 424.17857,517.89076 L 423.52857,518.49076 423.47857,516.69076 440.67857,516.44076 z"
+                     id="path408"
+                     inkscape:connector-curvature="0" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="121.45,91.7 123,93.15 90.1,93.25 91.1,91.7 "
+                     id="polygon412"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="89.95,51.4 122.6,51.25 121.45,52.6 91.1,52.6 "
+                     id="polygon414"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="92.15,54.5 117.9,54.5 116.85,55.75 93.25,55.75 "
+                     id="polygon416"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#2d4145;fill-rule:evenodd"
+                     points="116.85,88.2 117.9,89.8 92.15,89.8 93.25,88.2 "
+                     id="polygon418"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="93.25,55.75 116.85,55.75 116.05,56.8 94.1,56.8 "
+                     id="polygon420"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#233136;fill-rule:evenodd"
+                     points="116.05,86.75 116.85,88.2 93.25,88.2 94.1,86.75 "
+                     id="polygon422"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="116.05,56.8 115.95,57.65 94.15,57.65 94.1,56.8 "
+                     id="polygon424"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 415.82857,511.39076 416.12857,512.49076 C 416.29457,513.29076 416.36157,513.82376 416.32757,514.09076 416.22757,515.42476 416.22757,516.39076 416.32757,516.99076 416.42857,517.52376 416.34457,518.74076 416.07757,520.63976 L 415.77757,525.63976 415.82857,511.39076 z"
+                     id="path426"
+                     inkscape:connector-curvature="0" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="121.45,52.6 121.1,53.4 91.2,53.2 91.1,52.6 "
+                     id="polygon452"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 446.17857,550.49076 H 415.82857 L 415.97857,548.38976 416.37857,548.99076 C 416.71157,549.38976 416.99457,549.62376 417.22857,549.69076 417.59457,549.79076 418.94557,549.90676 421.27857,550.04076 421.54557,550.10676 423.09457,550.19076 425.92857,550.29076 428.76157,550.42476 430.39557,550.45776 430.82757,550.39076 434.42857,549.99176 437.07757,549.79076 438.77757,549.79076 439.07757,549.79076 439.51057,549.84076 440.07757,549.94076 440.47757,550.00676 440.74457,550.00676 440.87857,549.94076 441.01157,549.90676 441.17857,549.74076 441.37857,549.44076 441.51157,549.20776 441.64557,549.10676 441.77757,549.13976 442.01057,549.20676 442.34357,549.42376 442.77757,549.78976 H 443.62857 C 444.22857,549.78976 444.64557,549.68976 444.87857,549.48976 445.24457,549.18976 445.67857,548.58976 446.17857,547.68976 V 550.49076 z"
+                     id="path454"
+                     inkscape:connector-curvature="0" />
+                <rect
+                     x="414.62857"
+                     y="509.99075"
+                     style="fill:url(#linearGradient5120);fill-rule:evenodd"
+                     width="32.75"
+                     height="42.049999"
+                     id="rect461" />
+                <rect
+                     id="rect465"
+                     height="15.65"
+                     width="1.851"
+                     style="fill:#172223;fill-rule:evenodd"
+                     y="524.29077"
+                     x="443.57858" />
+                <rect
+                     id="rect467"
+                     height="14.1"
+                     width="1.45"
+                     style="fill:#243435;fill-rule:evenodd"
+                     y="525.04077"
+                     x="443.57858" />
+                <rect
+                     id="rect469"
+                     height="8.1499996"
+                     width="1.45"
+                     style="fill:#2b3d3d;fill-rule:evenodd"
+                     y="525.04077"
+                     x="443.57858" />
+                <rect
+                     id="rect471"
+                     height="3.7"
+                     width="1.45"
+                     style="fill:#364948;fill-rule:evenodd"
+                     y="525.04077"
+                     x="443.57858" />
+                <rect
+                     id="rect473"
+                     height="0.69999999"
+                     width="1.45"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.34076"
+                     x="443.57858" />
+                <rect
+                     id="rect475"
+                     height="13.399"
+                     width="0.2"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.69073"
+                     x="443.52856" />
+                <polygon
+                     id="polygon477"
+                     points="120.3,66.25 118.85,66.25 118.85,65.5 120.7,65.5 "
+                     style="fill:#27393a;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon479"
+                     points="118.85,81.15 118.85,80.35 120.3,80.35 120.7,81.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon481"
+                     points="118.55,68.15 118.55,64.95 121.2,65 121.2,68.25 120.7,68.2 120.7,65.5 118.85,65.5 118.8,68.2 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon483"
+                     points="121.1,79.2 121.1,81.7 118.6,81.8 118.6,79.15 118.85,79.3 118.85,81.15 120.6,81.15 120.6,79.15 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon485"
+                     points="120.9,79.1 120.85,81.2 120.6,81.15 120.6,79.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon487"
+                     points="120.7,65.5 120.9,65.65 120.95,68.25 120.7,68.2 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path489"
+                     d="M 446.07857,538.39076 446.12957,541.39076 445.17957,541.19176 C 445.11357,541.19176 445.02957,541.30776 444.92957,541.54176 444.82857,541.77476 444.74557,541.87476 444.67957,541.84176 444.11357,541.57476 443.74557,541.45876 443.57857,541.49176 443.44557,541.52476 443.36257,541.37476 443.32857,541.04176 V 540.59076 L 445.82857,540.49076 446.07857,538.39076 z"
+                     style="fill:#30393b;fill-rule:evenodd" />
+            </g>
+            <g
+                 transform="translate(0,-40)"
+                 id="g4906">
+                <rect
+                     x="452.77856"
+                     y="510.09076"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="32.75"
+                     height="42.049999"
+                     id="rect491" />
+                <rect
+                     x="454.07858"
+                     y="511.39075"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="30.301001"
+                     height="39.101002"
+                     id="rect493" />
+                <rect
+                     x="457.57858"
+                     y="513.29077"
+                     style="fill:#253538;fill-rule:evenodd"
+                     width="25.75"
+                     height="35.299999"
+                     id="rect495" />
+                <rect
+                     x="458.67856"
+                     y="514.54077"
+                     style="fill:#2b3c42;fill-rule:evenodd"
+                     width="23.6"
+                     height="32.450001"
+                     id="rect497" />
+                <rect
+                     x="459.47858"
+                     y="515.59076"
+                     style="fill:#33484f;fill-rule:evenodd"
+                     width="21.950001"
+                     height="29.950001"
+                     id="rect499" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 465.02857,535.69076 C 465.02857,536.88976 464.96257,537.63976 464.82857,537.94076 L 464.37957,539.83976 V 532.59076 L 467.87957,532.64076 C 467.57857,532.74176 467.27857,532.84076 466.97957,532.94176 466.37957,533.17476 466.06257,533.34076 466.02957,533.44176 466.02957,533.54176 466.04657,533.77476 466.07957,534.14076 466.07957,534.44176 465.97957,534.57476 465.77957,534.54076 465.54657,534.50776 465.36357,534.62376 465.22957,534.89076 465.09557,535.15776 465.02857,535.42476 465.02857,535.69076 z"
+                     id="path501"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 459.52857,516.44076 476.77857,516.69076 476.67857,518.49076 C 475.94557,517.65676 475.37857,517.24076 474.97857,517.24076 473.37857,517.47376 472.34457,517.50776 471.87857,517.34076 471.51157,517.17476 470.92857,517.02476 470.12857,516.89076 469.29457,516.72476 468.81157,516.69176 468.67857,516.79076 468.24457,517.25776 467.91157,517.44076 467.67857,517.34076 467.51157,517.20776 467.37857,517.10776 467.27857,517.04076 467.11257,516.94076 466.87957,516.89076 466.57857,516.89076 464.64557,516.89076 463.21257,516.82476 462.27857,516.69176 461.97857,516.65776 461.46257,516.77476 460.72857,517.04176 L 459.67857,517.49176 459.52857,518.69176 V 516.44076 z"
+                     id="path503"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 479.92857,540.84076 C 480.49457,541.14076 480.81157,541.29076 480.87857,541.29076 481.04457,541.29076 481.17857,540.62376 481.27757,539.29076 L 481.42757,545.54076 H 464.27757 L 466.02857,544.79076 C 466.46257,544.69076 467.67857,544.64076 469.67857,544.64076 469.81157,544.64076 469.92857,544.45776 470.02857,544.09076 471.49557,544.39076 472.31157,544.50776 472.47857,544.44176 L 475.12857,543.74176 C 475.39557,543.60776 476.11157,543.64076 477.27757,543.84176 477.41157,543.80876 477.47757,543.59176 477.47757,543.19276 477.44457,542.75876 477.42757,542.45976 477.42757,542.29276 477.42757,542.05976 477.67757,541.94276 478.17757,541.94276 478.31057,541.94276 478.61157,541.45976 479.07657,540.49276 479.14557,540.42476 479.42857,540.54076 479.92857,540.84076 z"
+                     id="path505"
+                     inkscape:connector-curvature="0" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="129.35,91.7 159.65,91.7 160.65,93.25 127.75,93.15 "
+                     id="polygon507"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="129.35,52.6 128.15,51.25 160.8,51.4 159.65,52.6 "
+                     id="polygon509"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#1e2d30;fill-rule:evenodd"
+                     points="133.95,55.75 132.85,54.5 158.6,54.5 157.55,55.75 "
+                     id="polygon511"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#2d4145;fill-rule:evenodd"
+                     points="133.95,88.2 157.55,88.2 158.6,89.8 132.85,89.8 "
+                     id="polygon513"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#4f6c73;fill-rule:evenodd"
+                     points="134.75,56.8 133.95,55.75 157.55,55.75 156.7,56.8 "
+                     id="polygon515"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#233136;fill-rule:evenodd"
+                     points="134.75,86.75 156.7,86.75 157.55,88.2 133.95,88.2 "
+                     id="polygon517"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="156.6,57.65 134.8,57.65 134.75,56.8 156.7,56.8 "
+                     id="polygon519"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 484.37857,511.39076 484.42857,525.64076 484.17857,520.64076 C 483.87857,518.74176 483.77857,517.52476 483.87857,516.99176 483.94457,516.72476 483.97857,516.24176 483.97857,515.54176 483.97857,514.87476 483.94557,514.39176 483.87857,514.09176 483.84457,513.82476 483.92857,513.29176 484.12857,512.49176 L 484.37857,511.39076 z"
+                     id="path521"
+                     inkscape:connector-curvature="0" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path537"
+                     d="M 478.37857,543.14076 C 478.37857,542.64076 478.49457,542.22476 478.72857,541.89076 478.99557,541.52476 479.29457,541.34076 479.62857,541.34076 479.96157,541.34076 480.24457,541.52476 480.47857,541.89076 480.74557,542.22476 480.87857,542.64076 480.87857,543.14076 480.87857,543.60776 480.74457,544.02476 480.47857,544.39076 480.24557,544.72476 479.96157,544.89076 479.62857,544.89076 479.29457,544.89076 478.99457,544.72476 478.72857,544.39076 478.49557,544.02376 478.37857,543.60676 478.37857,543.14076 z"
+                     style="fill:#527580;fill-rule:evenodd" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path539"
+                     d="M 478.37857,542.99076 C 478.37857,542.52376 478.49457,542.13976 478.72857,541.84076 478.92857,541.50776 479.19557,541.34076 479.52857,541.34076 479.86257,541.34076 480.14557,541.50776 480.37957,541.84076 480.61257,542.17476 480.72957,542.55776 480.72957,542.99076 480.72957,543.42376 480.61357,543.79076 480.37957,544.09076 480.14657,544.42476 479.86257,544.59076 479.52857,544.59076 479.19557,544.59076 478.92857,544.42476 478.72857,544.09076 478.49557,543.79076 478.37857,543.42476 478.37857,542.99076 z"
+                     style="fill:#1c2a2d;fill-rule:evenodd" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path541"
+                     d="M 478.77857,543.29076 C 478.77857,542.92476 478.86257,542.62376 479.02857,542.39076 479.22857,542.12376 479.44557,541.99176 479.67857,541.99176 479.91157,541.99176 480.12857,542.12476 480.32757,542.39076 480.49457,542.62376 480.57757,542.92476 480.57757,543.29076 480.57757,543.65676 480.49457,543.95776 480.32757,544.19076 480.12857,544.45776 479.91157,544.58976 479.67857,544.58976 479.44557,544.58976 479.22857,544.45676 479.02857,544.19076 478.86257,543.95776 478.77857,543.65676 478.77857,543.29076 z"
+                     style="fill:#203135;fill-rule:evenodd" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path543"
+                     d="M 479.07857,543.59076 C 479.07857,542.89076 479.31157,542.54076 479.77857,542.54076 480.21257,542.54076 480.42857,542.89076 480.42857,543.59076 480.42857,544.25776 480.21157,544.59076 479.77857,544.59076 479.31157,544.59076 479.07857,544.25776 479.07857,543.59076 z"
+                     style="fill:#2b4147;fill-rule:evenodd" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path545"
+                     d="M 479.22857,543.69076 C 479.22857,543.19076 479.42857,542.94076 479.82857,542.94076 480.22857,542.94076 480.42957,543.19076 480.42957,543.69076 480.42957,544.15676 480.22957,544.38976 479.82857,544.38976 479.42857,544.39076 479.22857,544.15676 479.22857,543.69076 z"
+                     style="fill:#364d54;fill-rule:evenodd" />
+                <polygon
+                     style="fill:#65858c;fill-rule:evenodd"
+                     points="159.55,53.2 129.65,53.4 129.35,52.6 159.65,52.6 "
+                     id="polygon547"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 484.22857,548.39076 484.37857,550.49176 H 454.07857 L 454.02857,547.69176 454.47857,548.44176 C 454.81157,548.94176 455.09457,549.29176 455.32857,549.49176 455.69557,549.79176 456.41257,549.89076 457.47857,549.79176 L 458.42857,549.14176 C 458.56157,549.10876 458.71157,549.20876 458.87857,549.44276 459.04457,549.74276 459.19457,549.90876 459.32757,549.94276 459.46157,550.00876 459.74457,550.00876 460.17857,549.94276 460.71157,549.84176 461.12857,549.79276 461.42857,549.79276 463.16157,549.79276 465.82757,549.99276 469.42857,550.39276 469.89557,550.45976 471.52857,550.42676 474.32757,550.29276 477.16157,550.19276 478.69457,550.10876 478.92857,550.04276 479.26157,549.90876 480.61257,549.79276 482.97857,549.69276 483.34457,549.55776 483.76157,549.12376 484.22857,548.39076 z"
+                     id="path549"
+                     inkscape:connector-curvature="0" />
+                <rect
+                     x="452.82858"
+                     y="509.99075"
+                     style="fill:url(#linearGradient5122);fill-rule:evenodd"
+                     width="32.800999"
+                     height="42.049999"
+                     id="rect556" />
+                <rect
+                     id="rect560"
+                     height="15.65"
+                     width="1.9"
+                     style="fill:#172223;fill-rule:evenodd"
+                     y="524.29077"
+                     x="454.77856" />
+                <rect
+                     id="rect562"
+                     height="14.1"
+                     width="1.5"
+                     style="fill:#243435;fill-rule:evenodd"
+                     y="525.04077"
+                     x="455.17856" />
+                <rect
+                     id="rect564"
+                     height="8.1499996"
+                     width="1.5"
+                     style="fill:#2b3d3d;fill-rule:evenodd"
+                     y="525.04077"
+                     x="455.17856" />
+                <rect
+                     id="rect566"
+                     height="3.7"
+                     width="1.5"
+                     style="fill:#364948;fill-rule:evenodd"
+                     y="525.04077"
+                     x="455.17856" />
+                <rect
+                     id="rect568"
+                     height="0.69999999"
+                     width="1.5"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.34076"
+                     x="455.17856" />
+                <rect
+                     id="rect570"
+                     height="13.399"
+                     width="0.2"
+                     style="fill:#5c7f7f;fill-rule:evenodd"
+                     y="525.69073"
+                     x="456.47858" />
+                <polygon
+                     id="polygon572"
+                     points="131.95,65.5 131.95,66.25 130.45,66.25 130.05,65.5 "
+                     style="fill:#27393a;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon574"
+                     points="130.45,80.35 131.95,80.35 131.95,81.15 130.05,81.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon576"
+                     points="131.95,65.5 130.05,65.5 130.05,68.2 129.55,68.25 129.55,65 132.2,64.95 132.2,68.15 132,68.2 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon578"
+                     points="130.15,81.15 131.95,81.15 131.95,79.3 132.15,79.15 132.15,81.8 129.65,81.7 129.65,79.2 130.15,79.15 "
+                     style="fill:#1c2828;fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon580"
+                     points="130.15,81.15 129.9,81.2 129.9,79.1 130.15,79.15 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <polygon
+                     id="polygon582"
+                     points="129.85,68.25 129.9,65.65 130.05,65.5 130.05,68.2 "
+                     style="fill-rule:evenodd"
+                     transform="translate(324.72857,458.79075)" />
+                <path
+                     inkscape:connector-curvature="0"
+                     id="path584"
+                     d="M 456.87857,540.59076 C 456.94457,541.22476 456.86157,541.52476 456.62857,541.49076 456.46157,541.45776 456.09457,541.57376 455.52757,541.84076 455.46157,541.87376 455.39457,541.77476 455.32757,541.54076 455.19457,541.30776 455.11157,541.19076 455.07757,541.19076 L 454.12857,541.39076 454.17857,538.39076 454.37857,540.49176 456.87857,540.59076 z"
+                     style="fill:#30393b;fill-rule:evenodd" />
+            </g>
+            <g
+                 transform="translate(0,-16)"
+                 id="g4956">
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 376.12857,536.54076 C 361.8619,536.54076 347.59524,536.54076 333.32857,536.54076 333.32857,533.55743 333.32857,530.57409 333.32857,527.59076 333.53366,530.75684 334.50644,534.76384 338.65737,533.95648 343.10227,534.97237 347.51764,536.27385 352.17908,536.01272 360.16225,536.18873 368.14541,536.36475 376.12857,536.54076 z"
+                     id="path586"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 448.77857,537.04076 C 430.19524,536.92409 411.6119,536.80743 393.02857,536.69076 399.96844,536.08349 406.91256,535.30372 413.86644,535.06551 417.91458,533.17194 424.4244,536.85685 429.69478,535.72257 436.11176,535.19779 442.40199,536.58948 448.77857,537.04076 z"
+                     id="path588"
+                     inkscape:connector-curvature="0" />
+                <path
+                     style="fill:#30393b;fill-rule:evenodd"
+                     d="M 489.22857,515.99076 C 490.15685,512.40878 490.00791,515.27146 489.99393,517.32679 490.02214,523.73145 490.05036,530.1361 490.07857,536.54076 486.19524,536.54076 482.3119,536.54076 478.42857,536.54076 482.12793,535.68306 486.81384,535.09361 489.60332,533.44076 490.13766,527.65293 488.43936,521.61322 489.22857,515.99076 z"
+                     id="path590"
+                     inkscape:connector-curvature="0" />
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,3216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="NumberButtons.svg"
+   inkscape:export-filename="C:\zotov\OpenGameArt\ButtonsNumbersSpriteSheet.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4563">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop4559" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop4561" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4502">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4498" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop4500" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5322"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-690.69466,187.54585)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5351"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,223.44145)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5415"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99653,299.57344)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5479"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5307"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.69639,-159.75974)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5305"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,-159.75974)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5303"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.6961,-164.08082)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5301"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,-164.08082)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5293"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,-42.28075)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5295"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99653,-42.28075)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,-42.28075)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5299"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99682,-42.28075)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.69639,-74.818391)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5289"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,-74.818391)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="268.1587"
+       x2="-438.20827"
+       y1="268.1587"
+       x1="-472.98124"
+       gradientTransform="scale(0.70710455,1.414218)"
+       inkscape:collect="always"
+       id="linearGradient5217">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop5213" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop5215" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5287"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.6961,-79.139467)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5285"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,-79.139467)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5277"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,42.660605)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99653,42.660605)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,42.660605)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5283"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99682,42.660605)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5275"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.69639,16.828879)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5273"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,16.828879)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5271"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.6961,12.507799)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5269"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,12.507799)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,134.30787)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99653,134.30787)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5265"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,134.30787)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5267"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99682,134.30787)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,105.96244)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.6961,101.64137)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5253"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,101.64137)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5247"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-581.39826,101.64138)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5249"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-243.12301,101.64138)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-581.39855,101.64138)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5243"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.69639,182.09444)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,182.09444)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.6961,177.77337)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5237"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.42086,177.77337)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-243.12301,177.77337)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5233"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-243.12301,177.77337)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5235"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-581.39855,177.77337)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5227"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.96703,265.33913)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5225"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.6915,265.33913)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5223"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.96675,261.01806)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-175.6915,261.01806)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5213"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-140.72128,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient5215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99653,382.81813)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient5219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-478.99682,382.81813)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.40109,-159.75974)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4981"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,-159.75974)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4979"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.4008,-164.08082)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,-164.08082)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,-42.28075)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,-42.28075)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,-42.28075)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,-42.28075)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4929"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.40109,-74.818391)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4927"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,-74.818391)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.4008,-79.139467)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4923"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,-79.139467)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4915"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,42.660605)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,42.660605)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4919"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,42.660605)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4921"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,42.660605)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.40109,16.828879)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4873"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,16.828879)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4871"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.4008,12.507799)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4869"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,12.507799)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4861"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,134.30787)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4863"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,134.30787)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4865"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,134.30787)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4867"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,134.30787)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4767"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.40109,105.96244)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4765"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,105.96244)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4763"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.4008,101.64137)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,101.64137)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4753"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,223.44145)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4755"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,223.44145)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4757"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,223.44145)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4759"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,223.44145)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4711"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.40109,182.09444)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4709"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,182.09444)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4707"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.4008,177.77337)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4705"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.8744635,177.77337)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4679"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,299.57344)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4681"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,299.57344)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4683"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,299.57344)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4685"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,299.57344)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4603"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.67173,265.33913)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4601"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.6038235,265.33913)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-331.67144,261.01806)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4597"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,6.6038235,261.01806)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4504"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient4508"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70121,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4565"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,41.574037,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4569"
+       gradientUnits="userSpaceOnUse"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-296.70151,382.81813)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient8619"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-581.41552,177.77344)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4502"
+       id="linearGradient8632"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49282188,0,0,0.49282188,-243.12303,101.64137)"
+       x1="-393.09521"
+       y1="61.898804"
+       x2="-375.35135"
+       y2="62.166073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4563"
+       id="linearGradient8636"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.49282188,0,0,0.49282188,-513.69611,105.96251)"
+       x1="-393.09521"
+       y1="42.621944"
+       x2="-352.02252"
+       y2="42.621944" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="914.8388"
+     inkscape:cy="475.22935"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <g
+       id="g5340"
+       transform="matrix(0.72667726,0,0,0.72667726,504.10281,-88.455272)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="383.89185"
+         x="-157.36766"
+         height="59.607975"
+         width="59.607975"
+         id="rect4485"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="388.73492"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4489"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="rect4491"
+         d="m -146.31222,388.73492 c -3.23521,0 -5.83966,2.60445 -5.83966,5.83966 v 37.49726 c 0,3.2352 2.60445,5.83965 5.83966,5.83965 h 8.5687 c -3.23518,0 -5.8399,-2.60445 -5.8399,-5.83965 v -37.49726 c 0,-3.23521 2.60472,-5.83966 5.8399,-5.83966 z"
+         style="opacity:1;fill:url(#linearGradient4504);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4508);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81494,388.73492 c 3.23521,0 5.83965,2.60445 5.83965,5.83966 v 37.49726 c 0,3.2352 -2.60444,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83965 v -37.49726 c 0,-3.23521 -2.60469,-5.83966 -5.8399,-5.83966 z"
+         id="path4506"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4487"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="379.23486"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="rect4545"
+         d="m -146.31222,379.23486 c -3.23521,0 -5.83966,2.60445 -5.83966,5.83966 v 37.49726 c 0,3.2352 2.60445,5.83965 5.83966,5.83965 h 18.74849 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient4565);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4569);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81524,379.23486 c 3.23521,0 5.83966,2.60445 5.83966,5.83966 v 37.49726 c 0,3.2352 -2.60445,5.83965 -5.83966,5.83965 h -18.74849 v -49.17657 z"
+         id="path4567"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4573"
+         y="419.60696"
+         x="-145.0919"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="419.60696"
+           x="-145.0919"
+           id="tspan4571"
+           sodipodi:role="line">#</tspan></text>
+    </g>
+    <g
+       id="g8720"
+       transform="matrix(0.72667726,0,0,0.72667726,578.51581,0.05408802)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4579"
+         width="59.607979"
+         height="59.607979"
+         x="-192.33771"
+         y="262.0918"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4581"
+         width="49.176582"
+         height="49.176582"
+         x="-187.1221"
+         y="266.93484"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4597);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.28243,266.93486 c -3.23521,0 -5.83966,2.60445 -5.83966,5.83965 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83966,5.83967 h 8.56874 c -3.23522,0 -5.83992,-2.60445 -5.83992,-5.83967 v -37.49725 c 0,-3.2352 2.6047,-5.83965 5.83992,-5.83965 z"
+         id="path4583"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4585"
+         d="m -143.78516,266.93486 c 3.23522,0 5.83967,2.60445 5.83967,5.83965 v 37.49725 c 0,3.23522 -2.60445,5.83967 -5.83967,5.83967 h -8.56869 c 3.2352,0 5.83989,-2.60445 5.83989,-5.83967 v -37.49725 c 0,-3.2352 -2.60469,-5.83965 -5.83989,-5.83965 z"
+         style="opacity:1;fill:url(#linearGradient4599);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="261.75595"
+         x="-187.1221"
+         height="49.176582"
+         width="49.176582"
+         id="rect4587"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4601);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.28243,261.75588 c -3.23521,0 -5.83966,2.60443 -5.83966,5.83962 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83966,5.83967 h 18.7485 v -49.17654 z"
+         id="path4589"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4591"
+         d="m -143.78545,261.75588 c 3.23522,0 5.83967,2.60443 5.83967,5.83962 v 37.49725 c 0,3.23522 -2.60445,5.83967 -5.83967,5.83967 h -18.74848 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient4603);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-180.06215"
+         y="302.12793"
+         id="text4595"><tspan
+           sodipodi:role="line"
+           id="tspan4593"
+           x="-180.06215"
+           y="302.12793"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">#</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\HashDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="257.43481"
+         x="-176.72615"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect4605"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g5301"
+       transform="matrix(0.72667726,0,0,0.72667726,504.63735,-95.938812)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4661"
+         width="59.607975"
+         height="59.607975"
+         x="-157.36766"
+         y="300.64706"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4663"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="305.4903"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4679);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -146.31222,305.49026 c -3.23521,0 -5.83966,2.60444 -5.83966,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83966,5.83965 h 8.5687 c -3.23518,0 -5.8399,-2.60444 -5.8399,-5.83965 v -37.49726 c 0,-3.23519 2.60472,-5.83963 5.8399,-5.83963 z"
+         id="path4665"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4667"
+         d="m -108.81494,305.49026 c 3.23521,0 5.83965,2.60444 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60444,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60444 5.8399,-5.83965 v -37.49726 c 0,-3.23519 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4681);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="295.99023"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4669"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4683);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -146.31222,295.9902 c -3.23521,0 -5.83966,2.60444 -5.83966,5.83965 v 37.49724 c 0,3.23521 2.60445,5.83965 5.83966,5.83965 h 18.74849 V 295.9902 Z"
+         id="path4671"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4673"
+         d="m -108.81524,295.9902 c 3.23521,0 5.83966,2.60444 5.83966,5.83965 v 37.49724 c 0,3.23521 -2.60445,5.83965 -5.83966,5.83965 h -18.74849 V 295.9902 Z"
+         style="opacity:1;fill:url(#linearGradient4685);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-143.91977"
+         y="347.04822"
+         id="text4677"><tspan
+           sodipodi:role="line"
+           id="tspan4675"
+           x="-143.91977"
+           y="347.04822"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">*</tspan></text>
+    </g>
+    <g
+       id="g8732"
+       transform="matrix(0.72667726,0,0,0.72667726,579.05035,-7.429459)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="178.847"
+         x="-192.06712"
+         height="59.607979"
+         width="59.607979"
+         id="rect4687"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="183.6902"
+         x="-186.85135"
+         height="49.176582"
+         width="49.176582"
+         id="rect4689"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4691"
+         d="m -181.0118,183.6902 c -3.2352,0 -5.83965,2.60442 -5.83965,5.83962 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 8.56872 c -3.23519,0 -5.83989,-2.60445 -5.83989,-5.83967 v -37.49725 c 0,-3.2352 2.6047,-5.83962 5.83989,-5.83962 z"
+         style="opacity:1;fill:url(#linearGradient4705);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4707);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -143.51452,183.6902 c 3.23522,0 5.83968,2.60442 5.83968,5.83962 v 37.49725 c 0,3.23522 -2.60446,5.83967 -5.83968,5.83967 h -8.56869 c 3.23517,0 5.83989,-2.60445 5.83989,-5.83967 v -37.49725 c 0,-3.2352 -2.60472,-5.83962 -5.83989,-5.83962 z"
+         id="path4693"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4695"
+         width="49.176582"
+         height="49.176582"
+         x="-186.85135"
+         y="178.51128"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4697"
+         d="m -181.0118,178.51119 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 18.74851 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient4709);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4711);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -143.51481,178.51119 c 3.23522,0 5.83965,2.60445 5.83965,5.83965 v 37.49725 c 0,3.23522 -2.60443,5.83967 -5.83965,5.83967 h -18.74848 v -49.17657 z"
+         id="path4699"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4703"
+         y="229.56929"
+         x="-178.61928"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="229.56929"
+           x="-178.61928"
+           id="tspan4701"
+           sodipodi:role="line">*</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\StarDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4713"
+         width="7.0784473"
+         height="4.3210354"
+         x="-176.66292"
+         y="174.19017" />
+    </g>
+    <g
+       id="g5221"
+       transform="matrix(0.72667726,0,0,0.72667726,501.96466,-100.74966)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="224.51512"
+         x="-157.36766"
+         height="59.607975"
+         width="59.607975"
+         id="rect4715"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="229.35822"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4717"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4719"
+         d="m -146.31222,229.35826 c -3.23521,0 -5.83966,2.60445 -5.83966,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83966 5.83966,5.83966 h 8.5687 c -3.23518,0 -5.8399,-2.60445 -5.8399,-5.83966 v -37.49726 c 0,-3.23518 2.60472,-5.83963 5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4753);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4755);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81494,229.35826 c 3.23521,0 5.83965,2.60445 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60444,5.83966 -5.83965,5.83966 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83966 v -37.49726 c 0,-3.23518 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         id="path4721"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4723"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="219.85815"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4725"
+         d="m -146.31222,219.85821 c -3.23521,0 -5.83966,2.60444 -5.83966,5.83963 v 37.49725 c 0,3.23521 2.60445,5.83966 5.83966,5.83966 h 18.74849 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient4757);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4759);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81524,219.85821 c 3.23521,0 5.83966,2.60444 5.83966,5.83963 v 37.49725 c 0,3.23521 -2.60445,5.83966 -5.83966,5.83966 h -18.74849 v -49.17654 z"
+         id="path4727"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4731"
+         y="263.55762"
+         x="-143.54503"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="263.55762"
+           x="-143.54503"
+           id="tspan4729"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+    <g
+       id="g8744"
+       transform="matrix(0.72667726,0,0,0.72667726,576.37766,-12.24031)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4733"
+         width="59.607979"
+         height="59.607979"
+         x="-192.06712"
+         y="102.71508"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4735"
+         width="49.176582"
+         height="49.176582"
+         x="-186.85135"
+         y="107.55816"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4761);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,107.5582 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83961 v 37.49728 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 8.56872 c -3.23519,0 -5.83989,-2.60445 -5.83989,-5.83965 v -37.49728 c 0,-3.23516 2.6047,-5.83961 5.83989,-5.83961 z"
+         id="path4737"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4739"
+         d="m -143.51452,107.5582 c 3.23522,0 5.83968,2.60445 5.83968,5.83961 v 37.49728 c 0,3.2352 -2.60446,5.83965 -5.83968,5.83965 h -8.56869 c 3.23517,0 5.83989,-2.60445 5.83989,-5.83965 v -37.49728 c 0,-3.23516 -2.60472,-5.83961 -5.83989,-5.83961 z"
+         style="opacity:1;fill:url(#linearGradient4763);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="102.37923"
+         x="-186.85135"
+         height="49.176582"
+         width="49.176582"
+         id="rect4741"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4765);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,102.37919 c -3.2352,0 -5.83965,2.60448 -5.83965,5.83964 v 37.49728 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 18.74851 v -49.17657 z"
+         id="path4743"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4745"
+         d="m -143.51481,102.37919 c 3.23522,0 5.83965,2.60448 5.83965,5.83964 v 37.49728 c 0,3.2352 -2.60443,5.83965 -5.83965,5.83965 h -18.74848 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient4767);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-178.24455"
+         y="146.07866"
+         id="text4749"><tspan
+           sodipodi:role="line"
+           id="tspan4747"
+           x="-178.24455"
+           y="146.07866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">9</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\NineDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="98.058098"
+         x="-176.66292"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect4751"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g5181"
+       transform="matrix(0.72667726,0,0,0.72667726,262.81261,91.239728)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="135.38155"
+         x="-157.36766"
+         height="59.607975"
+         width="59.607975"
+         id="rect4823"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="140.22464"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4825"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4827"
+         d="m -146.31222,140.22469 c -3.23521,0 -5.83966,2.60444 -5.83966,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83966,5.83965 h 8.5687 c -3.23518,0 -5.8399,-2.60444 -5.8399,-5.83965 v -37.49726 c 0,-3.23519 2.60472,-5.83963 5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4861);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4863);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81494,140.22469 c 3.23521,0 5.83965,2.60444 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60444,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60444 5.8399,-5.83965 v -37.49726 c 0,-3.23519 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         id="path4829"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4831"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="130.7247"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4833"
+         d="m -146.31222,130.72463 c -3.23521,0 -5.83966,2.60444 -5.83966,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83966,5.83965 h 18.74849 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient4865);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4867);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81524,130.72463 c 3.23521,0 5.83966,2.60444 5.83966,5.83963 v 37.49726 c 0,3.23521 -2.60445,5.83965 -5.83966,5.83965 h -18.74849 v -49.17654 z"
+         id="path4835"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4839"
+         y="174.34067"
+         x="-142.80206"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="174.34067"
+           x="-142.80206"
+           id="tspan4837"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <g
+       id="g8756"
+       transform="matrix(0.72667726,0,0,0.72667726,337.22561,179.74909)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4841"
+         width="59.607979"
+         height="59.607979"
+         x="-192.06712"
+         y="13.581473"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4843"
+         width="49.176582"
+         height="49.176582"
+         x="-186.85135"
+         y="18.424568"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4869);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,18.424619 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83965,5.83965 h 8.56872 c -3.23519,0 -5.83989,-2.60444 -5.83989,-5.83965 v -37.49726 c 0,-3.23519 2.6047,-5.83963 5.83989,-5.83963 z"
+         id="path4845"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4847"
+         d="m -143.51452,18.424619 c 3.23522,0 5.83968,2.60444 5.83968,5.83963 v 37.49726 c 0,3.23521 -2.60446,5.83965 -5.83968,5.83965 h -8.56869 c 3.23517,0 5.83989,-2.60444 5.83989,-5.83965 v -37.49726 c 0,-3.23519 -2.60472,-5.83963 -5.83989,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4871);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="13.245643"
+         x="-186.85135"
+         height="49.176582"
+         width="49.176582"
+         id="rect4849"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4873);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,13.245609 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83966 5.83965,5.83966 h 18.74851 v -49.17657 z"
+         id="path4851"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4853"
+         d="m -143.51481,13.245609 c 3.23522,0 5.83965,2.60445 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60443,5.83966 -5.83965,5.83966 h -18.74848 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient4875);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-177.50185"
+         y="56.86161"
+         id="text4857"><tspan
+           sodipodi:role="line"
+           id="tspan4855"
+           x="-177.50185"
+           y="56.86161"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">8</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\EightDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="8.9244909"
+         x="-176.66292"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect4859"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g5141"
+       transform="matrix(0.72667726,0,0,0.72667726,262.81261,91.239728)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4877"
+         width="59.607975"
+         height="59.607975"
+         x="-157.36766"
+         y="43.73418"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4879"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="48.577412"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4915);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -146.31222,48.577401 c -3.23521,0 -5.83966,2.604444 -5.83966,5.839652 v 37.49726 c 0,3.235208 2.60445,5.83963 5.83966,5.83963 h 8.5687 c -3.23518,0 -5.8399,-2.604422 -5.8399,-5.83963 v -37.49726 c 0,-3.235208 2.60472,-5.839652 5.8399,-5.839652 z"
+         id="path4881"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4883"
+         d="m -108.81494,48.577401 c 3.23521,0 5.83965,2.604444 5.83965,5.839652 v 37.49726 c 0,3.235208 -2.60444,5.83963 -5.83965,5.83963 h -8.56873 c 3.23521,0 5.8399,-2.604422 5.8399,-5.83963 v -37.49726 c 0,-3.235208 -2.60469,-5.839652 -5.8399,-5.839652 z"
+         style="opacity:1;fill:url(#linearGradient4917);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="39.077351"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4885"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4919);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -146.31222,39.077342 c -3.23521,0 -5.83966,2.604444 -5.83966,5.839652 v 37.49726 c 0,3.235208 2.60445,5.839652 5.83966,5.839652 h 18.74849 V 39.077342 Z"
+         id="path4887"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4889"
+         d="m -108.81524,39.077342 c 3.23521,0 5.83966,2.604444 5.83966,5.839652 v 37.49726 c 0,3.235208 -2.60445,5.839652 -5.83966,5.839652 h -18.74849 V 39.077342 Z"
+         style="opacity:1;fill:url(#linearGradient4921);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-143.12917"
+         y="82.720581"
+         id="text4893"><tspan
+           sodipodi:role="line"
+           id="tspan4891"
+           x="-143.12917"
+           y="82.720581"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">7</tspan></text>
+    </g>
+    <g
+       id="g8768"
+       transform="matrix(0.72667726,0,0,0.72667726,337.22561,179.74909)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="-78.065887"
+         x="-192.06712"
+         height="59.607979"
+         width="59.607979"
+         id="rect4895"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-73.222664"
+         x="-186.85135"
+         height="49.176582"
+         width="49.176582"
+         id="rect4897"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4899"
+         d="m -181.0118,-73.222671 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83963 5.83965,5.83963 h 8.56872 c -3.23519,0 -5.83989,-2.60442 -5.83989,-5.83963 v -37.49726 c 0,-3.2352 2.6047,-5.83965 5.83989,-5.83965 z"
+         style="opacity:1;fill:url(#linearGradient4923);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4925);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -143.51452,-73.222671 c 3.23522,0 5.83968,2.60445 5.83968,5.83965 v 37.49726 c 0,3.23521 -2.60446,5.83963 -5.83968,5.83963 h -8.56869 c 3.23517,0 5.83989,-2.60442 5.83989,-5.83963 v -37.49726 c 0,-3.2352 -2.60472,-5.83965 -5.83989,-5.83965 z"
+         id="path4901"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4903"
+         width="49.176582"
+         height="49.176582"
+         x="-186.85135"
+         y="-78.401573"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4905"
+         d="m -181.0118,-78.401651 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83965,5.83965 h 18.74851 v -49.17656 z"
+         style="opacity:1;fill:url(#linearGradient4927);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4929);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -143.51481,-78.401651 c 3.23522,0 5.83965,2.60444 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60443,5.83965 -5.83965,5.83965 h -18.74848 v -49.17656 z"
+         id="path4907"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4911"
+         y="-34.758476"
+         x="-177.82896"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="-34.758476"
+           x="-177.82896"
+           id="tspan4909"
+           sodipodi:role="line">7</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SevenDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4913"
+         width="7.0784473"
+         height="4.3210354"
+         x="-176.66292"
+         y="-82.722717" />
+    </g>
+    <g
+       id="g5101"
+       transform="matrix(0.72667726,0,0,0.72667726,262.81261,91.239728)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="-41.207047"
+         x="-157.36766"
+         height="59.607975"
+         width="59.607975"
+         id="rect4931"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-36.363953"
+         x="-152.1519"
+         height="49.176579"
+         width="49.176579"
+         id="rect4933"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4935"
+         d="m -146.31222,-36.363953 c -3.23521,0 -5.83966,2.604444 -5.83966,5.83963 V 6.9729363 c 0,3.2352087 2.60445,5.8396527 5.83966,5.8396527 h 8.5687 c -3.23518,0 -5.8399,-2.604444 -5.8399,-5.8396527 V -30.524323 c 0,-3.235186 2.60472,-5.83963 5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4969);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4971);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81494,-36.363953 c 3.23521,0 5.83965,2.604444 5.83965,5.83963 V 6.9729363 c 0,3.2352087 -2.60444,5.8396527 -5.83965,5.8396527 h -8.56873 c 3.23521,0 5.8399,-2.604444 5.8399,-5.8396527 V -30.524323 c 0,-3.235186 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         id="path4937"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4939"
+         width="49.176579"
+         height="49.176579"
+         x="-152.1519"
+         y="-45.864017"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4941"
+         d="m -146.31222,-45.864012 c -3.23521,0 -5.83966,2.604421 -5.83966,5.839652 v 37.497237 c 0,3.23520835 2.60445,5.8396523 5.83966,5.8396523 h 18.74849 V -45.864012 Z"
+         style="opacity:1;fill:url(#linearGradient4973);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4975);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -108.81524,-45.864012 c 3.23521,0 5.83966,2.604421 5.83966,5.839652 v 37.497237 c 0,3.23520835 -2.60445,5.8396523 -5.83966,5.8396523 h -18.74849 V -45.864012 Z"
+         id="path4943"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text4947"
+         y="-2.1678815"
+         x="-143.42441"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="-2.1678815"
+           x="-143.42441"
+           id="tspan4945"
+           sodipodi:role="line">6</tspan></text>
+    </g>
+    <g
+       id="g8780"
+       transform="matrix(0.72667726,0,0,0.72667726,337.22561,179.74909)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4949"
+         width="59.607979"
+         height="59.607979"
+         x="-192.06712"
+         y="-163.00711"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4951"
+         width="49.176582"
+         height="49.176582"
+         x="-186.85135"
+         y="-158.16402"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4977);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,-158.16402 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83963 v 37.49726 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 8.56872 c -3.23519,0 -5.83989,-2.60445 -5.83989,-5.83965 v -37.49726 c 0,-3.23519 2.6047,-5.83963 5.83989,-5.83963 z"
+         id="path4953"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4955"
+         d="m -143.51452,-158.16402 c 3.23522,0 5.83968,2.60444 5.83968,5.83963 v 37.49726 c 0,3.2352 -2.60446,5.83965 -5.83968,5.83965 h -8.56869 c 3.23517,0 5.83989,-2.60445 5.83989,-5.83965 v -37.49726 c 0,-3.23519 -2.60472,-5.83963 -5.83989,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient4979);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-163.34294"
+         x="-186.85135"
+         height="49.176582"
+         width="49.176582"
+         id="rect4957"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient4981);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -181.0118,-163.34303 c -3.2352,0 -5.83965,2.60447 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83966 5.83965,5.83966 h 18.74851 v -49.17657 z"
+         id="path4959"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4961"
+         d="m -143.51481,-163.34303 c 3.23522,0 5.83965,2.60447 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60443,5.83966 -5.83965,5.83966 h -18.74848 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient4983);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-178.12407"
+         y="-119.64694"
+         id="text4965"><tspan
+           sodipodi:role="line"
+           id="tspan4963"
+           x="-178.12407"
+           y="-119.64694"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">6</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\SixDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="-167.66408"
+         x="-176.66292"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect4967"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g4901"
+       transform="matrix(0.72667726,0,0,0.72667726,519.65248,-88.455272)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4985"
+         width="59.607975"
+         height="59.607975"
+         x="-339.66293"
+         y="383.89185"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4987"
+         width="49.176579"
+         height="49.176579"
+         x="-334.44717"
+         y="388.73492"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5213);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,388.73492 c -3.23518,0 -5.83963,2.60445 -5.83963,5.83966 v 37.49726 c 0,3.2352 2.60445,5.83965 5.83963,5.83965 h 8.56873 c -3.23521,0 -5.8399,-2.60445 -5.8399,-5.83965 v -37.49726 c 0,-3.23521 2.60469,-5.83966 5.8399,-5.83966 z"
+         id="path4989"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4991"
+         d="m -291.11027,388.73492 c 3.2352,0 5.83965,2.60445 5.83965,5.83966 v 37.49726 c 0,3.2352 -2.60445,5.83965 -5.83965,5.83965 h -8.56871 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83965 v -37.49726 c 0,-3.23521 -2.60469,-5.83966 -5.8399,-5.83966 z"
+         style="opacity:1;fill:url(#linearGradient5215);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="379.23486"
+         x="-334.44717"
+         height="49.176579"
+         width="49.176579"
+         id="rect4993"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5217);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,379.23486 c -3.2352,0 -5.83963,2.60445 -5.83963,5.83966 v 37.49726 c 0,3.2352 2.60443,5.83965 5.83963,5.83965 h 18.7485 v -49.17657 z"
+         id="path4995"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path4997"
+         d="m -291.11055,379.23486 c 3.23521,0 5.83963,2.60445 5.83963,5.83966 v 37.49726 c 0,3.2352 -2.60442,5.83965 -5.83963,5.83965 h -18.74851 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient5219);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-325.58817"
+         y="422.52371"
+         id="text5001"><tspan
+           sodipodi:role="line"
+           id="tspan4999"
+           x="-325.58817"
+           y="422.52371"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">5</tspan></text>
+    </g>
+    <g
+       id="g8708"
+       transform="matrix(0.72667726,0,0,0.72667726,594.06547,0.05408802)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="262.0918"
+         x="-374.63318"
+         height="59.607979"
+         width="59.607979"
+         id="rect5003"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="266.93484"
+         x="-369.41742"
+         height="49.176582"
+         width="49.176582"
+         id="rect5005"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5007"
+         d="m -363.57774,266.93486 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 8.5687 c -3.23521,0 -5.83989,-2.60445 -5.83989,-5.83967 v -37.49725 c 0,-3.2352 2.60468,-5.83965 5.83989,-5.83965 z"
+         style="opacity:1;fill:url(#linearGradient5221);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5223);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -326.08046,266.93486 c 3.23521,0 5.83965,2.60445 5.83965,5.83965 v 37.49725 c 0,3.23522 -2.60444,5.83967 -5.83965,5.83967 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83967 v -37.49725 c 0,-3.2352 -2.60469,-5.83965 -5.8399,-5.83965 z"
+         id="path5009"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5011"
+         width="49.176582"
+         height="49.176582"
+         x="-369.41742"
+         y="261.75595"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5013"
+         d="m -363.57774,261.75588 c -3.2352,0 -5.83965,2.60443 -5.83965,5.83962 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 18.7485 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient5225);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5227);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -326.08076,261.75588 c 3.23521,0 5.83965,2.60443 5.83965,5.83962 v 37.49725 c 0,3.23522 -2.60444,5.83967 -5.83965,5.83967 h -18.74848 v -49.17654 z"
+         id="path5015"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5019"
+         y="305.04483"
+         x="-360.55829"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="305.04483"
+           x="-360.55829"
+           id="tspan5017"
+           sodipodi:role="line">5</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FiveDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5021"
+         width="7.0784473"
+         height="4.3210354"
+         x="-359.02151"
+         y="257.43481" />
+    </g>
+    <g
+       id="g8802"
+       transform="matrix(0.72667726,0,0,0.72667726,594.06547,-8.498537)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="178.847"
+         x="-442.06467"
+         height="59.607975"
+         width="59.607975"
+         id="rect5023"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="183.69023"
+         x="-436.84891"
+         height="49.176579"
+         width="49.176579"
+         id="rect5025"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:url(#linearGradient8619);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -393.52924,183.69027 c 3.2352,0 5.83965,2.60442 5.83965,5.83962 v 37.49725 c 0,3.23522 -2.60445,5.83967 -5.83965,5.83967 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83967 v -37.49725 c 0,-3.2352 -2.60469,-5.83962 -5.8399,-5.83962 z"
+         id="path8617"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5027"
+         d="m -431.00929,183.69019 c -3.23518,0 -5.83963,2.60444 -5.83963,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83963,5.83965 h 8.56873 c -3.23521,0 -5.8399,-2.60444 -5.8399,-5.83965 v -37.49726 c 0,-3.23519 2.60469,-5.83963 5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5229);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5031"
+         width="49.176579"
+         height="49.176579"
+         x="-436.84891"
+         y="174.19017"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5033"
+         d="m -431.00929,174.19013 c -3.2352,0 -5.83963,2.60444 -5.83963,5.83965 v 37.49724 c 0,3.23521 2.60443,5.83965 5.83963,5.83965 h 18.7485 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient5233);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5235);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -393.51228,174.19013 c 3.23521,0 5.83963,2.60444 5.83963,5.83965 v 37.49724 c 0,3.23521 -2.60442,5.83965 -5.83963,5.83965 h -18.74851 v -49.17654 z"
+         id="path5035"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5039"
+         y="217.83339"
+         x="-427.77179"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="217.83339"
+           x="-427.77179"
+           id="tspan5037"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       id="g8696"
+       transform="matrix(0.72667726,0,0,0.72667726,594.06547,-8.498537)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5041"
+         width="59.607979"
+         height="59.607979"
+         x="-374.36243"
+         y="178.847"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5043"
+         width="49.176582"
+         height="49.176582"
+         x="-369.14679"
+         y="183.6902"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5237);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -363.3071,183.6902 c -3.2352,0 -5.83965,2.60442 -5.83965,5.83962 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 8.5687 c -3.2352,0 -5.83989,-2.60445 -5.83989,-5.83967 v -37.49725 c 0,-3.2352 2.60469,-5.83962 5.83989,-5.83962 z"
+         id="path5045"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5047"
+         d="m -325.80982,183.6902 c 3.2352,0 5.83965,2.60442 5.83965,5.83962 v 37.49725 c 0,3.23522 -2.60445,5.83967 -5.83965,5.83967 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83967 v -37.49725 c 0,-3.2352 -2.60469,-5.83962 -5.8399,-5.83962 z"
+         style="opacity:1;fill:url(#linearGradient5239);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="178.51128"
+         x="-369.14679"
+         height="49.176582"
+         width="49.176582"
+         id="rect5049"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5241);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -363.3071,178.51119 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49725 c 0,3.23522 2.60445,5.83967 5.83965,5.83967 h 18.7485 v -49.17657 z"
+         id="path5051"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5053"
+         d="m -325.81012,178.51119 c 3.23521,0 5.83965,2.60445 5.83965,5.83965 v 37.49725 c 0,3.23522 -2.60444,5.83967 -5.83965,5.83967 h -18.74848 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient5243);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-360.06961"
+         y="222.1544"
+         id="text5057"><tspan
+           sodipodi:role="line"
+           id="tspan5055"
+           x="-360.06961"
+           y="222.1544"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">4</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\FourDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="174.19017"
+         x="-358.9584"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect5059"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g8791"
+       transform="matrix(0.72667726,0,0,0.72667726,589.78916,-13.309388)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5061"
+         width="59.607975"
+         height="59.607975"
+         x="-442.06467"
+         y="102.71505"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5063"
+         width="49.176579"
+         height="49.176579"
+         x="-436.84891"
+         y="107.55814"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5067"
+         d="m -393.512,107.55819 c 3.2352,0 5.83965,2.60445 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60445,5.83966 -5.83965,5.83966 h -8.56871 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83966 v -37.49726 c 0,-3.23518 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5247);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:url(#linearGradient8632);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -431.00927,107.5582 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83961 v 37.49728 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 8.5687 c -3.2352,0 -5.83989,-2.60445 -5.83989,-5.83965 v -37.49728 c 0,-3.23516 2.60469,-5.83961 5.83989,-5.83961 z"
+         id="path8630"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="98.058083"
+         x="-436.84891"
+         height="49.176579"
+         width="49.176579"
+         id="rect5069"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5249);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -431.00929,98.05814 c -3.2352,0 -5.83963,2.60444 -5.83963,5.83963 v 37.49725 c 0,3.23521 2.60443,5.83966 5.83963,5.83966 h 18.7485 V 98.05814 Z"
+         id="path5071"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5073"
+         d="m -393.51228,98.05814 c 3.23521,0 5.83963,2.60444 5.83963,5.83963 v 37.49725 c 0,3.23521 -2.60442,5.83966 -5.83963,5.83966 h -18.74851 V 98.05814 Z"
+         style="opacity:1;fill:url(#linearGradient5251);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-426.98132"
+         y="141.6469"
+         id="text5077"><tspan
+           sodipodi:role="line"
+           id="tspan5075"
+           x="-426.98132"
+           y="141.6469"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">3</tspan></text>
+    </g>
+    <g
+       id="g8684"
+       transform="matrix(0.72667726,0,0,0.72667726,589.78916,-13.309388)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="102.71508"
+         x="-374.36243"
+         height="59.607979"
+         width="59.607979"
+         id="rect5079"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="107.55816"
+         x="-369.14679"
+         height="49.176582"
+         width="49.176582"
+         id="rect5081"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5083"
+         d="m -363.3071,107.5582 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83961 v 37.49728 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 8.5687 c -3.2352,0 -5.83989,-2.60445 -5.83989,-5.83965 v -37.49728 c 0,-3.23516 2.60469,-5.83961 5.83989,-5.83961 z"
+         style="opacity:1;fill:url(#linearGradient5253);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5255);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.80982,107.5582 c 3.2352,0 5.83965,2.60445 5.83965,5.83961 v 37.49728 c 0,3.2352 -2.60445,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83965 v -37.49728 c 0,-3.23516 -2.60469,-5.83961 -5.8399,-5.83961 z"
+         id="path5085"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5087"
+         width="49.176582"
+         height="49.176582"
+         x="-369.14679"
+         y="102.37923"
+         ry="5.8397188" />
+      <path
+         style="opacity:1;fill:url(#linearGradient8636);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.80984,102.37927 c 3.23521,0 5.83963,2.60444 5.83963,5.83963 v 37.49725 c 0,3.23521 -2.60442,5.83966 -5.83963,5.83966 h -18.74851 v -49.17654 z"
+         id="path8634"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeUp.png" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5089"
+         d="m -363.3071,102.37919 c -3.2352,0 -5.83965,2.60448 -5.83965,5.83964 v 37.49728 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 18.7485 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient5257);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5095"
+         y="145.96788"
+         x="-359.27927"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="145.96788"
+           x="-359.27927"
+           id="tspan5093"
+           sodipodi:role="line">3</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ThreeDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5097"
+         width="7.0784473"
+         height="4.3210354"
+         x="-358.9584"
+         y="98.058098" />
+    </g>
+    <g
+       id="g5061"
+       transform="matrix(0.72667726,0,0,0.72667726,277.29319,91.239728)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5099"
+         width="59.607975"
+         height="59.607975"
+         x="-339.66293"
+         y="135.38155"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5101"
+         width="49.176579"
+         height="49.176579"
+         x="-334.44717"
+         y="140.22464"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5261);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,140.22469 c -3.23518,0 -5.83963,2.60444 -5.83963,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83963,5.83965 h 8.56873 c -3.23521,0 -5.8399,-2.60444 -5.8399,-5.83965 v -37.49726 c 0,-3.23519 2.60469,-5.83963 5.8399,-5.83963 z"
+         id="path5103"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5105"
+         d="m -291.11027,140.22469 c 3.2352,0 5.83965,2.60444 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60445,5.83965 -5.83965,5.83965 h -8.56871 c 3.23521,0 5.8399,-2.60444 5.8399,-5.83965 v -37.49726 c 0,-3.23519 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5263);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="130.7247"
+         x="-334.44717"
+         height="49.176579"
+         width="49.176579"
+         id="rect5107"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5265);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,130.72463 c -3.2352,0 -5.83963,2.60444 -5.83963,5.83963 v 37.49726 c 0,3.23521 2.60443,5.83965 5.83963,5.83965 h 18.7485 v -49.17654 z"
+         id="path5109"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5111"
+         d="m -291.11055,130.72463 c 3.23521,0 5.83963,2.60444 5.83963,5.83963 v 37.49726 c 0,3.23521 -2.60442,5.83965 -5.83963,5.83965 h -18.74851 v -49.17654 z"
+         style="opacity:1;fill:url(#linearGradient5267);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-325.94254"
+         y="174.66776"
+         id="text5115"><tspan
+           sodipodi:role="line"
+           id="tspan5113"
+           x="-325.94254"
+           y="174.66776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">2</tspan></text>
+    </g>
+    <g
+       id="g8672"
+       transform="matrix(0.72667726,0,0,0.72667726,351.70619,179.74909)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="13.581473"
+         x="-374.36243"
+         height="59.607979"
+         width="59.607979"
+         id="rect5117"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="18.424568"
+         x="-369.14679"
+         height="49.176582"
+         width="49.176582"
+         id="rect5119"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5121"
+         d="m -363.3071,18.424619 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83963 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83965,5.83965 h 8.5687 c -3.2352,0 -5.83989,-2.60444 -5.83989,-5.83965 v -37.49726 c 0,-3.23519 2.60469,-5.83963 5.83989,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5269);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5271);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.80982,18.424619 c 3.2352,0 5.83965,2.60444 5.83965,5.83963 v 37.49726 c 0,3.23521 -2.60445,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60444 5.8399,-5.83965 v -37.49726 c 0,-3.23519 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         id="path5123"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5125"
+         width="49.176582"
+         height="49.176582"
+         x="-369.14679"
+         y="13.245643"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5127"
+         d="m -363.3071,13.245609 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83966 5.83965,5.83966 h 18.7485 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient5273);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5275);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.81012,13.245609 c 3.23521,0 5.83965,2.60445 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60444,5.83966 -5.83965,5.83966 h -18.74848 v -49.17657 z"
+         id="path5129"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5133"
+         y="57.188713"
+         x="-360.64203"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="57.188713"
+           x="-360.64203"
+           id="tspan5131"
+           sodipodi:role="line">2</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\TwoDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5135"
+         width="7.0784473"
+         height="4.3210354"
+         x="-358.9584"
+         y="8.9244909" />
+    </g>
+    <g
+       id="g5021"
+       transform="matrix(0.72667726,0,0,0.72667726,277.29319,91.239728)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="43.73418"
+         x="-339.66293"
+         height="59.607975"
+         width="59.607975"
+         id="rect5137"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="48.577412"
+         x="-334.44717"
+         height="49.176579"
+         width="49.176579"
+         id="rect5139"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5141"
+         d="m -328.60756,48.577401 c -3.23518,0 -5.83963,2.604444 -5.83963,5.839652 v 37.49726 c 0,3.235208 2.60445,5.83963 5.83963,5.83963 h 8.56873 c -3.23521,0 -5.8399,-2.604422 -5.8399,-5.83963 v -37.49726 c 0,-3.235208 2.60469,-5.839652 5.8399,-5.839652 z"
+         style="opacity:1;fill:url(#linearGradient5277);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5279);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -291.11027,48.577401 c 3.2352,0 5.83965,2.604444 5.83965,5.839652 v 37.49726 c 0,3.235208 -2.60445,5.83963 -5.83965,5.83963 h -8.56871 c 3.23521,0 5.8399,-2.604422 5.8399,-5.83963 v -37.49726 c 0,-3.235208 -2.60469,-5.839652 -5.8399,-5.839652 z"
+         id="path5143"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5145"
+         width="49.176579"
+         height="49.176579"
+         x="-334.44717"
+         y="39.077351"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5147"
+         d="m -328.60756,39.077342 c -3.2352,0 -5.83963,2.604444 -5.83963,5.839652 v 37.49726 c 0,3.235208 2.60443,5.839652 5.83963,5.839652 h 18.7485 V 39.077342 Z"
+         style="opacity:1;fill:url(#linearGradient5281);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5283);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -291.11055,39.077342 c 3.23521,0 5.83963,2.604444 5.83963,5.839652 v 37.49726 c 0,3.235208 -2.60442,5.839652 -5.83963,5.839652 h -18.74851 V 39.077342 Z"
+         id="path5149"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5153"
+         y="82.720581"
+         x="-323.38016"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="82.720581"
+           x="-323.38016"
+           id="tspan5151"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g8660"
+       transform="matrix(0.72667726,0,0,0.72667726,351.70619,179.74909)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5155"
+         width="59.607979"
+         height="59.607979"
+         x="-374.36243"
+         y="-78.065887"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5157"
+         width="49.176582"
+         height="49.176582"
+         x="-369.14679"
+         y="-73.222664"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5285);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -363.3071,-73.222671 c -3.2352,0 -5.83965,2.60445 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83963 5.83965,5.83963 h 8.5687 c -3.2352,0 -5.83989,-2.60442 -5.83989,-5.83963 v -37.49726 c 0,-3.2352 2.60469,-5.83965 5.83989,-5.83965 z"
+         id="path5159"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5161"
+         d="m -325.80982,-73.222671 c 3.2352,0 5.83965,2.60445 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60445,5.83963 -5.83965,5.83963 h -8.56873 c 3.23521,0 5.8399,-2.60442 5.8399,-5.83963 v -37.49726 c 0,-3.2352 -2.60469,-5.83965 -5.8399,-5.83965 z"
+         style="opacity:1;fill:url(#linearGradient5287);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-78.401573"
+         x="-369.14679"
+         height="49.176582"
+         width="49.176582"
+         id="rect5163"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5289);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -363.3071,-78.401651 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83965 5.83965,5.83965 h 18.7485 v -49.17656 z"
+         id="path5165"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5167"
+         d="m -325.81012,-78.401651 c 3.23521,0 5.83965,2.60444 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60444,5.83965 -5.83965,5.83965 h -18.74848 v -49.17656 z"
+         style="opacity:1;fill:url(#linearGradient5291);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-358.07965"
+         y="-34.758476"
+         id="text5171"><tspan
+           sodipodi:role="line"
+           id="tspan5169"
+           x="-358.07965"
+           y="-34.758476"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">1</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\OneDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         y="-82.722717"
+         x="-358.9584"
+         height="4.3210354"
+         width="7.0784473"
+         id="rect5173"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g5261"
+       transform="matrix(0.72667726,0,0,0.72667726,277.29319,91.239728)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5175"
+         width="59.607975"
+         height="59.607975"
+         x="-339.66293"
+         y="-41.207047"
+         ry="7.0784478" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5177"
+         width="49.176579"
+         height="49.176579"
+         x="-334.44717"
+         y="-36.363953"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5293);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,-36.363953 c -3.23518,0 -5.83963,2.604444 -5.83963,5.83963 V 6.9729363 c 0,3.2352087 2.60445,5.8396527 5.83963,5.8396527 h 8.56873 c -3.23521,0 -5.8399,-2.604444 -5.8399,-5.8396527 V -30.524323 c 0,-3.235186 2.60469,-5.83963 5.8399,-5.83963 z"
+         id="path5179"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5181"
+         d="m -291.11027,-36.363953 c 3.2352,0 5.83965,2.604444 5.83965,5.83963 V 6.9729363 c 0,3.2352087 -2.60445,5.8396527 -5.83965,5.8396527 h -8.56871 c 3.23521,0 5.8399,-2.604444 5.8399,-5.8396527 V -30.524323 c 0,-3.235186 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5295);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-45.864017"
+         x="-334.44717"
+         height="49.176579"
+         width="49.176579"
+         id="rect5183"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5297);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -328.60756,-45.864012 c -3.2352,0 -5.83963,2.604421 -5.83963,5.839652 v 37.497237 c 0,3.23520835 2.60443,5.8396523 5.83963,5.8396523 h 18.7485 V -45.864012 Z"
+         id="path5185"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5187"
+         d="m -291.11055,-45.864012 c 3.23521,0 5.83963,2.604421 5.83963,5.839652 v 37.497237 c 0,3.23520835 -2.60442,5.8396523 -5.83963,5.8396523 h -18.74851 V -45.864012 Z"
+         style="opacity:1;fill:url(#linearGradient5299);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroUp.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         x="-326.18781"
+         y="-2.1935012"
+         id="text5191"><tspan
+           sodipodi:role="line"
+           id="tspan5189"
+           x="-326.18781"
+           y="-2.1935012"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434">0</tspan></text>
+    </g>
+    <g
+       id="g8648"
+       transform="matrix(0.72667726,0,0,0.72667726,351.70619,179.74909)">
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="7.0784478"
+         y="-163.00711"
+         x="-374.36243"
+         height="59.607979"
+         width="59.607979"
+         id="rect5193"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.92821884;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         ry="5.8397188"
+         y="-158.16402"
+         x="-369.14679"
+         height="49.176582"
+         width="49.176582"
+         id="rect5195"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5197"
+         d="m -363.3071,-158.16402 c -3.2352,0 -5.83965,2.60444 -5.83965,5.83963 v 37.49726 c 0,3.2352 2.60445,5.83965 5.83965,5.83965 h 8.5687 c -3.2352,0 -5.83989,-2.60445 -5.83989,-5.83965 v -37.49726 c 0,-3.23519 2.60469,-5.83963 5.83989,-5.83963 z"
+         style="opacity:1;fill:url(#linearGradient5301);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5303);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.80982,-158.16402 c 3.2352,0 5.83965,2.60444 5.83965,5.83963 v 37.49726 c 0,3.2352 -2.60445,5.83965 -5.83965,5.83965 h -8.56873 c 3.23521,0 5.8399,-2.60445 5.8399,-5.83965 v -37.49726 c 0,-3.23519 -2.60469,-5.83963 -5.8399,-5.83963 z"
+         id="path5199"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5201"
+         width="49.176582"
+         height="49.176582"
+         x="-369.14679"
+         y="-163.34294"
+         ry="5.8397188" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:connector-curvature="0"
+         id="path5203"
+         d="m -363.3071,-163.34303 c -3.2352,0 -5.83965,2.60447 -5.83965,5.83965 v 37.49726 c 0,3.23521 2.60445,5.83966 5.83965,5.83966 h 18.7485 v -49.17657 z"
+         style="opacity:1;fill:url(#linearGradient5305);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:1;fill:url(#linearGradient5307);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.06578064;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -325.81012,-163.34303 c 3.23521,0 5.83965,2.60447 5.83965,5.83965 v 37.49726 c 0,3.23521 -2.60444,5.83966 -5.83965,5.83966 h -18.74848 v -49.17657 z"
+         id="path5205"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="text5209"
+         y="-119.67243"
+         x="-360.88745"
+         style="font-style:normal;font-weight:normal;font-size:54.52057648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.36301434"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;fill:#1a1a1a;stroke-width:1.36301434"
+           y="-119.67243"
+           x="-360.88745"
+           id="tspan5207"
+           sodipodi:role="line">0</tspan></text>
+      <rect
+         inkscape:export-filename="C:\zotov\Tutorials\Buttons\ButtonSprites\ZeroDown.png"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         style="opacity:0;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.53834724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5211"
+         width="7.0784473"
+         height="4.3210354"
+         x="-358.9584"
+         y="-167.66408" />
+    </g>
+  </g>
+</svg>

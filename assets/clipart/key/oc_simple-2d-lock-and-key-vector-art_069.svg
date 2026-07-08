@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="45.619644"
+   inkscape:export-xdpi="45.619644"
+   inkscape:export-filename="D:\GameJam_warehouse\hopper\assets\lock and key.png"
+   sodipodi:docname="key.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 61.999995 44"
+   height="44mm"
+   width="62mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     viewbox-width="26.45833"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="898"
+     inkscape:window-width="1280"
+     inkscape:pagecheckerboard="true"
+     units="mm"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="87.780068"
+     inkscape:cx="179.20922"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="long"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path852"
+       d="M 14.457589,21.776228 3.4962798,33.021019 4.9967204,34.438431 16.269189,23.143034 Z"
+       style="fill:#dfb324;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="teeth"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path855"
+       d="m 4.9967204,34.438431 3.685268,-3.590774 1.7008926,3.401786 -2.4568456,-0.472471 -0.188988,2.456846 z"
+       style="fill:#dfb324;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(0,-270.54165)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="ring">
+    <path
+       inkscape:connector-curvature="0"
+       id="path814"
+       d="m 18.075751,284.73237 a 5.3453902,5.3453902 0 0 0 -5.34541,5.34541 5.3453902,5.3453902 0 0 0 5.34541,5.34541 5.3453902,5.3453902 0 0 0 5.345411,-5.34541 5.3453902,5.3453902 0 0 0 -5.345411,-5.34541 z m 0.01964,2.09858 a 3.1720274,3.1720274 0 0 1 3.172417,3.1719 3.1720274,3.1720274 0 0 1 -3.172417,3.1719 3.1720274,3.1720274 0 0 1 -3.171899,-3.1719 3.1720274,3.1720274 0 0 1 3.171899,-3.1719 z"
+       style="fill:#dfb324;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="lockHandle"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:export-ydpi="28.065401"
+       inkscape:export-xdpi="28.065401"
+       inkscape:export-filename="D:\GameJam_warehouse\hopper\assets\mainMenuUI\lock.png"
+       sodipodi:nodetypes="czcczcc"
+       id="path843"
+       d="m 35.512094,18.493461 c 0,0 -2.280176,-16.0439544 8.781561,-16.0260257 11.061737,0.017929 9.078202,16.2293847 9.078202,16.2293847 l -2.892516,-0.04399 c 0,0 1.590905,-13.5056952 -6.134325,-13.4455438 -7.72523,0.060151 -5.893381,13.3695788 -5.893381,13.3695788 z"
+       style="fill:#3b3b3a;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="lockBody"
+     id="layer5"
+     inkscape:groupmode="layer">
+    <rect
+       inkscape:export-ydpi="28.065401"
+       inkscape:export-xdpi="28.065401"
+       inkscape:export-filename="D:\GameJam_warehouse\hopper\assets\mainMenuUI\lock.png"
+       ry="0.0064438744"
+       y="16.82292"
+       x="31.702234"
+       height="20.980658"
+       width="25.390606"
+       id="rect17"
+       style="fill:#dfb324;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:label="lockKeyhole"
+     id="layer7"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:export-ydpi="28.065401"
+       inkscape:export-xdpi="28.065401"
+       inkscape:export-filename="D:\GameJam_warehouse\hopper\assets\mainMenuUI\lock.png"
+       style="display:inline;fill:#000009;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.652296,23.1843 c -1.617044,0.0011 -3.12579,0.973332 -3.144702,2.990468 -0.01891,2.017136 2.190406,2.645412 2.190406,2.645412 l -2.128253,4.525846 6.012287,-0.0015 -2.064794,-4.535091 c 0,0 2.162115,-0.649118 2.09529,-2.646233 -0.01639,-1.637056 -0.953479,-2.902319 -2.960234,-2.978902 z"
+       id="path847"
+       sodipodi:nodetypes="czcccccc" />
+  </g>
+</svg>

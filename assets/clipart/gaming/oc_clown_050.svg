@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="clow.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4424">
+      <path
+         style="fill:#ffccaa;fill-opacity:1;stroke:none"
+         d="m 268.55693,124.2266 c -25.52147,4.26569 -31.70613,15.84091 -31.70613,29.98757 0,2.9221 0.67891,5.83484 1.8723,8.62011 0.3006,6.25145 1.26353,13.12107 -1.55968,18.86822 7.76658,15.65152 23.24845,9.61939 37.48532,11.24577 13.1035,-14.27845 19.33257,-24.11626 18.37111,-29.31109 0.6438,-2.20328 0.99594,-4.52329 0.99594,-6.92375 0,-14.14666 -3.52373,-31.86208 -25.45886,-32.48683 z"
+         id="path4426"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5147"
+       x="-1.0336927"
+       width="3.0673854"
+       y="-0.69897027"
+       height="2.3979405">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="17.42056"
+         id="feGaussianBlur5149" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="172.75915"
+     inkscape:cy="839.82349"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#37483e;fill-opacity:1;stroke:none"
+       id="rect3510"
+       width="334.5"
+       height="225"
+       x="95.392654"
+       y="82.851807"
+       ry="0.6875"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       d="M 260.89258 129.14844 C 231.71358 134.02545 224.64258 147.25954 224.64258 163.43359 C 224.64258 166.77446 225.41878 170.10463 226.7832 173.28906 C 227.12688 180.43642 228.22781 188.29054 225 194.86133 C 233.87963 212.7559 251.58023 205.85929 267.85742 207.71875 C 282.83881 191.39403 289.96058 180.14634 288.86133 174.20703 C 289.5974 171.68799 290 169.0355 290 166.29102 C 290 150.11697 285.97128 129.86272 260.89258 129.14844 z "
+       id="path3347"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;opacity:0.701;filter:url(#filter5147)"
+       d="m 255.11891,131.51876 c -17.68851,4.52523 -22.19815,14.04983 -22.19815,25.448 0,2.60251 0.60465,5.19667 1.66752,7.67731 0.26773,5.56772 1.12534,11.68599 -1.38909,16.80456 5.20075,10.48076 14.28638,10.04444 23.86415,9.79823 11.01246,-12.14735 16.24941,-20.56397 15.417,-25.06155 0.57339,-1.96231 0.88701,-4.02857 0.88701,-6.16649 0,-11.57784 -2.65979,-25.83171 -18.24844,-28.50006 z"
+       id="path3347-5-0"
+       inkscape:connector-curvature="0"
+       transform="matrix(1.1433121,0,0,1.1433121,-46.239091,-12.834014)"
+       clip-path="url(#clipPath4424)"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 229.55716,179.84294 c 0,4.32366 -4.40954,7.82868 -9.84898,7.82868 -5.43945,0 -9.84899,-3.50502 -9.84899,-7.82868 0,-4.32366 0.87401,-11.11168 6.31346,-11.11168 5.43944,1e-5 13.38451,6.78802 13.38451,11.11168 z"
+       id="path3373"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:1;fill:#80ff80;fill-opacity:1;stroke:none"
+       d="m 279.64967,107.1873 c -5.05704,-1.04707 -10.21463,-0.29511 -14.08081,2.0529 -2.65574,-3.43127 -6.90397,-5.95614 -11.70253,-6.95524 -9.42123,-1.95151 -18.28908,2.40644 -19.80735,9.73398 -0.0625,0.30443 -0.11157,0.61157 -0.14703,0.92084 -0.56411,-0.16484 -1.13556,-0.30746 -1.71211,-0.42752 -9.42123,-1.95152 -18.2891,2.40643 -19.80736,9.73397 -0.9651,4.69441 1.3299,9.69701 6.0351,13.15611 -0.24464,0.58891 -0.4351,1.19494 -0.56988,1.81365 -1.51789,7.32762 4.88869,14.85002 14.30981,16.80212 3.46633,0.71316 7.01862,0.58828 10.18419,-0.35815 -0.0363,6.72184 6.12269,12.95863 14.51907,14.70262 4.25838,0.87725 8.61703,0.48295 12.21942,-1.1038 0.80773,2.33999 2.34831,4.53384 4.4712,6.36717 -2.0691,1.73827 -3.43508,3.94649 -3.94802,6.38235 -1.51805,7.32832 4.8899,14.85131 14.31213,16.8026 9.42124,1.95152 18.28912,-2.40644 19.80737,-9.73399 0.19736,-0.98859 0.25169,-2.00293 0.16296,-3.02398 6.17149,-1.08766 10.70378,-4.90586 11.73603,-9.88697 0.44424,-2.16223 0.2016,-4.43181 -0.70527,-6.61106 6.31481,-1.01089 10.9871,-4.8642 12.04113,-9.93053 1.47403,-7.16898 -4.6366,-14.55169 -13.80223,-16.67514 0.17838,-0.48016 0.32137,-0.97069 0.42815,-1.46928 1.51946,-7.32825 -4.88705,-14.85211 -14.30933,-16.80445 -1.69991,-0.34721 -3.43012,-0.49603 -5.13373,-0.43988 0.25808,-6.83025 -5.9442,-13.26667 -14.50086,-15.04832 z"
+       id="path5326-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 239.97461 149.91797 C 239.2401 149.91797 238.64844 150.50768 238.64844 151.24219 L 238.64844 186.42188 C 238.64844 187.15638 239.2401 187.74805 239.97461 187.74805 C 240.70912 187.74805 241.30078 187.15638 241.30078 186.42188 L 241.30078 151.24219 C 241.30078 150.50768 240.70912 149.91797 239.97461 149.91797 z M 260.79492 165.58984 L 257.69336 165.97266 C 257.31537 166.01942 257.04894 166.36224 257.0957 166.74023 L 257.1875 167.48438 C 257.23426 167.86237 257.57708 168.12879 257.95508 168.08203 L 261.05664 167.69727 C 261.43463 167.6505 261.70106 167.30963 261.6543 166.93164 L 261.5625 166.1875 C 261.51574 165.80951 261.17292 165.54308 260.79492 165.58984 z "
+       id="rect5216"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 256.57873,169.23634 c 0,7.67101 -6.67084,13.8896 -14.89975,13.8896 -8.22891,0 -14.89975,-6.21859 -14.89975,-13.8896 0,-7.67101 8.94369,-13.63706 14.89975,-13.8896 8.22152,-0.34859 14.89975,6.21859 14.89975,13.8896 z"
+       id="path3376"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#502d16;fill-opacity:1;stroke:none"
+       d="M 241.23828 165.96875 A 3.5355339 6.3134532 2.6639134 0 1 241.34766 168.08789 A 3.5355339 6.3134532 2.6639134 0 1 237.52148 174.23047 A 3.5355339 6.3134532 2.6639134 0 1 234.2832 167.79492 A 11.490485 9.2176415 81.783999 0 0 230.91602 178.50781 A 11.490485 9.2176415 81.783999 0 0 230.97852 178.86914 A 14.899751 13.889597 0 0 0 242.18555 183.63086 A 14.899751 13.889597 0 0 0 248.57617 182.27148 A 11.490485 9.2176415 81.783999 0 0 249.16211 175.87305 A 11.490485 9.2176415 81.783999 0 0 241.23828 165.96875 z "
+       id="path3378"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#00112b;fill-opacity:1;stroke:none"
+       d="m 267.9043,250.32617 c -6.1995,3.4e-4 -11.22489,4.31394 -11.22461,9.63477 0.002,1.47485 0.39934,2.92953 1.16015,4.25195 9.12006,22.76543 4.65739,19.0548 5.96577,28.94922 l 8.83984,0 c 1.73342,-8.50725 -4.18397,-9.97882 5.47955,-29.23633 0.0765,-0.14492 0.14877,-0.29145 0.2168,-0.43945 0.0139,-0.0275 0.0232,-0.0505 0.0371,-0.0781 l -0.006,0 c 0.49628,-1.0996 0.75314,-2.26805 0.75781,-3.44726 2.8e-4,-5.32148 -5.0263,-9.63536 -11.22656,-9.63477 z"
+       id="path3423"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       d="m 265.37132,208.72311 6.58044,-1.56378 c 6.39553,6.16646 7.92002,15.02884 6.54824,22.20287 l 2.5,29.25 c -5.7667,-5.58248 -13.16631,-4.16189 -19.16421,-2.80806 -6.69171,2.89662 -5.34309,3.26472 -7.5,5.00001 5.73139,-14.32324 0.89409,-20.11073 4.23719,-33.54828 z"
+       id="rect3420"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <g
+       id="g3501"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <path
+         sodipodi:nodetypes="csccsssscccc"
+         inkscape:connector-curvature="0"
+         id="rect3450"
+         d="m 240.99805,293.23631 c -2.88013,0 -8.3965,4.60901 -8.39649,7.02539 0,0.16143 0.0255,0.31919 0.0664,0.47461 l 0.51953,4.8125 c 0.12281,1.13601 0.91987,2.0625 2.0625,2.0625 l 36.25,0 c 1.14262,0 2.0625,-0.91987 2.0625,-2.0625 l 0,-1.75 c 0,-0.0604 -0.0125,-0.11677 -0.0176,-0.17578 l -30.17969,0 0,-9.6875 c -0.71703,-0.78876 -1.43052,-0.71026 -2.36715,-0.69922 z"
+         style="fill:#d7eef4;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3447-8"
+         d="m 243.23746,293.93027 c 12.46673,2.00541 23.49547,-3.0635 29.5795,-0.35355 1.42396,3.34701 0.55137,6.69403 0.7955,10.04105 l -30.375,0 z"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+      <g
+         id="g3495">
+        <rect
+           style="fill:#d7eef4;fill-opacity:1;stroke:none"
+           id="rect3470"
+           width="1.375"
+           height="3.5"
+           x="247.5625"
+           y="293.92471"
+           ry="0.6875" />
+        <rect
+           style="fill:#d7eef4;fill-opacity:1;stroke:none"
+           id="rect3472"
+           width="1.3125"
+           height="3.8125"
+           x="252.0625"
+           y="293.92471"
+           ry="0.65625" />
+        <rect
+           style="fill:#d7eef4;fill-opacity:1;stroke:none"
+           id="rect3472-3"
+           width="1.3125"
+           height="3.8125"
+           x="255.37592"
+           y="293.70596"
+           ry="0.65625" />
+        <rect
+           style="fill:#d7eef4;fill-opacity:1;stroke:none"
+           id="rect3472-1"
+           width="1.3125"
+           height="3.8125"
+           x="258.78125"
+           y="293.39346"
+           ry="0.65625" />
+      </g>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 241.66406 153.53711 C 235.02609 153.81856 225.05859 160.46635 225.05859 169.01562 C 225.05859 177.5649 232.49302 184.49609 241.66406 184.49609 C 250.8351 184.49609 258.26953 177.56491 258.26953 169.01562 C 258.26953 160.46636 250.82687 153.14861 241.66406 153.53711 z M 242.00195 155.85156 C 250.10374 155.50804 256.68555 161.97976 256.68555 169.53906 C 256.68555 177.09835 250.11103 183.22461 242.00195 183.22461 C 233.89287 183.22461 227.32031 177.09835 227.32031 169.53906 C 227.32031 161.97976 236.13263 156.10042 242.00195 155.85156 z "
+       id="path3376-3"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <rect
+       style="opacity:1;fill:#fed6bb;fill-opacity:1;stroke:none"
+       id="rect5272"
+       width="5"
+       height="14.843145"
+       x="193.82341"
+       y="288.8269"
+       ry="0.40018284"
+       inkscape:transform-center-y="6.9930048"
+       transform="matrix(0.96110098,-0.27619721,0.27619721,0.96110098,0,0)"
+       inkscape:transform-center-x="-2.0096246"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:1;fill:#be2d2d;fill-opacity:1;stroke:none"
+       d="m 266.32322,213.20535 c 0.4478,-1.83612 4.64389,-1.96017 5.88084,-0.53033 5.23933,5.54421 2.16266,11.43632 5.65685,15.64645 -6.45472,-4.52559 -13.34733,-3.20414 -17.45971,0 4.50756,-5.55786 4.68904,-10.07812 5.92202,-15.11612 z"
+       id="rect5269"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <rect
+       style="opacity:1;fill:#fed6bb;fill-opacity:1;stroke:none"
+       id="rect5272-0"
+       width="5"
+       height="20.5"
+       x="348.23935"
+       y="83.273155"
+       ry="0.55269605"
+       inkscape:transform-center-y="8.9173331"
+       transform="matrix(0.88738374,0.46103156,-0.46103156,0.88738374,0,0)"
+       inkscape:transform-center-x="4.6329111"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:1;fill:#fed6bb;fill-opacity:1;stroke:none"
+       d="m 265.60763,258.69074 c -1.06071,1.83976 -0.65179,3.52999 -3.08875,3.52999 -2.43696,0 -4.4125,-1.09118 -4.4125,-3.21482 0,-2.12363 2.35375,-7.18606 4.79071,-7.18606 2.43696,0 3.97125,4.68421 2.71054,6.87089 z"
+       id="path5291"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:1;fill:#aaeeff;fill-opacity:1;stroke:none"
+       d="m 249.71216,185.35434 c -0.34167,0.23932 -0.32665,0.60282 -0.24898,0.95698 0.53309,2.43074 1.48008,9.2993 1.43472,7.54404 a 2.792832,3.4958944 54.990205 0 0 0.2721,0.52912 2.792832,3.4958944 54.990205 0 0 4.46562,0.28182 2.792832,3.4958944 54.990205 0 0 1.26103,-4.29313 2.792832,3.4958944 54.990205 0 0 -0.13607,-0.17021 c 0.009,-0.0319 0.0287,-0.065 0.0316,-0.0955 l -6.09586,-4.6599 c -0.28577,-0.21838 -0.6428,-0.33232 -0.98445,-0.093 z"
+       id="path5318"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <g
+       id="g5434"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5294"
+         d="m 271.19927,167.52922 c -2.60737,0 -5.84862,1.6811 -8.11328,3.86523 0.0336,0.046 0.0672,0.0932 0.0859,0.15039 l 0.33984,1.03711 c 1.86378,-1.74328 4.47177,-3.0664 6.57617,-3.0664 3.70706,0 5.78245,2.14164 5.47266,6.66015 -0.22431,3.27164 -3.00582,5.9375 -6.71289,5.9375 -0.76775,0 -1.54352,-0.10289 -2.30078,-0.26367 l 0.13281,0.4043 c 0.0194,0.0591 0.022,0.11892 0.0215,0.17773 0.98114,0.22473 1.99817,0.34766 2.99805,0.34766 4.48731,0 7.85348,-3.22725 8.125,-7.1875 0.375,-5.46955 -2.13769,-8.0625 -6.625,-8.0625 z"
+         style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="csscc"
+         inkscape:connector-curvature="0"
+         id="path5294-9"
+         d="m 269.40243,181.9619 c 3.70707,0 6.48858,-2.66586 6.71289,-5.9375 0.30979,-4.51851 -1.7656,-6.66015 -5.47266,-6.66015 -2.1044,0 -5.28691,1.23473 -7.15069,2.97801 2.85043,6.23351 5.91046,9.61964 5.91046,9.61964 z"
+         style="opacity:1;fill:#fdd9c2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 224.84036,194.81845 c 16.48218,6.44203 32.90007,0.6875 32.90007,0.6875 l 0,1.09987 c -14.14949,6.72713 -33.92496,-1.00966 -32.90007,-1.78737 z"
+       id="rect5442"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\neno\Desktop\clow.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+  </g>
+</svg>

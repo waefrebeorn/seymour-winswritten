@@ -1,0 +1,44 @@
+{
+  "done": [
+    "-oWdyhoJMmg",
+    "-IhfuTg21bI",
+    "-ejqY9BmvKs",
+    "08srZuIqJm8",
+    "0LsLdaY0ieg",
+    "0NxG-k6YhCk",
+    "0PdmfMX00ho"
+  ],
+  "no_panel": [
+    "0UTBzNi_SCk"
+  ],
+  "failed": [
+    {
+      "video_id": "dQw4w9WgXcQ",
+      "error": "cdp_error",
+      "ts": 1782450928.5102704
+    },
+    {
+      "video_id": "jNQXAC9IVRw",
+      "error": "cdp_error",
+      "ts": 1782450928.5102735
+    },
+    {
+      "video_id": "9bZkp7q19f0",
+      "error": "cdp_error",
+      "ts": 1782450928.5102751
+    },
+    {
+      "video_id": "0Vt4Nk3J-DI",
+      "error": "cdp_error",
+      "ts": 1782809567.6190953
+    },
+    {
+      "video_id": "0eGZwwZtDB0",
+      "error": "cdp_error",
+      "ts": 1782809567.6195796
+    }
+  ],
+  "whisper_needed": [
+    "dSVUo5agh4o"
+  ]
+}

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="cards.svg"
+   inkscape:export-filename="cards.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564395"
+     inkscape:cx="517.00279"
+     inkscape:cy="336.62179"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient974">
+      <stop
+         style="stop-color:#214478;stop-opacity:1;"
+         offset="0"
+         id="stop970" />
+      <stop
+         style="stop-color:#214478;stop-opacity:0;"
+         offset="1"
+         id="stop972" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective675" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient974"
+       id="linearGradient976"
+       x1="132.63068"
+       y1="147.93413"
+       x2="137.34573"
+       y2="87.316727"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.015963,0,0,1.0214784,-2.3652028,-1.7491363)" />
+  </defs>
+  <g
+     inkscape:label="Card"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ececec;stroke:#1a1a1a;stroke-width:1;stroke-dasharray:none"
+       id="rect61"
+       width="71.677414"
+       height="97.225807"
+       x="24.483871"
+       y="13.508601"
+       ry="4.9677424"
+       inkscape:label="card" />
+    <g
+       id="g5192"
+       transform="translate(8.3108874,-32.265594)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#5f8dd3;stroke:#1a1a1a;stroke-width:1;stroke-dasharray:none"
+         id="rect61-4"
+         width="71.677414"
+         height="97.225807"
+         x="101.12904"
+         y="45.419353"
+         ry="4.9677424" />
+      <rect
+         style="display:inline;fill:#3771c8;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+         id="rect5032"
+         width="69.347916"
+         height="95.121986"
+         x="102.29105"
+         y="46.443909"
+         ry="5.05863" />
+      <rect
+         style="display:inline;fill:url(#linearGradient976);fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+         id="rect832"
+         width="67.751137"
+         height="92.815544"
+         x="103.00072"
+         y="47.685841"
+         ry="4.9359727" />
+      <ellipse
+         style="display:inline;fill:#2c5aa0;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+         id="path5404"
+         cx="145.11089"
+         cy="46.017967"
+         rx="17.179234"
+         ry="18.096771"
+         transform="translate(-8.3108874,32.265594)" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:#3771c8;stroke:#1a1a1a;stroke-width:0"
+         id="path419"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="139.09677"
+         sodipodi:cy="37.6129"
+         sodipodi:r1="16.854837"
+         sodipodi:r2="8.4274187"
+         sodipodi:arg1="0.92729522"
+         sodipodi:arg2="1.5556137"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 149.20967,51.09677 -9.98495,-5.057423 -9.82681,5.358239 1.72437,-11.059087 -8.13264,-7.690064 11.05068,-1.77747 4.80056,-10.11096 5.10532,9.960551 11.09955,1.441147 -7.89541,7.933429 z"
+         inkscape:transform-center-x="0.079076132"
+         inkscape:transform-center-y="-1.5341046"
+         transform="translate(-2.2817206,40.429976)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Numbers"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ececec;stroke:#1a1a1a;stroke-width:1;stroke-dasharray:none"
+       x="30.870968"
+       y="53.225803"
+       id="text2466"><tspan
+         sodipodi:role="line"
+         id="tspan2464"
+         style="stroke-width:1"
+         x="30.870968"
+         y="53.225803" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#333333;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="30.161289"
+       y="246.61288"
+       id="text2470"><tspan
+         sodipodi:role="line"
+         id="tspan2468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#333333;stroke-width:0;stroke-dasharray:none"
+         x="30.161289"
+         y="246.61288">A 1 2 3 4 5 6 7 8 9 10 J Q K </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ff5555;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="29.256159"
+       y="263.8862"
+       id="text2470-5"><tspan
+         sodipodi:role="line"
+         id="tspan2468-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ff5555;stroke-width:0;stroke-dasharray:none"
+         x="29.256159"
+         y="263.8862">A 1 2 3 4 5 6 7 8 9 10 J Q K </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Symbols">
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ff5555;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="119.68354"
+       y="287.29062"
+       id="text15910"><tspan
+         sodipodi:role="line"
+         style="font-size:12.7px;display:inline;fill:#333333;stroke-width:0"
+         x="0"
+         y="0"
+         id="tspan15916">♤	♧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#333333;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="21.627327"
+       y="287.44455"
+       id="text9925"><tspan
+         sodipodi:role="line"
+         id="tspan9923"
+         style="font-size:16.9333px;fill:#333333;stroke-width:0"
+         x="21.627327"
+         y="287.44455">♠ ♣</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ff5555;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="63.385448"
+       y="289.2507"
+       id="text9925-5"><tspan
+         sodipodi:role="line"
+         id="tspan9923-7"
+         style="font-size:16.9333px;fill:#ff5555;stroke-width:0"
+         x="63.385448"
+         y="289.2507"> ♥ ♦ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ff5555;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="156.06532"
+       y="288.51785"
+       id="text15926"><tspan
+         sodipodi:role="line"
+         id="tspan15924"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="156.06532"
+         y="288.51785">♡	♢</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="sample "
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ececec;stroke:#1a1a1a;stroke-width:1;stroke-dasharray:none"
+       id="rect61-9"
+       width="71.677414"
+       height="97.225807"
+       x="24.838715"
+       y="122.41936"
+       ry="4.9677424" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#333333;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="37.258064"
+       y="187.35484"
+       id="text10911-5"><tspan
+         sodipodi:role="line"
+         id="tspan10909-3"
+         style="font-size:50.8px;stroke-width:0"
+         x="37.258064"
+         y="187.35484">♠</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#333333;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="27.322586"
+       y="139.80646"
+       id="text10880-3"><tspan
+         sodipodi:role="line"
+         id="tspan10878-9"
+         style="stroke-width:0"
+         x="27.322586"
+         y="139.80646">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#333333;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="77.772942"
+       y="215.0452"
+       id="text10880-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan10878-3-4"
+         style="stroke-width:0"
+         x="77.772942"
+         y="215.0452">A</tspan></text>
+    <rect
+       style="display:inline;fill:#ececec;stroke:#1a1a1a;stroke-width:1;stroke-dasharray:none"
+       id="rect61-1"
+       width="71.677414"
+       height="97.225807"
+       x="110.85928"
+       y="123.3281"
+       ry="4.9677424" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#ff5555;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="123.27864"
+       y="188.26363"
+       id="text10911-2"><tspan
+         sodipodi:role="line"
+         id="tspan10909-7"
+         style="font-size:50.8px;fill:#ff5555;stroke-width:0"
+         x="123.27864"
+         y="188.26363">♥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#ff2a2a;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="113.34315"
+       y="140.71524"
+       id="text10880-0"><tspan
+         sodipodi:role="line"
+         id="tspan10878-96"
+         style="fill:#ff2a2a;stroke-width:0"
+         x="113.34315"
+         y="140.71524">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';display:inline;fill:#ff2a2a;stroke:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+       x="163.79344"
+       y="215.95398"
+       id="text10880-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan10878-3-8"
+         style="fill:#ff2a2a;stroke-width:0"
+         x="163.79344"
+         y="215.95398">A</tspan></text>
+  </g>
+</svg>

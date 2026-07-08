@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="casa.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4240">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4242" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4244" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4218">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4220" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4222" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4103">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop4105" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4089">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4091" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4093" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4049">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4051" />
+      <stop
+         style="stop-color:#272727;stop-opacity:1;"
+         offset="1"
+         id="stop4053" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3843">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3845" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop3847" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3825">
+      <stop
+         style="stop-color:#b4b4b4;stop-opacity:1;"
+         offset="0"
+         id="stop3827" />
+      <stop
+         style="stop-color:#b4b4b4;stop-opacity:0;"
+         offset="1"
+         id="stop3829" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3810">
+      <stop
+         style="stop-color:#ff310e;stop-opacity:1;"
+         offset="0"
+         id="stop3812" />
+      <stop
+         style="stop-color:#ac1900;stop-opacity:1;"
+         offset="1"
+         id="stop3814" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3810"
+       id="linearGradient3816"
+       x1="289.67316"
+       y1="505.75934"
+       x2="289.67316"
+       y2="609.03839"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.4577024,0,0,7.4577024,-1798.7879,-3132.8097)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3825"
+       id="linearGradient3831"
+       x1="291.14075"
+       y1="474.14987"
+       x2="291.14075"
+       y2="475.52753"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.4577024,0,0,7.4577024,-1798.7879,-3132.8097)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3855"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1187.8103,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3929"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1144.6554,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3931"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1101.5807,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3945"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-974.06038,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3947"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-930.98585,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3951"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-889.03629,-2273.2731)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1230.885,-2208.0182)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1144.6554,-2208.0182)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3981"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1017.2155,-2208.0182)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient3985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-930.98585,-2208.0182)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1230.885,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1187.8103,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1101.5807,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1060.2901,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4017"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-1017.2155,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-974.06038,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.3258526,0,0,5.4955606,-889.03629,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3612556,0,0,5.4955606,-327.62685,-2208.0217)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4035"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5340569,0,0,5.4955606,-108.7294,-2272.6207)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.6714551,0,0,5.4955606,-825.48033,-2142.7634)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4045"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3612556,0,0,5.4955606,-737.80049,-2208.4876)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4047"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5340569,0,0,5.4955606,-513.77588,-2272.6207)"
+       x1="268.09619"
+       y1="459.11877"
+       x2="268.09619"
+       y2="449.492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4049"
+       id="linearGradient4055"
+       x1="289.297"
+       y1="453.00574"
+       x2="289.297"
+       y2="465.89291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.4577024,0,0,7.4577024,-1798.7879,-3132.8097)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3810"
+       id="linearGradient4063"
+       gradientUnits="userSpaceOnUse"
+       x1="289.67316"
+       y1="505.75934"
+       x2="289.67316"
+       y2="609.03839"
+       gradientTransform="matrix(1.795395,0,0,1.795395,-283.0858,-717.72387)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4089"
+       id="linearGradient4095"
+       x1="290.02542"
+       y1="476.95401"
+       x2="290.02542"
+       y2="480.49014"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.4658656,0,0,9.3188998,-1800.9258,-4020.6797)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4103"
+       id="linearGradient4109"
+       x1="329.17734"
+       y1="480.34677"
+       x2="329.17734"
+       y2="500.16666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.6661071,6.1161165)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4103"
+       id="linearGradient4151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.6661071,6.1161165)"
+       x1="329.17734"
+       y1="480.34677"
+       x2="329.17734"
+       y2="500.16666" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4218"
+       id="linearGradient4282"
+       gradientUnits="userSpaceOnUse"
+       x1="335.8125"
+       y1="512.89343"
+       x2="337.75"
+       y2="512.89343" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4218"
+       id="linearGradient4284"
+       gradientUnits="userSpaceOnUse"
+       x1="335.8125"
+       y1="512.89343"
+       x2="337.75"
+       y2="512.89343" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4240"
+       id="linearGradient4286"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.569228,-15.158601)"
+       x1="336.21405"
+       y1="513.76154"
+       x2="337.25634"
+       y2="514.13653" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="504.7448"
+     inkscape:cy="480.94512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3816);fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="427.14642"
+       height="427.14642"
+       x="154.10132"
+       y="301.55731"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="109.07841"
+       x="187.05994"
+       height="102.83282"
+       width="102.83282"
+       id="rect4061"
+       style="fill:url(#linearGradient4063);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient4055);fill-opacity:1;stroke:none"
+       d="m 156.17488,176.16208 -19.69846,226.0144 191.80113,0 78.79407,0 191.80114,0 -19.69847,-226.0144 -172.10267,0 -78.79407,0 -172.10267,0 z"
+       id="rect3771"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect3789"
+       width="474.26154"
+       height="25.680029"
+       x="130.54387"
+       y="399.741"
+       ry="8.4826279"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       id="rect3794"
+       width="83.055923"
+       height="30.322006"
+       x="174.7789"
+       y="465.04007"
+       ry="6.5917397"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="6.5917397"
+       y="492.7254"
+       x="257.83484"
+       height="30.322006"
+       width="74.486664"
+       id="rect3796"
+       style="opacity:0.85714285;fill:#ff9c46;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="6.5917397"
+       y="522.38849"
+       x="176.09737"
+       height="30.322006"
+       width="83.055923"
+       id="rect3798"
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="6.5917397"
+       y="651.85956"
+       x="443.3356"
+       height="30.322006"
+       width="83.055923"
+       id="rect3800"
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       id="rect3802"
+       width="83.055923"
+       height="30.322006"
+       x="484.59061"
+       y="687.1817"
+       ry="6.5917397"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="6.5917397"
+       y="686.52258"
+       x="398.23871"
+       height="30.322006"
+       width="83.055923"
+       id="rect3804"
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85714285;fill:#ff9c46;fill-opacity:1;stroke:none"
+       id="rect3806"
+       width="74.486664"
+       height="30.322006"
+       x="488.76981"
+       y="547.62769"
+       ry="6.5917397"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       id="rect3808"
+       width="83.055923"
+       height="30.322006"
+       x="404.73511"
+       y="577.29071"
+       ry="6.5917397"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="4.479557"
+       y="402.07153"
+       x="135.67105"
+       height="13.561264"
+       width="464.00717"
+       id="rect3818"
+       style="fill:url(#linearGradient3831);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.57551018;fill:#606060;fill-opacity:1;stroke:none"
+       d="m 136.48582,419.85325 c 1.50897,2.14521 3.83751,3.72886 6.6381,3.72886 l 449.10134,0 c 2.80059,0 5.12912,-1.58365 6.6381,-3.72886 z"
+       id="rect3820"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="181.11121"
+       x="221.54317"
+       height="57.703388"
+       width="33.952309"
+       id="rect3851"
+       style="opacity:0.57959182;fill:url(#linearGradient3855);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="181.11121"
+       x="264.69836"
+       height="57.703388"
+       width="33.952309"
+       id="rect3925"
+       style="opacity:0.57959182;fill:url(#linearGradient3929);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient3931);fill-opacity:1;stroke:none"
+       id="rect3927"
+       width="33.952309"
+       height="57.703388"
+       x="307.77283"
+       y="181.11121"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient3945);fill-opacity:1;stroke:none"
+       id="rect3937"
+       width="33.952309"
+       height="57.703388"
+       x="435.29324"
+       y="181.11121"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="181.11121"
+       x="478.36783"
+       height="57.703388"
+       width="33.952309"
+       id="rect3939"
+       style="opacity:0.57959182;fill:url(#linearGradient3947);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient3951);fill-opacity:1;stroke:none"
+       id="rect3949"
+       width="33.952309"
+       height="57.703388"
+       x="520.31732"
+       y="181.11121"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="246.36612"
+       x="178.4686"
+       height="57.703388"
+       width="33.952309"
+       id="rect3953"
+       style="opacity:0.57959182;fill:url(#linearGradient3971);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient3975);fill-opacity:1;stroke:none"
+       id="rect3957"
+       width="33.952309"
+       height="57.703388"
+       x="264.69836"
+       y="246.36612"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="246.36612"
+       x="392.13815"
+       height="57.703388"
+       width="33.952309"
+       id="rect3963"
+       style="opacity:0.57959182;fill:url(#linearGradient3981);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient3985);fill-opacity:1;stroke:none"
+       id="rect3967"
+       width="33.952309"
+       height="57.703388"
+       x="478.36783"
+       y="246.36612"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4007);fill-opacity:1;stroke:none"
+       id="rect3989"
+       width="33.952309"
+       height="57.703388"
+       x="178.4686"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="311.62094"
+       x="221.54317"
+       height="57.703388"
+       width="33.952309"
+       id="rect3991"
+       style="opacity:0.57959182;fill:url(#linearGradient4009);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4013);fill-opacity:1;stroke:none"
+       id="rect3995"
+       width="33.952309"
+       height="57.703388"
+       x="307.77283"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="311.62094"
+       x="349.0636"
+       height="57.703388"
+       width="33.952309"
+       id="rect3997"
+       style="opacity:0.57959182;fill:url(#linearGradient4015);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4017);fill-opacity:1;stroke:none"
+       id="rect3999"
+       width="33.952309"
+       height="57.703388"
+       x="392.13815"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4019);fill-opacity:1;stroke:none"
+       id="rect4001"
+       width="33.952309"
+       height="57.703388"
+       x="435.29324"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4023);fill-opacity:1;stroke:none"
+       id="rect4005"
+       width="33.952309"
+       height="57.703388"
+       x="520.31732"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4031);fill-opacity:1;stroke:none"
+       id="rect4029"
+       width="21.428003"
+       height="57.703388"
+       x="561.84528"
+       y="246.3627"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="181.76367"
+       x="561.84528"
+       height="57.703388"
+       width="16.15461"
+       id="rect4033"
+       style="opacity:0.57959182;fill:url(#linearGradient4035);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4043);fill-opacity:1;stroke:none"
+       id="rect4037"
+       width="23.405525"
+       height="57.703388"
+       x="146.07832"
+       y="311.62094"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="15.732194"
+       y="245.89655"
+       x="151.67163"
+       height="57.703388"
+       width="21.428003"
+       id="rect4039"
+       style="opacity:0.57959182;fill:url(#linearGradient4045);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57959182;fill:url(#linearGradient4047);fill-opacity:1;stroke:none"
+       id="rect4041"
+       width="16.15461"
+       height="57.703388"
+       x="156.79878"
+       y="181.76367"
+       ry="15.732194"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="6.5917397"
+       y="690.66833"
+       x="165.77446"
+       height="30.322006"
+       width="74.486664"
+       id="rect4057"
+       style="opacity:0.41224491;fill:#ff9c46;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.65306121;fill:#ff9c46;fill-opacity:1;stroke:none"
+       id="rect4059"
+       width="74.486664"
+       height="30.322006"
+       x="241.57964"
+       y="662.32397"
+       ry="6.5917397"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.85714285;fill:#ff7341;fill-opacity:1;stroke:none"
+       d="m 187.33235,119.10344 49.09137,0 c 2.56575,0 4.63132,2.63927 4.63132,5.9176 l 0,15.38569 c 0,3.27833 -2.06557,5.9176 -4.63132,5.9176 l -49.09137,0 z"
+       id="rect4073"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscc"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.85714285;fill:#ff9c46;fill-opacity:1;stroke:none"
+       d="m 245.79083,143.95735 44.04308,0 0,27.22083 -44.04308,0 c -2.62362,0 -4.73579,-2.63921 -4.73579,-5.91754 l 0,-15.38576 c 0,-3.27833 2.11217,-5.91753 4.73579,-5.91753 z"
+       id="rect4075"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssss"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.49795915;fill:url(#linearGradient4095);fill-opacity:1;stroke:none"
+       id="rect4087"
+       width="426.29254"
+       height="28.00519"
+       x="154.34467"
+       y="424.83069"
+       ry="0"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4127"
+       transform="matrix(7.4577024,0,0,7.4577024,-2223.9551,-3180.9295)"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="488.55026"
+         x="325.78619"
+         height="16.957005"
+         width="9.9878836"
+         id="rect4121"
+         style="fill:#c3c3c3;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:url(#linearGradient4109);fill-opacity:1;stroke:none"
+         id="rect4101"
+         width="9.9878836"
+         height="16.707005"
+         x="325.78619"
+         y="488.55026" />
+      <rect
+         y="489.4783"
+         x="326.53751"
+         height="14.760854"
+         width="8.4410868"
+         id="rect4113"
+         style="fill:#47a1d4;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#70c7ff;fill-opacity:1;stroke:none"
+         id="rect4115"
+         width="7.7624068"
+         height="14.286352"
+         x="326.87683"
+         y="489.93777" />
+      <rect
+         style="fill:#47a1d4;fill-opacity:1;stroke:none"
+         id="rect4119"
+         width="8.3812819"
+         height="1.0549175"
+         x="326.56851"
+         y="498.5585" />
+      <rect
+         y="498.08093"
+         x="326.28125"
+         height="1.1875"
+         width="9"
+         id="rect4117"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(7.4577024,0,0,7.4577024,-1973.036,-3180.9295)"
+       id="g4135"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#c3c3c3;fill-opacity:1;stroke:none"
+         id="rect4137"
+         width="9.9878836"
+         height="16.957005"
+         x="325.78619"
+         y="488.55026" />
+      <rect
+         y="488.55026"
+         x="325.78619"
+         height="16.707005"
+         width="9.9878836"
+         id="rect4139"
+         style="fill:url(#linearGradient4151);fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#47a1d4;fill-opacity:1;stroke:none"
+         id="rect4141"
+         width="8.4410868"
+         height="14.760854"
+         x="326.53751"
+         y="489.4783" />
+      <rect
+         y="489.93777"
+         x="326.87683"
+         height="14.286352"
+         width="7.7624068"
+         id="rect4143"
+         style="fill:#70c7ff;fill-opacity:1;stroke:none" />
+      <rect
+         y="498.5585"
+         x="326.56851"
+         height="1.0549175"
+         width="8.3812819"
+         id="rect4145"
+         style="fill:#47a1d4;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4147"
+         width="9"
+         height="1.1875"
+         x="326.28125"
+         y="498.08093" />
+    </g>
+    <rect
+       style="fill:#c5c5c5;fill-opacity:1;stroke:none"
+       id="rect4157"
+       width="441.20972"
+       height="83.899155"
+       x="146.46703"
+       y="723.65906"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;stroke:none"
+       id="rect4159"
+       width="432.83228"
+       height="9.3221283"
+       x="150.53958"
+       y="726.10614"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4165"
+       transform="matrix(9.918619,0,0,11.379137,-2483.3718,-5259.3682)"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.625"
+         style="fill:#b1b1b1;fill-opacity:1;stroke:none"
+         id="rect4161"
+         width="3.5366135"
+         height="11.25"
+         x="277.90088"
+         y="523.86218" />
+      <rect
+         ry="0.3125"
+         style="fill:#eaeaea;fill-opacity:1;stroke:none"
+         id="rect4163"
+         width="2.8563294"
+         height="1.25"
+         x="278.24026"
+         y="524.19031" />
+    </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 432.84559,723.63926 0,99.66204 c 0,3.46926 -2.79292,6.26217 -6.26217,6.26217 l -112.05951,0 c -3.46925,0 -6.26216,-2.79291 -6.26216,-6.26217 l 0,-99.66204 z"
+       id="rect4175"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscc"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(9.918619,0,0,11.379137,-2323.7936,-5259.7464)"
+       id="g4169"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="523.86218"
+         x="277.90088"
+         height="11.25"
+         width="3.5366135"
+         id="rect4171"
+         style="fill:#b1b1b1;fill-opacity:1;stroke:none"
+         ry="0.625" />
+      <rect
+         y="524.19031"
+         x="278.24026"
+         height="1.25"
+         width="2.8563294"
+         id="rect4173"
+         style="fill:#eaeaea;fill-opacity:1;stroke:none"
+         ry="0.3125" />
+    </g>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect4178"
+       width="115.35545"
+       height="15.161003"
+       x="312.54639"
+       y="728.70984"
+       ry="5.1439118"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="5.1439118"
+       y="762.3277"
+       x="312.54639"
+       height="15.161003"
+       width="115.35545"
+       id="rect4180"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect4182"
+       width="115.35545"
+       height="15.161003"
+       x="312.54639"
+       y="795.61603"
+       ry="5.1439118"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4267"
+       transform="matrix(7.4577024,0,0,7.4577024,-2165.6182,-3088.645)"
+       inkscape:export-filename="C:\Users\Daniel\Pictures\house_big.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         y="485.27283"
+         x="333.0481"
+         height="25.928719"
+         width="13.903806"
+         id="rect4186"
+         style="fill:#ececec;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4188"
+         width="12.212803"
+         height="24.425606"
+         x="333.89359"
+         y="486.02438"
+         ry="0" />
+      <rect
+         ry="0"
+         y="486.42294"
+         x="334.42502"
+         height="23.628458"
+         width="11.14994"
+         id="rect4190"
+         style="fill:#bfbfbf;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4192"
+         width="10.087079"
+         height="23.065481"
+         x="334.95645"
+         y="486.98996"
+         ry="0" />
+      <path
+         transform="translate(0.4375,-3.1377864)"
+         d="m 340.0625,495.26843 c 0,0.31066 -0.25184,0.5625 -0.5625,0.5625 -0.31066,0 -0.5625,-0.25184 -0.5625,-0.5625 0,-0.31066 0.25184,-0.5625 0.5625,-0.5625 0.31066,0 0.5625,0.25184 0.5625,0.5625 z"
+         sodipodi:ry="0.5625"
+         sodipodi:rx="0.5625"
+         sodipodi:cy="495.26843"
+         sodipodi:cx="339.5"
+         id="path4198"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.61111111,0,0,0.61111111,132.46528,189.46661)"
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="path4200"
+         sodipodi:cx="339.5"
+         sodipodi:cy="495.26843"
+         sodipodi:rx="0.5625"
+         sodipodi:ry="0.5625"
+         d="m 340.0625,495.26843 c 0,0.31066 -0.25184,0.5625 -0.5625,0.5625 -0.31066,0 -0.5625,-0.25184 -0.5625,-0.5625 0,-0.31066 0.25184,-0.5625 0.5625,-0.5625 0.31066,0 0.5625,0.25184 0.5625,0.5625 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4248"
+         d="m 344.31923,497.59687 c -0.19352,0 -0.34375,0.14977 -0.34375,0.34375 0,0.16831 0.12359,0.27822 0.28125,0.3125 l 0,0.0312 -0.0312,0 c 0,0 0.0749,0.3203 0.0625,0.59375 -0.004,0.0911 -0.0404,0.18371 -0.0625,0.25 -0.0221,0.0663 -0.0394,0.0977 -0.0625,0.125 -0.004,0.003 0.003,0.0282 0,0.0312 -0.0605,0.0598 -0.10721,0.0525 -0.0312,0.25 0.0506,0.13148 0.0839,0.23367 0.0937,0.3125 -0.14149,0.06 -0.25,0.21132 -0.25,0.375 0,0.21824 0.18853,0.40625 0.40625,0.40625 0.21772,0 0.375,-0.18801 0.375,-0.40625 0,-0.10912 -0.0224,-0.20974 -0.0937,-0.28125 0.0701,-0.18123 0.1276,-0.5625 0.21875,-0.5625 0.0829,0 -0.22152,-0.39558 -0.34375,-0.71875 -0.0407,-0.10772 -0.0478,-0.21496 -0.0312,-0.28125 0.0367,-0.14662 0.0239,-0.12091 0.0312,-0.15625 0.086,-0.064 0.15625,-0.16561 0.15625,-0.28125 0,-0.19398 -0.18148,-0.34375 -0.375,-0.34375 z"
+         style="opacity:0.75918364;fill:#a37100;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.36170113,0,0,0.34058664,222.51422,323.16067)"
+         d="m 337.75,512.89343 c 0,0.56955 -0.43372,1.03125 -0.96875,1.03125 -0.53503,0 -0.96875,-0.4617 -0.96875,-1.03125 0,-0.56954 0.43372,-1.03125 0.96875,-1.03125 0.53503,0 0.96875,0.46171 0.96875,1.03125 z"
+         sodipodi:ry="1.03125"
+         sodipodi:rx="0.96875"
+         sodipodi:cy="512.89343"
+         sodipodi:cx="336.78125"
+         id="path4202"
+         style="fill:#ffb409;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4204"
+         d="m 344.24045,498.18934 c 0,0 0.0884,0.57452 0,0.83969 -0.0884,0.26516 -0.22097,0.11048 -0.11049,0.39775 0.11049,0.28726 0.0884,0.46404 0.0884,0.46404 0,0 0.30936,0.13258 0.41984,0.0442 0.11049,-0.0884 0.13259,-0.64082 0.24307,-0.64082 0.11049,0 -0.44194,-0.7513 -0.37565,-1.01646 0.0663,-0.26517 0.0663,-0.28726 0.0663,-0.28726"
+         style="fill:#ffb409;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffb409;fill-opacity:1;stroke:none"
+         id="path4206"
+         sodipodi:cx="336.78125"
+         sodipodi:cy="512.89343"
+         sodipodi:rx="0.96875"
+         sodipodi:ry="1.03125"
+         d="m 337.75,512.89343 c 0,0.56955 -0.43372,1.03125 -0.96875,1.03125 -0.53503,0 -0.96875,-0.4617 -0.96875,-1.03125 0,-0.56954 0.43372,-1.03125 0.96875,-1.03125 0.53503,0 0.96875,0.46171 0.96875,1.03125 z"
+         transform="matrix(0.4069427,0,0,0.38318721,207.3219,303.58712)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient4282);fill-opacity:1;stroke:none"
+         id="path4208"
+         sodipodi:cx="336.78125"
+         sodipodi:cy="512.89343"
+         sodipodi:rx="0.96875"
+         sodipodi:ry="1.03125"
+         d="m 337.75,512.89343 c 0,0.56955 -0.43372,1.03125 -0.96875,1.03125 -0.53503,0 -0.96875,-0.4617 -0.96875,-1.03125 0,-0.56954 0.43372,-1.03125 0.96875,-1.03125 0.53503,0 0.96875,0.46171 0.96875,1.03125 z"
+         transform="matrix(0.07362427,0.27791196,-0.26168869,0.06932641,453.75152,368.69272)" />
+      <path
+         transform="matrix(0.02881251,-0.28605145,0.26935303,0.02713055,196.51966,582.543)"
+         d="m 337.75,512.89343 c 0,0.56955 -0.43372,1.03125 -0.96875,1.03125 -0.53503,0 -0.96875,-0.4617 -0.96875,-1.03125 0,-0.56954 0.43372,-1.03125 0.96875,-1.03125 0.53503,0 0.96875,0.46171 0.96875,1.03125 z"
+         sodipodi:ry="1.03125"
+         sodipodi:rx="0.96875"
+         sodipodi:cy="512.89343"
+         sodipodi:cx="336.78125"
+         id="path4226"
+         style="opacity:0.66530612;fill:url(#linearGradient4284);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccccsc"
+         style="fill:url(#linearGradient4286);fill-opacity:1;stroke:none"
+         d="m 344.26859,498.17035 c 0.0703,0.10937 0.0886,0.63077 0.0156,0.84979 -0.073,0.21901 -0.18251,0.0913 -0.0913,0.32852 0.0913,0.23726 0.073,0.38327 0.073,0.38327 0,0 0.21645,-0.0936 0.33114,0.0677 0.0913,-0.073 0.12514,-0.56054 0.21639,-0.56054 0.0913,0 -0.34159,-0.36272 -0.34152,-1.01923"
+         id="path4230"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:34.94532013px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="147.32964"
+       y="890.47278"
+       id="text3167"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99630231,1.0037114)"><tspan
+         sodipodi:role="line"
+         id="tspan3169"
+         x="147.32964"
+         y="890.47278">Follow me @dbhvk</tspan></text>
+  </g>
+</svg>
