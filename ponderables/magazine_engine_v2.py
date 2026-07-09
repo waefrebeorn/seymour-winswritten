@@ -242,12 +242,31 @@ def p_editorial(doc, theme, issue_text, colonel):
     if not issue_text:
         para(pg, 40, 90, "No editorial seeded for this day. The thread continues in the archive.", size=11)
         return pg
-    lines = [l for l in issue_text.splitlines() if l.strip()][:40]
+    def strip_md(s):
+        s = re.sub(r"\*\*", "", s)          # bold
+        s = re.sub(r"^>\s*", "", s)         # blockquote
+        s = re.sub(r"^#+\s*", "", s)        # headers
+        s = re.sub(r"^\s*[-*]\s+", "- ", s)  # list bullets
+        s = re.sub(r"[_]{2,}", "", s)       # __...__ wrappers
+        return re.sub(r"\s{2,}", " ", s).strip()
+    # skip structured metadata / divider lines (not prose)
+    DROP = re.compile(r"^(THEME|THEME_LABEL|TITLE|FACT|COLONEL|TRIPLE-CHECKED|"
+                        r"UNIVERSE|GROUNDING FACT|SPECULATIVE|EDITORIAL)\b.*", re.I)
+    lines = []
+    for l in issue_text.splitlines():
+        clean = strip_md(l).strip()
+        if not clean or clean == "---" or DROP.match(clean) or clean.startswith("_"):
+            continue
+        # also skip colon-metadata lines like "THEME: cuda" (post-strip)
+        if re.match(r"^(THEME|THEME_LABEL|TITLE|FACT|COLONEL|TRIPLE-CHECKED)\s*:", clean, re.I):
+            continue
+        lines.append(clean)
+    lines = lines[:42]
     y = 90
     # drop-style first non-empty line
     first = True
     for ln in lines:
-        if y > 770: break
+        if y > 760: break
         if first and len(ln) > 12:
             text(pg, (40, y), ln[:1], size=34, color=accent, fontfile="specialelite")
             text(pg, (78, y), ln[1:89], size=10.5, color=INK)
