@@ -353,20 +353,26 @@ def p_persona(doc, theme, uf, colonel):
     rect(doc, pg, 0, 0, 595, 16, accent, fill=accent, width=0)
     text(pg, (40, 50), f"AU PERSONA - {persona}", size=15, color=accent, bold=True, fontfile="dmserif")
     text(pg, (40, 70), f"Universe: {universe}", size=9.5, color=(0.4,0.4,0.4), fontfile="specialelite")
-    # grounding pull-quote
-    rect(doc, pg, 40, 84, 555, 150, accent, fill=(0.96,0.95,0.92), width=1)
+    # grounding fact box (top-left)
+    rect(doc, pg, 40, 84, 330, 200, accent, fill=(0.96,0.95,0.92), width=1)
     text(pg, (50, 98), "GROUNDING FACT (verified anchor)", size=8.5, color=accent, bold=True)
-    para(pg, 50, 114, ground[:300], size=9.5, maxw=72, color=INK)
-    # clip
+    para(pg, 50, 116, ground[:320], size=10, maxw=30, color=INK, leading=13)
+    # clip (right column, full height)
     clips = v1.clip_for(persona if persona in v1.THEME_DIRS else theme, 1, seed=persona)
-    acc = v1.raster(clips[0], 260) if clips else None
-    place_img(pg, (380, 170, 535, 360), acc, accent)
-    # speculative excerpt
+    acc = v1.raster(clips[0], 380) if clips else None
+    place_img(pg, (360, 84, 555, 470), acc, accent)
+    label = v1.PROV.get(os.path.basename(clips[0]), {}).get("label", "CC0 clipart") if clips else ""
+    text(pg, (360, 482), label[:44], size=8, color=(0.4,0.4,0.4))
+    # speculative fiction excerpt (lower full-width block)
     clean = re.sub(r"\*\*", "", body)
-    ex = clean.split("SPECULATIVE FICTION", 1)[-1][:600] if "SPECULATIVE" in clean else clean[:600]
-    text(pg, (40, 380), "SPECULATIVE FICTION (forked from a verified anchor)", size=9, color=accent, bold=True)
-    para(pg, 40, 398, ex.strip(), size=9, maxw=92, color=INK)
+    ex = clean.split("SPECULATIVE FICTION", 1)[-1].strip() if "SPECULATIVE" in clean else clean[:900].strip()
+    ex = ex.strip("*").strip()
+    text(pg, (40, 510), "SPECULATIVE FICTION  (forked from a verified anchor - not a historical claim)", size=10, color=accent, bold=True, fontfile="dmserif")
+    line(pg, 40, 518, 555, 518, accent, width=1)
+    para(pg, 40, 536, ex[:820], size=10, maxw=88, color=INK, leading=14)
+    # footer
     text(pg, (40, 800), f'"{colonel}"', size=9, color=(0.45,0.45,0.45))
+    text(pg, (450, 800), f"AU {persona}", size=8, color=(0.5,0.5,0.5))
     return pg
 
 def p_divider(doc, theme, label, sub):
