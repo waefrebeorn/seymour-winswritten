@@ -312,23 +312,33 @@ def p_dispatch(doc, theme, ev, q):
 
 def p_clip_spread(doc, theme, clips, seed_base, content_line):
     accent = THEME_COLOR.get(theme, (0.3,0.3,0.3))
-    pg = doc.new_page()
-    # 2-up grid
-    cells = [(40,80,290,330), (305,80,555,330)]
     for i, svg in enumerate(clips[:2]):
-        x0,y0,x1,y1 = cells[i]
-        rect(doc, pg, x0-6, y0-26, x1+6, y1+30, (0.9,0.9,0.88), fill=(0.96,0.95,0.92), width=0.5)
-        rect(doc, pg, x0-6, y0-26, x1+6, y0-22, accent, fill=accent, width=0)
-        png = v1.raster(svg, 300)
-        place_img(pg, (x0, y0, x1, y1), png, accent)
+        pg = doc.new_page()
+        # accent header band
+        rect(doc, pg, 0, 0, 595, 16, accent, fill=accent, width=0)
+        text(pg, (40, 50), f"CLIP PLATE {seed_base + i + 1}", size=13,
+             color=accent, bold=True, fontfile="dmserif")
+        line(pg, 40, 60, 555, 60, accent, width=1.5)
+        # large centered illustration (left ~62% column)
+        png = v1.raster(svg, 460)
+        place_img(pg, (55, 80, 420, 560), png, accent)
         label = v1.PROV.get(os.path.basename(svg), {}).get("label", "CC0 clipart")
-        text(pg, (x0, y1+8), f"CLIP {seed_base+ i+1}", size=9, color=accent, bold=True)
-        text(pg, (x0, y1+22), label[:54], size=8, color=(0.4,0.4,0.4))
-    # caption block from real content
-    if content_line:
-        text(pg, (40, 380), "FROM THE DAY'S THREAD", size=10, color=accent, bold=True)
-        para(pg, 40, 400, content_line, size=10, maxw=92, color=INK)
-    return pg
+        text(pg, (55, 575), label[:60], size=10, color=INK, bold=True)
+        src = v1.PROV.get(os.path.basename(svg), {}).get("source", "CC0 / public domain")
+        text(pg, (55, 592), f"Source: {src}", size=8, color=(0.45,0.45,0.45))
+        # right column: pull-quote from the day's real content
+        rect(doc, pg, 440, 80, 555, 560, accent, fill=(0.96,0.95,0.92), width=1)
+        text(pg, (452, 98), "FROM THE DAY'S THREAD", size=9, color=accent, bold=True)
+        if content_line:
+            para(pg, 452, 118, content_line[:260], size=10.5, maxw=22, color=INK, leading=14)
+        else:
+            para(pg, 452, 118, "The thread continues. This plate is drawn from the day's verified anchor.",
+                 size=10.5, maxw=22, color=(0.4,0.4,0.4), leading=14)
+        # footer rule
+        line(pg, 40, 780, 555, 780, accent, width=0.5)
+        text(pg, (40, 798), f"SEYMOUR WINS - DAILY MAGAZINE  |  THEME: {theme.upper()}",
+             size=8, color=(0.5,0.5,0.5))
+    return doc
 
 def p_persona(doc, theme, uf, colonel):
     accent = THEME_COLOR.get(theme, (0.3,0.3,0.3))
