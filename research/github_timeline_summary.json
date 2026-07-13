@@ -1,0 +1,72 @@
+{
+ "generated": "2026-07-12",
+ "repos": 72,
+ "commits_sampled": 20176,
+ "avg_2024h2": 229,
+ "avg_2026h1": 1046,
+ "surge_x": 9.7,
+ "peak_month": "2026-05",
+ "peak_val": 2219,
+ "top15": [
+  {
+   "repo": "waefrebeorn/WuBuVideo",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/slermes",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/WuBuCut",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/eshkol_audit",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/Rustchain",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/physics_vault",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/obs-dual-format",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/SanctumOS",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/WuBuFX",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/lainchan",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/vichan",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/OpenIB",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/Kissu-Vi",
+   "commits": 1000
+  },
+  {
+   "repo": "waefrebeorn/money-room",
+   "commits": 848
+  },
+  {
+   "repo": "waefrebeorn/WuBuRouter",
+   "commits": 809
+  }
+ ]
+}

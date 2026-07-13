@@ -56,3 +56,8 @@ Keypoints: eshkol_audit (exact AD confirmed, F1 exp-map geodesic bug fixed, Chri
 Pages touched: pages/entities/eshkol-audit.md, pages/entities/quantum-rng-audit.md, pages/concepts/devils-advocate-audit.md, pages/entries/angel-coder-crater.md, index.md
 ---
 
+## [2026-07-12] ingest | WaefreBeorn GitHub acceleration timeline
+Keypoints: 72 repos, ~20,176 commits sampled via GitHub API; 2024H2→2026 surge 229→1,046 avg/mo (4.6× peak May 2026 = 2,219); effort→evidence framing; top repos slermes/WuBuMath/audit forks; topic page + research/github_timeline.md
+Pages touched: pages/topics/waefrebeorn-github-timeline.md, index.md, research/github_timeline.md, research/github_timeline_commits.json, research/github_timeline_summary.json
+---
+

@@ -65,6 +65,8 @@
 
 ## Topics
 
+- [WaefreBeorn GitHub Acceleration Timeline](pages/topics/waefrebeorn-github-timeline.md) — 72 repos, ~20K commits, 4.6× surge 2024→2026; effort→evidence | 2026-07-12 | topic
+
 - [Volume 1 Overview](pages/topics/vol1-overview.md) — 10 books, 114 entries, First Principles | 2026-06-25 | topic
 - [Cross-Reference Map](pages/topics/cross-reference-map.md) — inter-book connections | 2026-06-25 | topic
 
