@@ -72,4 +72,5 @@ effort compounds faster than sporadic brilliance.
 
 Live GitHub API pull (2026-07-12); raw data in
 `research/github_timeline_commits.json`, narrative in
-`research/github_timeline.md`.
+`research/github_timeline.md`, editorial in
+`research/github_timeline_editorial.md`.
