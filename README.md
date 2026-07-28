@@ -30,3 +30,14 @@ The wiki lives at `ponderables/wiki/` and follows the [LLM Wiki](LLM-WIKI.md) pa
 ## How to Use
 
 Drop raw sources (YouTube transcripts, articles, book notes) into `wiki/raw/`. Hermes will ingest them — reading, extracting, and updating the wiki pages. Ask questions against the wiki at any time.
+
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
