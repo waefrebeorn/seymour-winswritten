@@ -3,6 +3,16 @@
 Resolved gaps and shipped milestones. File:line references point at the
 artifacts that prove each item is done (not just planned).
 
+## TDA Content Overhaul — "repeating / no sense / no funny bits" (2026-07-09)
+- **Root cause found (TDA Pass 1):** `find_pastor()` junk-regex `\[?\d{1,2}:\d{2}...` matched the `[HH:MM]` prefix EVERY normalized transcript line has → discarded 100% of real quotes → `pastor_ref: null` on all 2,557 factoids. The "funny bits" were being thrown away by one bug.
+- **Funny bits salvaged:** banked 18,023 real, cleaned, quotable stream lines across 17 themes from `normalized_transcripts/` (590 files) → `ponderables/funny_bits.json`. Filter strips `[HH:MM]`, inline `N hours/M minutes` tokens, and `[ __ ]` censor markers.
+- **Pastor surfaced:** `find_pastor()` now loads the bank + defensive cleaner → `pastor_ref: null` dropped 2557→**0 (0.0%)** across all 2,557 factoids (verified).
+- **FACTOID bridge rewritten (kills the non-sequitur):** old template bolted a *random* history event to a *random* theme with a false "and" ("History hands us 'Handel & Haydn Society'… and the stream reminds us: supercapacitor"). New bridge synthesizes: real stream quote is the spine, history is the counterweight, ONE through-line, no false equivalence. 2,426 distinct FACTOID openings (was ~5).
+- **Colonel lens content-gated:** `pick_colonel(theme)` maps each theme to a fitting spine quote instead of `random.choice` cycling 5 phrases decoratively.
+- **Legacy ODD & FUNNY volume built:** the rejected `magazine_engine*.py` v2/v3 DELETED (74 GB of broken `pdf/magazine/*.pdf` purged); v1 kept as `magazine_engine_legacy.py`. Curated the genuinely odd legacy content into ONE print-ready volume — `ponderables/pdf/seymour_wins_legacy_odd_funny.pdf` (18 pp, vision-QA'd clean): 44 AU-persona speculative-fiction forks of real history (from 76,560 legacy files, 30 types) + 30 real "From the Stream" funny bits. Builder: `ponderables/build_legacy_odd_funny.py`.
+- **Audit doc:** `ponderables/drafts/tda_content_overview_20260709.md` (3-pass TDA on the daily issue + book layers).
+- **NOT yet done (honest gaps):** (1) book-layer entries (`published/p00*.md`) still share identical opener/closer boilerplate + unfilled placeholder cross-refs (`"The Previous Thing"`) — needs F5 de-template pass.
+
 ## New Game Plus / Mathematic Sprawl (2026-07-07)
 - **Stream mining**: TF-IDF over 697 real @wubustreams transcripts (local, no scrape) → `ponderables/mine_themes.py` → `ponderables/topics.json`.
 - **Theme sprawl**: 1087 themes generated across 9 axes (base / cross_event / colonel_truth / meme / overlap / decade / meme_fmt / news / format) → `ponderables/sprawl_themes.py` → `ponderables/themes.json` (1087 entries, meta.total_themes=1087).

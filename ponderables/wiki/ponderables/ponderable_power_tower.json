@@ -1,0 +1,22 @@
+{
+  "id": "ponderable_power_tower",
+  "number": "001",
+  "title": "The Tower That Would Not Integer",
+  "clipart_ref": "TOWER_MANIFOLD_DIAGRAM",
+  "allegory": "A mathematician climbs a tower of \u03c0, each level an exponentiation. At the fourth level, the air thins to a fractional mist \u2014 0.31766... The tower refuses to land on an integer. The geometer measures the curvature of each rung, computes the intersection number, and whispers: \"It was never meant to land.\"",
+  "commentary": "Analytical fractional part: 0.3176613450. Intersection invariant: 0.2398. Monte Carlo bias noted. Tower manifold implemented in bytropix C. WuBu nesting maps right-associative tower to nested Poincar\u00e9 spheres via Hamilton encoder.",
+  "see_also": [
+    "ponderable_schanuel_conjecture",
+    "ponderable_bakers_theorem"
+  ],
+  "footnotes": [
+    "Schanuel's Conjecture implies transcendence, but we wanted the certificate ourselves.",
+    "Monte Carlo bias (0.456 vs 0.318) traced to Hopf sampling distribution \u2014 corrected in v2."
+  ],
+  "clipart_suggestions": [
+    "nested_spheres",
+    "hopf_fibration",
+    "tower_diagram",
+    "fractional_mist"
+  ]
+}

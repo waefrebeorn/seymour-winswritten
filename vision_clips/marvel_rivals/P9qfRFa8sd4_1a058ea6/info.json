@@ -1,0 +1,23 @@
+{
+  "video_id": "P9qfRFa8sd4",
+  "clip_id": "1a058ea6",
+  "keyword": "Marvel",
+  "start_s": 24589,
+  "end_s": 24597,
+  "duration_s": 8,
+  "frame_times": [
+    0,
+    2.6,
+    5.3,
+    7.5
+  ],
+  "frames": [],
+  "frame_count": 0,
+  "vision_resolution": [
+    896,
+    896
+  ],
+  "frame_format": "webp",
+  "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_1a058ea6",
+  "status": "failed"
+}

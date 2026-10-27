@@ -1,0 +1,314 @@
+{
+  "id": "PnbqgIeqFFY",
+  "title": "WuBu - Poppy Playtime 5 (Part 4)",
+  "formats": [
+    {
+      "format_id": "18",
+      "ext": "mp4",
+      "resolution": "640x360",
+      "fps": 30,
+      "vcodec": "avc1.42001E",
+      "acodec": "mp4a.40.2",
+      "filesize": 655871118,
+      "tbr": 457.119,
+      "protocol": "https",
+      "url": "https://rr2---sn-vgqskn6y.googlevideo.com/videoplayback?expire=1783269522&ei=MjRKaoybFrikir4Pl9jdiA8..."
+    }
+  ],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/3.jpg",
+      "preference": -37,
+      "id": "0"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/3.webp",
+      "preference": -36,
+      "id": "1"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/2.jpg",
+      "preference": -35,
+      "id": "2"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/2.webp",
+      "preference": -34,
+      "id": "3"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/1.jpg",
+      "preference": -33,
+      "id": "4"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/1.webp",
+      "preference": -32,
+      "id": "5"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/mq3.jpg",
+      "preference": -31,
+      "id": "6"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/mq3.webp",
+      "preference": -30,
+      "id": "7"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/mq2.jpg",
+      "preference": -29,
+      "id": "8"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/mq2.webp",
+      "preference": -28,
+      "id": "9"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/mq1.jpg",
+      "preference": -27,
+      "id": "10"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/mq1.webp",
+      "preference": -26,
+      "id": "11"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hq3.jpg",
+      "preference": -25,
+      "id": "12"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/hq3.webp",
+      "preference": -24,
+      "id": "13"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hq2.jpg",
+      "preference": -23,
+      "id": "14"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/hq2.webp",
+      "preference": -22,
+      "id": "15"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hq1.jpg",
+      "preference": -21,
+      "id": "16"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/hq1.webp",
+      "preference": -20,
+      "id": "17"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/sd3.jpg",
+      "preference": -19,
+      "id": "18"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/sd3.webp",
+      "preference": -18,
+      "id": "19"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/sd2.jpg",
+      "preference": -17,
+      "id": "20"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/sd2.webp",
+      "preference": -16,
+      "id": "21"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/sd1.jpg",
+      "preference": -15,
+      "id": "22"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/sd1.webp",
+      "preference": -14,
+      "id": "23"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/default.jpg",
+      "preference": -13,
+      "id": "24"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARgmIGUoSzAP&rs=AOn4CLDEOdaqZLXZbV14nchOdyUKUqXIOQ",
+      "height": 90,
+      "width": 120,
+      "preference": -13,
+      "id": "25",
+      "resolution": "120x90"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/default.webp",
+      "preference": -12,
+      "id": "26"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/mqdefault.jpg",
+      "preference": -11,
+      "id": "27"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCYgZShLMA8=&rs=AOn4CLC_JEkOSBi07Tuuw-_oLmPrchYllA",
+      "height": 180,
+      "width": 320,
+      "preference": -11,
+      "id": "28",
+      "resolution": "320x180"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/mqdefault.webp",
+      "preference": -10,
+      "id": "29"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/0.jpg",
+      "preference": -9,
+      "id": "30"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/0.webp",
+      "preference": -8,
+      "id": "31"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg",
+      "preference": -7,
+      "id": "32"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgmIGUoSzAP&rs=AOn4CLDViXXxVL5CNM78HdXqAJfLd3XJKg",
+      "height": 94,
+      "width": 168,
+      "preference": -7,
+      "id": "33",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgmIGUoSzAP&rs=AOn4CLDe00nF7RZLZ0CdBJP_LRJ3cxxFhQ",
+      "height": 110,
+      "width": 196,
+      "preference": -7,
+      "id": "34",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYJiBlKEswDw==&rs=AOn4CLD5dA9Nm4dgKgU3BbDZUgfs3J1EGg",
+      "height": 138,
+      "width": 246,
+      "preference": -7,
+      "id": "35",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYJiBlKEswDw==&rs=AOn4CLCkVfgpBKq6vW3-cTu0RJzcjm2p0g",
+      "height": 188,
+      "width": 336,
+      "preference": -7,
+      "id": "36",
+      "resolution": "336x188"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCYgZShLMA8=&rs=AOn4CLCmqXNBZ05QY7NPGHb_ykZ8ZC97dg",
+      "height": 360,
+      "width": 480,
+      "preference": -7,
+      "id": "37",
+      "resolution": "480x360"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/hqdefault.webp",
+      "preference": -6,
+      "id": "38"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/sddefault.jpg",
+      "preference": -5,
+      "id": "39"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCYgZShLMA8=&rs=AOn4CLAsIaLejmYsEVcz2EJmK-2XbWqW9w",
+      "height": 480,
+      "width": 640,
+      "preference": -5,
+      "id": "40",
+      "resolution": "640x480"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/sddefault.webp",
+      "preference": -4,
+      "id": "41"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/hq720.jpg",
+      "preference": -3,
+      "id": "42"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/hq720.webp",
+      "preference": -2,
+      "id": "43"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCYgZShLMA8=&rs=AOn4CLDkjLaTL6hnmm3gfaz1c-sSdOdDLw",
+      "preference": -1,
+      "id": "44"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/PnbqgIeqFFY/maxresdefault.jpg",
+      "height": 1080,
+      "width": 1920,
+      "preference": -1,
+      "id": "45",
+      "resolution": "1920x1080"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/PnbqgIeqFFY/maxresdefault.webp",
+      "preference": 0,
+      "id": "46"
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/PnbqgIeqFFY/maxresdefault.jpg",
+  "description": "\u200b @WaefreBeorn  is streaming live on Youtube for you and on all platforms! check out all the WuBu!",
+  "channel_id": "UC_n_kZL8RZP7_jZ1Ow9gHBw",
+  "duration": 11478,
+  "view_count": 707,
+  "age_limit": 0,
+  "webpage_url": "https://www.youtube.com/watch?v=PnbqgIeqFFY",
+  "categories": [
+    "Gaming"
+  ],
+  "tags": [],
+  "live_status": "was_live",
+  "automatic_captions": {},
+  "subtitles": {
+    "live_chat": [
+      {
+        "url": "https://www.youtube.com/watch?v=PnbqgIeqFFY&bpctr=9999999999&has_verified=1",
+        "video_id": "PnbqgIeqFFY",
+        "ext": "json",
+        "protocol": "youtube_live_chat_replay"
+      }
+    ]
+  },
+  "comment_count": null,
+  "chapters": null,
+  "heatmap": null,
+  "like_count": 20,
+  "uploader": "WaefreBeorn Uncut: Full WuBu Streams",
+  "uploader_id": "@WuBuStreams",
+  "upload_date": "20260307",
+  "duration_string": "3:11:18",
+  "is_live": false
+}

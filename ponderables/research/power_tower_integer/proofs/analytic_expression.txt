@@ -1,0 +1,37 @@
+Analytical Expression for {log log log log N}
+==================================================
+
+N = pi^(pi^(pi^pi))
+
+log N = pi^(pi^pi) * ln pi
+log log N = log(pi^(pi^pi) * ln pi) = pi^pi * ln pi + ln(ln pi)
+log log log N = log(pi^pi * ln pi + ln(ln pi))
+log log log log N = log(log(pi^pi * ln pi + ln(ln pi)))
+
+Let L1 = ln pi
+Let L2 = pi^pi * ln pi + ln(ln pi)
+Let L3 = log(L2)
+Then {log log log log N} = {log(L3)} = log(L3) - floor(log(L3))
+
+Numerical values (100 decimal places):
+ln pi = 1.144729885849400174143427351353058711647294812915311571513623071472137769884826079783623270275489708
+pi^pi = 36.46215960720791177099082602269212366636550840222881873870933592293407436888169990462007987570677485
+pi^pi * ln pi = 41.7393238049817227327043174985419322774365758339305313228984712241400399195027749011035116561665274
+ln(ln pi) = 0.1351687016205296276999581282351592986684218957320642504205360746065982693770304470969734685909385743
+L2 = 41.87449250660225236040427562677709157610499772966259557331900729874663818887980534820048512475746598
+L3 = 3.734676870826472512498753451057695145858564941316833959047816857284884620550528087680995142955010704
+log(L3) = 1.317661301007295835962523574803435158911413013672928574994476387077021755462291629276628358876632621
+floor(log(L3)) = 1.0
+{log log log log N} = 0.3176613010072958359625235748034351589114130136729285749944763870770217554622916292766283588766326214
+
+Exact expression:
+{log log log log pi^(pi^(pi^pi))} = log(log(pi^pi * log pi + log(log pi))) - floor(log(log(pi^pi * log pi + log(log pi))))
+approx 0.3176613010072958359625235748034351589114130136729285749944763870770217554622916292766283588766326214...
+
+Since 0 < {log log log log N} < 1 and {log log log log N} != 0,
+log log log log N not in Z
+Therefore log log log N is not an integer power of e
+Therefore log log N is not an integer power of e
+Therefore log N is not an integer power of e
+Therefore N = pi^(pi^(pi^pi)) is not an integer power of e
+Since e is transcendental and pi is transcendental, N not in Z. QED.

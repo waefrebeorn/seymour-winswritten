@@ -1,0 +1,63 @@
+{
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Data Collection & Pipeline Build",
+      "status": "complete",
+      "deliverables": [
+        "Whisper transcription pipeline (running)",
+        "Absorber CDP pipeline (complete)",
+        "Clipart extraction from Web Clipart 1 ISO (521MB, 1084 images)",
+        "Unified wiki with 460 video entries, 297 transcripts"
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Categorization & Wiki Structure",
+      "status": "in_progress",
+      "deliverables": [
+        "Clipart vision categorization (56/507 complete)",
+        "Wiki ingestion with schema compliance",
+        "Volume 1 & 2 structure (24 ponderables)",
+        "Markdown authoring format ready"
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Volume Authoring (Current Sprint)",
+      "status": "planned",
+      "target_date": "2026-07-04",
+      "deliverables": [
+        "24 complete ponderables with allegories",
+        "Pandoc/LaTeX pipeline for A6 digest",
+        "Volume 1 PDF (The Digital Attic)",
+        "Volume 2 PDF (The Glitch Garden)",
+        "Automated clipart vision cron"
+      ]
+    },
+    {
+      "phase": 4,
+      "name": "Series Production",
+      "status": "planned",
+      "target_date": "2026-08-01",
+      "deliverables": [
+        "Volumes 3-6 (48 more ponderables)",
+        "Cross-reference map complete",
+        "Concept index finalized",
+        "Print-ready PDFs for all volumes"
+      ]
+    },
+    {
+      "phase": 5,
+      "name": "Publication & Distribution",
+      "status": "planned",
+      "target_date": "2026-09-01",
+      "deliverables": [
+        "Physical print run (POD or small press)",
+        "Digital distribution (Gumroad/itch.io)",
+        "Marketing materials (cover art, descriptions)",
+        "ISBN registration"
+      ]
+    }
+  ]
+}

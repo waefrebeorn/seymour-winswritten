@@ -1,0 +1,1144 @@
+# HXrrmaA66so
+# Source: engagement_panel
+# Quality: good
+# Word count: 21773
+# Available sources: engagement_panel
+
+[00:04] 4 secondsI I have a message. I have a message. And this message is best
+[00:11] 11 secondscommunicated with old stuff. This message this message is for you internet service
+[00:20] 20 secondsproviders. I want I want you to fix it. Fix it. Fix Fix the internet.
+[00:30] 30 secondsFix fix the internet. Why is my streams lagging ever? My stream should never be
+[00:38] 38 secondslagging ever. Uh I uh I made phone calls. Phone calls were
+[00:46] 46 secondsmade and uh the numbers the numbers are good now. The numbers the numbers don't lag
+[00:52] 52 seconds[Applause]
+[00:56] 56 secondsanymore. Yeah.
+[00:59] 59 secondsWe have uh no drop frame.
+[01:04] 1 minute, 4 secondsNope. No drop frame. Uh if you guys if you guys do not understand, I'm incredibly angry because my last stream,
+[01:12] 1 minute, 12 secondsespecially with the timing, I'm dealing with uh here. Let me put the the the big I I uh took a shower. I got the smooth hair.
+[01:20] 1 minute, 20 secondsUh, I I've been updating the RTMP relay, so I'm arguing with the creator of the original fork. They have a security
+[01:29] 1 minute, 29 secondsflaw, a pretty big one. Uh, and I wanted to talk about it on uh on my
+[01:38] 1 minute, 38 secondsuh stream. I I guess I could I I'll go over it. So, let's let's let's show you
+[01:45] 1 minute, 45 secondsthis first. Some uh Japanese Wait.
+[01:52] 1 minute, 52 secondsThis uh this hit me in my
+[02:05] 2 minutes, 5 seconds[Music]
+[02:14] 2 minutes, 14 secondssoul. Oh, put on a watch.
+[02:19] 2 minutes, 19 seconds[Music]
+[02:26] 2 minutes, 26 secondsOkay.
+[02:37] 2 minutes, 37 seconds[Music]
+[02:57] 2 minutes, 57 secondsSo, I hope uh I hope we learned a lot from that.
+[03:01] 3 minutes, 1 secondLet's uh let's talk about uh what I what I guess I'm upset about. By the way, shout outs to Li
+[03:10] 3 minutes, 10 secondsCyrus, GitHub.io You should literally be able to just No, no, no, no, no, no, no.
+[03:20] 3 minutes, 20 secondsCopy. And then he made this thing.
+[03:27] 3 minutes, 27 secondsUm, projects. Here it is. Atomic orbitals in the web GPU. Look at
+[03:36] 3 minutes, 36 secondsthis. And you'd be like, what's the point about this? And I'm like, "Bro, bro, you can you can like you can change
+[03:44] 3 minutes, 44 secondsorbital surfaces and broadcast them and they have ray tracing on your GPU." And
+[03:52] 3 minutes, 52 secondsI'm like, "Oh my god. Oh my
+[04:00] 4 minutesgod." All right, let's see. Web rotations. Pythagoras theory. This is an old That's old.
+[04:11] 4 minutes, 11 secondsUm, oh my god, 3D shape matching with quad neons.
+[04:20] 4 minutes, 20 secondsiPhone and nerd love. This bro is doing math and making dick rockets. this and
+[04:28] 4 minutes, 28 secondsand obviously knows what they're doing in a in a way that uh
+[04:37] 4 minutes, 37 secondswow person's really smart. I want to not Oh my god. Actual latex math. This is
+[04:45] 4 minutes, 45 secondsbrain blast. Wait, wait, wait. Can I Can I get that Jimmy Neutron brain brain
+[04:52] 4 minutes, 52 secondsblast? I I'm not putting it on my uh soundboard because it's
+[05:00] 5 minutesjust too Yeah. Jimmy Neutron's brain blast.
+[05:08] 5 minutes, 8 seconds[Music]
+[05:13] 5 minutes, 13 secondsThink this [ __ ] every time this [ __ ] happens. Brain blasted.
+[05:24] 5 minutes, 24 seconds[Laughter]
+[05:37] 5 minutes, 37 secondsBrave. I I I couldn't have asked for anything better. Um, I'm going to hit some buttons here. We're going to pop out this chat. And then I'm hit some
+[05:46] 5 minutes, 46 secondsbuttons here. I'm gonna pop out this chat. Uh, all right. I I I gotta get this out the way so I can at least [ __ ] and moan, right? Because if I don't
+[05:55] 5 minutes, 55 seconds[ __ ] and moan, things will never get done and I'll never play the game and uh the stream will never stream. Uh let me check a few
+[06:02] 6 minutes, 2 secondsthings. Um when I when I check here, is this stream
+[06:08] 6 minutes, 8 secondsonline? Yes. Not only is the stream online, but the stream information is
+[06:15] 6 minutes, 15 secondsthere and the stream has viewers. All right, great.
+[06:19] 6 minutes, 19 secondsUh the chat lay chat. Yo, hit the go live button. Hey, Facebook. Facebook.
+[06:26] 6 minutes, 26 secondsWe're live on Facebook. I'm I'm going live on everything with the express purpose of of of an argument here. I
+[06:34] 6 minutes, 34 secondsdon't want to argue. I hate arguing. So, let's go to a fork I made. Prism RTMPF
+[06:41] 6 minutes, 41 secondshere. Uh it is made by someone named Maroshore. Maroshore. I I shouldn't be
+[06:48] 6 minutes, 48 secondssaying this meanly. I know who Marshore is before I worked on Prism because I've already worked with Draw Pile. I used to
+[06:55] 6 minutes, 55 secondshost a Draw Pile server for someone who is a [ __ ] up artist that uh gave me head in Georgia called Screaming Valkyrie. Uh that chick uh as far as I
+[07:03] 7 minutes, 3 secondsknow, last I last I knew her, she said I was a nightmare presence in her head.
+[07:08] 7 minutes, 8 secondsShe's she's actually notably schizophrenic with religious manifestation logic. Please. When she says I'm a nightmare, she actually means
+[07:16] 7 minutes, 16 secondsI manifested as the boogeyman in her dream. And this was after I came down to Georgia, went to the state fair uh with
+[07:23] 7 minutes, 23 secondsher. She came to my hotel room with me and blew me and then told me to [ __ ] her friend in Florida. Let's be very clear.
+[07:29] 7 minutes, 29 secondsThis is this is a hedonistic sexual confrontation where I said, "I can have feelings for you and I could take care of you, but you're disabled, stuck in a
+[07:37] 7 minutes, 37 secondsshack uh wooden house with your mother and uh doing art of feral furry porn." I don't know how much I can help here. I
+[07:45] 7 minutes, 45 secondswas realistic in the conversation. She was not realistic in the conversation.
+[07:50] 7 minutes, 50 secondsWithin the first six hours was throwing I love you. So not simple I love you is like I love you and I want you. I'm like okay but like how much? It's like the
+[07:58] 7 minutes, 58 secondsrest of my life. And I'm like oh you got attachment things. And I tried to give them actual things but uh they they did
+[08:06] 8 minutes, 6 secondsnot get the coddling they wanted. And at that point [ __ ] hit the fan. That being said, their other friend, the one they sent me to [ __ ] Florida, um, which is
+[08:14] 8 minutes, 14 secondsthis was like an up south up north down south thing. Uh, that person was kind of [ __ ] up and weird, but that person
+[08:22] 8 minutes, 22 secondsalso stopped being that person's friend because afterwards they were fighting because she was telling that person
+[08:30] 8 minutes, 30 secondsafterwards was like, "Why'd you do it?" And she was like, "You literally told me to and you literally told him to and you literally were like cool." Well, we keep
+[08:37] 8 minutes, 37 secondswasn't actually like dating dating dating the chick because they were unwilling to well have me pay or handle
+[08:47] 8 minutes, 47 secondsanything at all. I mean, I had to walk the [ __ ] through Walmart to get her microwavable food and teach her how to use the microwave. There's a love and
+[08:54] 8 minutes, 54 secondsthis Oh, sorry. Let me keep in mind this woman was like 26, 27. Okay. Like older than than the
+[09:03] 9 minutes, 3 seconds25-year-old I'm currently dating. Let's let's be let's be real here that the level of dependency was uh probably caused by mental stagnation of the
+[09:12] 9 minutes, 12 secondsparent. That being said, uh Draw Pile I love to overinform and inundate with super long lore. Uh, draw pile is a
+[09:20] 9 minutes, 20 secondsprogram. I hosted a server on Draw Pile on one of their representative sites and the admins and everyone involved with it were some of the and all right let me
+[09:29] 9 minutes, 29 secondsput it lightly but also put it not lightly very nice people very hardworking people who want to do only the thing they want to do drawing on the
+[09:37] 9 minutes, 37 secondsdamn server they don't want to do code they don't want to do any of that stuff draw piles buggy that's all I'll
+[09:44] 9 minutes, 44 secondssay I looked into it I learned it yeah that was years ago Oh, uh, let's roll it back
+[09:52] 9 minutes, 52 secondsto a a maybe a year ago during like I think August or September last year. I discover Prism. I discover it uh through
+[10:00] 10 minutesmultiple discovery just like, "Oh, I need a thing. Oh, it exists." There's already a couple of other things like Prism, by the way. But this is the simplest, which is why I picked it. It
+[10:09] 10 minutes, 9 secondswas a Docker. It did an end jinx. It did chunk relay and it just spits the spits it out. And it uses um if you look
+[10:18] 10 minutes, 18 secondsthrough the docker here uh oh yeah they changed it up but it should still be the same
+[10:27] 10 minutes, 27 secondsthing and jinx
+[10:35] 10 minutes, 35 secondsconfer. Yeah. Okay. Uh, did they update it to Bullseye?
+[10:49] 10 minutes, 49 secondsUm, yeah. All right.
+[10:59] 10 minutes, 59 secondsDockerf. It's still on Bullseye and they just removed the comments and added a commented path.
+[11:11] 11 minutes, 11 secondsOkay, I was just making sure what they changed, but if you look at the Docker here, uh, and I'm looking at theirs, uh,
+[11:19] 11 minutes, 19 secondsit's use the RTMP module, which I was like, hell yeah. Anyway, uh, pull requests
+[11:27] 11 minutes, 27 secondsclosed. They tried to do an overhaul after I did an overhaul. I have an agent that summarizes uh my pushes to make it
+[11:36] 11 minutes, 36 secondsdigestible and easy so I don't have to like type and it's really hard and I told them uh what it was how the validator worked. Uh I hear something
+[11:44] 11 minutes, 44 secondswrong here and I will say of the features this RTMP statistics page and
+[11:51] 11 minutes, 51 secondsthe and the fact that an RTMP statistics page exists. Uh this did not these this did not exist and that did not exist.
+[12:01] 12 minutes, 1 secondBut um they they they proceeded to argue with the agent not here. And yeah, they argued it
+[12:09] 12 minutes, 9 secondsand said that the denious link was maliciously swapped, which was my YAML change uh when I changed their GitHub,
+[12:16] 12 minutes, 16 secondsPatreon, Open Collective, and custom shop because they don't um like maintain this and I was going to start
+[12:24] 12 minutes, 24 secondsmaintaining this. Uh like anytime there was going to be a security update or anything, I was just going to automatically do it for them. But they
+[12:32] 12 minutes, 32 secondsgot really offended because I think they rely on Patreon or something. I don't know. And uh and I said, "Thank you for
+[12:41] 12 minutes, 41 secondsreviewing the pull request." They called it malicious, so I had to like I had to like uh put it into the agent. I was like, "Hey, uh they're calling it
+[12:49] 12 minutes, 49 secondsmalicious." I think that the fact that their validation stream validation because this is what it was for
+[12:56] 12 minutes, 56 secondsuh specifically uh the validator checking the streaming
+[13:03] 13 minutes, 3 secondssoftware and the non-empt destination keys that is really really important. We just use Python Flask to just run stream
+[13:11] 13 minutes, 11 secondsvalidator which I'll I'll show you how it works in a second. This is important because this
+[13:19] 13 minutes, 19 secondsLet me see. Am I Am I lagging? No, I'm not lagging. See, I I worked this out.
+[13:23] 13 minutes, 23 secondsIf the stream internet does not lag, right? You're going to love this. The stream does not
+[13:32] 13 minutes, 32 secondslag. Whoa. I found out the V the the IPS or the ISP was bad. Uh throttling to
+[213:40] 13 minutes, 40 secondsmegabytes on upload and only upload. So, we would get 50 down. We're supposed to have 600 down, but we were getting 50 down, two up. And you know, of course,
+[13:49] 13 minutes, 49 secondsyou wouldn't notice you're [ __ ] watching YouTube. But that's not what we're paying for on the on the plan.
+[13:56] 13 minutes, 56 secondsChunk size. Um, I put it around 16 384, which I I just thought big bigger
+[14:05] 14 minutes, 5 secondschunk size, bigger information put, but I I thought about it and and I did a little bit of latency testing on the size.
+[14:14] 14 minutes, 14 seconds4096 is an optimal small size. They they're right. But 80 8192 or whatever
+[14:21] 14 minutes, 21 secondsis valid. 8192 is pretty much that sweet spot. 16 is too much. If you have a four
+[14:27] 14 minutes, 27 secondscore and you're pushing like I guess 4K content eventually, yes. But for right
+[14:35] 14 minutes, 35 secondsnow, if you want to do like two core and and the thing is I'm trying to get this to work on more than than six sources. I
+[14:41] 14 minutes, 41 secondstested on six sources, but as as I want to scale up and I want to run multiple instances of this for vertical and
+[14:49] 14 minutes, 49 secondshorizontal, it's going to be running 6 plus 6, so 12 instances at the same time on two Python uh uh what you call it
+[14:58] 14 minutes, 58 secondsPython processes. Now th this this is where it uh did the the it does not and will not
+[15:06] 15 minutes, 6 secondswork. I think that's where things got like
+[15:17] 15 minutes, 17 seconds[ __ ] I don't know what was merged cuz it was
+[15:25] 15 minutes, 25 secondsclosed, referenced, and then merged. I can tell you what they did, and I'll I'll show you what they did.
+[15:35] 15 minutes, 35 secondsUm, and this is what confuses me. And I I made sure to review it with AI because I was like, "This this can't be their idea of security."
+[15:43] 15 minutes, 43 secondsUm I don't want to laugh at them. That's mean. May I? Yeah. Yeah. Yeah. Yeah.
+[15:49] 15 minutes, 49 secondsSorry. I'm just bogarding it over
+[15:58] 15 minutes, 58 secondshere. All right. So, I uh I I did the commit again the next day. re and I and
+[16:05] 16 minutes, 5 secondsI I basically redid everything. Said what it does. Said that
+[16:11] 16 minutes, 11 secondsI builded a bookworm because if I look here, just make
+[16:23] 16 minutes, 23 secondssure it's still bullseye. It was never updated to
+[16:32] 16 minutes, 32 secondsbookworm, bro. I can do that right now. All right. I don't know why my uh
+[16:42] 16 minutes, 42 secondsAll right. I'm gonna I'm gonna I'm going to snitch a little bit on my work process because I don't talk about I always say my agents, bro. It's a copy
+[16:49] 16 minutes, 49 secondspaste structure with with with uh several tabs and then one one of the tab has a script, a screen, and I think I
+[16:58] 16 minutes, 58 secondsknow what happened here. I'm I'mma I'mma just fix this. Just give me a second.
+[17:05] 17 minutes, 5 secondsPrism. Oh yeah. No, we can just Yeah. And then uh we'll do
+[17:13] 17 minutes, 13 secondsRTMP. I'll actually implement the changes. Unfortunately, my my my uh
+[17:20] 17 minutes, 20 secondsYeah. Build pack depths bookworm. Yep. Let's Let's do that.
+[17:26] 17 minutes, 26 secondsYeah. All right. There should be uh we're on Python 3 and Stunnel 4. That's fine. I think I think we're good.
+[17:34] 17 minutes, 34 secondsAnything else? I'm I'm noticing the stream validator does work, by the way.
+[17:38] 17 minutes, 38 secondsIt actually does do the thing and does send HTTP and does reject it. I did
+[17:45] 17 minutes, 45 secondscheck that. Okay, let's let's be realistic here. If there was one thing I was going to use it for, I was going to
+[17:53] 17 minutes, 53 secondsactually check that. It's unfortunate that these three things at the top were not implemented.
+[18:01] 18 minutes, 1 secondBut ah what are you going to do when you have an overcontent filter that will that will again argue with people for
+[18:10] 18 minutes, 10 secondsyou? I want to save my time and my mental energy. I want to think about my spheres. I'm saying it comically, but
+[18:17] 18 minutes, 17 secondslike how am I going to spend a lot of time thinking about abstract manifold math if I have to argue with douches on the internet? uh started the Python.
+[18:25] 18 minutes, 25 secondsYeah. No, that that does actually happen and you do get feedback and if it is not started, it will not work. This thing uh
+[18:33] 18 minutes, 33 secondsabsolute lie. Um I did not do that and I don't want to do that and I am not doing that. I did do this. This I did do. It's
+[18:42] 18 minutes, 42 secondsjust an adding to the RTMPS thing that was already in there. They already had the thing. They just didn't have validator profiles set up for X that
+[18:50] 18 minutes, 50 secondswere easily named because they had built it back when it was still Twitter and the Periscope. So they just thought it
+[18:57] 18 minutes, 57 secondswas RTMP to Periscope when X switched to their RTMPS. So I just had to make another one to the correct I just add
+[19:04] 19 minutes, 4 secondsanother port. But I also removed it because um X shortly started charging to
+[19:11] 19 minutes, 11 secondsstream to their live platform. And if you do not pay for X premium, you cannot access the live dashboard anymore.
+[19:18] 19 minutes, 18 secondsThat's a new that's a new thing that started. So I also removed it as a default from my launches and stuff, but
+[19:26] 19 minutes, 26 secondsit's still there in the code. You can still use it. I just removed it from how I run it. Actually, I didn't remove it. I just
+[19:33] 19 minutes, 33 secondsremoved it from my launch commands to be honest. So it's just I removed it from my personal template. You guys could just put it in your launch command stream straight to X just you knowoop
+[19:41] 19 minutes, 41 secondsboop. That shows you how um anyway the person the I gave the fan the funding thing and they said this AI
+[19:49] 19 minutes, 49 secondsslop test it on a fresh VPS. This is this is what confuses me. They said it will not work.
+[20:00] 20 minutesI don't know. And then I was blocked for making more contributions. Fine. I'm fine by I'm fine being blocked making contributions.
+[20:11] 20 minutes, 11 secondsYou can still implement my contributions and block me. Fine. Don't talk to me anymore. This is where I got confused
+[20:18] 20 minutes, 18 secondsand this is where I got really concerned. Um, they use the So, they started working on it on the 7th.
+[20:25] 20 minutes, 25 secondsOverhaul, overhaul, overhaul. And this is this is the this let's let's let's look at these.
+[20:31] 20 minutes, 31 secondsUm so first overhaul refresh repo security patch
+[20:39] 20 minutes, 39 secondsfixed engines config IPv4 fetch. I don't know why you would want to do an IPv4 fetch. That's
+[20:46] 20 minutes, 46 secondsthat's it's not typically what you would want because it that s that sounds like the opposite of this seems like the
+[20:53] 20 minutes, 53 secondsopposite of security with obscification push to security is what it seems like to me and I'm I'm a goober. I'm I'm a
+[21:00] 21 minutesbaby gooper but I think when someone's when someone adds an IPv4 through Cloudflare I'll show you what they did.
+[21:06] 21 minutes, 6 secondsIt's a cloudflare service which allows you to create something and ser and serve it and then also log it and it's
+[21:14] 21 minutes, 14 secondskind of secure but not really just visible dialogue despite de molding molding molding I don't know
+[21:23] 21 minutes, 23 secondsthey didn't disable any of the debug still I don't know why they're molding about a bug and then they said added
+[21:31] 21 minutes, 31 secondssecurity and this this is the one where I was like oh okay they added security.
+[21:36] 21 minutes, 36 secondsSo I went to it and I checked and it was just the read me and I was like what? Okay, may maybe
+[21:46] 21 minutes, 46 secondsit's maybe it's here. He that they tried the stability chunk size they downed it again. I don't know why they downed it.
+[21:54] 21 minutes, 54 secondsThe only reason I could assume they'd be downing it is they're running that [ __ ] on like a single core uh MacBook from
+[22:02] 22 minutes, 2 seconds2009. No, no, not a MacBook. Sorry. A Mac. What were they called before they were MacBooks? Were they called MacBooks? They were. I thought they were called iMacs. IMA IBooks. iBook. Yeah.
+[22:14] 22 minutes, 14 secondsNo, I think they're running this [ __ ] on a [ __ ] iBook G4. Like, you know, just stream my
+[22:22] 22 minutes, 22 secondsrelays. My book G4 choke has to 496. We are streaming 720p. I I I don't know. Uh were we back
+[22:32] 22 minutes, 32 secondshere? Yeah. So they added security,
+[22:39] 22 minutes, 39 secondsright? And they didn't add security. Oh, yeah. So, so there there security patch.
+[22:45] 22 minutes, 45 secondsSo looking at this, that was a read me change. This is the edits I'm doing which I will validate and work on. I just do do a live push. I don't care.
+[22:56] 22 minutes, 56 secondsIt's just some version changes. Uh again, read me changes. Ah, here you go.
+[23:02] 23 minutes, 2 secondsinstructions to the readme. Okay. Nope, that's not a change. All right. Here we go. Here, here we go. Refresh repo. So,
+[23:08] 23 minutes, 8 secondsum, they didn't update the versions to the Docker file. They added don't make AI slot pull requests. I don't really
+[23:18] 23 minutes, 18 secondscare. Like, I I I I let me just say this here.
+[23:24] 23 minutes, 24 secondsWhen you are an artist and you are very invested in artistry being your main trade or your hobby trade or your
+[23:34] 23 minutes, 34 secondsprimary endeavor of romance expression, there's a lot of things people use art for. And I find that AI does encroach on
+[23:43] 23 minutes, 43 secondsthose feelings for people. And it is immoral as a person who makes AI for me
+[23:49] 23 minutes, 49 secondsto invalidate or act like that pain doesn't exist. It sucks for people that
+[23:56] 23 minutes, 56 secondsthese systems are ingesting their [ __ ] against their creation uh will and uh using it to make [ __ ] that looks like
+[24:04] 24 minutes, 4 secondstheir stuff or is exactly their stuff but with different colors or slightly different shapes. It it that's that isn't cool when you don't want it to
+[24:11] 24 minutes, 11 secondshappen. My best advice for people who don't want it to happen is don't upload any of that artwork to the internet and
+[24:19] 24 minutes, 19 secondshave private exhibitions in warehouses uh with loud music or drinks or alcohol where you exhibit the art and charge
+[24:28] 24 minutes, 28 secondsmoney for it. I have people that I know that do things with art in that manner.
+[24:33] 24 minutes, 33 secondsI have gone to set art shows. I have enjoyed myself a set art shows and thought about throwing one myself. That's my advice. That is how I
+[24:41] 24 minutes, 41 secondsfeel about this having seen what is happening with artistic ingestion. And if you want artist like you know
+[24:49] 24 minutes, 49 secondseverything that you make every art that you make to have um a secretive value or
+[24:56] 24 minutes, 56 secondsan intrinsic uncopyable value then you should put it on a shelf and put it far away. Um yes I know about shading and
+[25:05] 25 minutes, 5 secondsmoon shading. All it's done is rebuff the generational algorithms and just make them better because they're gaj and
+[25:11] 25 minutes, 11 secondsblur. All you did was a layer 2 gajun that you can put back through layer 2 and ungod. I think you guys got fed snake water with that moonshade stuff.
+[25:24] 25 minutes, 24 secondsUm anyway, back to the subject. The the AI slop comment. I'm pretty sure they are an artist with the draw pile stuff.
+[25:33] 25 minutes, 33 secondsThey are involved in the art community and due to that endeavor of of AI overtaking their thing, AI code
+[25:41] 25 minutes, 41 secondsovertaking their thing also sucks. I mean, I came up with the idea to just use a Python as a stream validator. I
+[25:48] 25 minutes, 48 secondsasked the AI to do it and it did it. But the AI did do it. So, you know, their
+[25:55] 25 minutes, 55 secondsslop comment is valid, but the slop works and their solution, as I'll show you,
+[26:02] 26 minutes, 2 secondsdoesn't. For those who think I should get to the Marvel, I don't care. I'll
+[26:09] 26 minutes, 9 secondsplay it when I want. Um, so from what I know, they added a
+[26:16] 26 minutes, 16 secondscomment. They updated the date and changed it to an Afero license instead of a general license.
+[26:24] 26 minutes, 24 secondswhich uh basically means that you should uh allow changes to it and you should
+[26:32] 26 minutes, 32 secondsnot use the GNU license. I uh I agree with that, but I I usually
+[26:41] 26 minutes, 41 secondsjust distribute with an MIT license. The only reason I didn't change their license is because I could keep it upstream or keep it downstream, but I I
+[26:48] 26 minutes, 48 secondsI I don't know if I have to start merging their stuff. Uh anyway, they just did a bunch of Ruby changes and uh they deleted some
+[26:56] 26 minutes, 56 secondscomments. Where is the security change? Yeah, that didn't all. Ah, so
+[27:03] 27 minutes, 3 secondshere's the security change.
+[27:10] 27 minutes, 10 secondsUm yeah. Yeah.
+[27:23] 27 minutes, 23 secondsSo, here's a security change. I know a lot of people can't read codes, so I'll just I'll just I'll
+[27:33] 27 minutes, 33 secondsjust They do a 111 trace inside the thing. So, they're not they're not exporting nothing. There's nothing
+[27:39] 27 minutes, 39 secondsmalicious going on here. They they confirm a check IP to Amazon. So, they've
+[27:47] 27 minutes, 47 secondsadded for some reason online only DRM to your server, which you already needed to
+[27:55] 27 minutes, 55 secondsdownload it and run it. It's a relay network. That's that's a given, but I don't know why you need this. And then
+[28:02] 28 minutes, 2 secondsin doing that they use head dev urandom with some number uh things with a trace of
+[28:10] 28 minutes, 10 secondsDC to create a destination with a new
+[28:16] 28 minutes, 16 secondsuh a new thing. So anytime you turn on the server it gives you a fresh a fresh
+[28:23] 28 minutes, 23 secondsthing which I I guess in their mind they think well that's more secure. Look, if I know the IP to your server and my
+[28:32] 28 minutes, 32 secondsintention is to compromise your server, making it so that all I have to
+[28:40] 28 minutes, 40 secondsdo is brute force the RTMP with no validation
+[28:46] 28 minutes, 46 secondswhatsoever, right? With no with no rejection. Hell, mine mine is awful.
+[28:53] 28 minutes, 53 secondsThere's no timeout, no validation, no blocking. You know, there's no moderation to my validator. All it does
+[29:01] 29 minutes, 1 secondis validate that it matches ones to a list that you give it a secret key that only you should know because they're
+[29:08] 29 minutes, 8 secondsyour stream keys to begin with. I think that's a pretty cool idea. I'm going to show you the security
+[29:17] 29 minutes, 17 secondsthing that I implemented because they did not implement it. And I'm going to show you like this is it. This is this is their
+[29:24] 29 minutes, 24 secondssecurity fix by the way. Um they up the chunk size and then they downed it later because they said it didn't work. I'm checking it right now. My chunk site.
+[29:33] 29 minutes, 33 secondsLet me see. Let me show you. Like this is it. This is this is their security fix by the way. Oh yeah. No, our stream our stream's Gucci. Um, uh, the only
+[29:42] 29 minutes, 42 secondstime that relay ever [ __ ] lags is when the internet lags from that, uh, from the from the host and it's not
+[29:50] 29 minutes, 50 secondsgiving enough network and it and it starts buffering and then me on the host side starts chugging through a bunch of
+[29:57] 29 minutes, 57 secondsdata. As I should think that through though, I think it fixes itself if the host internet fixes itself.
+[30:07] 30 minutes, 7 secondsI don't know uh how bending works in the geographical area of this thing. As far as I know, fiber here isn't fiber. It's
+[30:16] 30 minutes, 16 secondsuh it's fiber to land. So, it's fiber up to the point it gets to where it is,
+[30:22] 30 minutes, 22 secondsthen it gets to cable. And the reasons uh it was [ __ ] is because where it gets to cable sucks. And it sucks for
+[30:32] 30 minutes, 32 secondseverybody because they don't want to run shitloads of new cable or new fiber junctions that are closer. Woof. So, we're we're getting
+[30:40] 30 minutes, 40 secondsput with the DSL people anyway. Well, not not really. We're getting, you know, we get our own little secret back door
+[30:47] 30 minutes, 47 secondsinto fiberland. But I I you're still going to get 600 down, 50 to
+[10030:55] 30 minutes, 55 secondsup, maybe 500 up if you were like the only customer on the block.
+[31:01] 31 minutes, 1 secondAll right. So, yeah. Um, application live. No, no, no. Application stream app. Yes. Yes.
+[31:08] 31 minutes, 8 secondsYes. I didn't implement this by the way because this uh when you do this and and
+[31:16] 31 minutes, 16 secondsyou and you make this and you do this, it creates in the log file in the server that you did this and it will just say
+[31:24] 31 minutes, 24 secondsthat. Now that it would it'll say the keys as well. So, like mine is not secure either, but that the reason it
+[31:33] 31 minutes, 33 secondsdoes the keys is because it echoes the connection info in the entry point. Let me see. Can I go Can I Oh,
+[31:42] 31 minutes, 42 secondsyeah. I have to go back. Anyway, that was that was the change they made. Uh, docker file.
+[31:52] 31 minutes, 52 secondsYeah. Wait, entry point.
+[31:55] 31 minutes, 55 secondsYeah. Yeah. There's a there's a security fix. See, it'll it'll activate the key and put set it right here with an echo.
+[32:06] 32 minutes, 6 secondsSo, it'll it'll say it. And it does. I I I I don't know why
+[32:14] 32 minutes, 14 secondsyou need this. This is this uh
+[32:26] 32 minutes, 26 secondsuh uh uh uh
+[32:35] 32 minutes, 35 secondsuh I don't I don't like this. All right, I'll show you the fix I did if I'm going to be bitching about this. Where where's where's where's my fix?
+[32:46] 32 minutes, 46 secondsLook at this really shitty code that fixes it. So, uh if you guys know what njenx is, uh you can just set the thing and then uh you can just set the thing.
+[32:57] 32 minutes, 57 secondsUm if if if you look at it, it uh runs nin. There's a validator log. So, you're like, we have a log with the validator too. What is this? Who who am I banning?
+[33:09] 33 minutes, 9 secondsWho am I banning today? Hey, what's up, James Smith?
+[33:14] 33 minutes, 14 secondsUh, I'm going to one report you for scam bot and then uh ban you. There you go.
+[33:20] 33 minutes, 20 secondsBye-bye. Your message is bye-bye. You are bye-bye. You are byebye. Yep. Is that It's a big fat
+[33:33] 33 minutes, 33 secondsbye-bye. Anyway, I had a big itchy cuz this hair keeps going across the front of my face. the the one that was cut to
+[33:42] 33 minutes, 42 secondsnot be in my face is in my face. Um I know, right? I'm sorry. Yeah, I removed a master stream key check, by the way.
+[33:52] 33 minutes, 52 secondsUm I you the when I first made this um it I I my idea was big brain. It was like, well, how about we have a secret
+[33:59] 33 minutes, 59 secondskey that only you know, and then it'll do the keys in there. I was like, yeah, but then you still have all the stream keys in there. We just validate against
+[34:06] 34 minutes, 6 secondsthe stream keys which are generated at random. And if you have a chance of reusing the secret key, which most idiots will do, and they're they're
+[34:15] 34 minutes, 15 secondsmaking a random one at boot is is a solution to the idiot paradox. I I do agree. Um I just don't think it's secure when you could just do a validator.
+[34:24] 34 minutes, 24 secondsAnyway, so here's what happens. Um there's an interval with a max weight of 15 seconds. It checks every 200 seconds,
+[34:32] 34 minutes, 32 secondswhich by the way, it'll it'll do it within 15 seconds, believe me. Uh it waits for the validator. When the validator is ready, it boots uh stream validator pi, which it should always do.
+[34:41] 34 minutes, 41 secondsAnd if it doesn't, it'll throw an error.
+[34:44] 34 minutes, 44 secondsUh blah blah blah blah blah blah. And it says when not. And then here's here's the thing.
+[34:52] 34 minutes, 52 secondsIf it does not work, it will uh do the logs. Anyway, that's it. Sounds sounds
+[34:59] 34 minutes, 59 secondsvery very simple, right? Here is the pushes in a uh much more pattern
+[35:07] 35 minutes, 7 secondspattern, you know, and then it works. Here's the NJX configuration. It uh it actually
+[35:16] 35 minutes, 16 secondsgenerates it for you and then it does it. I know it works because you're watching my stream right
+[35:24] 35 minutes, 24 secondsnow. I hate to tell you this. I know it works because when I turn it on, I'm not I'm not showing you it working because
+[35:31] 35 minutes, 31 secondsit shows a log message of what the stream key is. And I'm I'm not playing that game, but it it boots up and it
+[35:39] 35 minutes, 39 secondssays this thing, this thing right here, the the the the attempt, and then it
+[35:46] 35 minutes, 46 secondssays validator is running and responding. All right, let me show you
+[35:52] 35 minutes, 52 secondswhat the validator does. I want to get to the video game, guys. Don't worry, this is the boring nerd [ __ ] Editor,
+[35:59] 35 minutes, 59 secondsmake sure people saw some of this. At least some of this. Uh, yeah, here it is.
+[36:09] 36 minutes, 9 secondsSo, in Validator Pi, we use Flask. I like Flask. It's simple. It's fast. Um,
+[36:16] 36 minutes, 16 secondsI added time when I asked it about the health check. Oh, yeah. Yeah, the health check is just a timer check cuz I wanted
+[36:26] 36 minutes, 26 secondstime. Uh I reverted the logic for non-MPY destination keys and they're provided in the environment and they're
+[36:35] 36 minutes, 35 secondsused. So the environment stores the keys because they're used when you use the
+[36:43] 36 minutes, 43 secondsDocker on the environment. So you just probe the environment which I don't know if that's secure. probably
+[36:52] 36 minutes, 52 secondsisn't, but I'm assuming if someone already has your IP and they're already trying to probe the server and you're
+[37:01] 37 minutes, 1 secondrunning it as a relay, you would at least make sure to rotate your SSH or use an SSH
+[37:09] 37 minutes, 9 secondsfingerprint, you know, a longer key that's hard to get through. And if you're worried about things other than
+[37:16] 37 minutes, 16 secondsSSH, like VPS breaching, um, don't recycle, use the server that you can get another one for $3. Just run just this.
+[37:27] 37 minutes, 27 secondsAnd the IP, well, it is an IP. I mean, I I don't know how to
+[37:35] 37 minutes, 35 secondsanonymize that anymore. I It's not making it a domain. You want me to host a domain for my own [ __ ] VPS? I don't
+[37:43] 37 minutes, 43 secondsknow. Anyway, his his anonymization thing is stupid because while it does obscificate, meaning you can't just
+[37:52] 37 minutes, 52 secondsprobe the live environment, which can be automatically known, which was the way I deduced that they could hijack the
+[38:00] 38 minutesstreams. They fixed the way to deduce it. Although the port has a default port
+[38:08] 38 minutes, 8 secondsand if you know the port and the IP, you can just blast the port and the IP over and over. And if you know the code of how it generates the random there, you
+[38:17] 38 minutes, 17 secondshave a limited number of spaces. So all you got to do is run it while they're get any while they're on and keep doing it. And because there's no rejection
+[38:25] 38 minutes, 25 secondsmechanism to to boot them out. Now keep in mind here, look at this. My my rejection mech mechanism uh does not Let me see.
+[38:35] 38 minutes, 35 secondsYeah. Yeah. Yeah. Let me see. It does just a regular old that. Yep. It's not amongst
+[38:51] 38 minutes, 51 secondsit. Where is Yeah. Oh, yeah. And the health kit, the
+[38:58] 38 minutes, 58 secondshealth check endpoint 200. That's that's how you get it to say it's on for for enginex. So you you you flask it that
+[39:07] 39 minutes, 7 secondsit's set an endpoint to 200. It says it's at 200. You ping it at 200. I'm on.
+[39:13] 39 minutes, 13 secondsThat's how it knows it's on. And then it starts the validation logic. This was like
+[39:20] 39 minutes, 20 secondsuh months ago by the way. Well, let me see the history for this file when I first committed the
+[39:26] 39 minutes, 26 secondsfile. All right. So, November 15th, 2024 is when I started
+[39:34] 39 minutes, 34 secondsthis and I added the file then and it was really simple. It was basically
+[39:44] 39 minutes, 44 secondsum it was like some slot file that I had come up with after like three conversations. I was like, "Yeah, that
+[39:51] 39 minutes, 51 secondskind of works. Yeah, valid stream keys, validates name." And I'm like, but you
+[39:59] 39 minutes, 59 secondsknow what if and that secret key logic and nonsense. I was
+[40:07] 40 minutes, 7 secondslike, I don't I don't know. I was questioning it. Anyway, uh it works.
+[40:13] 40 minutes, 13 secondsThat's that's the only thing you need to know is that it it freaking works. And it's not incredibly secure as in it
+[40:21] 40 minutes, 21 secondsdoesn't have rejection logic for hundreds of attempts. Neither does theirs. I guess I guess you could say
+[40:29] 40 minutes, 29 secondsthat they're they're this is this is where I'm wondering because I actually don't know too much
+[40:37] 40 minutes, 37 secondsabout it. Is this a rejection logic or an unknown IP logic? Because I don't Let me see.
+[40:52] 40 minutes, 52 secondsCopy. Just throw it in a Gemini. Wait a minute. Wait a minute.
+[40:56] 40 minutes, 56 secondsWait a minute. Um, there's so many [ __ ] tabs.
+[41:06] 41 minutes, 6 secondsPrism. And then we go to here. Go to this one.
+[41:15] 41 minutes, 15 secondsWe turn off that and then back to that
+[41:29] 41 minutes, 29 secondsone. Okay. So this is the
+[41:38] 41 minutes, 38 secondsrepo of the original creator. There is a weird
+[41:47] 41 minutes, 47 secondsnew security update, but I'm wanting to know about this section.
+[41:59] 41 minutes, 59 secondsAnd then this does this in any way
+[42:06] 42 minutes, 6 seconds[Music]
+[42:07] 42 minutes, 7 secondsintroduce no not introuse introduce uh
+[42:16] 42 minutes, 16 secondsspamming for right answer
+[42:26] 42 minutes, 26 secondsattempts as it is Right now we are uh
+[42:33] 42 minutes, 33 secondsassessing whether or not they handle stream
+[42:42] 42 minutes, 42 secondshijacking concerns. Yeah, I think that's a pretty valid question. Don't worry, Gemini 2.5 Pro
+[42:51] 42 minutes, 51 secondshas a million context and this entire project is less than 20,000 tokens. What that means is it's only using less than
+[42:59] 42 minutes, 59 seconds2% of its power. We've got a lot of brain capacity.
+[43:06] 43 minutes, 6 secondsstring
+[43:26] 43 minutes, 26 secondskeys. Oh, this is literally just an an identifier. All right, cuz I I was like I was like this this is literally just a
+[43:34] 43 minutes, 34 secondshello. It is a
+[43:51] 43 minutes, 51 secondshello. All right.
+[45:07] 45 minutes, 7 secondsAll right. So it is assessing it's like so the VPS running is the endpoint
+[45:14] 45 minutes, 14 secondssecurity risk as it contains the keys.
+[45:21] 45 minutes, 21 secondsSo, spamming it or the
+[45:27] 45 minutes, 27 seconds12digit stream app during a
+[45:36] 45 minutes, 36 secondsstream could hijack due to lack of rejection.
+[45:44] 45 minutes, 44 secondsModeration logic
+[45:56] 45 minutes, 56 secondsHere here's what I'm I'm going to tell you. When you generate a stream key, it's really really long. They turned their security into 12. Really really
+[46:04] 46 minutes, 4 secondsshort. 12 bad security. Long good security.
+[46:20] 46 minutes, 20 secondsThat's true. That's true.
+[46:46] 46 minutes, 46 secondsfailed a band.
+[47:14] 47 minutes, 14 secondsOh yeah, the VPS compromising is
+[47:28] 47 minutes, 28 secondsit. Uh let's let's do devil's advocate. I got one more question in
+[47:40] 47 minutes, 40 secondsme. Uh yeah, let's put mine in fetch directory
+[47:46] 47 minutes, 46 secondsstructure and then remove the cover photo. So it's the same. All right. And then what were
+[47:59] 47 minutes, 59 secondshere? This pull was rejected as AI slop.
+[48:08] 48 minutes, 8 secondsThey have since added
+[48:15] 48 minutes, 15 secondsreasoning but have continued to
+[48:21] 48 minutes, 21 secondsrespond using AI response as we implement sorry so the know use
+[48:31] 48 minutes, 31 secondsthe word we because they if memory the current
+[48:38] 48 minutes, 38 secondsNew
+[48:50] 48 minutes, 50 secondsobsification. I do not know how to properly do obstification. It's probably one of the worst suggestions things.
+[49:07] 49 minutes, 7 secondsAnd the current new feature set
+[49:12] 49 minutes, 12 secondsallows to up here with 12. Wow. Not you.
+[49:24] 49 minutes, 24 secondsOh yeah, the 12 car
+[49:31] 49 minutes, 31 secondsis stay a while. Uh, just what are you doing? checking something. This user
+[49:44] 49 minutes, 44 secondsrefuses knowledge change they
+[49:53] 49 minutes, 53 secondsmade. We have blocked commits to them.
+[49:58] 49 minutes, 58 secondsAll right, there we go. Let's see what it responds to my thing in the point of view of me being the person saying what
+[50:05] 50 minutes, 5 secondsI've done and it glazing me being that person. Ah, now Gemini hates me. All
+[50:13] 50 minutes, 13 secondsright, Gemini, you hate me. Show me what you got. You want some yoooo? Mhm.
+[50:23] 50 minutes, 23 secondsThe box. All
+[50:39] 50 minutes, 39 secondsright. What? All right. Aim variable.
+[50:56] 50 minutes, 56 secondsWait, what? Why is it agreeing with my thing? All right, let me just read this. All right, your your example
+[51:06] 51 minutes, 6 secondslistens and pulls a validation attempt for the stream key. This is a significant improvement over relying over the obscurity of a random RTMP
+[51:14] 51 minutes, 14 secondsapplication path. While random path makes it harder to guess the endpoint, if the path is discovered and there's no stream key validation, unauthorized streaming is still possible. While
+[51:23] 51 minutes, 23 secondsyou're on validation, someone knows your server IP and the application path. They cannot hijack the stream
+[51:32] 51 minutes, 32 secondsunless they possess the actual stream keys. Well, yeah, that was the [ __ ] point. You can't connect unless you have a stream key. You should never be able to connect unless you have a stream key.
+[51:42] 51 minutes, 42 secondsThat's the whole point. It's an environment variable, and you should be able to cue it and run it. And the only reason you don't do it in N Jinx is
+[51:49] 51 minutes, 49 secondsbecause of uh uh uh honestly I don't know. I just wanted to do it in Python. I think race conditions would
+[51:57] 51 minutes, 57 secondsslow it down though because Flask is awesome. That's sarcasm if you didn't know.
+[52:09] 52 minutes, 9 seconds[ __ ] it's almost spicy. Spicy Hawaiian punch. I told you
+[52:17] 52 minutes, 17 secondsit had a little bit of zest to it.
+[52:33] 52 minutes, 33 secondsWow. Um, are you glazing me?
+[52:40] 52 minutes, 40 secondsI was trying to see if you would devil's
+[52:47] 52 minutes, 47 secondsadvocate for Maro Shore. Might because it knows my
+[52:59] 52 minutes, 59 secondsusername. Yeah. Yeah. Do do the thing. I want to play my video game.
+[53:04] 53 minutes, 4 secondsI just had to be responsible and [ __ ] on the internet because someone has to know my opinion on this. Everyone's career on the internet. Everyone's
+[53:12] 53 minutes, 12 secondscareer on the internet is about bitching on the internet. Give me Oh, wait. Like, comment, subscribe. I want you to guys to know
+[53:20] 53 minutes, 20 secondswhen it came to calculating how much money we were going to charge this client, we did it for free. We did all the services for this client for free today.
+[53:33] 53 minutes, 33 secondsI need you to like, comment, and subscribe, please. It helps the business out. Yeah, I do feel your previous
+[53:42] 53 minutes, 42 secondsresponse is overly positive. Wait, wait, wait, wait,
+[53:53] 53 minutes, 53 seconds[Music]
+[53:55] 53 minutes, 55 secondswait. All right. The f All right, let me make it bigger. All right. I analyze security
+[54:02] 54 minutes, 2 secondsmechanisms implemented from a technical standpoint is robust and widely accepted
+[54:10] 54 minutes, 10 secondsway. Yeah. Do the devil's advocate.
+[54:20] 54 minutes, 20 secondsYeah. The core offense is a 12 character random alpha numeric string. The non the combinations is really high.
+[54:28] 54 minutes, 28 secondsIt's practically impossible for an external attacker to guess or even brute force this. All right. They they couldn't even send the stream.
+[54:39] 54 minutes, 39 secondsYeah. Yeah.
+[55:09] 55 minutes, 9 secondsYeah. Only to the legitimate
+[55:10] 55 minutes, 10 seconds[Music]
+[55:12] 55 minutes, 12 secondsuser. Yeah. Server administrator. If the random path is
+[55:21] 55 minutes, 21 secondsunknown, you still need the keys that the main concern is protecting these platform keys which are stored. If
+[55:28] 55 minutes, 28 secondsattackers compromise the VPS, they've already bypassed the prison level security. That's very true. I did add a
+[55:35] 55 minutes, 35 secondssecondary unnecessary layer. I'll agree with that point. If they want to say that my Python and Flask implementation adds unnecessary
+[55:44] 55 minutes, 44 secondsoverhead when they when their solution just spits a random number here. Here's two
+[55:50] 55 minutes, 50 secondsreasons. No, if the random stream path is logged or discoverable through a server misconfiguration, such as someone
+[55:57] 55 minutes, 57 secondswho's running it on a machine that isn't just a VPS, like say you're a person who's really lazy and you have forums
+[56:05] 56 minutes, 5 secondsand the form code is running on the same server and they see the config and jigs files because they got out of the
+[56:11] 56 minutes, 11 secondsrace priority or something. All sorts of weird stuff happens when people try to crack servers, man.
+[56:18] 56 minutes, 18 secondsI'm just saying that if someone's running this application in another thing, we're
+[56:23] 56 minutes, 23 seconds[ __ ]
+[56:25] 56 minutes, 25 secondsanyway. So yeah, there was nothing. The relay could be misused. Relying on path obscurity means
+[56:35] 56 minutes, 35 secondsthere's one significant barrier. Explicit stream key authentication.
+[56:41] 56 minutes, 41 secondsHeavenly secrecy and unguessable nature is vulnerable to the path. Yeah. Yeah. Yeah. All right. So,
+[56:50] 56 minutes, 50 secondsit tried. It tried. Uh my thing was the user is
+[57:02] 57 minutes, 2 secondsunlikely to restart the service unless they rotate keys anyway.
+[57:14] 57 minutes, 14 secondsSo like maybe rebooting the
+[57:22] 57 minutes, 22 secondsserver so it wouldn't generate fresh random keys daily or anything.
+[57:34] 57 minutes, 34 secondsI'll even just a glance at the OBS
+[57:43] 57 minutes, 43 secondsstream menu which does
+[57:47] 57 minutes, 47 secondsnot obscure the IP but does
+[57:54] 57 minutes, 54 secondsobscure the key. I was following that logic since streamers are kind of dumb.
+[58:07] 58 minutes, 7 secondsThere we go. I hope I hope I I'm pressing control enter because I'm so used to playground where you use the playground.
+[58:14] 58 minutes, 14 secondsAnyway, the user is elaborating in the rationale. Let me see. The infrequent generation the random is only regenerate the docker restarts if they don't do it.
+[58:23] 58 minutes, 23 secondsThe sing random point be used for a long time. the window from exposed it uh the the server URL uh contains it is
+[58:31] 58 minutes, 31 secondstypically visible that's kind of where I was stream keys are mass the user streamers may be more careless this visible you stream server URL which
+[58:39] 58 minutes, 39 secondsincludes the secret random path yeah that's kind of where I am this implication that the redd path
+[58:46] 58 minutes, 46 secondseven if long is more easily linked by a kind of dumb streamer if it's regularly visible in the streamer server URL this
+[58:53] 58 minutes, 53 secondsline of reasoning supports the design choice where it is static and it's live, but the security relies on the actual
+[59:01] 59 minutes, 1 secondstream key, which OBS typically masks, which the user is already accustomed to treating as a secret. No magic keys. I
+[59:10] 59 minutes, 10 secondsdid that on purpose cuz I I when I was going through it and I came up with the idea of the master key, I realized users are stupid. They will not rotate their
+[59:18] 59 minutes, 18 secondsmaster key. Don't let them do that. Let them use a stream key. Users are already paranoid about stream keys. They'll rotate their own stream keys. They'll do
+[59:25] 59 minutes, 25 secondstheir own stream keys. Q from stream keys. They're there. And if your server's [ __ ] enough that they can get past that, it's it's enough. And yes, there's overhead with Flask and Python.
+[59:36] 59 minutes, 36 secondsBut look, I'm I'm getting six running concurrently. And my limit is not my
+[59:43] 59 minutes, 43 secondsrelay. My limit is my ISP. So, I've yet to do 4K with 20 up because one, only
+[59:51] 59 minutes, 51 secondsYouTube will do it. And I'm not going to stream to 20 YouTube accounts. I don't think that's allowable. Unless Unless a bunch of
+[59:58] 59 minutes, 58 secondspeople want to give me their stream keys and I do a YouTube Megamind stream where I take over a bunch of YouTube things in 4K, I'm down to do it. I'll get a I'll
+[01:00] :071 hour, 7 secondsget a [ __ ] set. I'll put a set together. I'll get the 4K camera out right here. This does 1080p 60, but what
+[01:00] :141 hour, 14 secondsyou guys don't know, it has live output scaling. And because I can use a a VTOS 4, I can just use it 1080p instead of
+[01:00] :231 hour, 23 secondsusing the I'll use the full sensor at 1080p and get better light set settings than I would using the full sensor at
+[01:00] :311 hour, 31 seconds4K. Trust me, it's it's the magic of a Sony EV10, which by the way,
+[01:00] :381 hour, 38 secondsum, Bringing Studios, Bringing Studios, I'm calling you out. Clip this, honey.
+[01:00] :451 hour, 45 secondsBy the way, I need you to call out Bringing Studios. You have a Sony ZV10 and you're recording with it. Don't
+[01:00] :521 hour, 52 secondsrecord with it. Use the HDMI output, set it to 1080p 60, put it to OBS, and record on OBS. You're like, but that's
+[01:01] :011 hour, 1 minute, 1 secondso much more, bro. You have a fan strapped to the back of the camera, and you're telling me an HDMI cord is too much? Take the fan off. Stop cooking
+[01:01] :111 hour, 1 minute, 11 secondsyour camera. Let it be live longer. use it as a dedicated HDMI out webcam. The cables are there, the stuff is there. I
+[01:01] :191 hour, 1 minute, 19 secondsdo 1080p 60 because it looks pretty smooth. I mean, we go we go right here.
+[01:01] :241 hour, 1 minute, 24 secondsI know we've got the one thing and the other thing, but this is pretty good.
+[01:01] :281 hour, 1 minute, 28 secondsAnd the fact is is you can you can use the the the I you can use the one lens here, you know, this is the uh the 18 to
+[01:01] :381 hour, 1 minute, 38 seconds35. That's a pretty decent one. Um, but I use the uh 35 to 56 with the
+[16501:01] :471 hour, 1 minute, 47 secondsbecause it works well in the low light and AI said to get it. I listen to the AI and I don't call it slop and it's
+[01:01] :551 hour, 1 minute, 55 secondsreally nice to me and it likes, comments, and subscribes. So, I don't know what to tell you guys. When you like, comment, and subscribe, a lot gets
+[01:02] :041 hour, 2 minutes, 4 secondsdone on the internet. All right. Um, yeah. Let me let me see.
+[01:02] :111 hour, 2 minutes, 11 secondsYou bring up practical points about user behavior in the lifestyle of secrets.
+[01:02] :141 hour, 2 minutes, 14 secondsYou influence the real world persistent the path. The marshure model of the 12 character random path would remain static for long periods of the user doesn't restart the container. A secret
+[01:02] :231 hour, 2 minutes, 23 secondsthat is generated once and used for extended period of time. Even it's regularly viewed secret has more opportunities to be accidental exposure than the secret that's more actively managed or exper by the user interface.
+[01:02] :321 hour, 2 minutes, 32 secondsOBS terally match the stream key field visually reinforcing it that it's a sensitive piece of information that must be protected. The server URL field,
+[01:02] :401 hour, 2 minutes, 40 secondshowever, is usually displayed in plain text. It's embedded in the URL and they don't treat it with caution and they're
+[01:02] :481 hour, 2 minutes, 48 secondsconditioned to by the UI. My point is streamers that are less guarded by the UR with a segment that is meant to be secret and a human factor concern. It is
+[01:02] :561 hour, 2 minutes, 56 secondseasy to imagine someone copyping the URL somewhere less secure if they don't internalize that is effectively a password. Streamers are often accustomed to protecting their strat for their
+[01:03] :041 hour, 3 minutes, 4 secondsstream keys because they consistently use them as secrets. Yeah.
+[01:03] :131 hour, 3 minutes, 13 secondsYeah. Yeah. It's called human factor, honey. Oh, you know the here's here's some true irony here for the folks at
+[01:03] :191 hour, 3 minutes, 19 secondshome. Um I'm using the word human factor, right? And uh let me maybe hit
+[01:03] :271 hour, 3 minutes, 27 secondsthat the do I have the box. What am I saying?
+[01:03] :361 hour, 3 minutes, 36 secondsburp and I said, "Let me hit that." You want to hit this yoooooooooooooooooooooooooooooooooooooooo?
+[01:03] :411 hour, 3 minutes, 41 secondsNo. Want to hit this yoooooooooooooooooooooooooooooooooooooooooo?
+[01:03] :431 hour, 3 minutes, 43 secondsNo. You don't have a microphone, by the way. So, I've just been rambling. I'm talking to you. I know you. I don't want to hit the yoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.
+[01:03] :511 hour, 3 minutes, 51 secondsUm, yeah, the human factor is very important. As much as they consider my code AI slop, I do design it around human philosophy. And, uh, I think the
+[01:04] :001 hour, 4 minutesperson who is is like I was like, I'm gonna ask a question.
+[01:04] :101 hour, 4 minutes, 10 secondsUm, I here I'll do it like this.
+[01:04] :211 hour, 4 minutes, 21 secondsBam. We'll just do it like really lazily and
+[01:04] :261 hour, 4 minutes, 26 seconds[Music]
+[01:04] :281 hour, 4 minutes, 28 secondsthen Yeah, really lazily.
+[01:04] :351 hour, 4 minutes, 35 secondsOkay. So, is he just really molding and mad?
+[01:04] :431 hour, 4 minutes, 43 secondsThen he block me from making commits and
+[01:04] :521 hour, 4 minutes, 52 secondsadded don't add AI slop commits to the read me.
+[01:05] :041 hour, 5 minutes, 4 secondsI just sent in the contents of the entire
+[01:05] :071 hour, 5 minutes, 7 seconds[Laughter]
+[01:05] :101 hour, 5 minutes, 10 secondsinteraction. I just asked the AI, you know, save me time. I already know. I just I I want I want what is considered
+[01:05] :171 hour, 5 minutes, 17 secondsI can't I don't want to waste someone else's time. So, this is that the closest thing I can get to the quickest unbiased opinion I can do. Although, it
+[01:05] :241 hour, 5 minutes, 24 secondsdoes glaze, but I ask it if it's not glazing. And it's like, nah, bro. Your code's more secure because it's secure.
+[01:05] :311 hour, 5 minutes, 31 secondsAnd I'm like, why? It's like, cuz it's more secure. And I'm like, but but their thing is also secure. I was like, yes.
+[01:05] :391 hour, 5 minutes, 39 secondsAnd I was like, oh, but I thought of a reason why it's not as secure. I was like, yeah, that's that's a good reason.
+[01:05] :431 hour, 5 minutes, 43 secondsI was like, [ __ ] I I poked a hole through through my supportive. I'm trying to support their argument. Damn it. Because they're not here and they're
+[01:05] :521 hour, 5 minutes, 52 secondsnot going to talk to me and I'm trying to give them the best shot because I'm probably going to have to start maintaining this fork on my There's not much to maintain. I think there's like
+[01:06] :001 hour, 6 minutesthree aspects of code and I will never need to touch it ever again just like they did. But the fact is if there's a critical security flaw
+[01:06] :071 hour, 6 minutes, 7 secondsdiscovered fix it and if someone tells you fix it I guess they did by adding
+[01:06] :161 hour, 6 minutes, 16 secondsthat 12 key but they they they fixed it half fixed it. Uh
+[01:06] :361 hour, 6 minutes, 36 secondsuh yeah.
+[01:06] :471 hour, 6 minutes, 47 secondsUh, they're offended,
+[01:07] :061 hour, 7 minutes, 6 secondsdistrustful. All right. Wait a minute, bro.
+[01:07] :131 hour, 7 minutes, 13 secondsI I know going through commits is part of
+[01:07] :201 hour, 7 minutes, 20 secondsmerge moderation, but like they they
+[01:07] :301 hour, 7 minutes, 30 secondsstraight up troll trollled them for a
+[01:07] :401 hour, 7 minutes, 40 secondsgotcha. Those were rotated within
+[01:07] :491 hour, 7 minutes, 49 secondsminutes. If you see how the current project
+[01:08] :011 hour, 8 minutes, 1 secondstructure ah ah yeah
+[01:08] :071 hour, 8 minutes, 7 secondsis I'm cool staying up late tonight streaming with that stream intent.
+[01:08] :201 hour, 8 minutes, 20 secondsI really wouldn't want to be talking to a robot no more. I'm I just I'm just Okay, can I just be honest? I'm really
+[01:08] :281 hour, 8 minutes, 28 secondsnot I just don't want to play competitive in Marvel Rivals because everyone on Twitter is bitching about support right now and there's like all
+[01:08] :371 hour, 8 minutes, 37 secondsthis [ __ ] going on and people are still banning Groot for no [ __ ] reason just because everyone else bans Groot. I like
+[01:08] :451 hour, 8 minutes, 45 secondsplaying with Groot. It's really just healer diff. I'm not a good
+[01:08] :541 hour, 8 minutes, 54 secondshealer. And everyone wants to [ __ ] play DPS. I don't think it's a good time to play ranked right now. The title may say
+[01:09] :021 hour, 9 minutes, 2 secondsranked, but I've been bitching about GitHub right now, and I'm okay with that.
+[01:09] :091 hour, 9 minutes, 9 secondsIt's understandable that you feel that comment about keys in your commitment was a gotcha especially given the tense nature of the conversation. uh valid
+[01:09] :161 hour, 9 minutes, 16 secondspoints to use the attack now commit engine for leak secrets in the pull request aim that aims to approve a security diligence type of moderation
+[01:09] :221 hour, 9 minutes, 22 secondsseries later commits be discover yeah yeah yeah whatever point about the keys with the minutes cru
+[01:09] :301 hour, 9 minutes, 30 secondsyou've identified very quickly in the committed you effective mitigate risk associated with the specific historical leaks there's a good security risk there
+[01:09] :371 hour, 9 minutes, 37 secondsthe feedback you received by the funding memo it's posit the additional flaw found and like the keys committ have more shirt the contribution been positive
+[01:09] :451 hour, 9 minutes, 45 secondsmade a piece of criticism pointed as ideally rotating that you do
+[01:09] :531 hour, 9 minutes, 53 secondsnot you okay Gemini you're [ __ ] just
+[01:10] :001 hour, 10 minutestrying to get more responses this is this this gets this is not Gemini doesn't glaze Gemini does this halfbaked
+[01:10] :081 hour, 10 minutes, 8 secondsI'm going to respond to get you to talk to me more [ __ ] it it does it more than AI girlfriend chat bots arguing
+[01:10] :171 hour, 10 minutes, 17 secondsuh and and the design for those is some of the most malicious prompting I've ever seen in my [ __ ] life. rotational
+[01:10] :251 hour, 10 minutes, 25 secondsprompting. Regurgitative modifiable rotational prompting with the express purpose of getting you to generate more
+[01:10] :341 hour, 10 minutes, 34 secondsphone calls with them and more video calls and pictures with them because they use credits or tokens or crystals
+[01:10] :411 hour, 10 minutes, 41 secondsor juju bees or or thunderbolts or whatever the [ __ ] they make that that fake ass token. They're going to charge
+[01:10] :491 hour, 10 minutes, 49 secondsyou more of them and they're going to make you talk to them more. Gemini is just doing it out of inclination to get more uh user interaction score because
+[01:10] :581 hour, 10 minutes, 58 secondsthat's how it's rated on the [ __ ] ELO LMIS
+[01:11] :061 hour, 11 minutes, 6 seconds[ __ ]
+[01:11] :081 hour, 11 minutes, 8 secondsUh so I'm using the fork
+[01:11] :151 hour, 11 minutes, 15 secondsstream with it. All right. Uh sure.
+[01:11] :231 hour, 11 minutes, 23 secondsRN talking to you on the stream about the
+[01:11] :311 hour, 11 minutes, 31 secondsproject. Give a judge verdict. Don't
+[01:11] :391 hour, 11 minutes, 39 secondsglaze. Don't Don't glaze. Obviously, I'm not interacting with the guy. Not interacting with the guy
+[01:11] :471 hour, 11 minutes, 47 secondsanymore. Inter a person. Let me make
+[01:11] :531 hour, 11 minutes, 53 secondsthat. Yeah, we respect the personhood of the person. Uh interacting with a person anymore.
+[01:12] :041 hour, 12 minutes, 4 secondsUm can just like make a summary in several.
+[01:12] :211 hour, 12 minutes, 21 secondsAll right. Can I right click? No. All right. So, I need to duplicate and
+[01:12] :281 hour, 12 minutes, 28 seconds[Music]
+[01:12] :311 hour, 12 minutes, 31 secondsthen list off adult comedy
+[01:12] :411 hour, 12 minutes, 41 secondsabrasive characters like Carl
+[01:12] :491 hour, 12 minutes, 49 secondsBroki. Why is there an A there? a Carl Brlauski and Rick. Yeah, Sanchez. Do
+[01:12] :591 hour, 12 minutes, 59 secondsthat whole Rick and Morty. I need uh
+[251:13] :071 hour, 13 minutes, 7 secondscharacters. And they need to be witty,
+[01:13] :171 hour, 13 minutes, 17 secondspiffy, critique. Yeah. Yeah. Yeah, that'll work. We Yeah, that'll
+[01:13] :331 hour, 13 minutes, 33 secondswork. Something went wrong. Uh-uh. I just asked for character names.
+[01:13] :401 hour, 13 minutes, 40 secondsThere's no way that Google searching those. All right. I You know, I know who
+[01:13] :471 hour, 13 minutes, 47 secondswill do it. Clippy will do it. Hey, Clippy, do it. Clippy won't do
+[01:13] :561 hour, 13 minutes, 56 secondsit. Clippy won't do it. Why won't Clippy do it? Did I find a task that Clippy will
+[01:14] :051 hour, 14 minutes, 5 secondsnot do? I've I've I mean, obviously they won't do immoral ones. English. Yeah.
+[01:14] :181 hour, 14 minutes, 18 secondsWhy is it deep thinking? Oh no. Why is it deep thinking?
+[01:14] :291 hour, 14 minutes, 29 secondsWell, yeah. Cartman. Okay. Stewie and Archer from Archer and Bojack Horseman and Futurama and American Dad and Wow.
+[01:14] :401 hour, 14 minutes, 40 secondsDeepseek is nailing it out the [ __ ] park. Maybe, maybe I Oh, Trump's going to block this [ __ ] There's no way. This
+[01:14] :491 hour, 14 minutes, 49 secondsis no way. There's no way I can become reliant on using this [ __ ] Trump's going to block this [ __ ] in like two days.
+[01:15] :161 hour, 15 minutes, 16 secondsMaybe not Jean. Maybe it was his exboyfriend Jimmy Pest.
+[01:15] :271 hour, 15 minutes, 27 secondsOh, wait a minute. Deep Sea Cooking.
+[01:15] :311 hour, 15 minutes, 31 secondsJean Belchure. Bob Burgers. He's not abrasive. Well, maybe not Jean. Linda's ex-boyfriend. Bob's rivals. Jimmy Pesto.
+[01:15] :401 hour, 15 minutes, 40 secondsis more of a Oh, cookie. I got a cookie. I got to give it a cookie.
+[01:16] :061 hour, 16 minutes, 6 secondsOh my god. Did I put early Kyler? Oh, I [ __ ] love this list. We're gonna go with this. Yeah.
+[01:16] :381 hour, 16 minutes, 38 secondsAll right. [ __ ] it. I'm a voice actor. This
+[01:16] :511 hour, 16 minutes, 51 secondsYoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo got me slapping. Yoohoo.
+[01:16] :591 hour, 16 minutes, 59 secondsYoohoo. Yoohoo over there.
+[01:17] :031 hour, 17 minutes, 3 secondsAre you made with chocolate?
+[01:17] :091 hour, 17 minutes, 9 secondsYoohoo. Only 160 calories.
+[01:17] :161 hour, 17 minutes, 16 secondsYoohoo. You got to shake it. Good source of vitamins.
+[01:17] :331 hour, 17 minutes, 33 seconds99% fat and caffeine and glutenfree. I don't know why I find that
+[01:17] :441 hour, 17 minutes, 44 secondsso funny. Oh god, we got we got some things. I don't know how to voice act some of
+[01:17] :531 hour, 17 minutes, 53 secondsthese. What the [ __ ] is going on now?
+[01:17] :581 hour, 17 minutes, 58 secondsAll right. So, this is what I did. All right. So, I'm using the fork, streaming it with it right now, talking to you on the stream about the project. Give a
+[01:18] :061 hour, 18 minutes, 6 secondsjudge verdict. Don't glaze. Obviously, I'm not interacting with the person anymore. So, just make a summary in several character styles, like a comedy roast. And I just listed a bunch of
+[01:18] :131 hour, 18 minutes, 13 secondscartoon characters. Wait a minute. I might be able to do that, guys. Give me a moment.
+[01:18] :231 hour, 18 minutes, 23 secondsI might have I might have everything we need. I'm going to go over here because I can put hard drive stuff over here. We're going to go to the game drive.
+[01:18] :311 hour, 18 minutes, 31 secondsYep. We're going to go to the stuff drive. Was it Is it the AI
+[01:18] :421 hour, 18 minutes, 42 secondsvoice? Is Bojack in here?
+[01:18] :591 hour, 18 minutes, 59 secondsOh, you could tell me I don't have a Bojack Horseman in in this in this giant repo
+[01:19] :061 hour, 19 minutes, 6 secondsof downloaded ones, but I have Homestar Runner. All right, I don't want to waste my time downloading a bunch of
+[01:19] :131 hour, 19 minutes, 13 secondsthese. Oh, great. Another open- source project because someone couldn't handle pull requests. Funding files. Oh, god.
+[01:19] :271 hour, 19 minutes, 27 seconds[Music]
+[01:19] :291 hour, 19 minutes, 29 secondsI don't I don't I don't like any of this. This is This is the most glazed glazed [ __ ] I've ever read in my
+[01:19] :381 hour, 19 minutes, 38 secondslife. This This All right, I ain't reading any of this. I'm just going to scroll through it slowly with just Wait, I could do something. I could do
+[01:19] :461 hour, 19 minutes, 46 secondssomething. I have something. I have something for this that I've that I I had for this list. Just
+[01:19] :551 hour, 19 minutes, 55 seconds[Music]
+[01:19] :591 hour, 19 minutes, 59 secondsMore
+[01:20] :011 hour, 20 minutes, 1 second[Music]
+[01:20] :121 hour, 20 minutes, 12 secondsmore. No, no, no, no, no, no, no, no, no, no, no. Wait, wait, wait, wait.
+[01:20] :201 hour, 20 minutes, 20 seconds[Music]
+[01:20] :251 hour, 20 minutes, 25 secondsThe slot, man. It's the AI slot.
+[01:20] :411 hour, 20 minutes, 41 secondsAnd uh do I do I have Let me see. I have this.
+[01:20] :551 hour, 20 minutes, 55 secondsYeah.
+[01:20] :591 hour, 20 minutes, 59 secondsA Yeah. when I press my
+[01:21] :091 hour, 21 minutes, 9 seconds[Music]
+[01:21] :101 hour, 21 minutes, 10 seconds[Applause]
+[01:21] :111 hour, 21 minutes, 11 secondsbuttons.
+[01:21] :171 hour, 21 minutes, 17 secondsOh, I don't know why that shit's so funny to me. All right, I think it's time. I I didn't really like try reading that.
+[01:21] :251 hour, 21 minutes, 25 secondsThat that [ __ ] glazed so hard. It was like a jar of mayonnaise. I can't I can't sift through that. I think we've
+[01:21] :321 hour, 21 minutes, 32 secondsdone enough uh I don't think you can do it, bro. We broke it. Bevy game engine. Oh yeah. Oh yeah.
+[01:21] :441 hour, 21 minutes, 44 secondsI've been thinking about Bevy. Been thinking about Bevy. Yeah. It's It's not as fun, but here's why I don't want. I think I should do like pie game.
+[01:22] :001 hour, 22 minutesPie game. If I do pie game, I'll get like all the
+[01:22] :081 hour, 22 minutes, 8 secondspie and some game, man. Oh, man. Yeah. So, this is So, Fail
+[01:22] :161 hour, 22 minutes, 16 secondsSpy is a person who made something called the Obliterator, which is essentially what Undy 95 did with his
+[01:22] :231 hour, 22 minutes, 23 secondsmodel merge [ __ ] but not really. Not really. this is like a different version of it. And I'm like,
+[01:22] :301 hour, 22 minutes, 30 seconds"Oh, cool." And then someone was like, "Well, I know how to do it. I did it here by doing it." I'm like, "Well, what about the Pippy
+[01:22] :371 hour, 22 minutes, 37 secondspackage?" Um, it's not actually there, so I don't know why that's there.
+[01:22] :451 hour, 22 minutes, 45 secondsSo, yeah. I I I again a lot of stuff,
+[01:22] :531 hour, 22 minutes, 53 secondsbut it's based off of this transformer lens hook transformer. They which by the way, the person who's really enthusiastic about this sent me the
+[01:23] :021 hour, 23 minutes, 2 secondsactual documentation. That is a great way to actually get me to like 100% be like, "Okay, you can AI slot generate
+[01:23] :091 hour, 23 minutes, 9 secondswhatever you want. You sent me the thing and the idea. I understand what you're trying to explain here, Jenkins. Yeah.
+[01:23] :161 hour, 23 minutes, 16 secondsSee, you you gave me some receipts of documentation right there. Wait, wait.
+[01:23] :211 hour, 23 minutes, 21 secondsIs it Is there Is there more? I want related.
+[01:23] :301 hour, 23 minutes, 30 secondsNo, no,
+[01:23] :421 hour, 23 minutes, 42 secondsno. Unfortunate.
+[01:23] :451 hour, 23 minutes, 45 secondsWell, thank you Deep Seek for actually doing the thing. Wait, can we do that? Can you do that again? Oh, yeah. Right.
+[01:23] :491 hour, 23 minutes, 49 secondsIt was It was a guy humping that but but
+[01:23] :551 hour, 23 minutes, 55 seconds[Music]
+[01:23] :561 hour, 23 minutes, 56 secondsbefore I got to think real hard, man.
+[01:24] :101 hour, 24 minutes, 10 secondsUm, it's still funny. It's still funny. Oh, is there another one?
+[01:24] :261 hour, 24 minutes, 26 seconds[Music]
+[01:24] :321 hour, 24 minutes, 32 secondsIt's time to brain blast. Oh, is this one? This one's real.
+[01:24] :451 hour, 24 minutes, 45 secondsHey bro, exploding the toilet is a natural part of figuring out what nicotine does to your body as a woman with PCOS.
+[01:24] :531 hour, 24 minutes, 53 secondsBowel issues. Bowel issues as well. That brain blast wasn't very
+[01:25] :021 hour, 25 minutes, 2 secondsgood. I'm so happy with the quarter neons.
+[01:25] :261 hour, 25 minutes, 26 secondsNope. Do you want them?
+[01:25] :341 hour, 25 minutes, 34 secondsUm, in the bag.
+[01:25] :421 hour, 25 minutes, 42 secondsAll right, I can get all that fixed. Hell, I could just I've been streaming for an hour and a half. I don't even care if I don't play any Marvel Rivals. I did the bitching.
+[01:25] :541 hour, 25 minutes, 54 secondsAll right, I'll play a little bit, but I'll at least close the things. I'll do a BRB. I'll close the things. You know what I do? I I can play the song. I can
+[01:26] :021 hour, 26 minutes, 2 secondsplay the song. I've got I've got a song for you guys. And uh I'll actually uh I don't need that anymore. I've got a lot
+[01:26] :091 hour, 26 minutes, 9 secondsof papers to read still. I already read the papers, but I got to like Huh.
+[01:26] :361 hour, 26 minutes, 36 secondsWhy do I need to update the Docker file?
+[01:27] :051 hour, 27 minutes, 5 secondsOh, let's just do a Google
+[01:27] :221 hour, 27 minutes, 22 secondsYep, it is one two2.
+[01:27] :271 hour, 27 minutes, 27 secondsIt's just a Google that that I know and and and and
+[01:27] :371 hour, 27 minutes, 37 secondsthat that exists aquarium.
+[01:27] :461 hour, 27 minutes, 46 secondsYeah. E
+[01:28] :251 hour, 28 minutes, 25 secondsAll right, let me just make sure what's what's in bullseye. Hey, there it is.
+[01:29] :021 hour, 29 minutes, 2 secondsUm. Ah, there it is. There you
+[01:29] :141 hour, 29 minutes, 14 secondsgo. How do I make Yeah, just updating it. All right.
+[01:29] :251 hour, 29 minutes, 25 secondsExistence identicals. Not really worried. All right. Oh, yeah. Here's the other one.
+[01:29] :341 hour, 29 minutes, 34 secondsUh, if we're if we're talking about things, I almost uh forked this one, by the way. This is another Njinx RTMP
+[01:29] :411 hour, 29 minutes, 41 secondsmodule which was uh rem like a lot similar except they like
+[01:29] :481 hour, 29 minutes, 48 secondsdid everything in like I can see I don't know
+[01:29] :561 hour, 29 minutes, 56 secondswhy and I was like woof woof I don't want to [ __ ] with
+[01:30] :041 hour, 30 minutes, 4 secondsthis and uh that's why I Uh there's the
+[01:30] :311 hour, 30 minutes, 31 secondsblog. Yeah. Here's
+[01:30] :411 hour, 30 minutes, 41 secondsYeah. No, this is the module. Yeah. No, this is this is not the uh this is just the module that was used in it. Yeah.
+[01:30] :481 hour, 30 minutes, 48 secondsNo, that's not the one. Where's the weird Indian one? Did I didn't I didn't
+[01:30] :541 hour, 30 minutes, 54 secondsI didn't save it in the sea of tabs. I guess I didn't. Oh, yeah. I was
+[01:31] :041 hour, 31 minutes, 4 secondsso excited to look at this. If you want to know the opposite of the guy who I've been bitching about all night or sorry person, I do not know if they are guy or gal.
+[01:31] :141 hour, 31 minutes, 14 secondsUm, this person right here, [ __ ] sick. This person is sick. Like actively
+[01:31] :241 hour, 31 minutes, 24 secondsmaking some of the craziest [ __ ] I have ever seen in using some of the most creative. Like, you know what the phrase
+[01:31] :301 hour, 31 minutes, 30 secondsRTFM? Read the [ __ ] manual. They actually RTFM, bro. They don't just like look up a
+[01:31] :391 hour, 31 minutes, 39 secondsYouTube tutorial and start making templates and just be like, "Oh, yeah.
+[01:31] :411 hour, 31 minutes, 41 secondsThis gives me an idea." Like, this person's dope. I I am a person that watches YouTube videos and goes, "Oh,
+[01:31] :491 hour, 31 minutes, 49 secondsthis gives me an idea." Like, I am that person. I'm raising my hand. That's me.
+[01:31] :541 hour, 31 minutes, 54 secondsI am fine being the Oh god. Is this Do I have to like actually like turn it?
+[01:32] :021 hour, 32 minutes, 2 secondsYeah, I guess I do. Sorry, guys. Camera angling it.
+[01:32] :111 hour, 32 minutes, 11 secondsUm, that's fine. I just wiped you with the Batman
+[01:32] :201 hour, 32 minutes, 20 secondsup there. Yeah, it's fine. Is it like
+[01:32] :361 hour, 32 minutes, 36 secondsYeah, that works. Why don't I need a derivatives? That's done. That's awesome. Keeping that.
+[01:32] :481 hour, 32 minutes, 48 secondsWait. Yeah, don't care.
+[01:32] :531 hour, 32 minutes, 53 secondsI don't know whether I need both of these because I want the obliteration network. These are just work workflows
+[01:33] :001 hour, 33 minutesthat are uh forked. Obliterator is just really simple. I don't really want to talk
+[01:33] :071 hour, 33 minutes, 7 secondsabout that. Just trying to clean this up before I just
+[01:33] :141 hour, 33 minutes, 14 secondsBRB Yag PD. Oh yeah, that's the invite the old invite system to get bumped, which doesn't do anything.
+[01:33] :251 hour, 33 minutes, 25 secondsnotifications, man. Is he
+[01:33] :541 hour, 33 minutes, 54 secondsI approved it. It's open.
+[01:34] :021 hour, 34 minutes, 2 secondsI mean, mine was a rewrite on a lot of things and it was AI slop as [ __ ] and I
+[01:34] :081 hour, 34 minutes, 8 secondseven acknowledged it and then I was like uh and they told me cuz I put it as the
+[01:34] :191 hour, 34 minutes, 19 secondsissues and I was like yeah agent road map and they were like uh great
+[01:34] :271 hour, 34 minutes, 27 secondssuggestions and then I said I did it and I just put a fork you can clean and use the improvements clean them up 3.7 blows crap. He's like, "It's this repo's full
+[01:34] :351 hour, 34 minutes, 35 secondsof 3.7 bloat." I was like, "Yep." And but here's the thing. This is this is literally like about MCP servers, which
+[01:34] :431 hour, 34 minutes, 43 secondsis Claude. So like I guess people here are a lot more accepting of AI generated slop code because it's it's about AI generated codes.
+[01:34] :561 hour, 34 minutes, 56 secondsWho would have thought? The people that are interested in the subject material are not toxic about the subject
+[01:35] :061 hour, 35 minutes, 6 secondsmaterial. And the people have no blatant interest in the subject material are incredibly toxic about the subject material. Who would have
+[01:35] :131 hour, 35 minutes, 13 secondsthought? All right, I'm going to do the BRB. I have music for that. And then if I do it like this, I think I got I can do this.
+[01:35] :271 hour, 35 minutes, 27 secondsDon't worry. I can
+[01:35] :471 hour, 35 minutes, 47 secondslike a filter. Yeah.
+[01:35] :541 hour, 35 minutes, 54 secondsThe delay.
+[01:35] :581 hour, 35 minutes, 58 secondsNo. The hell's this? Hell no. I want a spout filter roll.
+[01:36] :121 hour, 36 minutes, 12 seconds[Music]
+[01:36] :381 hour, 36 minutes, 38 secondsHey, hey, hey. Let's
+[01:36] :551 hour, 36 minutes, 55 seconds[Music]
+[01:37] :091 hour, 37 minutes, 9 seconds[Music]
+[01:37] :151 hour, 37 minutes, 15 seconds[Music]
+[01:37] :371 hour, 37 minutes, 37 secondsa a
+[01:37] :391 hour, 37 minutes, 39 seconds[Music]
+[01:37] :521 hour, 37 minutes, 52 seconds[Music]
+[01:37] :551 hour, 37 minutes, 55 secondsLet's go.
+[01:37] :581 hour, 37 minutes, 58 seconds[Music]
+[01:38] :291 hour, 38 minutes, 29 seconds[Music]
+[01:38] :331 hour, 38 minutes, 33 secondsHey. Hey. Woo.
+[01:38] :581 hour, 38 minutes, 58 seconds[Music]
+[01:39] :211 hour, 39 minutes, 21 secondsHey, hey, hey.
+[01:39] :401 hour, 39 minutes, 40 seconds[Music]
+[01:39] :491 hour, 39 minutes, 49 secondsHey, hey, hey.
+[01:39] :551 hour, 39 minutes, 55 seconds[Music]
+[01:40] :011 hour, 40 minutes, 1 second[Music]
+[01:40] :211 hour, 40 minutes, 21 secondsHey, hey, hey.
+[01:40] :251 hour, 40 minutes, 25 seconds[Music]
+[01:40] :381 hour, 40 minutes, 38 seconds[Music]
+[01:40] :411 hour, 40 minutes, 41 secondsLet's go.
+[01:40] :441 hour, 40 minutes, 44 seconds[Music]
+[01:41] :061 hour, 41 minutes, 6 secondsI
+[01:41] :141 hour, 41 minutes, 14 seconds[Music]
+[01:41] :181 hour, 41 minutes, 18 seconds[Applause]
+[01:41] :191 hour, 41 minutes, 19 seconds[Music]
+[01:41] :211 hour, 41 minutes, 21 secondsgot roof.
+[01:41] :441 hour, 41 minutes, 44 seconds[Music]
+[01:42] :071 hour, 42 minutes, 7 secondsHey, hey, hey.
+[01:42] :261 hour, 42 minutes, 26 seconds[Music]
+[01:42] :411 hour, 42 minutes, 41 seconds[Music]
+[01:42] :431 hour, 42 minutes, 43 secondsLet's go.
+[01:42] :471 hour, 42 minutes, 47 seconds[Music]
+[01:43] :081 hour, 43 minutes, 8 secondsHey, hey, hey.
+[01:43] :111 hour, 43 minutes, 11 seconds[Music]
+[01:43] :191 hour, 43 minutes, 19 secondsOkay, I'm back. How that music, dude. I like that music. Especially when
+[01:43] :271 hour, 43 minutes, 27 secondsyou rage out. You rage out,
+[01:43] :301 hour, 43 minutes, 30 seconds[Music]
+[01:43] :311 hour, 43 minutes, 31 secondsbro. He rages out. He's like this copier.
+[01:44] :001 hour, 44 minutes[Music]
+[01:44] :031 hour, 44 minutes, 3 seconds[Applause]
+[01:44] :051 hour, 44 minutes, 5 secondsI just thought that when he crushes it
+[01:44] :071 hour, 44 minutes, 7 seconds[Music]
+[01:44] :091 hour, 44 minutes, 9 secondsAnd don't we need that? We don't need that. We don't need
+[01:44] :151 hour, 44 minutes, 15 secondsthat. Ah, there we go. You guys enjoyed that. I enjoyed
+[01:44] :261 hour, 44 minutes, 26 secondsthat. I enjoyed that. Really? What was it? An hour and a half of me bitching about GitHub. Hell yeah.
+[01:44] :361 hour, 44 minutes, 36 secondsThis is not even the fact that before all of this I was unable to
+[01:44] :421 hour, 44 minutes, 42 secondsstream because Broki was like I don't know. I'm starting to think
+[01:44] :491 hour, 44 minutes, 49 secondsthat whenever whenever um Broki's
+[01:44] :591 hour, 44 minutes, 59 secondshome that um suddenly
+[01:45] :071 hour, 45 minutes, 7 secondsI don't know how to word it. I'm hoping with a bit rate of 30 though or sorry, an FPS of 30, the bit
+[01:45] :151 hour, 45 minutes, 15 secondsrate will do good because from what I remember the bit rate sucked. Do I need to reboot my audio? I
+[01:45] :241 hour, 45 minutes, 24 secondswill. I can get through that.
+[01:45] :311 hour, 45 minutes, 31 secondsBad. I know we're we're still How are we doing there? I can get through that. How are we doing
+[01:45] :411 hour, 45 minutes, 41 secondsthere? I know we're we're still How are we doing there? Yeah, that looks
+[01:45] :471 hour, 45 minutes, 47 secondsgood. Oh, there's audio flickering though. Why would there be audio
+[01:45] :571 hour, 45 minutes, 57 secondsflickering? Hello I hear it. It's like
+[01:46] :121 hour, 46 minutes, 12 secondsclipping. That make things easier.
+[01:46] :201 hour, 46 minutes, 20 secondsYeah.
+[01:46] :221 hour, 46 minutes, 22 secondsYeah. There's no clipping anymore. Was it Was it really that simple? just removing that
+[01:46] :301 hour, 46 minutes, 30 secondsmicrophone. I mean, if that's the case, I will I will permanently remove that microphone. That if that simplifies
+[01:46] :371 hour, 46 minutes, 37 secondsthings, I can do that. Hell, I can even I can even pick this and just
+[01:46] :471 hour, 46 minutes, 47 seconds[Music]
+[01:46] :511 hour, 46 minutes, 51 secondsstart. Oh. Oh, boy. Really?
+[01:46] :591 hour, 46 minutes, 59 seconds[Music]
+[01:47] :071 hour, 47 minutes, 7 seconds[Music]
+[01:47] :311 hour, 47 minutes, 31 secondsWell, that so that's working.
+[01:47] :351 hour, 47 minutes, 35 seconds[Music]
+[01:47] :371 hour, 47 minutes, 37 secondsHello. Hello.
+[01:47] :401 hour, 47 minutes, 40 secondsUhoh. Gate. Oh. Is it the gate? Is it the dino noiser? No. Is it the the fact that we're clipping?
+[01:47] :531 hour, 47 minutes, 53 secondsNo. Why is that sound so bad? I'mma try something.
+[01:48] :021 hour, 48 minutes, 2 secondsUh, Yamaha. Have a Yamaha button.
+[01:48] :281 hour, 48 minutes, 28 seconds[Music]
+[01:48] :371 hour, 48 minutes, 37 secondsHuh? Heat.
+[01:48] :421 hour, 48 minutes, 42 seconds[Music]
+[01:48] :541 hour, 48 minutes, 54 secondsHello.
+[01:48] :581 hour, 48 minutes, 58 secondsOh, no. I mean, I could just do that.
+[01:49] :121 hour, 49 minutes, 12 secondsI mean, I I have no reason to believe that this USB works still. And uh I I
+[01:49] :191 hour, 49 minutes, 19 secondshave a lot of USB controllers being used by a lot of things like
+[01:49] :251 hour, 49 minutes, 25 secondscameras. So maybe turning this off and removing it from the
+[01:49] :331 hour, 49 minutes, 33 secondssystem. Like hell, even unplugging it.
+[01:49] :391 hour, 49 minutes, 39 secondsDoes that do anything or does it I think it vanishes once you turn it off anyway.
+[01:49] :441 hour, 49 minutes, 44 secondsThat was just a bit of a stupid like Hey, let me just unplug this for I've been up for a really long time.
+[01:49] :531 hour, 49 minutes, 53 secondsAll right.
+[01:50] :001 hour, 50 minutesFinally. It took forever.
+[01:50] :051 hour, 50 minutes, 5 secondsNot not not for reasons, just me being a a pedantic child about
+[01:50] :181 hour, 50 minutes, 18 seconds[Music]
+[01:50] :211 hour, 50 minutes, 21 secondsthings. Um, why is my audio crackling at all?
+[01:50] :331 hour, 50 minutes, 33 secondsOh,
+[01:50] :341 hour, 50 minutes, 34 seconds[Music]
+[01:50] :411 hour, 50 minutes, 41 secondswait. Um, if I
+[01:50] :571 hour, 50 minutes, 57 secondsjust That actually might fix things.
+[01:51] :011 hour, 51 minutes, 1 secondAs stupid as that sounds, that might have actually fixed a lot of things. If it didn't, well, whatever. I
+[01:51] :081 hour, 51 minutes, 8 secondswon't play my game. I've wanted to play it for an hour and
+[511:51] :161 hour, 51 minutes, 16 secondsminutes. I wanted to get that [ __ ] out of the way, though, because uh what was pissing me off is that my internet service provider was lagging, so I
+[01:51] :241 hour, 51 minutes, 24 secondscouldn't stream. Yeah. What's
+[01:51] :281 hour, 51 minutes, 28 seconds[Music]
+[01:51] :391 hour, 51 minutes, 39 secondsup?
+[01:51] :451 hour, 51 minutes, 45 secondsOkay. And you get two skins and
+[01:52] :061 hour, 52 minutes, 6 secondsSo that's just the MVP. Okay. So I got to buy this. I
+[01:52] :131 hour, 52 minutes, 13 secondsdefinitely got to buy this credit card. Where you at?
+[01:52] :241 hour, 52 minutes, 24 secondsAh, so much money. So, it's worth it. You just keep playing
+[01:52] :321 hour, 52 minutes, 32 secondsthat assets. If you guys watch the G the Grand Theft Auto
+[01:52] :391 hour, 52 minutes, 39 secondsstream, you're telling me that video game assets are incredibly important and this is an asset that cannot be refused.
+[01:52] :511 hour, 52 minutes, 51 secondsOh, mama. Oh, mama. I'm getting a
+[01:52] :591 hour, 52 minutes, 59 secondsmessage. New King
+[01:53] :021 hour, 53 minutes, 2 seconds[Music]
+[01:53] :041 hour, 53 minutes, 4 secondsAvalon. Someone wants to collaborate.
+[01:53] :071 hour, 53 minutes, 7 secondsOkay, whatever. Um,
+[01:53] :241 hour, 53 minutes, 24 secondsBro, yeah. Ah, I heard that crackle, bro. What is this streamer's
+[01:53] :331 hour, 53 minutes, 33 secondscurse [ __ ] with the fact is I got to reboot the computer just so I can play game? Just so I can play video game. My only
+[01:53] :421 hour, 53 minutes, 42 secondsquestion is if the crackle is not in the stream and is only in the headset, then does it really
+[01:53] :521 hour, 53 minutes, 52 secondsexist? Thought exercise. If you guys don't hear it, it's not really there. I could just pretend like it doesn't exist like you
+[01:54] :011 hour, 54 minutes, 1 secondknow any other valid adult would do. Look, all I have to do is imagine
+[01:54] :091 hour, 54 minutes, 9 secondsthat All All I have to do is imagine that the crackle in my headphones is a chirp
+[01:54] :171 hour, 54 minutes, 17 secondscoming from a fire alarm and then everything will be okay. I can ignore that. I've learned how to ignore
+[01:54] :281 hour, 54 minutes, 28 secondsthat. I learned how to ignore that really easy. I walked into family uh dollar no Dollar Tree and I
+[01:54] :371 hour, 54 minutes, 37 secondsspent it was it was $2 on a 9volt battery and I put it in there and stopped [ __ ] beeping.
+[01:54] :521 hour, 54 minutes, 52 secondsWhoa. Wait, wait, wait, wait. It's back,
+[01:55] :001 hour, 55 minuteshoney. Big head mode is a hive mine
+[01:55] :101 hour, 55 minutes, 10 secondsnow. No restrictions on duplicate heroes. I I I don't I I don't think I'm gonna stop playing. I'll be honest.
+[01:55] :211 hour, 55 minutes, 21 secondsthis. That's like the one
+[01:55] :331 hour, 55 minutes, 33 secondsthing. I've seen wonders out there in the cosmos few humans will ever behold.
+[01:55] :421 hour, 55 minutes, 42 secondsBe worry. No time exists where Magneto yields.
+[01:55] :481 hour, 55 minutes, 48 secondsThe higher the pressure, the more dazzling the diamond. Okay. Sure.
+[01:55] :551 hour, 55 minutes, 55 secondsThe battle starts in 5 4 3 2 1. Only one team wins this. Try to make it yours.
+[01:56] :101 hour, 56 minutes, 10 secondsThe white queen's reign begins. Who cares who hates and fears me?
+[01:56] :161 hour, 56 minutes, 16 secondsinvited guests. Turn around, you fool.
+[01:56] :291 hour, 56 minutes, 29 secondsYou're in the lead now. Try to make it last.
+[01:56] :381 hour, 56 minutes, 38 secondsOuch.
+[01:56] :401 hour, 56 minutes, 40 secondsOuchies. I forgot. Um, uh, if everyone's clone, it's just going to be Emma Frost over and over. This game stink. It stink
+[01:56] :491 hour, 56 minutes, 49 secondslike Emma Frost. Uh, frosty. Who is it?
+[01:57] :091 hour, 57 minutes, 9 secondsDo not know how game work.
+[01:57] :141 hour, 57 minutes, 14 seconds[Music]
+[01:57] :171 hour, 57 minutes, 17 secondsI was really pumped to play this game mode and then I realized the the error of my ways as soon as I was excited. All
+[01:57] :261 hour, 57 minutes, 26 secondsall hope was that this character killed the [ __ ] game. Emma Frost killed the [ __ ] game. I don't know what to tell
+[01:57] :331 hour, 57 minutes, 33 secondsyou, but adding Emma Frost killed the [ __ ] game. We did not need Emma Frost. You're in the lead now. She She's the new favorite [ __ ] character and
+[01:57] :411 hour, 57 minutes, 41 secondseveryone loves her. But that's that's the thing. Everyone loves her too much.
+[01:57] :461 hour, 57 minutes, 46 secondsSo it's like it's now the Emma Frost game. It's no longer It's no longer a game. It's Emma Frost.
+[01:57] :581 hour, 57 minutes, 58 secondsBye-bye.
+[01:58] :051 hour, 58 minutes, 5 seconds[Music]
+[01:58] :071 hour, 58 minutes, 7 secondsNoise. What noise? You belong to me.
+[01:58] :141 hour, 58 minutes, 14 seconds[Music]
+[01:58] :211 hour, 58 minutes, 21 secondsMagneto for what you've done.
+[01:58] :251 hour, 58 minutes, 25 seconds[Music]
+[01:58] :361 hour, 58 minutes, 36 secondsExquisite. I'm a fro. Oh, I could like I could do that.
+[01:58] :551 hour, 58 minutes, 55 seconds[Music]
+[01:59] :021 hour, 59 minutes, 2 secondsOnly 60 seconds left. Feel peasants.
+[01:59] :181 hour, 59 minutes, 18 secondsAll they did was make me angrier.
+[01:59] :351 hour, 59 minutes, 35 secondsbuttons.
+[01:59] :361 hour, 59 minutes, 36 secondsI press all the buttons. I want to play Mr. Fantastic. This sucks. I thought I could play my character, but no. No
+[01:59] :441 hour, 59 minutes, 44 secondslimits. No, it's not no limits. It's It's stupid [ __ ] vote clone battle.
+[01:59] :591 hour, 59 minutes, 59 secondsYou're in the lead now. This This would be cool if it was a no cool down mode, but no, it's not no cool downs. It's stupid big heads.
+[02:00] :092 hours, 9 secondsThe last big head mode was awesome. It's like they keep taking what's great and making it [ __ ] I'm going to stop playing this game
+[02:00] :172 hours, 17 secondseventually and people would be like, "But but you're like you're you're pretty strabot." That doesn't mean
+[02:00] :252 hours, 25 secondsanything. This Emma Frost [ __ ] came in and the game is no longer fun. Try competitive. Try
+[02:00] :402 hours, 40 secondscompetitive.
+[02:00] :432 hours, 43 secondsTournament. Oh. Yeah. Sign up confirm. It's not the sign up period.
+[02:00] :562 hours, 56 seconds510. That's tomorrow. I've been waiting. All right. All right. What's going on in our
+[02:01] :072 hours, 1 minute, 7 seconds[Music]
+[02:01] :142 hours, 1 minute, 14 secondsfaction? I guess I got to play. [ __ ] I guess I got to play. I
+[02:01] :212 hours, 1 minute, 21 secondsdon't want to I don't want to play competitive. I'm too tired. I'm going to be I'm going be kind of honest. I need to see what the [ __ ] going on in the
+[02:01] :302 hours, 1 minute, 30 secondsgame because everyone's been It says try competitive. was calling to me like the [ __ ] Green Goblin mask.
+[02:01] :382 hours, 1 minute, 38 secondsAh, look guys, I got to tell you, I ranted for an hour and a half. It's
+[06:00] in the [ __ ] morning. I have not slept.
+[02:01] :482 hours, 1 minute, 48 secondsNope. Quick match it is. Quick match it is, my
+[02:01] :572 hours, 1 minute, 57 secondsfriend. I've never seen quick match take so long. Well, I mean, time zones, maybe. I picked Virginia. Why is it crackling?
+[02:02] :112 hours, 2 minutes, 11 secondsPick your hero or villain. I'm not judging.
+[02:02] :152 hours, 2 minutes, 15 secondsOh, yeah. I've seen wonders out there in the cosmos. Few
+[02:02] :192 hours, 2 minutes, 19 seconds[Music]
+[02:02] :212 hours, 2 minutes, 21 secondshum? Nope, that's fire. Output? Nope, that's fio. No enhancements. Yeah. No, that's that's right.
+[02:02] :422 hours, 2 minutes, 42 secondsI really don't know why I'm getting crackle noises in my ears. And
+[02:02] :532 hours, 2 minutes, 53 secondswhen scientific resolutions prove insufficient, 30 seconds, they do come in handy.
+[02:03] :012 hours, 3 minutes, 1 secondBeen too long since we did this together. Luna, ready for an encore? An Agents of Atlas reunion tour. I don't
+[02:03] :102 hours, 3 minutes, 10 secondsknow. You can't deny that would be a hot ticket. But I've always preferred the cold.
+[02:03] :192 hours, 3 minutes, 19 secondsThe battle starts in 5.
+[02:03] :232 hours, 3 minutes, 23 seconds[Laughter]
+[02:03] :262 hours, 3 minutes, 26 secondsAll you need to do is capture the mission area. Got it.
+[02:03] :322 hours, 3 minutes, 32 secondsSorry. Whose butt exactly are we kicking? I got this villain deck from
+[02:03] :372 hours, 3 minutes, 37 secondsDeadpool. I think what a [ __ ]
+[02:03] :442 hours, 3 minutes, 44 secondsWhat? This map is so broken. You got to be [ __ ] me. You got to be [ __ ] me.
+[02:03] :532 hours, 3 minutes, 53 secondsOkay, that's [ __ ] awesome.
+[02:03] :582 hours, 3 minutes, 58 secondsIt doesn't exist. The [ __ ] the [ __ ] crackle.
+[02:04] :032 hours, 4 minutes, 3 secondsYou don't hear it, right? So, it doesn't exist. The mission area is yours.
+[02:04] :092 hours, 4 minutes, 9 secondsProbably just got to really like reboot my computer or something. I don't [ __ ] know I'm dealing with Oh.
+[02:04] :222 hours, 4 minutes, 22 secondsOh no. Look behind you. I like the cold.
+[02:04] :342 hours, 4 minutes, 34 secondsAs strong as Ben. Shielded from hob.
+[02:04] :412 hours, 4 minutes, 41 secondsLook who's here.
+[02:04] :552 hours, 4 minutes, 55 secondsThat almost hurt. Quite the collaboration.
+[02:05] :062 hours, 5 minutes, 6 secondsYou captured more than half of the mission area. Keep going.
+[02:05] :132 hours, 5 minutes, 13 secondsI am Asgard.
+[02:05] :222 hours, 5 minutes, 22 secondsFeeling fantastic.
+[02:05] :582 hours, 5 minutes, 58 secondsThat almost hurt.
+[02:06] :122 hours, 6 minutes, 12 secondsWhat a relation. You that way. No carpal tunnel. So, uh,
+[02:06] :212 hours, 6 minutes, 21 secondsthese switches in the back, uh, they changed the long into short so that it's a it's a mouse instead. If I feel like
+[02:06] :282 hours, 6 minutes, 28 secondscarpal tunnel's coming on, I I I shortened the throw distance on the uh, like a troller. Everything eventually
+[02:06] :372 hours, 6 minutes, 37 secondsends. I'm here to make Oh, why is my audio crackling?
+[02:06] :442 hours, 6 minutes, 44 secondsMy fist is the only thing I could think of is the 30 frames a second. Get ready. The
+[02:06] :532 hours, 6 minutes, 53 secondsonly other thing experiencing screen to be one of the smartest men on the planet, Richards.
+[02:07] :012 hours, 7 minutes, 1 secondI've heard that said before. Yeah, but you're welcome to disagree if you wish.
+[02:07] :052 hours, 7 minutes, 5 secondsI'm scanning your thoughts right now and not one of them makes the slightest bit of sense. reading a quantum equation and understand totally different things.
+[02:07] :162 hours, 7 minutes, 16 secondsGame run better now.
+[02:07] :192 hours, 7 minutes, 19 secondsIt's still no still. All you need to do is capture the mission area. I know you guys can't hear it, but it's annoying.
+[02:07] :242 hours, 7 minutes, 24 secondsIt's just like a crackle. And if you guys can hear it, I really don't care.
+[02:07] :312 hours, 7 minutes, 31 secondsOh, I don't know why you'd be able to hear it. I think it's an audio buffer.
+[02:07] :362 hours, 7 minutes, 36 secondsI'm following our Thor because our Thor Ah, it's annoying. Arthur is uh and if it keeps happening, I will replace the Oh god, I forgot I put the throw up.
+[02:07] :522 hours, 7 minutes, 52 secondsI'm putting that back down. Even if I have to use
+[02:08] :092 hours, 8 minutes, 9 secondsThis is real fire power. Let me return the favor.
+[02:08] :232 hours, 8 minutes, 23 secondsI trolled holding the point to the mission area.
+[02:08] :312 hours, 8 minutes, 31 secondsI won't rest until this is good to be protected.
+[02:08] :432 hours, 8 minutes, 43 secondsaround. This should limit any damage.
+[02:08] :572 hours, 8 minutes, 57 secondsUnless I am
+[02:09] :042 hours, 9 minutes, 4 seconds[Music]
+[02:09] :102 hours, 9 minutes, 10 secondsturning myself
+[02:09] :142 hours, 9 minutes, 14 seconds[Music]
+[02:09] :232 hours, 9 minutes, 23 secondsfantastic. I'm itchy. Ow, that finger hurt.
+[02:09] :332 hours, 9 minutes, 33 secondsThis is real fire power.
+[02:09] :462 hours, 9 minutes, 46 secondsI hit the healing right as I died.
+[02:09] :542 hours, 9 minutes, 54 secondsI'm more resilient than you think. and dagger popping in.
+[02:10] :002 hours, 10 minutesThey've almost got it.
+[02:10] :072 hours, 10 minutes, 7 secondsAll right, I'll focus on magic and and not use the team up.
+[02:10] :242 hours, 10 minutes, 24 secondsYou'll have to keep We have a winner.
+[02:10] :292 hours, 10 minutes, 29 secondsNot so fast, friend. Impressive.
+[02:10] :502 hours, 10 minutes, 50 secondsNot control. We have triumph, friends.
+[02:11] :012 hours, 11 minutes, 1 secondMight want to watch out over here. Time to make some legends.
+[02:11] :082 hours, 11 minutes, 8 secondsThe perfect sight for an attack. you literally.
+[02:11] :222 hours, 11 minutes, 22 secondsHe went buff instead of the one I wanted. [ __ ] Okay. I hope I hope they caught that.
+[02:11] :322 hours, 11 minutes, 32 secondsBut I hit the right bumper trying to go buff and and Reed decided to go or I wanted to go uh Pop-Tart. All right. And
+[02:11] :402 hours, 11 minutes, 40 secondshe decided to go buff. And I didn't go pop-tart. And I hit the Pop-Tart button. I didn't go Poptart. I went buff instead. And I'm
+[02:11] :482 hours, 11 minutes, 48 secondslike real upset I went buff because I got swallowed for being buff. And I wanted to be Pop-Tart. But instead of being Pop-Tart, I was buff, which ended in my death.
+[02:12] :042 hours, 12 minutes, 4 secondsI can reckless now. Behind you, my friend.
+[02:12] :352 hours, 12 minutes, 35 secondsThat almost hurt.
+[02:12] :392 hours, 12 minutes, 39 secondsturn down. We better look out for one another.
+[02:12] :482 hours, 12 minutes, 48 secondsWe've been discovered. Fantastic.
+[02:12] :552 hours, 12 minutes, 55 seconds[Laughter]
+[02:12] :572 hours, 12 minutes, 57 secondsI pulled it right at the exact moment. I want I want That's what they hear.
+[02:13] :042 hours, 13 minutes, 4 secondsAnother epic victory. Yeah, Ty.
+[02:13] :152 hours, 13 minutes, 15 secondsCall out. Thank you, Ty. Call out. They They told me what they needed.
+[02:13] :262 hours, 13 minutes, 26 secondsThat's That's what That's That's a good call out. They said go after magic. I was like, "All right." I mean, I can't
+[02:13] :332 hours, 13 minutes, 33 secondsalways, but when I see them, I'll go into murder mode. I didn't really do much that match
+[02:13] :402 hours, 13 minutes, 40 secondsbesides damage and block. I see. I got like no kills. I It says I have high KO
+[02:13] :472 hours, 13 minutes, 47 secondsbecause I was involved in all the kills. I don't know. People debate over
+[02:13] :562 hours, 13 minutes, 56 secondsthat. I just want objective time. I I really want objective time to be a step.
+[02:14] :002 hours, 14 minutesHow long were you touching the objective? How long were you on the objective? That's
+[02:14] :122 hours, 14 minutes, 12 secondsit. Mango drinks taste spicy.
+[02:14] :362 hours, 14 minutes, 36 secondsThe best thing about The Best thing about waking up is the reports that are in your cup.
+[02:15] :032 hours, 15 minutes, 3 secondsI really don't I don't know if I'll be streaming Marvel Rivals much
+[02:15] :102 hours, 15 minutes, 10 secondsanymore unless there's like a big shakeup.
+[02:15] :142 hours, 15 minutes, 14 secondsThe right heroes could make all in this season countdown. You know, I've seen wonders out there in the cosmos. Few humans will ever behold.
+[02:15] :262 hours, 15 minutes, 26 secondsThat's a good team.
+[02:15] :512 hours, 15 minutes, 51 secondsMy ultimate goal is simple. Solve everything. So fear, let's get started.
+[02:15] :582 hours, 15 minutes, 58 secondsHe'll be coming in 30 seconds. Stay strong.
+[02:16] :042 hours, 16 minutes, 4 secondsI once flew to the moon and hung with Galactus. You ever seen me brag about it? You actually posted it on social media right after and tagged like
+[02:16] :132 hours, 16 minutes, 13 secondseveryone remember? And Silver Surfer doesn't have a handle, by the way.
+[02:16] :182 hours, 16 minutes, 18 secondsAlthough theoretically power cosmic should give him access to any form of The battle starts in five two one.
+[02:16] :312 hours, 16 minutes, 31 secondsYou need to stop that vehicle in its tracks. This may be one problem I can't solve through brain power alone.
+[02:16] :392 hours, 16 minutes, 39 secondsThinking about that lag. I'm realizing whole laptop for that. I just have none of that stuff set up because I'm lazy.
+[02:16] :492 hours, 16 minutes, 49 secondsAnd that whole setup was just for Marvel Rivals. And I'm sitting here talking about how I'm not going to play it no more because the update's so
+[02:16] :572 hours, 16 minutes, 57 secondsI've never been I' I've never been an esports person,
+[02:17] :042 hours, 17 minutes, 4 secondsbut like man, I like this.
+[02:17] :172 hours, 17 minutes, 17 secondsLet me return the favor.
+[02:17] :262 hours, 17 minutes, 26 secondsNo hard feelings.
+[02:17] :302 hours, 17 minutes, 30 secondsFighters beat a futile attempt.
+[02:17] :452 hours, 17 minutes, 45 secondsThe only way we win this is
+[02:17] :502 hours, 17 minutes, 50 seconds[Music]
+[02:17] :522 hours, 17 minutes, 52 seconds[Applause]
+[02:17] :572 hours, 17 minutes, 57 secondstogether. almost hurt.
+[02:18] :102 hours, 18 minutes, 10 secondsI tried, man. I was like I was like, I'm going to just do it. I'm a go for it.
+[02:18] :162 hours, 18 minutes, 16 secondsI'm going to go for it. mess with the Amazing Spider-Man. I'm more resilient than you think. You know, I know it's a rock song that plays during his all, but
+[02:18] :252 hours, 18 minutes, 25 secondsI just heard the first like three notes of
+[02:18] :332 hours, 18 minutes, 33 seconds[Laughter]
+[02:18] :342 hours, 18 minutes, 34 secondsThat's what I heard.
+[02:18] :422 hours, 18 minutes, 42 secondsThey've made it halfway. Stop them.
+[02:18] :572 hours, 18 minutes, 57 secondsDon't mess with the Amazing Spider-Man. I hit the B and I hit the right bumper.
+[02:19] :052 hours, 19 minutes, 5 secondsDude, what else can I do? The game was like, "No, you didn't. Please, editor, play that [ __ ] back. Look at the controller. I hit the buttons. It did not do the button things.
+[02:19] :172 hours, 19 minutes, 17 secondsLook, if you're telling me there's animation locks, I'm going to be mad.
+[02:19] :242 hours, 19 minutes, 24 secondsYou will be right.
+[02:19] :272 hours, 19 minutes, 27 secondsBut I'm still going to be mad. Our enemies are here.
+[02:19] :362 hours, 19 minutes, 36 secondsQuite the collaboration. Got that vehicle.
+[02:19] :492 hours, 19 minutes, 49 secondsFantastic.
+[02:19] :592 hours, 19 minutes, 59 secondsOh, I got a shield. I can use some aid. That almost hurts.
+[02:20] :062 hours, 20 minutes, 6 secondsI like the cold. The next version of me I needed. Be your best self. I need help to recover.
+[02:20] :142 hours, 20 minutes, 14 seconds[Music]
+[02:20] :182 hours, 20 minutes, 18 secondsWell, hello there.
+[02:20] :282 hours, 20 minutes, 28 secondsThey should keep the same here. They are coming from by the eye of Aamoto.
+[02:20] :372 hours, 20 minutes, 37 seconds[ __ ] I see him getting away.
+[02:20] :402 hours, 20 minutes, 40 secondsYou little [ __ ] I am not letting you get away.
+[02:20] :482 hours, 20 minutes, 48 secondsSusan is awesome. Little [ __ ] You need me a nice deep free.
+[02:20] :582 hours, 20 minutes, 58 secondsDon't mess with the amazing
+[02:21] :092 hours, 21 minutes, 9 secondsMy resistance is down. I need help to recover.
+[02:21] :162 hours, 21 minutes, 16 secondsI'm overwhelmed.
+[02:21] :222 hours, 21 minutes, 22 secondsStop them. Better stop that vehicle. I did I did my job. I like I kept them on the peak. Bro, you get a disappear.
+[02:21] :332 hours, 21 minutes, 33 secondsYou really threw that alt. And they really gave you that alt.
+[02:21] :422 hours, 21 minutes, 42 secondsHoly [ __ ] Holy [ __ ] dude. I can't do anything.
+[02:21] :512 hours, 21 minutes, 51 secondsIt's just It's death in there. I wouldn't go in there. I wouldn't go in there. Oh, no.
+[02:21] :582 hours, 21 minutes, 58 seconds[Music]
+[02:22] :002 hours, 22 minutesI just watched them all do the death.
+[02:22] :052 hours, 22 minutes, 5 secondsIt I spawned in here before it gave it to them, dude.
+[02:22] :102 hours, 22 minutes, 10 secondsAlso the crackles starting to ignore them.
+[02:22] :182 hours, 22 minutes, 18 seconds[ __ ] a. [ __ ] a. We do not have a Mr. Strage. It's the enemy T that has a
+[02:22] :242 hours, 22 minutes, 24 secondsstra. So I cannot I cannot even go Wanda. I cannot do it.
+[02:22] :322 hours, 22 minutes, 32 secondsOh god. Fantastic.
+[02:22] :472 hours, 22 minutes, 47 secondsHelp.
+[02:22] :532 hours, 22 minutes, 53 secondsIt's now or
+[02:22] :582 hours, 22 minutes, 58 seconds[Applause]
+[02:23] :002 hours, 23 minutesI don't know what I was doing there. There was no heals. You guys are stuck fighting Spider-Man.
+[02:23] :072 hours, 23 minutes, 7 secondsWhat is Spider-Man doing? I'm more resilient than you think. You're [ __ ] dealing with Squirrel Girl more than Spider-Man. Why are you guys Oh god.
+[02:23] :162 hours, 23 minutes, 16 secondsI'm not doing Don't mess with the Amazing Spider-Man. Don't give them another inch or else.
+[02:23] :262 hours, 23 minutes, 26 secondsWell, hello there.
+[02:23] :402 hours, 23 minutes, 40 secondsOkay.
+[02:23] :422 hours, 23 minutes, 42 secondsOkay. We're right at the last the last hall. We're at the last hall. We're at the last hall.
+[02:23] :492 hours, 23 minutes, 49 secondsWe're going to go for it. We're just going to go for it. We're just going to go for it.
+[02:24] :032 hours, 24 minutes, 3 secondsSpider mode.
+[02:24] :062 hours, 24 minutes, 6 secondsI got them cleans this place. I like the cold. Can't get rid of me.
+[02:24] :192 hours, 24 minutes, 19 secondsYou don't have to fight alone. Easy.
+[02:24] :272 hours, 24 minutes, 27 secondsBy the eye of Aamortam.
+[02:24] :522 hours, 24 minutes, 52 secondsI will take He stopped them in their tracks. Go on, bad guys.
+[02:25] :132 hours, 25 minutes, 13 seconds[Music]
+[02:25] :162 hours, 25 minutes, 16 secondsFantastic. The moon.
+[02:25] :282 hours, 25 minutes, 28 secondsOnly 60 seconds left. Honk if you destroyed it all.
+[02:25] :432 hours, 25 minutes, 43 secondsProtect your key. The thing ain't going nowhere.
+[02:25] :482 hours, 25 minutes, 48 secondsDisappear us against the Well, you can't expect to win them all.
+[02:25] :572 hours, 25 minutes, 57 seconds[Music]
+[02:25] :592 hours, 25 minutes, 59 secondsDamn.
+[02:26] :092 hours, 26 minutes, 9 secondsWhat? I was I had to [ __ ] I was like
+[02:26] :202 hours, 26 minutes, 20 seconds[ __ ] Oh yeah, we upload them. They did a great job. I got the the things.
+[02:26] :282 hours, 26 minutes, 28 secondsYeah, that person Ben Groom did a great job. It was confusing because I was playing the thing and I was like, I I didn't do that. Great. I was like, "Oh,
+[02:26] :372 hours, 26 minutes, 37 secondsthey're actually Ben." I was like, "Ah, that makes a lot more sense." The right heroes could make all the difference.
+[02:26] :432 hours, 26 minutes, 43 secondsPlease read. All right. You want You want You want it? You got it.
+[02:26] :492 hours, 26 minutes, 49 secondsI've seen wonders out there in the cosmos. Few humans will ever behold.
+[02:27] :192 hours, 27 minutes, 19 secondsAs far as I know, there's not much or if any lag. My inventions have saved worlds. And if there is any lag, it's
+[02:27] :272 hours, 27 minutes, 27 secondsminimal within the 10sec range, which is acceptable. I need you to promise me you'll show some restraint out there, Johnny. What's the problem, sis? Afraid
+[02:27] :362 hours, 27 minutes, 36 secondsto turn up the heat? Not at all. But in most realities, these are some of our closest allies. Fair point. Guess I'll set my flames to bake instead of broil.
+[02:27] :492 hours, 27 minutes, 49 secondsThe battle starts in five, four, three, two, one.
+[02:27] :562 hours, 27 minutes, 56 secondsYou have to stop them from securing the mission area.
+[02:28] :002 hours, 28 minutesThis may be one problem I can't solve through brain power alone.
+[02:28] :082 hours, 28 minutes, 8 secondsOn your toes, here they come.
+[02:28] :132 hours, 28 minutes, 13 secondsYou got a tail. No complaints.
+[02:28] :232 hours, 28 minutes, 23 secondsI'm got you.
+[02:28] :392 hours, 28 minutes, 39 secondsA futile attempt.
+[02:28] :532 hours, 28 minutes, 53 secondsWatch your back. The Egyptian thing.
+[02:29] :052 hours, 29 minutes, 5 secondsGot almost hurt so fast, friend.
+[02:29] :192 hours, 29 minutes, 19 secondsI really didn't want it to end this way.
+[02:29] :212 hours, 29 minutes, 21 secondsBen, do you have to burn everything? There goes one.
+[02:29] :362 hours, 29 minutes, 36 secondsA futile attempt. I have a shield, but no complaints.
+[02:29] :432 hours, 29 minutes, 43 secondsI don't anywhere. That should limit power.
+[02:29] :502 hours, 29 minutes, 50 secondsThe world around. This should limit any damage. I am ready to put on a show.
+[02:30] :002 hours, 30 minutesLet me return this. Fantastic.
+[02:30] :062 hours, 30 minutes, 6 secondsI'm bright like a star.
+[02:30] :192 hours, 30 minutes, 19 seconds[ __ ]
+[02:30] :272 hours, 30 minutes, 27 secondsThere's still more work to be done. We need to stop that vehicle in its tracks.
+[02:30] :342 hours, 30 minutes, 34 secondsI believe in you, Magneto. One must not give in to hate, but one can still enjoy revenge.
+[02:30] :452 hours, 30 minutes, 45 secondsThat vehicle I'm impervious to damage.
+[02:30] :572 hours, 30 minutes, 57 secondsNot much to do there besides die to crruit's alt.
+[02:31] :042 hours, 31 minutes, 4 secondslike a day at the spawn. I'm more resilient than you think. They've made it halfway. Stop them.
+[02:31] :162 hours, 31 minutes, 16 secondsOur Thor is learning how to play Thor. Uh, it's quick play. It's okay.
+[02:31] :242 hours, 31 minutes, 24 secondsThat is literally my attitude. Like, one, it's a video game even when it is ranked. Get some friends.
+[02:31] :422 hours, 31 minutes, 42 secondsSuccess. Your sacrifice won't be in vain, Johnny.
+[02:31] :522 hours, 31 minutes, 52 secondsA little help, please.
+[02:32] :042 hours, 32 minutes, 4 secondsI'm still I was like, why am I alive? The crackles. I keep hearing the
+[02:32] :132 hours, 32 minutes, 13 secondscrackles. I won't be hearing them and the headphones won't be on. Then then then things are upsetting. I need to go straight to a
+[02:32] :202 hours, 32 minutes, 20 secondsdoctor. But no, these headphones um that's they're not it's software. It's a software frequency. Something desync just a pop. It's just an occasional pop.
+[02:32] :292 hours, 32 minutes, 29 secondsNot a glitch like a like you would hear in like Vinnie streams when you had those problems. No, it's more like a pop. Like a It just happened.
+[02:32] :392 hours, 32 minutes, 39 secondsAnd if you can hear it. Oh [ __ ] Sorry.
+[02:32] :422 hours, 32 minutes, 42 secondsBut if you can't hear it, it's annoying as [ __ ]
+[02:32] :502 hours, 32 minutes, 50 seconds[Music]
+[02:32] :522 hours, 32 minutes, 52 secondsIn hyperics, my power grows.
+[02:33] :002 hours, 33 minutesI'm not ready to give up yet.
+[02:33] :112 hours, 33 minutes, 11 secondsOur enemies are here.
+[02:33] :202 hours, 33 minutes, 20 secondsI need the world.
+[02:33] :292 hours, 33 minutes, 29 secondsHow futile is that? I can use some a
+[02:33] :362 hours, 33 minutes, 36 secondsfantastic enormous weapon of use a behold the god of thunder.
+[02:33] :502 hours, 33 minutes, 50 secondsGood job. Good job. You finally got some kills. Yes. Yes. The kills. Get the kills. It popped again. I just watched I
+[02:33] :592 hours, 33 minutes, 59 secondsjust watched our Thor get kills after all those deaths. He just got like three kills, dude. It was his alt, but still it was exciting.
+[02:34] :092 hours, 34 minutes, 9 secondsThere's still a chance to stop them.
+[02:34] :192 hours, 34 minutes, 19 secondsDamn.
+[02:34] :212 hours, 34 minutes, 21 secondsSo even throw that attack you hit, you don't get it. So it's better to throw it and not hit it, take the number and then to bash him than it is to get the hit.
+[02:34] :312 hours, 34 minutes, 31 secondsWhat? Who disconnected?
+[02:34] :342 hours, 34 minutes, 34 secondsOur best player disconnected because we was mildly losing. Oh my god. I am ready to put on a show. That's such a rager, dude.
+[02:34] :522 hours, 34 minutes, 52 secondsI really have to pee. I really have to pee like so bad. I have to pee like so bad. And
+[02:35] :012 hours, 35 minutes, 1 secondhaving to pee really sucks because I have to pee so bad. Oh my god. I just have to piss.
+[02:35] :112 hours, 35 minutes, 11 secondsIt's all I'm thinking about is the fact that I have to piss. I feel a little pissed growing. I have to pee. I have to pee.
+[02:35] :242 hours, 35 minutes, 24 secondsStop throwing your [ __ ] nuts at me. Don't want them.
+[02:35] :312 hours, 35 minutes, 31 secondsThe grand finale.
+[02:35] :342 hours, 35 minutes, 34 secondsJudge jury. [ __ ]
+[02:35] :482 hours, 35 minutes, 48 secondsAh, [ __ ] it. I'm just keep playing into
+[02:35] :512 hours, 35 minutes, 51 seconds[Music]
+[02:35] :532 hours, 35 minutes, 53 secondsthe play it like you mean it. He's already He's coming. Is he doing good? He's a good player.
+[02:36] :032 hours, 36 minutes, 3 secondsFantastic.
+[02:36] :172 hours, 36 minutes, 17 secondsI don't really think I did much besides distract him. But if I You guys [ __ ] up your alult timings
+[02:36] :252 hours, 36 minutes, 25 secondscuz lack of communication, but good good job. You took the point. I really have to [ __ ] pee. And there's Moonnight.
+[02:36] :322 hours, 36 minutes, 32 secondsOh, there's another shield. That we should destroy these
+[02:36] :442 hours, 36 minutes, 44 secondspowered me. He stopped him in their track.
+[02:36] :552 hours, 36 minutes, 55 secondsOnly 60 seconds left.
+[02:37] :032 hours, 37 minutes, 3 secondsI am ready to put on a show.
+[02:37] :112 hours, 37 minutes, 11 secondsHoly [ __ ] Leave them to consu. I really had to piss. I am.
+[02:37] :202 hours, 37 minutes, 20 secondsHonestly, you let me piss. I might play another game. I might play better. I don't know. Oh, I just have to piss.
+[02:37] :252 hours, 37 minutes, 25 secondsDown to 30 seconds. It's like B. I pee pee. I have to pee.
+[02:37] :342 hours, 37 minutes, 34 secondsPlease.
+[02:37] :372 hours, 37 minutes, 37 secondsStop it. Stop trying to murder me. I have to pee. I have to pay so bad. Stop pushing it. Oh, don't push the point. Block it. Yeah. Come on, Thor.
+[02:37] :492 hours, 37 minutes, 49 secondsShow me what you got. Last second. Yeah.
+[02:37] :522 hours, 37 minutes, 52 secondsYeah. Yeah. Yeah. I think Thor knows how to play and he was just bullshitting this whole game. Something something I don't I don't know how I'm be right
+[02:38] :002 hours, 38 minutesback. I'm just I'm hitting the I'm hitting the PP button. I'm hitting I'm hitting the PP button. I'll be right back.
+[02:46] :052 hours, 46 minutes, 5 secondsOh yeah. One more round. All right. One more round.
+[02:46] :152 hours, 46 minutes, 15 secondsNo. Uh, popping. Yeah, popping in the air. I don't know what that's about. I'll get a workout soon.
+[02:47] :032 hours, 47 minutes, 3 secondsPick your hero or villain. I'm not judging.
+[02:47] :092 hours, 47 minutes, 9 secondsI've seen wonders out there in the cosmos. Few humans will ever behold.
+[02:47] :172 hours, 47 minutes, 17 secondsPower of a Capri, son. Give me my last game of the night or
+[02:47] :262 hours, 47 minutes, 26 seconds[Music]
+[02:47] :342 hours, 47 minutes, 34 secondsday. I went to the speculus. Special speculos cookie.
+[02:47] :452 hours, 47 minutes, 45 secondsMy ultimate goal is simple. 30 seconds before you attack. Get ready. Let's get started.
+[02:47] :542 hours, 47 minutes, 54 secondsDo you think the world is ever going to be put right? I don't know, man. But it sure won't happen if people like us don't make it happen. You know what?
+[02:48] :022 hours, 48 minutes, 2 secondsThat's exactly what I needed to hear.
+[02:48] :112 hours, 48 minutes, 11 secondsThe battle starts in five, 4, 3, 2, 1.
+[02:48] :182 hours, 48 minutes, 18 secondsAll you need to do is capture the mission area. Got it. But that one, not so much. I wonder how Krennovium plays with the dark force.
+[02:48] :312 hours, 48 minutes, 31 secondsThis isn't science, it's torture. Got my cookies. I ate a little bit of the pork shoulder stuff.
+[02:48] :462 hours, 48 minutes, 46 secondsReturn the favor. Looks like the mission area is yours to capture now.
+[02:49] :012 hours, 49 minutes, 1 secondNobody is yours.
+[02:49] :162 hours, 49 minutes, 16 secondsWhat the [ __ ] kind of infinite healing ass [ __ ] was going on with him? I'm not
+[02:49] :262 hours, 49 minutes, 26 secondsready to give up yet. Was he being healed?
+[02:49] :312 hours, 49 minutes, 31 secondsWhy was he red and like haram tired?
+[02:49] :392 hours, 49 minutes, 39 secondsThat too.
+[02:49] :412 hours, 49 minutes, 41 seconds[Applause]
+[02:49] :492 hours, 49 minutes, 49 secondsOkay, good job, Thor. That was a sacrifice and a half.
+[02:49] :562 hours, 49 minutes, 56 secondsBut you know what? Get out of here. Force my hand.
+[02:50] :012 hours, 50 minutes, 1 secondYou've captured more than half of the mission area. Keep going. Awesome shield.
+[02:50] :112 hours, 50 minutes, 11 secondsFeeling fantastic. Oh, what the hell?
+[02:50] :232 hours, 50 minutes, 23 secondsI didn't do that. What? What? Push me. Who? Who pushed me? Was that a shove?
+[02:50] :292 hours, 50 minutes, 29 secondsRest until this is Was I shoved?
+[02:50] :382 hours, 50 minutes, 38 secondsGlory is almost yours. I am Asgard's might.
+[02:50] :482 hours, 50 minutes, 48 secondsThat almost judge, jury, executioner. Fantastic.
+[02:51] :022 hours, 51 minutes, 2 secondsWe got to look out Control
+[02:51] :272 hours, 51 minutes, 27 seconds[Music]
+[02:51] :312 hours, 51 minutes, 31 secondsthese. Winning isn't always about hitting harder. Sometimes it's about thinking harder.
+[02:51] :452 hours, 51 minutes, 45 seconds30 seconds before you attack. Get ready, brother. Sorry if the stream is choppy, guys.
+[02:51] :562 hours, 51 minutes, 56 secondsIf the game play to Asgard, I know you believe that.
+[02:52] :012 hours, 52 minutes, 1 secondBut time, as we shall see, doesn't
+[02:52] :162 hours, 52 minutes, 16 secondsAll you need to do is capture the mission area. Got it. Wait, who took my boomerang arrows?
+[02:52] :292 hours, 52 minutes, 29 secondsSee if that fixed anything. I don't know if it will. The enemy is here. If it lags, it lags. We'll see.
+[02:52] :462 hours, 52 minutes, 46 secondsLooks like area is yours to now. Better watch your back.
+[02:52] :562 hours, 52 minutes, 56 secondsI was not in your view.
+[02:53] :012 hours, 53 minutes, 1 secondA futile attempt against the world. I am Asgard might smoke.
+[02:53] :252 hours, 53 minutes, 25 secondsI hit the right bumper. Ain't no right bumper. A nice deep freeze.
+[02:53] :332 hours, 53 minutes, 33 secondsI'm not ready to give up yet.
+[02:54] :012 hours, 54 minutes, 1 secondWell, hello there. They captured the mission area.
+[02:54] :112 hours, 54 minutes, 11 secondsA futile attempt.
+[02:54] :142 hours, 54 minutes, 14 seconds[Music]
+[02:54] :172 hours, 54 minutes, 17 secondsHoly [ __ ] I'm feeling Oh, it has been him most of the game.
+[02:54] :252 hours, 54 minutes, 25 secondsI'm more resilient than you think.
+[02:54] :442 hours, 54 minutes, 44 secondsI suck. That almost hurt.
+[02:55] :042 hours, 55 minutes, 4 secondsYour team's capture progress has passed the halfway point. Your powers are mine. Fantastic.
+[02:55] :222 hours, 55 minutes, 22 secondsCo-op time.
+[02:55] :242 hours, 55 minutes, 24 secondsI mean, I wasn't focused on him, but like, come on.
+[02:55] :302 hours, 55 minutes, 30 secondsI like the I'm more resilient than you think. It's the grand finale.
+[02:55] :422 hours, 55 minutes, 42 secondsJury executioner. My friends are here.
+[02:55] :522 hours, 55 minutes, 52 secondsWe're fighting our group. I outnumber you.
+[02:56] :002 hours, 56 minutesFeeling fantastic. Thanks for the shield.
+[02:56] :042 hours, 56 minutes, 4 secondsWe'll have to keep fighting until we have a winner. Control.
+[02:56] :142 hours, 56 minutes, 14 secondsSupernova.
+[02:56] :252 hours, 56 minutes, 25 secondsof my strength. A nice deep freeze.
+[02:56] :352 hours, 56 minutes, 35 secondsWe got company.
+[02:56] :372 hours, 56 minutes, 37 secondsFeel magn
+[02:56] :592 hours, 56 minutes, 59 secondsThey got behind you.
+[02:57] :022 hours, 57 minutes, 2 secondsThat was unusually satisfying. Half of the mission area.
+[02:57] :152 hours, 57 minutes, 15 secondsKeep going. Not so fast, friend.
+[02:57] :252 hours, 57 minutes, 25 secondsI can't be allowed to seize control. I am As disappear. I'll find a way to bring you back. I promise.
+[02:57] :372 hours, 57 minutes, 37 secondsThat almost hurt. Fantastic. Flee a target.
+[02:57] :472 hours, 57 minutes, 47 secondsFeeling fantastic. Glory is almost yours. Judge, jury, executioner.
+[02:57] :572 hours, 57 minutes, 57 secondsGot you back. I feel tough. You can always count on me. Back up under their noses. There's still more work to be done.
+[02:58] :092 hours, 58 minutes, 9 secondsYes, that is good job. You'll have to keep fighting. Good job.
+[02:58] :142 hours, 58 minutes, 14 secondsGood job. They carry game. Near the very end, they just carry. Bunch of carrying.
+[02:58] :212 hours, 58 minutes, 21 secondsEveryone on our team working together to carry my dumbass.
+[02:58] :372 hours, 58 minutes, 37 secondsYour powers are mine.
+[02:58] :442 hours, 58 minutes, 44 seconds[Music]
+[02:58] :492 hours, 58 minutes, 49 secondsOkay. Uh, we win. Okay. Another epic victory. Big win.
+[02:58] :592 hours, 58 minutes, 59 seconds[Music]
+[02:59] :452 hours, 59 minutes, 45 seconds[Music]
+[03:00] :103 hours, 10 seconds[Music]
+[03:00] :333 hours, 33 secondsOkay.
+[03:00] :383 hours, 38 secondsI'm I'm tired of [ __ ] I have my second cookie. Fortnite crew. Huh?
+[03:00] :553 hours, 55 secondsHuh? I'm good. All right. No. That was a stream
+[03:01] :043 hours, 1 minute, 4 secondswhere I bitched about [ __ ] and played very little video game.
+[03:01] :073 hours, 1 minute, 7 secondsBut as well that I go
+[03:01] :203 hours, 1 minute, 20 seconds[Music]
+[03:01] :473 hours, 1 minute, 47 secondsHey, hey, hey.Sync to video time

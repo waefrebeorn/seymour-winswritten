@@ -1,0 +1,18 @@
+{
+  "video_id": "MuvhXqCaxr4",
+  "duration_s": 60.1,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 5.68,
+      "end": 7.4,
+      "text": "I'm looking for an out-of-the-be range"
+    },
+    {
+      "start": 7.4,
+      "end": 14.67,
+      "text": "I went to high school, then education is what I'm looking at"
+    }
+  ],
+  "total_words": 18
+}

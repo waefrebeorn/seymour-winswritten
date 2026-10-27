@@ -1,0 +1,226 @@
+{
+  "ARTVARI_ARCADIA": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "ARTVARI_CHILDREN": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_HOLIDAY": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_LIONHEAD": {
+    "category": "animals_nature",
+    "raw_output": "\n<|channel>thought\n<channel|>animals_nature\n\n\n"
+  },
+  "ARTVARI_LOVERS": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_MANSWRD": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_NATVAMER": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_SIBLINGS": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_SPACAMEB": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "ARTVARI_THEMONTN": {
+    "category": "backgrounds_textures",
+    "raw_output": "\n<|channel>thought\n<channel|>backgrounds_textures\n\n\n"
+  },
+  "ARTVARI_THEMUSE": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_THEWAVE": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "ARTVARI_VANDYKE": {
+    "category": "business_office",
+    "raw_output": "\n<|channel>thought\n<channel|>business_office\n\n\n"
+  },
+  "ARTVARI_WATRNMPH": {
+    "category": "people_figures",
+    "raw_output": "\n<|channel>thought\n<channel|>people_figures\n\n\n"
+  },
+  "ARTVARI_YELLWLDY": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BANNERS_BANNER01": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER02": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER03": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BANNERS_BANNER04": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER05": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER06": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER07": {
+    "category": "90s_aesthetic_markers",
+    "raw_output": "\n<|channel>thought\n<channel|>90s_aesthetic_markers\n\n\n"
+  },
+  "BANNERS_BANNER08": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER09": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER10": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER11": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER12": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BANNERS_BANNER13": {
+    "category": "business_office",
+    "raw_output": "\n<|channel>thought\n<channel|>business_office\n\n\n"
+  },
+  "BANNERS_BANNER14": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER16": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER17": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER18": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER19": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER20": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  },
+  "BANNERS_BANNER21": {
+    "category": "business_office",
+    "raw_output": "\nbusiness_office\n<end_of_turn>\n<end_of_turn>\n<end_of_turn>\n<end_of\n\n"
+  },
+  "BANNERS_BANNER22": {
+    "category": "symbols_icons",
+    "raw_output": "\n<|channel>thought\n<channel|>symbols_icons\n\n\n"
+  },
+  "BANNERS_BANNER23": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER01": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER02": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER03": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER04": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER05": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER06": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER07": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER08": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER09": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER10": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER11": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER12": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER13": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER14": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER15": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER16": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER17": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER18": {
+    "category": "borders_frames",
+    "raw_output": "\n<|channel>thought\n<channel|>borders_frames\n\n\n"
+  },
+  "BORDERS_BORDER19": {
+    "category": "abstract_geometric",
+    "raw_output": "\n<|channel>thought\n<channel|>abstract_geometric\n\n\n"
+  }
+}

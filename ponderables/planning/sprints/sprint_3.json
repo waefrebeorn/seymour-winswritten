@@ -1,0 +1,99 @@
+{
+  "sprint": 3,
+  "name": "Volume Authoring & Pipeline Automation",
+  "start_date": "2026-06-27",
+  "end_date": "2026-07-04",
+  "goals": [
+    "Complete allegories for 24 ponderables (Vol 1 & 2)",
+    "Build and test Pandoc to LaTeX to PDF pipeline for A6 digest",
+    "Automate clipart vision batch processing via cron",
+    "Produce Volume 1 PDF (A6, 64-96pp)",
+    "Produce Volume 2 PDF (A6, 64-96pp)"
+  ],
+  "tasks": [
+    {
+      "id": "S3-T1",
+      "title": "Write allegories for Volume 1 (12 ponderables)",
+      "status": "pending",
+      "assignee": "author",
+      "estimate": "8h"
+    },
+    {
+      "id": "S3-T2",
+      "title": "Write allegories for Volume 2 (12 ponderables)",
+      "status": "pending",
+      "assignee": "author",
+      "estimate": "8h"
+    },
+    {
+      "id": "S3-T3",
+      "title": "Write marginalia/commentary for all 24 ponderables",
+      "status": "pending",
+      "assignee": "author",
+      "estimate": "4h"
+    },
+    {
+      "id": "S3-T4",
+      "title": "Build Pandoc template for A6 digest (LaTeX)",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "6h"
+    },
+    {
+      "id": "S3-T5",
+      "title": "Test PDF generation for Volume 1",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "2h"
+    },
+    {
+      "id": "S3-T6",
+      "title": "Test PDF generation for Volume 2",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "2h"
+    },
+    {
+      "id": "S3-T7",
+      "title": "Create clipart vision cron job (batch 20/day)",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "2h"
+    },
+    {
+      "id": "S3-T8",
+      "title": "Export fresh YouTube cookies for age-gated videos",
+      "status": "pending",
+      "assignee": "ops",
+      "estimate": "1h"
+    },
+    {
+      "id": "S3-T9",
+      "title": "Verify cross-references and concept index",
+      "status": "pending",
+      "assignee": "editor",
+      "estimate": "2h"
+    },
+    {
+      "id": "S3-T10",
+      "title": "Generate Volume 1 PDF (A6, 64-96pp)",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "1h"
+    },
+    {
+      "id": "S3-T11",
+      "title": "Generate Volume 2 PDF (A6, 96pp)",
+      "status": "pending",
+      "assignee": "dev",
+      "estimate": "1h"
+    }
+  ],
+  "definition_of_done": [
+    "All 24 ponderables have complete allegory + marginalia + footnotes",
+    "Volume 1 PDF renders correctly at A6 size (4x6 inches)",
+    "Volume 2 PDF renders correctly at A6 size (4x6 inches)",
+    "Clipart vision cron job running and processing 20/day",
+    "YouTube cookies allow age-gated video processing"
+  ]
+}

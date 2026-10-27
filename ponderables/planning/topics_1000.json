@@ -1,0 +1,8008 @@
+{
+  "generated": "2026-07-07",
+  "corpus_transcripts": 559,
+  "method": "unigram+bigram frequency mining on cleaned transcripts, scored by mentions*log(file_spread)",
+  "count": 1000,
+  "topics": [
+    {
+      "term": "game",
+      "kind": "uni",
+      "mentions": 18403,
+      "file_spread": 504,
+      "density": 36.5,
+      "score": 114550.5
+    },
+    {
+      "term": "because",
+      "kind": "uni",
+      "mentions": 17630,
+      "file_spread": 514,
+      "density": 34.3,
+      "score": 110084.7
+    },
+    {
+      "term": "play",
+      "kind": "uni",
+      "mentions": 9665,
+      "file_spread": 483,
+      "density": 20.0,
+      "score": 59749.9
+    },
+    {
+      "term": "mean",
+      "kind": "uni",
+      "mentions": 7802,
+      "file_spread": 484,
+      "density": 16.1,
+      "score": 48248.7
+    },
+    {
+      "term": "something",
+      "kind": "uni",
+      "mentions": 7439,
+      "file_spread": 490,
+      "density": 15.2,
+      "score": 46095.3
+    },
+    {
+      "term": "keep",
+      "kind": "uni",
+      "mentions": 6725,
+      "file_spread": 473,
+      "density": 14.2,
+      "score": 41434.1
+    },
+    {
+      "term": "let's",
+      "kind": "uni",
+      "mentions": 6612,
+      "file_spread": 477,
+      "density": 13.9,
+      "score": 40793.5
+    },
+    {
+      "term": "let",
+      "kind": "uni",
+      "mentions": 6348,
+      "file_spread": 487,
+      "density": 13.0,
+      "score": 39296.1
+    },
+    {
+      "term": "dude",
+      "kind": "uni",
+      "mentions": 6246,
+      "file_spread": 456,
+      "density": 13.7,
+      "score": 38254.8
+    },
+    {
+      "term": "secondsoh",
+      "kind": "uni",
+      "mentions": 6916,
+      "file_spread": 248,
+      "density": 27.9,
+      "score": 38158.7
+    },
+    {
+      "term": "ready",
+      "kind": "uni",
+      "mentions": 6157,
+      "file_spread": 430,
+      "density": 14.3,
+      "score": 37349.0
+    },
+    {
+      "term": "stop",
+      "kind": "uni",
+      "mentions": 5945,
+      "file_spread": 448,
+      "density": 13.3,
+      "score": 36306.3
+    },
+    {
+      "term": "secondsyou",
+      "kind": "uni",
+      "mentions": 6503,
+      "file_spread": 245,
+      "density": 26.5,
+      "score": 35801.2
+    },
+    {
+      "term": "money",
+      "kind": "uni",
+      "mentions": 5940,
+      "file_spread": 398,
+      "density": 14.9,
+      "score": 35574.4
+    },
+    {
+      "term": "better",
+      "kind": "uni",
+      "mentions": 5399,
+      "file_spread": 460,
+      "density": 11.7,
+      "score": 33114.2
+    },
+    {
+      "term": "trying",
+      "kind": "uni",
+      "mentions": 5234,
+      "file_spread": 457,
+      "density": 11.5,
+      "score": 32068.0
+    },
+    {
+      "term": "kind",
+      "kind": "uni",
+      "mentions": 5206,
+      "file_spread": 454,
+      "density": 11.5,
+      "score": 31862.3
+    },
+    {
+      "term": "bro",
+      "kind": "uni",
+      "mentions": 5142,
+      "file_spread": 441,
+      "density": 11.7,
+      "score": 31321.5
+    },
+    {
+      "term": "stream",
+      "kind": "uni",
+      "mentions": 5006,
+      "file_spread": 462,
+      "density": 10.8,
+      "score": 30725.5
+    },
+    {
+      "term": "secondsthe",
+      "kind": "uni",
+      "mentions": 5387,
+      "file_spread": 248,
+      "density": 21.7,
+      "score": 29722.5
+    },
+    {
+      "term": "use",
+      "kind": "uni",
+      "mentions": 4839,
+      "file_spread": 455,
+      "density": 10.6,
+      "score": 29626.7
+    },
+    {
+      "term": "through",
+      "kind": "uni",
+      "mentions": 4793,
+      "file_spread": 462,
+      "density": 10.4,
+      "score": 29418.1
+    },
+    {
+      "term": "work",
+      "kind": "uni",
+      "mentions": 4773,
+      "file_spread": 472,
+      "density": 10.1,
+      "score": 29397.4
+    },
+    {
+      "term": "playing",
+      "kind": "uni",
+      "mentions": 4771,
+      "file_spread": 454,
+      "density": 10.5,
+      "score": 29199.9
+    },
+    {
+      "term": "secondsyeah",
+      "kind": "uni",
+      "mentions": 5125,
+      "file_spread": 250,
+      "density": 20.5,
+      "score": 28317.9
+    },
+    {
+      "term": "real",
+      "kind": "uni",
+      "mentions": 4625,
+      "file_spread": 444,
+      "density": 10.4,
+      "score": 28203.6
+    },
+    {
+      "term": "help",
+      "kind": "uni",
+      "mentions": 4653,
+      "file_spread": 423,
+      "density": 11.0,
+      "score": 28149.4
+    },
+    {
+      "term": "love",
+      "kind": "uni",
+      "mentions": 4559,
+      "file_spread": 465,
+      "density": 9.8,
+      "score": 28011.3
+    },
+    {
+      "term": "hit",
+      "kind": "uni",
+      "mentions": 4399,
+      "file_spread": 461,
+      "density": 9.5,
+      "score": 26990.3
+    },
+    {
+      "term": "before",
+      "kind": "uni",
+      "mentions": 4417,
+      "file_spread": 447,
+      "density": 9.9,
+      "score": 26964.9
+    },
+    {
+      "term": "pretty",
+      "kind": "uni",
+      "mentions": 4300,
+      "file_spread": 454,
+      "density": 9.5,
+      "score": 26317.3
+    },
+    {
+      "term": "secondsall",
+      "kind": "uni",
+      "mentions": 4766,
+      "file_spread": 245,
+      "density": 19.5,
+      "score": 26238.4
+    },
+    {
+      "term": "never",
+      "kind": "uni",
+      "mentions": 4196,
+      "file_spread": 465,
+      "density": 9.0,
+      "score": 25781.0
+    },
+    {
+      "term": "around",
+      "kind": "uni",
+      "mentions": 4182,
+      "file_spread": 448,
+      "density": 9.3,
+      "score": 25539.6
+    },
+    {
+      "term": "bit",
+      "kind": "uni",
+      "mentions": 4139,
+      "file_spread": 464,
+      "density": 8.9,
+      "score": 25421.9
+    },
+    {
+      "term": "try",
+      "kind": "uni",
+      "mentions": 4035,
+      "file_spread": 459,
+      "density": 8.8,
+      "score": 24739.5
+    },
+    {
+      "term": "another",
+      "kind": "uni",
+      "mentions": 3987,
+      "file_spread": 449,
+      "density": 8.9,
+      "score": 24357.6
+    },
+    {
+      "term": "saying",
+      "kind": "uni",
+      "mentions": 3940,
+      "file_spread": 444,
+      "density": 8.9,
+      "score": 24026.4
+    },
+    {
+      "term": "sure",
+      "kind": "uni",
+      "mentions": 3908,
+      "file_spread": 454,
+      "density": 8.6,
+      "score": 23918.1
+    },
+    {
+      "term": "already",
+      "kind": "uni",
+      "mentions": 3892,
+      "file_spread": 457,
+      "density": 8.5,
+      "score": 23845.8
+    },
+    {
+      "term": "find",
+      "kind": "uni",
+      "mentions": 3870,
+      "file_spread": 440,
+      "density": 8.8,
+      "score": 23564.6
+    },
+    {
+      "term": "tell",
+      "kind": "uni",
+      "mentions": 3837,
+      "file_spread": 457,
+      "density": 8.4,
+      "score": 23508.8
+    },
+    {
+      "term": "secondsand",
+      "kind": "uni",
+      "mentions": 4140,
+      "file_spread": 246,
+      "density": 16.8,
+      "score": 22808.9
+    },
+    {
+      "term": "five",
+      "kind": "uni",
+      "mentions": 3698,
+      "file_spread": 428,
+      "density": 8.6,
+      "score": 22415.3
+    },
+    {
+      "term": "looks",
+      "kind": "uni",
+      "mentions": 3705,
+      "file_spread": 419,
+      "density": 8.8,
+      "score": 22379.1
+    },
+    {
+      "term": "anything",
+      "kind": "uni",
+      "mentions": 3602,
+      "file_spread": 463,
+      "density": 7.8,
+      "score": 22115.9
+    },
+    {
+      "term": "dead",
+      "kind": "uni",
+      "mentions": 3636,
+      "file_spread": 409,
+      "density": 8.9,
+      "score": 21874.7
+    },
+    {
+      "term": "show",
+      "kind": "uni",
+      "mentions": 3601,
+      "file_spread": 433,
+      "density": 8.3,
+      "score": 21869.0
+    },
+    {
+      "term": "guess",
+      "kind": "uni",
+      "mentions": 3521,
+      "file_spread": 438,
+      "density": 8.0,
+      "score": 21423.5
+    },
+    {
+      "term": "left",
+      "kind": "uni",
+      "mentions": 3505,
+      "file_spread": 436,
+      "density": 8.0,
+      "score": 21310.2
+    },
+    {
+      "term": "music",
+      "kind": "uni",
+      "mentions": 3613,
+      "file_spread": 348,
+      "density": 10.4,
+      "score": 21154.4
+    },
+    {
+      "term": "thought",
+      "kind": "uni",
+      "mentions": 3443,
+      "file_spread": 450,
+      "density": 7.7,
+      "score": 21041.8
+    },
+    {
+      "term": "talking",
+      "kind": "uni",
+      "mentions": 3432,
+      "file_spread": 442,
+      "density": 7.8,
+      "score": 20913.1
+    },
+    {
+      "term": "secondsthis",
+      "kind": "uni",
+      "mentions": 3794,
+      "file_spread": 243,
+      "density": 15.6,
+      "score": 20856.3
+    },
+    {
+      "term": "video",
+      "kind": "uni",
+      "mentions": 3401,
+      "file_spread": 453,
+      "density": 7.5,
+      "score": 20807.6
+    },
+    {
+      "term": "point",
+      "kind": "uni",
+      "mentions": 3446,
+      "file_spread": 414,
+      "density": 8.3,
+      "score": 20773.4
+    },
+    {
+      "term": "sorry",
+      "kind": "uni",
+      "mentions": 3360,
+      "file_spread": 437,
+      "density": 7.7,
+      "score": 20436.3
+    },
+    {
+      "term": "please",
+      "kind": "uni",
+      "mentions": 3379,
+      "file_spread": 417,
+      "density": 8.1,
+      "score": 20393.9
+    },
+    {
+      "term": "whole",
+      "kind": "uni",
+      "mentions": 3306,
+      "file_spread": 434,
+      "density": 7.6,
+      "score": 20085.1
+    },
+    {
+      "term": "hear",
+      "kind": "uni",
+      "mentions": 3251,
+      "file_spread": 445,
+      "density": 7.3,
+      "score": 19832.1
+    },
+    {
+      "term": "everything",
+      "kind": "uni",
+      "mentions": 3251,
+      "file_spread": 442,
+      "density": 7.4,
+      "score": 19810.2
+    },
+    {
+      "term": "away",
+      "kind": "uni",
+      "mentions": 3269,
+      "file_spread": 418,
+      "density": 7.8,
+      "score": 19737.8
+    },
+    {
+      "term": "secondsokay",
+      "kind": "uni",
+      "mentions": 3577,
+      "file_spread": 244,
+      "density": 14.7,
+      "score": 19678.0
+    },
+    {
+      "term": "turn",
+      "kind": "uni",
+      "mentions": 3194,
+      "file_spread": 435,
+      "density": 7.3,
+      "score": 19412.0
+    },
+    {
+      "term": "long",
+      "kind": "uni",
+      "mentions": 3177,
+      "file_spread": 445,
+      "density": 7.1,
+      "score": 19380.7
+    },
+    {
+      "term": "someone",
+      "kind": "uni",
+      "mentions": 3178,
+      "file_spread": 432,
+      "density": 7.4,
+      "score": 19292.8
+    },
+    {
+      "term": "nothing",
+      "kind": "uni",
+      "mentions": 3163,
+      "file_spread": 436,
+      "density": 7.3,
+      "score": 19230.8
+    },
+    {
+      "term": "cool",
+      "kind": "uni",
+      "mentions": 3056,
+      "file_spread": 431,
+      "density": 7.1,
+      "score": 18545.1
+    },
+    {
+      "term": "secondswhat",
+      "kind": "uni",
+      "mentions": 3393,
+      "file_spread": 235,
+      "density": 14.4,
+      "score": 18538.8
+    },
+    {
+      "term": "run",
+      "kind": "uni",
+      "mentions": 3034,
+      "file_spread": 421,
+      "density": 7.2,
+      "score": 18340.5
+    },
+    {
+      "term": "secondsthat",
+      "kind": "uni",
+      "mentions": 3315,
+      "file_spread": 239,
+      "density": 13.9,
+      "score": 18168.3
+    },
+    {
+      "term": "kill",
+      "kind": "uni",
+      "mentions": 3031,
+      "file_spread": 383,
+      "density": 7.9,
+      "score": 18036.4
+    },
+    {
+      "term": "watch",
+      "kind": "uni",
+      "mentions": 2951,
+      "file_spread": 427,
+      "density": 6.9,
+      "score": 17880.5
+    },
+    {
+      "term": "hell",
+      "kind": "uni",
+      "mentions": 2948,
+      "file_spread": 425,
+      "density": 6.9,
+      "score": 17848.5
+    },
+    {
+      "term": "four",
+      "kind": "uni",
+      "mentions": 2946,
+      "file_spread": 419,
+      "density": 7.0,
+      "score": 17794.6
+    },
+    {
+      "term": "coming",
+      "kind": "uni",
+      "mentions": 2954,
+      "file_spread": 411,
+      "density": 7.2,
+      "score": 17786.1
+    },
+    {
+      "term": "start",
+      "kind": "uni",
+      "mentions": 2918,
+      "file_spread": 430,
+      "density": 6.8,
+      "score": 17700.9
+    },
+    {
+      "term": "whatever",
+      "kind": "uni",
+      "mentions": 2899,
+      "file_spread": 438,
+      "density": 6.6,
+      "score": 17639.0
+    },
+    {
+      "term": "after",
+      "kind": "uni",
+      "mentions": 2903,
+      "file_spread": 434,
+      "density": 6.7,
+      "score": 17636.7
+    },
+    {
+      "term": "ever",
+      "kind": "uni",
+      "mentions": 2873,
+      "file_spread": 441,
+      "density": 6.5,
+      "score": 17500.3
+    },
+    {
+      "term": "always",
+      "kind": "uni",
+      "mentions": 2872,
+      "file_spread": 437,
+      "density": 6.6,
+      "score": 17468.1
+    },
+    {
+      "term": "games",
+      "kind": "uni",
+      "mentions": 2863,
+      "file_spread": 409,
+      "density": 7.0,
+      "score": 17224.3
+    },
+    {
+      "term": "next",
+      "kind": "uni",
+      "mentions": 2846,
+      "file_spread": 419,
+      "density": 6.8,
+      "score": 17190.6
+    },
+    {
+      "term": "life",
+      "kind": "uni",
+      "mentions": 2821,
+      "file_spread": 422,
+      "density": 6.7,
+      "score": 17059.6
+    },
+    {
+      "term": "world",
+      "kind": "uni",
+      "mentions": 2833,
+      "file_spread": 386,
+      "density": 7.3,
+      "score": 16880.2
+    },
+    {
+      "term": "call",
+      "kind": "uni",
+      "mentions": 2786,
+      "file_spread": 414,
+      "density": 6.7,
+      "score": 16794.8
+    },
+    {
+      "term": "battle",
+      "kind": "uni",
+      "mentions": 3069,
+      "file_spread": 231,
+      "density": 13.3,
+      "score": 16716.0
+    },
+    {
+      "term": "remember",
+      "kind": "uni",
+      "mentions": 2768,
+      "file_spread": 417,
+      "density": 6.6,
+      "score": 16706.2
+    },
+    {
+      "term": "care",
+      "kind": "uni",
+      "mentions": 2729,
+      "file_spread": 419,
+      "density": 6.5,
+      "score": 16483.9
+    },
+    {
+      "term": "enough",
+      "kind": "uni",
+      "mentions": 2683,
+      "file_spread": 428,
+      "density": 6.3,
+      "score": 16262.9
+    },
+    {
+      "term": "thank",
+      "kind": "uni",
+      "mentions": 2694,
+      "file_spread": 416,
+      "density": 6.5,
+      "score": 16253.1
+    },
+    {
+      "term": "great",
+      "kind": "uni",
+      "mentions": 2653,
+      "file_spread": 435,
+      "density": 6.1,
+      "score": 16124.0
+    },
+    {
+      "term": "area",
+      "kind": "uni",
+      "mentions": 2855,
+      "file_spread": 280,
+      "density": 10.2,
+      "score": 16097.5
+    },
+    {
+      "term": "while",
+      "kind": "uni",
+      "mentions": 2624,
+      "file_spread": 437,
+      "density": 6.0,
+      "score": 15959.7
+    },
+    {
+      "term": "name",
+      "kind": "uni",
+      "mentions": 2649,
+      "file_spread": 409,
+      "density": 6.5,
+      "score": 15936.8
+    },
+    {
+      "term": "talk",
+      "kind": "uni",
+      "mentions": 2658,
+      "file_spread": 396,
+      "density": 6.7,
+      "score": 15905.3
+    },
+    {
+      "term": "power",
+      "kind": "uni",
+      "mentions": 2703,
+      "file_spread": 358,
+      "density": 7.6,
+      "score": 15902.6
+    },
+    {
+      "term": "wanted",
+      "kind": "uni",
+      "mentions": 2583,
+      "file_spread": 435,
+      "density": 5.9,
+      "score": 15698.5
+    },
+    {
+      "term": "secondsit's",
+      "kind": "uni",
+      "mentions": 2847,
+      "file_spread": 240,
+      "density": 11.9,
+      "score": 15615.2
+    },
+    {
+      "term": "nice",
+      "kind": "uni",
+      "mentions": 2608,
+      "file_spread": 395,
+      "density": 6.6,
+      "score": 15599.5
+    },
+    {
+      "term": "open",
+      "kind": "uni",
+      "mentions": 2582,
+      "file_spread": 396,
+      "density": 6.5,
+      "score": 15450.5
+    },
+    {
+      "term": "baby",
+      "kind": "uni",
+      "mentions": 2559,
+      "file_spread": 381,
+      "density": 6.7,
+      "score": 15214.3
+    },
+    {
+      "term": "boy",
+      "kind": "uni",
+      "mentions": 2503,
+      "file_spread": 417,
+      "density": 6.0,
+      "score": 15106.8
+    },
+    {
+      "term": "ass",
+      "kind": "uni",
+      "mentions": 2477,
+      "file_spread": 408,
+      "density": 6.1,
+      "score": 14896.0
+    },
+    {
+      "term": "mission",
+      "kind": "uni",
+      "mentions": 2676,
+      "file_spread": 259,
+      "density": 10.3,
+      "score": 14880.4
+    },
+    {
+      "term": "live",
+      "kind": "uni",
+      "mentions": 2462,
+      "file_spread": 414,
+      "density": 5.9,
+      "score": 14841.6
+    },
+    {
+      "term": "team",
+      "kind": "uni",
+      "mentions": 2586,
+      "file_spread": 305,
+      "density": 8.5,
+      "score": 14801.2
+    },
+    {
+      "term": "fire",
+      "kind": "uni",
+      "mentions": 2524,
+      "file_spread": 335,
+      "density": 7.5,
+      "score": 14682.4
+    },
+    {
+      "term": "went",
+      "kind": "uni",
+      "mentions": 2418,
+      "file_spread": 402,
+      "density": 6.0,
+      "score": 14505.4
+    },
+    {
+      "term": "secondsit",
+      "kind": "uni",
+      "mentions": 2616,
+      "file_spread": 229,
+      "density": 11.4,
+      "score": 14226.0
+    },
+    {
+      "term": "win",
+      "kind": "uni",
+      "mentions": 2440,
+      "file_spread": 332,
+      "density": 7.3,
+      "score": 14171.9
+    },
+    {
+      "term": "eat",
+      "kind": "uni",
+      "mentions": 2391,
+      "file_spread": 363,
+      "density": 6.6,
+      "score": 14100.1
+    },
+    {
+      "term": "place",
+      "kind": "uni",
+      "mentions": 2333,
+      "file_spread": 419,
+      "density": 5.6,
+      "score": 14091.9
+    },
+    {
+      "term": "fun",
+      "kind": "uni",
+      "mentions": 2276,
+      "file_spread": 414,
+      "density": 5.5,
+      "score": 13720.4
+    },
+    {
+      "term": "found",
+      "kind": "uni",
+      "mentions": 2278,
+      "file_spread": 389,
+      "density": 5.9,
+      "score": 13590.9
+    },
+    {
+      "term": "buy",
+      "kind": "uni",
+      "mentions": 2294,
+      "file_spread": 367,
+      "density": 6.3,
+      "score": 13553.1
+    },
+    {
+      "term": "hard",
+      "kind": "uni",
+      "mentions": 2235,
+      "file_spread": 417,
+      "density": 5.4,
+      "score": 13489.3
+    },
+    {
+      "term": "person",
+      "kind": "uni",
+      "mentions": 2242,
+      "file_spread": 390,
+      "density": 5.7,
+      "score": 13381.8
+    },
+    {
+      "term": "face",
+      "kind": "uni",
+      "mentions": 2221,
+      "file_spread": 409,
+      "density": 5.4,
+      "score": 13361.9
+    },
+    {
+      "term": "end",
+      "kind": "uni",
+      "mentions": 2204,
+      "file_spread": 400,
+      "density": 5.5,
+      "score": 13210.7
+    },
+    {
+      "term": "best",
+      "kind": "uni",
+      "mentions": 2194,
+      "file_spread": 405,
+      "density": 5.4,
+      "score": 13177.9
+    },
+    {
+      "term": "means",
+      "kind": "uni",
+      "mentions": 2171,
+      "file_spread": 411,
+      "density": 5.3,
+      "score": 13071.6
+    },
+    {
+      "term": "fine",
+      "kind": "uni",
+      "mentions": 2154,
+      "file_spread": 410,
+      "density": 5.3,
+      "score": 12964.0
+    },
+    {
+      "term": "almost",
+      "kind": "uni",
+      "mentions": 2185,
+      "file_spread": 375,
+      "density": 5.8,
+      "score": 12956.2
+    },
+    {
+      "term": "part",
+      "kind": "uni",
+      "mentions": 2166,
+      "file_spread": 394,
+      "density": 5.5,
+      "score": 12950.3
+    },
+    {
+      "term": "secondsno",
+      "kind": "uni",
+      "mentions": 2348,
+      "file_spread": 238,
+      "density": 9.9,
+      "score": 12858.7
+    },
+    {
+      "term": "check",
+      "kind": "uni",
+      "mentions": 2137,
+      "file_spread": 380,
+      "density": 5.6,
+      "score": 12699.8
+    },
+    {
+      "term": "chat",
+      "kind": "uni",
+      "mentions": 2132,
+      "file_spread": 376,
+      "density": 5.7,
+      "score": 12647.5
+    },
+    {
+      "term": "until",
+      "kind": "uni",
+      "mentions": 2123,
+      "file_spread": 385,
+      "density": 5.5,
+      "score": 12644.2
+    },
+    {
+      "term": "hold",
+      "kind": "uni",
+      "mentions": 2122,
+      "file_spread": 386,
+      "density": 5.5,
+      "score": 12643.8
+    },
+    {
+      "term": "room",
+      "kind": "uni",
+      "mentions": 2157,
+      "file_spread": 349,
+      "density": 6.2,
+      "score": 12635.6
+    },
+    {
+      "term": "move",
+      "kind": "uni",
+      "mentions": 2104,
+      "file_spread": 400,
+      "density": 5.3,
+      "score": 12611.3
+    },
+    {
+      "term": "makes",
+      "kind": "uni",
+      "mentions": 2074,
+      "file_spread": 415,
+      "density": 5.0,
+      "score": 12507.6
+    },
+    {
+      "term": "yet",
+      "kind": "uni",
+      "mentions": 2091,
+      "file_spread": 394,
+      "density": 5.3,
+      "score": 12501.9
+    },
+    {
+      "term": "stay",
+      "kind": "uni",
+      "mentions": 2104,
+      "file_spread": 378,
+      "density": 5.6,
+      "score": 12492.6
+    },
+    {
+      "term": "button",
+      "kind": "uni",
+      "mentions": 2097,
+      "file_spread": 364,
+      "density": 5.8,
+      "score": 12372.1
+    },
+    {
+      "term": "called",
+      "kind": "uni",
+      "mentions": 2039,
+      "file_spread": 390,
+      "density": 5.2,
+      "score": 12170.2
+    },
+    {
+      "term": "head",
+      "kind": "uni",
+      "mentions": 1997,
+      "file_spread": 390,
+      "density": 5.1,
+      "score": 11919.5
+    },
+    {
+      "term": "secondsso",
+      "kind": "uni",
+      "mentions": 2160,
+      "file_spread": 233,
+      "density": 9.3,
+      "score": 11783.5
+    },
+    {
+      "term": "whoa",
+      "kind": "uni",
+      "mentions": 2046,
+      "file_spread": 315,
+      "density": 6.5,
+      "score": 11776.2
+    },
+    {
+      "term": "secondsthat's",
+      "kind": "uni",
+      "mentions": 2142,
+      "file_spread": 230,
+      "density": 9.3,
+      "score": 11657.7
+    },
+    {
+      "term": "understand",
+      "kind": "uni",
+      "mentions": 1929,
+      "file_spread": 381,
+      "density": 5.1,
+      "score": 11468.7
+    },
+    {
+      "term": "saw",
+      "kind": "uni",
+      "mentions": 1921,
+      "file_spread": 390,
+      "density": 4.9,
+      "score": 11465.9
+    },
+    {
+      "term": "used",
+      "kind": "uni",
+      "mentions": 1908,
+      "file_spread": 405,
+      "density": 4.7,
+      "score": 11460.1
+    },
+    {
+      "term": "supposed",
+      "kind": "uni",
+      "mentions": 1913,
+      "file_spread": 382,
+      "density": 5.0,
+      "score": 11378.6
+    },
+    {
+      "term": "using",
+      "kind": "uni",
+      "mentions": 1900,
+      "file_spread": 386,
+      "density": 4.9,
+      "score": 11321.0
+    },
+    {
+      "term": "funny",
+      "kind": "uni",
+      "mentions": 1893,
+      "file_spread": 377,
+      "density": 5.0,
+      "score": 11234.8
+    },
+    {
+      "term": "car",
+      "kind": "uni",
+      "mentions": 1943,
+      "file_spread": 318,
+      "density": 6.1,
+      "score": 11201.8
+    },
+    {
+      "term": "able",
+      "kind": "uni",
+      "mentions": 1873,
+      "file_spread": 394,
+      "density": 4.8,
+      "score": 11198.5
+    },
+    {
+      "term": "says",
+      "kind": "uni",
+      "mentions": 1849,
+      "file_spread": 416,
+      "density": 4.4,
+      "score": 11155.2
+    },
+    {
+      "term": "behind",
+      "kind": "uni",
+      "mentions": 1896,
+      "file_spread": 354,
+      "density": 5.4,
+      "score": 11133.5
+    },
+    {
+      "term": "hope",
+      "kind": "uni",
+      "mentions": 1854,
+      "file_spread": 392,
+      "density": 4.7,
+      "score": 11075.4
+    },
+    {
+      "term": "door",
+      "kind": "uni",
+      "mentions": 1913,
+      "file_spread": 316,
+      "density": 6.1,
+      "score": 11016.8
+    },
+    {
+      "term": "die",
+      "kind": "uni",
+      "mentions": 1858,
+      "file_spread": 363,
+      "density": 5.1,
+      "score": 10956.9
+    },
+    {
+      "term": "reason",
+      "kind": "uni",
+      "mentions": 1830,
+      "file_spread": 395,
+      "density": 4.6,
+      "score": 10946.0
+    },
+    {
+      "term": "problem",
+      "kind": "uni",
+      "mentions": 1828,
+      "file_spread": 393,
+      "density": 4.7,
+      "score": 10924.8
+    },
+    {
+      "term": "red",
+      "kind": "uni",
+      "mentions": 1862,
+      "file_spread": 349,
+      "density": 5.3,
+      "score": 10907.5
+    },
+    {
+      "term": "worry",
+      "kind": "uni",
+      "mentions": 1824,
+      "file_spread": 377,
+      "density": 4.8,
+      "score": 10825.2
+    },
+    {
+      "term": "black",
+      "kind": "uni",
+      "mentions": 1855,
+      "file_spread": 337,
+      "density": 5.5,
+      "score": 10801.8
+    },
+    {
+      "term": "different",
+      "kind": "uni",
+      "mentions": 1816,
+      "file_spread": 382,
+      "density": 4.8,
+      "score": 10801.6
+    },
+    {
+      "term": "job",
+      "kind": "uni",
+      "mentions": 1832,
+      "file_spread": 357,
+      "density": 5.1,
+      "score": 10773.1
+    },
+    {
+      "term": "everyone",
+      "kind": "uni",
+      "mentions": 1807,
+      "file_spread": 387,
+      "density": 4.7,
+      "score": 10771.5
+    },
+    {
+      "term": "wrong",
+      "kind": "uni",
+      "mentions": 1790,
+      "file_spread": 398,
+      "density": 4.5,
+      "score": 10720.2
+    },
+    {
+      "term": "hate",
+      "kind": "uni",
+      "mentions": 1796,
+      "file_spread": 379,
+      "density": 4.7,
+      "score": 10668.5
+    },
+    {
+      "term": "hurt",
+      "kind": "uni",
+      "mentions": 1857,
+      "file_spread": 308,
+      "density": 6.0,
+      "score": 10646.8
+    },
+    {
+      "term": "secondsuh",
+      "kind": "uni",
+      "mentions": 1963,
+      "file_spread": 225,
+      "density": 8.7,
+      "score": 10640.5
+    },
+    {
+      "term": "pick",
+      "kind": "uni",
+      "mentions": 1789,
+      "file_spread": 380,
+      "density": 4.7,
+      "score": 10631.7
+    },
+    {
+      "term": "press",
+      "kind": "uni",
+      "mentions": 1850,
+      "file_spread": 306,
+      "density": 6.0,
+      "score": 10594.7
+    },
+    {
+      "term": "save",
+      "kind": "uni",
+      "mentions": 1782,
+      "file_spread": 376,
+      "density": 4.7,
+      "score": 10571.3
+    },
+    {
+      "term": "youtube",
+      "kind": "uni",
+      "mentions": 1785,
+      "file_spread": 344,
+      "density": 5.2,
+      "score": 10430.7
+    },
+    {
+      "term": "full",
+      "kind": "uni",
+      "mentions": 1746,
+      "file_spread": 388,
+      "density": 4.5,
+      "score": 10412.4
+    },
+    {
+      "term": "side",
+      "kind": "uni",
+      "mentions": 1752,
+      "file_spread": 360,
+      "density": 4.9,
+      "score": 10317.3
+    },
+    {
+      "term": "once",
+      "kind": "uni",
+      "mentions": 1732,
+      "file_spread": 383,
+      "density": 4.5,
+      "score": 10306.5
+    },
+    {
+      "term": "stupid",
+      "kind": "uni",
+      "mentions": 1726,
+      "file_spread": 376,
+      "density": 4.6,
+      "score": 10239.1
+    },
+    {
+      "term": "hello",
+      "kind": "uni",
+      "mentions": 1728,
+      "file_spread": 367,
+      "density": 4.7,
+      "score": 10209.2
+    },
+    {
+      "term": "secondslike",
+      "kind": "uni",
+      "mentions": 1871,
+      "file_spread": 233,
+      "density": 8.0,
+      "score": 10206.9
+    },
+    {
+      "term": "easy",
+      "kind": "uni",
+      "mentions": 1706,
+      "file_spread": 377,
+      "density": 4.5,
+      "score": 10124.9
+    },
+    {
+      "term": "mario",
+      "kind": "uni",
+      "mentions": 1904,
+      "file_spread": 201,
+      "density": 9.5,
+      "score": 10106.9
+    },
+    {
+      "term": "secondswe",
+      "kind": "uni",
+      "mentions": 1870,
+      "file_spread": 216,
+      "density": 8.7,
+      "score": 10060.4
+    },
+    {
+      "term": "gun",
+      "kind": "uni",
+      "mentions": 1772,
+      "file_spread": 278,
+      "density": 6.4,
+      "score": 9978.5
+    },
+    {
+      "term": "starts",
+      "kind": "uni",
+      "mentions": 1808,
+      "file_spread": 247,
+      "density": 7.3,
+      "score": 9968.3
+    },
+    {
+      "term": "today",
+      "kind": "uni",
+      "mentions": 1655,
+      "file_spread": 403,
+      "density": 4.1,
+      "score": 9932.3
+    },
+    {
+      "term": "vehicle",
+      "kind": "uni",
+      "mentions": 1944,
+      "file_spread": 161,
+      "density": 12.1,
+      "score": 9890.3
+    },
+    {
+      "term": "free",
+      "kind": "uni",
+      "mentions": 1670,
+      "file_spread": 361,
+      "density": 4.6,
+      "score": 9839.0
+    },
+    {
+      "term": "fast",
+      "kind": "uni",
+      "mentions": 1654,
+      "file_spread": 357,
+      "density": 4.6,
+      "score": 9726.4
+    },
+    {
+      "term": "super",
+      "kind": "uni",
+      "mentions": 1630,
+      "file_spread": 381,
+      "density": 4.3,
+      "score": 9691.0
+    },
+    {
+      "term": "yep",
+      "kind": "uni",
+      "mentions": 1644,
+      "file_spread": 356,
+      "density": 4.6,
+      "score": 9663.0
+    },
+    {
+      "term": "secondsyou're",
+      "kind": "uni",
+      "mentions": 1805,
+      "file_spread": 209,
+      "density": 8.6,
+      "score": 9651.5
+    },
+    {
+      "term": "believe",
+      "kind": "uni",
+      "mentions": 1626,
+      "file_spread": 376,
+      "density": 4.3,
+      "score": 9645.8
+    },
+    {
+      "term": "fix",
+      "kind": "uni",
+      "mentions": 1617,
+      "file_spread": 386,
+      "density": 4.2,
+      "score": 9634.8
+    },
+    {
+      "term": "leave",
+      "kind": "uni",
+      "mentions": 1620,
+      "file_spread": 380,
+      "density": 4.3,
+      "score": 9627.3
+    },
+    {
+      "term": "water",
+      "kind": "uni",
+      "mentions": 1648,
+      "file_spread": 343,
+      "density": 4.8,
+      "score": 9625.4
+    },
+    {
+      "term": "close",
+      "kind": "uni",
+      "mentions": 1607,
+      "file_spread": 390,
+      "density": 4.1,
+      "score": 9591.7
+    },
+    {
+      "term": "attack",
+      "kind": "uni",
+      "mentions": 1757,
+      "file_spread": 232,
+      "density": 7.6,
+      "score": 9577.5
+    },
+    {
+      "term": "pay",
+      "kind": "uni",
+      "mentions": 1638,
+      "file_spread": 343,
+      "density": 4.8,
+      "score": 9567.0
+    },
+    {
+      "term": "secondsa",
+      "kind": "uni",
+      "mentions": 1770,
+      "file_spread": 221,
+      "density": 8.0,
+      "score": 9562.7
+    },
+    {
+      "term": "least",
+      "kind": "uni",
+      "mentions": 1586,
+      "file_spread": 393,
+      "density": 4.0,
+      "score": 9478.5
+    },
+    {
+      "term": "played",
+      "kind": "uni",
+      "mentions": 1602,
+      "file_spread": 367,
+      "density": 4.4,
+      "score": 9464.7
+    },
+    {
+      "term": "mind",
+      "kind": "uni",
+      "mentions": 1607,
+      "file_spread": 345,
+      "density": 4.7,
+      "score": 9395.2
+    },
+    {
+      "term": "night",
+      "kind": "uni",
+      "mentions": 1595,
+      "file_spread": 357,
+      "density": 4.5,
+      "score": 9379.5
+    },
+    {
+      "term": "happened",
+      "kind": "uni",
+      "mentions": 1583,
+      "file_spread": 373,
+      "density": 4.2,
+      "score": 9378.1
+    },
+    {
+      "term": "told",
+      "kind": "uni",
+      "mentions": 1580,
+      "file_spread": 376,
+      "density": 4.2,
+      "score": 9372.9
+    },
+    {
+      "term": "myself",
+      "kind": "uni",
+      "mentions": 1567,
+      "file_spread": 392,
+      "density": 4.0,
+      "score": 9361.0
+    },
+    {
+      "term": "weird",
+      "kind": "uni",
+      "mentions": 1575,
+      "file_spread": 378,
+      "density": 4.2,
+      "score": 9351.6
+    },
+    {
+      "term": "lost",
+      "kind": "uni",
+      "mentions": 1588,
+      "file_spread": 358,
+      "density": 4.4,
+      "score": 9342.7
+    },
+    {
+      "term": "dog",
+      "kind": "uni",
+      "mentions": 1611,
+      "file_spread": 323,
+      "density": 5.0,
+      "score": 9312.8
+    },
+    {
+      "term": "capture",
+      "kind": "uni",
+      "mentions": 1772,
+      "file_spread": 186,
+      "density": 9.5,
+      "score": 9269.5
+    },
+    {
+      "term": "secondswell",
+      "kind": "uni",
+      "mentions": 1705,
+      "file_spread": 223,
+      "density": 7.6,
+      "score": 9226.9
+    },
+    {
+      "term": "welcome",
+      "kind": "uni",
+      "mentions": 1635,
+      "file_spread": 275,
+      "density": 5.9,
+      "score": 9189.4
+    },
+    {
+      "term": "gone",
+      "kind": "uni",
+      "mentions": 1548,
+      "file_spread": 369,
+      "density": 4.2,
+      "score": 9154.1
+    },
+    {
+      "term": "works",
+      "kind": "uni",
+      "mentions": 1529,
+      "file_spread": 395,
+      "density": 3.9,
+      "score": 9145.6
+    },
+    {
+      "term": "happy",
+      "kind": "uni",
+      "mentions": 1533,
+      "file_spread": 377,
+      "density": 4.1,
+      "score": 9098.2
+    },
+    {
+      "term": "secondsum",
+      "kind": "uni",
+      "mentions": 1673,
+      "file_spread": 228,
+      "density": 7.3,
+      "score": 9090.6
+    },
+    {
+      "term": "gamer",
+      "kind": "uni",
+      "mentions": 1626,
+      "file_spread": 253,
+      "density": 6.4,
+      "score": 9003.7
+    },
+    {
+      "term": "wow",
+      "kind": "uni",
+      "mentions": 1510,
+      "file_spread": 383,
+      "density": 3.9,
+      "score": 8985.5
+    },
+    {
+      "term": "goes",
+      "kind": "uni",
+      "mentions": 1511,
+      "file_spread": 375,
+      "density": 4.0,
+      "score": 8959.6
+    },
+    {
+      "term": "gets",
+      "kind": "uni",
+      "mentions": 1510,
+      "file_spread": 376,
+      "density": 4.0,
+      "score": 8957.7
+    },
+    {
+      "term": "thinking",
+      "kind": "uni",
+      "mentions": 1490,
+      "file_spread": 394,
+      "density": 3.8,
+      "score": 8908.5
+    },
+    {
+      "term": "heard",
+      "kind": "uni",
+      "mentions": 1503,
+      "file_spread": 372,
+      "density": 4.0,
+      "score": 8900.1
+    },
+    {
+      "term": "watching",
+      "kind": "uni",
+      "mentions": 1506,
+      "file_spread": 364,
+      "density": 4.1,
+      "score": 8885.2
+    },
+    {
+      "term": "bunch",
+      "kind": "uni",
+      "mentions": 1483,
+      "file_spread": 386,
+      "density": 3.8,
+      "score": 8836.3
+    },
+    {
+      "term": "fight",
+      "kind": "uni",
+      "mentions": 1525,
+      "file_spread": 314,
+      "density": 4.9,
+      "score": 8772.7
+    },
+    {
+      "term": "anyway",
+      "kind": "uni",
+      "mentions": 1475,
+      "file_spread": 381,
+      "density": 3.9,
+      "score": 8769.5
+    },
+    {
+      "term": "walk",
+      "kind": "uni",
+      "mentions": 1501,
+      "file_spread": 342,
+      "density": 4.4,
+      "score": 8762.4
+    },
+    {
+      "term": "secondsbut",
+      "kind": "uni",
+      "mentions": 1611,
+      "file_spread": 221,
+      "density": 7.3,
+      "score": 8703.7
+    },
+    {
+      "term": "friend",
+      "kind": "uni",
+      "mentions": 1488,
+      "file_spread": 344,
+      "density": 4.3,
+      "score": 8695.2
+    },
+    {
+      "term": "huh",
+      "kind": "uni",
+      "mentions": 1466,
+      "file_spread": 362,
+      "density": 4.0,
+      "score": 8641.2
+    },
+    {
+      "term": "honey",
+      "kind": "uni",
+      "mentions": 1526,
+      "file_spread": 282,
+      "density": 5.4,
+      "score": 8615.0
+    },
+    {
+      "term": "change",
+      "kind": "uni",
+      "mentions": 1452,
+      "file_spread": 360,
+      "density": 4.0,
+      "score": 8550.7
+    },
+    {
+      "term": "set",
+      "kind": "uni",
+      "mentions": 1448,
+      "file_spread": 365,
+      "density": 4.0,
+      "score": 8547.0
+    },
+    {
+      "term": "secondsis",
+      "kind": "uni",
+      "mentions": 1574,
+      "file_spread": 226,
+      "density": 7.0,
+      "score": 8538.9
+    },
+    {
+      "term": "streaming",
+      "kind": "uni",
+      "mentions": 1458,
+      "file_spread": 347,
+      "density": 4.2,
+      "score": 8532.5
+    },
+    {
+      "term": "top",
+      "kind": "uni",
+      "mentions": 1446,
+      "file_spread": 360,
+      "density": 4.0,
+      "score": 8515.3
+    },
+    {
+      "term": "friends",
+      "kind": "uni",
+      "mentions": 1469,
+      "file_spread": 314,
+      "density": 4.7,
+      "score": 8450.5
+    },
+    {
+      "term": "working",
+      "kind": "uni",
+      "mentions": 1433,
+      "file_spread": 356,
+      "density": 4.0,
+      "score": 8422.8
+    },
+    {
+      "term": "home",
+      "kind": "uni",
+      "mentions": 1445,
+      "file_spread": 337,
+      "density": 4.3,
+      "score": 8414.3
+    },
+    {
+      "term": "screen",
+      "kind": "uni",
+      "mentions": 1435,
+      "file_spread": 344,
+      "density": 4.2,
+      "score": 8385.5
+    },
+    {
+      "term": "switch",
+      "kind": "uni",
+      "mentions": 1450,
+      "file_spread": 311,
+      "density": 4.7,
+      "score": 8327.4
+    },
+    {
+      "term": "both",
+      "kind": "uni",
+      "mentions": 1397,
+      "file_spread": 374,
+      "density": 3.7,
+      "score": 8279.9
+    },
+    {
+      "term": "twitch",
+      "kind": "uni",
+      "mentions": 1465,
+      "file_spread": 283,
+      "density": 5.2,
+      "score": 8275.7
+    },
+    {
+      "term": "running",
+      "kind": "uni",
+      "mentions": 1401,
+      "file_spread": 364,
+      "density": 3.8,
+      "score": 8265.8
+    },
+    {
+      "term": "idea",
+      "kind": "uni",
+      "mentions": 1403,
+      "file_spread": 353,
+      "density": 4.0,
+      "score": 8234.6
+    },
+    {
+      "term": "haven't",
+      "kind": "uni",
+      "mentions": 1384,
+      "file_spread": 366,
+      "density": 3.8,
+      "score": 8173.0
+    },
+    {
+      "term": "mission area",
+      "kind": "bi",
+      "mentions": 1775,
+      "file_spread": 97,
+      "density": 18.3,
+      "score": 8138.3
+    },
+    {
+      "term": "secondsto",
+      "kind": "uni",
+      "mentions": 1502,
+      "file_spread": 224,
+      "density": 6.7,
+      "score": 8135.0
+    },
+    {
+      "term": "secondsthere",
+      "kind": "uni",
+      "mentions": 1491,
+      "file_spread": 229,
+      "density": 6.5,
+      "score": 8108.2
+    },
+    {
+      "term": "feeling",
+      "kind": "uni",
+      "mentions": 1423,
+      "file_spread": 295,
+      "density": 4.8,
+      "score": 8097.4
+    },
+    {
+      "term": "gave",
+      "kind": "uni",
+      "mentions": 1384,
+      "file_spread": 345,
+      "density": 4.0,
+      "score": 8091.5
+    },
+    {
+      "term": "read",
+      "kind": "uni",
+      "mentions": 1392,
+      "file_spread": 333,
+      "density": 4.2,
+      "score": 8089.1
+    },
+    {
+      "term": "together",
+      "kind": "uni",
+      "mentions": 1399,
+      "file_spread": 318,
+      "density": 4.4,
+      "score": 8065.5
+    },
+    {
+      "term": "sound",
+      "kind": "uni",
+      "mentions": 1384,
+      "file_spread": 337,
+      "density": 4.1,
+      "score": 8059.1
+    },
+    {
+      "term": "half",
+      "kind": "uni",
+      "mentions": 1369,
+      "file_spread": 346,
+      "density": 4.0,
+      "score": 8007.7
+    },
+    {
+      "term": "house",
+      "kind": "uni",
+      "mentions": 1383,
+      "file_spread": 312,
+      "density": 4.4,
+      "score": 7947.0
+    },
+    {
+      "term": "shoot",
+      "kind": "uni",
+      "mentions": 1389,
+      "file_spread": 304,
+      "density": 4.6,
+      "score": 7945.5
+    },
+    {
+      "term": "control",
+      "kind": "uni",
+      "mentions": 1398,
+      "file_spread": 291,
+      "density": 4.8,
+      "score": 7936.1
+    },
+    {
+      "term": "box",
+      "kind": "uni",
+      "mentions": 1376,
+      "file_spread": 313,
+      "density": 4.4,
+      "score": 7911.2
+    },
+    {
+      "term": "jump",
+      "kind": "uni",
+      "mentions": 1406,
+      "file_spread": 276,
+      "density": 5.1,
+      "score": 7907.4
+    },
+    {
+      "term": "sense",
+      "kind": "uni",
+      "mentions": 1342,
+      "file_spread": 342,
+      "density": 3.9,
+      "score": 7834.2
+    },
+    {
+      "term": "fact",
+      "kind": "uni",
+      "mentions": 1342,
+      "file_spread": 339,
+      "density": 4.0,
+      "score": 7822.4
+    },
+    {
+      "term": "moving",
+      "kind": "uni",
+      "mentions": 1354,
+      "file_spread": 319,
+      "density": 4.2,
+      "score": 7810.3
+    },
+    {
+      "term": "against",
+      "kind": "uni",
+      "mentions": 1363,
+      "file_spread": 303,
+      "density": 4.5,
+      "score": 7792.3
+    },
+    {
+      "term": "food",
+      "kind": "uni",
+      "mentions": 1362,
+      "file_spread": 299,
+      "density": 4.6,
+      "score": 7768.6
+    },
+    {
+      "term": "telling",
+      "kind": "uni",
+      "mentions": 1317,
+      "file_spread": 360,
+      "density": 3.7,
+      "score": 7755.7
+    },
+    {
+      "term": "phone",
+      "kind": "uni",
+      "mentions": 1340,
+      "file_spread": 322,
+      "density": 4.2,
+      "score": 7742.1
+    },
+    {
+      "term": "camera",
+      "kind": "uni",
+      "mentions": 1358,
+      "file_spread": 292,
+      "density": 4.7,
+      "score": 7713.7
+    },
+    {
+      "term": "needs",
+      "kind": "uni",
+      "mentions": 1326,
+      "file_spread": 328,
+      "density": 4.0,
+      "score": 7685.6
+    },
+    {
+      "term": "computer",
+      "kind": "uni",
+      "mentions": 1306,
+      "file_spread": 338,
+      "density": 3.9,
+      "score": 7608.8
+    },
+    {
+      "term": "ones",
+      "kind": "uni",
+      "mentions": 1291,
+      "file_spread": 348,
+      "density": 3.7,
+      "score": 7558.9
+    },
+    {
+      "term": "far",
+      "kind": "uni",
+      "mentions": 1281,
+      "file_spread": 363,
+      "density": 3.5,
+      "score": 7554.3
+    },
+    {
+      "term": "thanks",
+      "kind": "uni",
+      "mentions": 1295,
+      "file_spread": 332,
+      "density": 3.9,
+      "score": 7521.5
+    },
+    {
+      "term": "secondshey",
+      "kind": "uni",
+      "mentions": 1419,
+      "file_spread": 199,
+      "density": 7.1,
+      "score": 7518.3
+    },
+    {
+      "term": "secondsmy",
+      "kind": "uni",
+      "mentions": 1396,
+      "file_spread": 214,
+      "density": 6.5,
+      "score": 7497.4
+    },
+    {
+      "term": "beat",
+      "kind": "uni",
+      "mentions": 1299,
+      "file_spread": 315,
+      "density": 4.1,
+      "score": 7476.7
+    },
+    {
+      "term": "finally",
+      "kind": "uni",
+      "mentions": 1271,
+      "file_spread": 357,
+      "density": 3.6,
+      "score": 7474.2
+    },
+    {
+      "term": "damage",
+      "kind": "uni",
+      "mentions": 1360,
+      "file_spread": 231,
+      "density": 5.9,
+      "score": 7407.6
+    },
+    {
+      "term": "tried",
+      "kind": "uni",
+      "mentions": 1268,
+      "file_spread": 335,
+      "density": 3.8,
+      "score": 7376.1
+    },
+    {
+      "term": "secondsnow",
+      "kind": "uni",
+      "mentions": 1369,
+      "file_spread": 217,
+      "density": 6.3,
+      "score": 7371.4
+    },
+    {
+      "term": "mine",
+      "kind": "uni",
+      "mentions": 1278,
+      "file_spread": 313,
+      "density": 4.1,
+      "score": 7347.7
+    },
+    {
+      "term": "hand",
+      "kind": "uni",
+      "mentions": 1265,
+      "file_spread": 328,
+      "density": 3.9,
+      "score": 7332.0
+    },
+    {
+      "term": "high",
+      "kind": "uni",
+      "mentions": 1245,
+      "file_spread": 349,
+      "density": 3.6,
+      "score": 7293.1
+    },
+    {
+      "term": "without",
+      "kind": "uni",
+      "mentions": 1243,
+      "file_spread": 351,
+      "density": 3.5,
+      "score": 7288.5
+    },
+    {
+      "term": "secondsright",
+      "kind": "uni",
+      "mentions": 1340,
+      "file_spread": 224,
+      "density": 6.0,
+      "score": 7257.6
+    },
+    {
+      "term": "break",
+      "kind": "uni",
+      "mentions": 1258,
+      "file_spread": 316,
+      "density": 4.0,
+      "score": 7244.7
+    },
+    {
+      "term": "hot",
+      "kind": "uni",
+      "mentions": 1245,
+      "file_spread": 333,
+      "density": 3.7,
+      "score": 7234.9
+    },
+    {
+      "term": "secondsdon't",
+      "kind": "uni",
+      "mentions": 1351,
+      "file_spread": 209,
+      "density": 6.5,
+      "score": 7223.9
+    },
+    {
+      "term": "figure",
+      "kind": "uni",
+      "mentions": 1224,
+      "file_spread": 349,
+      "density": 3.5,
+      "score": 7170.1
+    },
+    {
+      "term": "taking",
+      "kind": "uni",
+      "mentions": 1210,
+      "file_spread": 367,
+      "density": 3.3,
+      "score": 7148.8
+    },
+    {
+      "term": "girl",
+      "kind": "uni",
+      "mentions": 1259,
+      "file_spread": 279,
+      "density": 4.5,
+      "score": 7094.2
+    },
+    {
+      "term": "spider-man",
+      "kind": "uni",
+      "mentions": 1442,
+      "file_spread": 131,
+      "density": 11.0,
+      "score": 7041.0
+    },
+    {
+      "term": "six",
+      "kind": "uni",
+      "mentions": 1206,
+      "file_spread": 330,
+      "density": 3.7,
+      "score": 6997.4
+    },
+    {
+      "term": "heat",
+      "kind": "uni",
+      "mentions": 1364,
+      "file_spread": 168,
+      "density": 8.1,
+      "score": 6997.2
+    },
+    {
+      "term": "yourself",
+      "kind": "uni",
+      "mentions": 1198,
+      "file_spread": 339,
+      "density": 3.5,
+      "score": 6983.1
+    },
+    {
+      "term": "magic",
+      "kind": "uni",
+      "mentions": 1280,
+      "file_spread": 233,
+      "density": 5.5,
+      "score": 6982.8
+    },
+    {
+      "term": "death",
+      "kind": "uni",
+      "mentions": 1227,
+      "file_spread": 291,
+      "density": 4.2,
+      "score": 6965.4
+    },
+    {
+      "term": "movie",
+      "kind": "uni",
+      "mentions": 1269,
+      "file_spread": 240,
+      "density": 5.3,
+      "score": 6960.2
+    },
+    {
+      "term": "ask",
+      "kind": "uni",
+      "mentions": 1187,
+      "file_spread": 350,
+      "density": 3.4,
+      "score": 6956.8
+    },
+    {
+      "term": "strong",
+      "kind": "uni",
+      "mentions": 1295,
+      "file_spread": 214,
+      "density": 6.1,
+      "score": 6955.0
+    },
+    {
+      "term": "voice",
+      "kind": "uni",
+      "mentions": 1207,
+      "file_spread": 312,
+      "density": 3.9,
+      "score": 6935.7
+    },
+    {
+      "term": "forward",
+      "kind": "uni",
+      "mentions": 1357,
+      "file_spread": 164,
+      "density": 8.3,
+      "score": 6928.8
+    },
+    {
+      "term": "discord",
+      "kind": "uni",
+      "mentions": 1222,
+      "file_spread": 280,
+      "density": 4.4,
+      "score": 6890.1
+    },
+    {
+      "term": "send",
+      "kind": "uni",
+      "mentions": 1192,
+      "file_spread": 311,
+      "density": 3.8,
+      "score": 6845.7
+    },
+    {
+      "term": "later",
+      "kind": "uni",
+      "mentions": 1169,
+      "file_spread": 326,
+      "density": 3.6,
+      "score": 6768.5
+    },
+    {
+      "term": "stuck",
+      "kind": "uni",
+      "mentions": 1162,
+      "file_spread": 325,
+      "density": 3.6,
+      "score": 6724.4
+    },
+    {
+      "term": "sounds",
+      "kind": "uni",
+      "mentions": 1152,
+      "file_spread": 337,
+      "density": 3.4,
+      "score": 6708.1
+    },
+    {
+      "term": "level",
+      "kind": "uni",
+      "mentions": 1188,
+      "file_spread": 281,
+      "density": 4.2,
+      "score": 6702.6
+    },
+    {
+      "term": "killed",
+      "kind": "uni",
+      "mentions": 1166,
+      "file_spread": 297,
+      "density": 3.9,
+      "score": 6642.8
+    },
+    {
+      "term": "pass",
+      "kind": "uni",
+      "mentions": 1205,
+      "file_spread": 245,
+      "density": 4.9,
+      "score": 6633.9
+    },
+    {
+      "term": "kick",
+      "kind": "uni",
+      "mentions": 1192,
+      "file_spread": 256,
+      "density": 4.7,
+      "score": 6614.5
+    },
+    {
+      "term": "health",
+      "kind": "uni",
+      "mentions": 1188,
+      "file_spread": 257,
+      "density": 4.6,
+      "score": 6596.9
+    },
+    {
+      "term": "card",
+      "kind": "uni",
+      "mentions": 1181,
+      "file_spread": 264,
+      "density": 4.5,
+      "score": 6589.7
+    },
+    {
+      "term": "crazy",
+      "kind": "uni",
+      "mentions": 1147,
+      "file_spread": 310,
+      "density": 3.7,
+      "score": 6583.5
+    },
+    {
+      "term": "song",
+      "kind": "uni",
+      "mentions": 1168,
+      "file_spread": 274,
+      "density": 4.3,
+      "score": 6560.4
+    },
+    {
+      "term": "died",
+      "kind": "uni",
+      "mentions": 1145,
+      "file_spread": 304,
+      "density": 3.8,
+      "score": 6549.8
+    },
+    {
+      "term": "jeff",
+      "kind": "uni",
+      "mentions": 1360,
+      "file_spread": 121,
+      "density": 11.2,
+      "score": 6533.5
+    },
+    {
+      "term": "battle starts",
+      "kind": "bi",
+      "mentions": 1428,
+      "file_spread": 96,
+      "density": 14.9,
+      "score": 6532.7
+    },
+    {
+      "term": "throw",
+      "kind": "uni",
+      "mentions": 1141,
+      "file_spread": 304,
+      "density": 3.8,
+      "score": 6526.9
+    },
+    {
+      "term": "started",
+      "kind": "uni",
+      "mentions": 1108,
+      "file_spread": 357,
+      "density": 3.1,
+      "score": 6515.6
+    },
+    {
+      "term": "instead",
+      "kind": "uni",
+      "mentions": 1099,
+      "file_spread": 362,
+      "density": 3.0,
+      "score": 6477.9
+    },
+    {
+      "term": "character",
+      "kind": "uni",
+      "mentions": 1138,
+      "file_spread": 290,
+      "density": 3.9,
+      "score": 6456.2
+    },
+    {
+      "term": "blue",
+      "kind": "uni",
+      "mentions": 1142,
+      "file_spread": 284,
+      "density": 4.0,
+      "score": 6455.1
+    },
+    {
+      "term": "yours",
+      "kind": "uni",
+      "mentions": 1165,
+      "file_spread": 253,
+      "density": 4.6,
+      "score": 6451.0
+    },
+    {
+      "term": "needed",
+      "kind": "uni",
+      "mentions": 1117,
+      "file_spread": 317,
+      "density": 3.5,
+      "score": 6436.2
+    },
+    {
+      "term": "bring",
+      "kind": "uni",
+      "mentions": 1107,
+      "file_spread": 325,
+      "density": 3.4,
+      "score": 6406.1
+    },
+    {
+      "term": "case",
+      "kind": "uni",
+      "mentions": 1117,
+      "file_spread": 305,
+      "density": 3.7,
+      "score": 6393.2
+    },
+    {
+      "term": "question",
+      "kind": "uni",
+      "mentions": 1112,
+      "file_spread": 310,
+      "density": 3.6,
+      "score": 6382.6
+    },
+    {
+      "term": "cut",
+      "kind": "uni",
+      "mentions": 1119,
+      "file_spread": 297,
+      "density": 3.8,
+      "score": 6375.0
+    },
+    {
+      "term": "shot",
+      "kind": "uni",
+      "mentions": 1114,
+      "file_spread": 301,
+      "density": 3.7,
+      "score": 6361.4
+    },
+    {
+      "term": "double",
+      "kind": "uni",
+      "mentions": 1132,
+      "file_spread": 273,
+      "density": 4.1,
+      "score": 6354.1
+    },
+    {
+      "term": "happens",
+      "kind": "uni",
+      "mentions": 1078,
+      "file_spread": 357,
+      "density": 3.0,
+      "score": 6339.2
+    },
+    {
+      "term": "secondsjust",
+      "kind": "uni",
+      "mentions": 1175,
+      "file_spread": 219,
+      "density": 5.4,
+      "score": 6337.5
+    },
+    {
+      "term": "number",
+      "kind": "uni",
+      "mentions": 1111,
+      "file_spread": 299,
+      "density": 3.7,
+      "score": 6336.9
+    },
+    {
+      "term": "inside",
+      "kind": "uni",
+      "mentions": 1092,
+      "file_spread": 330,
+      "density": 3.3,
+      "score": 6335.9
+    },
+    {
+      "term": "word",
+      "kind": "uni",
+      "mentions": 1109,
+      "file_spread": 300,
+      "density": 3.7,
+      "score": 6329.2
+    },
+    {
+      "term": "waiting",
+      "kind": "uni",
+      "mentions": 1087,
+      "file_spread": 336,
+      "density": 3.2,
+      "score": 6326.4
+    },
+    {
+      "term": "wants",
+      "kind": "uni",
+      "mentions": 1087,
+      "file_spread": 332,
+      "density": 3.3,
+      "score": 6313.5
+    },
+    {
+      "term": "click",
+      "kind": "uni",
+      "mentions": 1106,
+      "file_spread": 298,
+      "density": 3.7,
+      "score": 6304.7
+    },
+    {
+      "term": "chance",
+      "kind": "uni",
+      "mentions": 1114,
+      "file_spread": 284,
+      "density": 3.9,
+      "score": 6296.9
+    },
+    {
+      "term": "entire",
+      "kind": "uni",
+      "mentions": 1089,
+      "file_spread": 322,
+      "density": 3.4,
+      "score": 6291.9
+    },
+    {
+      "term": "awesome",
+      "kind": "uni",
+      "mentions": 1082,
+      "file_spread": 325,
+      "density": 3.3,
+      "score": 6261.4
+    },
+    {
+      "term": "nuts",
+      "kind": "uni",
+      "mentions": 1184,
+      "file_spread": 196,
+      "density": 6.0,
+      "score": 6255.3
+    },
+    {
+      "term": "push",
+      "kind": "uni",
+      "mentions": 1130,
+      "file_spread": 243,
+      "density": 4.7,
+      "score": 6211.8
+    },
+    {
+      "term": "pizza",
+      "kind": "uni",
+      "mentions": 1202,
+      "file_spread": 174,
+      "density": 6.9,
+      "score": 6208.1
+    },
+    {
+      "term": "secondsthey",
+      "kind": "uni",
+      "mentions": 1162,
+      "file_spread": 207,
+      "density": 5.6,
+      "score": 6202.2
+    },
+    {
+      "term": "round",
+      "kind": "uni",
+      "mentions": 1121,
+      "file_spread": 245,
+      "density": 4.6,
+      "score": 6171.5
+    },
+    {
+      "term": "happen",
+      "kind": "uni",
+      "mentions": 1058,
+      "file_spread": 340,
+      "density": 3.1,
+      "score": 6170.1
+    },
+    {
+      "term": "key",
+      "kind": "uni",
+      "mentions": 1119,
+      "file_spread": 247,
+      "density": 4.5,
+      "score": 6169.5
+    },
+    {
+      "term": "definitely",
+      "kind": "uni",
+      "mentions": 1070,
+      "file_spread": 310,
+      "density": 3.5,
+      "score": 6141.6
+    },
+    {
+      "term": "anymore",
+      "kind": "uni",
+      "mentions": 1037,
+      "file_spread": 361,
+      "density": 2.9,
+      "score": 6109.6
+    },
+    {
+      "term": "blah",
+      "kind": "uni",
+      "mentions": 1206,
+      "file_spread": 155,
+      "density": 7.8,
+      "score": 6090.1
+    },
+    {
+      "term": "controller",
+      "kind": "uni",
+      "mentions": 1118,
+      "file_spread": 229,
+      "density": 4.9,
+      "score": 6079.8
+    },
+    {
+      "term": "quick",
+      "kind": "uni",
+      "mentions": 1062,
+      "file_spread": 304,
+      "density": 3.5,
+      "score": 6075.0
+    },
+    {
+      "term": "kid",
+      "kind": "uni",
+      "mentions": 1066,
+      "file_spread": 297,
+      "density": 3.6,
+      "score": 6073.1
+    },
+    {
+      "term": "soon",
+      "kind": "uni",
+      "mentions": 1039,
+      "file_spread": 344,
+      "density": 3.0,
+      "score": 6071.4
+    },
+    {
+      "term": "green",
+      "kind": "uni",
+      "mentions": 1069,
+      "file_spread": 289,
+      "density": 3.7,
+      "score": 6061.1
+    },
+    {
+      "term": "fighting",
+      "kind": "uni",
+      "mentions": 1130,
+      "file_spread": 210,
+      "density": 5.4,
+      "score": 6047.6
+    },
+    {
+      "term": "straight",
+      "kind": "uni",
+      "mentions": 1026,
+      "file_spread": 338,
+      "density": 3.0,
+      "score": 5977.5
+    },
+    {
+      "term": "light",
+      "kind": "uni",
+      "mentions": 1044,
+      "file_spread": 304,
+      "density": 3.4,
+      "score": 5972.0
+    },
+    {
+      "term": "learn",
+      "kind": "uni",
+      "mentions": 1045,
+      "file_spread": 295,
+      "density": 3.5,
+      "score": 5946.4
+    },
+    {
+      "term": "lose",
+      "kind": "uni",
+      "mentions": 1043,
+      "file_spread": 296,
+      "density": 3.5,
+      "score": 5938.6
+    },
+    {
+      "term": "comes",
+      "kind": "uni",
+      "mentions": 1034,
+      "file_spread": 307,
+      "density": 3.4,
+      "score": 5924.9
+    },
+    {
+      "term": "story",
+      "kind": "uni",
+      "mentions": 1059,
+      "file_spread": 266,
+      "density": 4.0,
+      "score": 5916.9
+    },
+    {
+      "term": "internet",
+      "kind": "uni",
+      "mentions": 1041,
+      "file_spread": 293,
+      "density": 3.6,
+      "score": 5916.6
+    },
+    {
+      "term": "audio",
+      "kind": "uni",
+      "mentions": 1062,
+      "file_spread": 261,
+      "density": 4.1,
+      "score": 5913.6
+    },
+    {
+      "term": "machine",
+      "kind": "uni",
+      "mentions": 1051,
+      "file_spread": 265,
+      "density": 4.0,
+      "score": 5868.3
+    },
+    {
+      "term": "speed",
+      "kind": "uni",
+      "mentions": 1079,
+      "file_spread": 227,
+      "density": 4.8,
+      "score": 5858.3
+    },
+    {
+      "term": "poop",
+      "kind": "uni",
+      "mentions": 1076,
+      "file_spread": 227,
+      "density": 4.7,
+      "score": 5842.0
+    },
+    {
+      "term": "map",
+      "kind": "uni",
+      "mentions": 1044,
+      "file_spread": 266,
+      "density": 3.9,
+      "score": 5833.1
+    },
+    {
+      "term": "it'll",
+      "kind": "uni",
+      "mentions": 1006,
+      "file_spread": 318,
+      "density": 3.2,
+      "score": 5799.8
+    },
+    {
+      "term": "sitting",
+      "kind": "uni",
+      "mentions": 1000,
+      "file_spread": 320,
+      "density": 3.1,
+      "score": 5771.4
+    },
+    {
+      "term": "deal",
+      "kind": "uni",
+      "mentions": 993,
+      "file_spread": 316,
+      "density": 3.1,
+      "score": 5718.6
+    },
+    {
+      "term": "mode",
+      "kind": "uni",
+      "mentions": 1002,
+      "file_spread": 291,
+      "density": 3.4,
+      "score": 5688.1
+    },
+    {
+      "term": "ball",
+      "kind": "uni",
+      "mentions": 1022,
+      "file_spread": 249,
+      "density": 4.1,
+      "score": 5642.9
+    },
+    {
+      "term": "drink",
+      "kind": "uni",
+      "mentions": 1018,
+      "file_spread": 253,
+      "density": 4.0,
+      "score": 5637.0
+    },
+    {
+      "term": "amazing",
+      "kind": "uni",
+      "mentions": 1000,
+      "file_spread": 279,
+      "density": 3.6,
+      "score": 5634.8
+    },
+    {
+      "term": "front",
+      "kind": "uni",
+      "mentions": 976,
+      "file_spread": 319,
+      "density": 3.1,
+      "score": 5629.9
+    },
+    {
+      "term": "content",
+      "kind": "uni",
+      "mentions": 1001,
+      "file_spread": 261,
+      "density": 3.8,
+      "score": 5573.9
+    },
+    {
+      "term": "bet",
+      "kind": "uni",
+      "mentions": 963,
+      "file_spread": 319,
+      "density": 3.0,
+      "score": 5554.9
+    },
+    {
+      "term": "iron",
+      "kind": "uni",
+      "mentions": 1092,
+      "file_spread": 158,
+      "density": 6.9,
+      "score": 5535.2
+    },
+    {
+      "term": "apparently",
+      "kind": "uni",
+      "mentions": 966,
+      "file_spread": 305,
+      "density": 3.2,
+      "score": 5529.0
+    },
+    {
+      "term": "since",
+      "kind": "uni",
+      "mentions": 956,
+      "file_spread": 322,
+      "density": 3.0,
+      "score": 5523.4
+    },
+    {
+      "term": "steam",
+      "kind": "uni",
+      "mentions": 1012,
+      "file_spread": 228,
+      "density": 4.4,
+      "score": 5498.9
+    },
+    {
+      "term": "secondshere",
+      "kind": "uni",
+      "mentions": 1029,
+      "file_spread": 203,
+      "density": 5.1,
+      "score": 5472.3
+    },
+    {
+      "term": "one's",
+      "kind": "uni",
+      "mentions": 957,
+      "file_spread": 302,
+      "density": 3.2,
+      "score": 5468.0
+    },
+    {
+      "term": "exactly",
+      "kind": "uni",
+      "mentions": 939,
+      "file_spread": 331,
+      "density": 2.8,
+      "score": 5451.0
+    },
+    {
+      "term": "chaos",
+      "kind": "uni",
+      "mentions": 1157,
+      "file_spread": 110,
+      "density": 10.5,
+      "score": 5448.9
+    },
+    {
+      "term": "giving",
+      "kind": "uni",
+      "mentions": 953,
+      "file_spread": 300,
+      "density": 3.2,
+      "score": 5438.9
+    },
+    {
+      "term": "charge",
+      "kind": "uni",
+      "mentions": 1010,
+      "file_spread": 216,
+      "density": 4.7,
+      "score": 5433.7
+    },
+    {
+      "term": "either",
+      "kind": "uni",
+      "mentions": 937,
+      "file_spread": 328,
+      "density": 2.9,
+      "score": 5430.9
+    },
+    {
+      "term": "stand",
+      "kind": "uni",
+      "mentions": 958,
+      "file_spread": 288,
+      "density": 3.3,
+      "score": 5428.4
+    },
+    {
+      "term": "server",
+      "kind": "uni",
+      "mentions": 985,
+      "file_spread": 243,
+      "density": 4.1,
+      "score": 5414.7
+    },
+    {
+      "term": "shut",
+      "kind": "uni",
+      "mentions": 942,
+      "file_spread": 310,
+      "density": 3.0,
+      "score": 5406.9
+    },
+    {
+      "term": "walking",
+      "kind": "uni",
+      "mentions": 967,
+      "file_spread": 267,
+      "density": 3.6,
+      "score": 5406.5
+    },
+    {
+      "term": "rock",
+      "kind": "uni",
+      "mentions": 976,
+      "file_spread": 247,
+      "density": 4.0,
+      "score": 5381.1
+    },
+    {
+      "term": "anyone",
+      "kind": "uni",
+      "mentions": 941,
+      "file_spread": 301,
+      "density": 3.1,
+      "score": 5373.5
+    },
+    {
+      "term": "past",
+      "kind": "uni",
+      "mentions": 942,
+      "file_spread": 296,
+      "density": 3.2,
+      "score": 5363.5
+    },
+    {
+      "term": "hole",
+      "kind": "uni",
+      "mentions": 991,
+      "file_spread": 222,
+      "density": 4.5,
+      "score": 5358.5
+    },
+    {
+      "term": "sucks",
+      "kind": "uni",
+      "mentions": 937,
+      "file_spread": 294,
+      "density": 3.2,
+      "score": 5328.7
+    },
+    {
+      "term": "buddy",
+      "kind": "uni",
+      "mentions": 936,
+      "file_spread": 276,
+      "density": 3.4,
+      "score": 5264.1
+    },
+    {
+      "term": "type",
+      "kind": "uni",
+      "mentions": 926,
+      "file_spread": 288,
+      "density": 3.2,
+      "score": 5247.1
+    },
+    {
+      "term": "blood",
+      "kind": "uni",
+      "mentions": 953,
+      "file_spread": 235,
+      "density": 4.1,
+      "score": 5207.0
+    },
+    {
+      "term": "add",
+      "kind": "uni",
+      "mentions": 913,
+      "file_spread": 294,
+      "density": 3.1,
+      "score": 5192.2
+    },
+    {
+      "term": "channel",
+      "kind": "uni",
+      "mentions": 953,
+      "file_spread": 226,
+      "density": 4.2,
+      "score": 5170.0
+    },
+    {
+      "term": "secondstime",
+      "kind": "uni",
+      "mentions": 991,
+      "file_spread": 181,
+      "density": 5.5,
+      "score": 5157.2
+    },
+    {
+      "term": "less",
+      "kind": "uni",
+      "mentions": 903,
+      "file_spread": 301,
+      "density": 3.0,
+      "score": 5156.5
+    },
+    {
+      "term": "longer",
+      "kind": "uni",
+      "mentions": 891,
+      "file_spread": 324,
+      "density": 2.8,
+      "score": 5153.4
+    },
+    {
+      "term": "code",
+      "kind": "uni",
+      "mentions": 946,
+      "file_spread": 230,
+      "density": 4.1,
+      "score": 5148.5
+    },
+    {
+      "term": "zero",
+      "kind": "uni",
+      "mentions": 923,
+      "file_spread": 262,
+      "density": 3.5,
+      "score": 5143.1
+    },
+    {
+      "term": "sick",
+      "kind": "uni",
+      "mentions": 910,
+      "file_spread": 283,
+      "density": 3.2,
+      "score": 5140.6
+    },
+    {
+      "term": "bed",
+      "kind": "uni",
+      "mentions": 922,
+      "file_spread": 262,
+      "density": 3.5,
+      "score": 5137.5
+    },
+    {
+      "term": "eyes",
+      "kind": "uni",
+      "mentions": 896,
+      "file_spread": 308,
+      "density": 2.9,
+      "score": 5137.1
+    },
+    {
+      "term": "perfect",
+      "kind": "uni",
+      "mentions": 899,
+      "file_spread": 300,
+      "density": 3.0,
+      "score": 5130.7
+    },
+    {
+      "term": "marvel",
+      "kind": "uni",
+      "mentions": 972,
+      "file_spread": 195,
+      "density": 5.0,
+      "score": 5130.3
+    },
+    {
+      "term": "sit",
+      "kind": "uni",
+      "mentions": 890,
+      "file_spread": 312,
+      "density": 2.9,
+      "score": 5114.1
+    },
+    {
+      "term": "match",
+      "kind": "uni",
+      "mentions": 945,
+      "file_spread": 222,
+      "density": 4.3,
+      "score": 5109.8
+    },
+    {
+      "term": "pull",
+      "kind": "uni",
+      "mentions": 891,
+      "file_spread": 302,
+      "density": 3.0,
+      "score": 5090.9
+    },
+    {
+      "term": "whoa whoa",
+      "kind": "bi",
+      "mentions": 1027,
+      "file_spread": 141,
+      "density": 7.3,
+      "score": 5089.6
+    },
+    {
+      "term": "favorite",
+      "kind": "uni",
+      "mentions": 895,
+      "file_spread": 292,
+      "density": 3.1,
+      "score": 5083.8
+    },
+    {
+      "term": "matter",
+      "kind": "uni",
+      "mentions": 881,
+      "file_spread": 318,
+      "density": 2.8,
+      "score": 5079.1
+    },
+    {
+      "term": "secondsme",
+      "kind": "uni",
+      "mentions": 959,
+      "file_spread": 197,
+      "density": 4.9,
+      "score": 5071.4
+    },
+    {
+      "term": "fantastic",
+      "kind": "uni",
+      "mentions": 1019,
+      "file_spread": 142,
+      "density": 7.2,
+      "score": 5057.1
+    },
+    {
+      "term": "secondsget",
+      "kind": "uni",
+      "mentions": 949,
+      "file_spread": 203,
+      "density": 4.7,
+      "score": 5046.9
+    },
+    {
+      "term": "rid",
+      "kind": "uni",
+      "mentions": 884,
+      "file_spread": 298,
+      "density": 3.0,
+      "score": 5039.2
+    },
+    {
+      "term": "white",
+      "kind": "uni",
+      "mentions": 893,
+      "file_spread": 278,
+      "density": 3.2,
+      "score": 5028.7
+    },
+    {
+      "term": "brain",
+      "kind": "uni",
+      "mentions": 883,
+      "file_spread": 296,
+      "density": 3.0,
+      "score": 5027.6
+    },
+    {
+      "term": "secondshe",
+      "kind": "uni",
+      "mentions": 949,
+      "file_spread": 197,
+      "density": 4.8,
+      "score": 5018.6
+    },
+    {
+      "term": "secondsdo",
+      "kind": "uni",
+      "mentions": 931,
+      "file_spread": 218,
+      "density": 4.3,
+      "score": 5017.2
+    },
+    {
+      "term": "miss",
+      "kind": "uni",
+      "mentions": 880,
+      "file_spread": 287,
+      "density": 3.1,
+      "score": 4983.4
+    },
+    {
+      "term": "true",
+      "kind": "uni",
+      "mentions": 872,
+      "file_spread": 302,
+      "density": 2.9,
+      "score": 4982.4
+    },
+    {
+      "term": "secondsthere's",
+      "kind": "uni",
+      "mentions": 940,
+      "file_spread": 199,
+      "density": 4.7,
+      "score": 4980.4
+    },
+    {
+      "term": "knew",
+      "kind": "uni",
+      "mentions": 867,
+      "file_spread": 310,
+      "density": 2.8,
+      "score": 4976.4
+    },
+    {
+      "term": "final",
+      "kind": "uni",
+      "mentions": 930,
+      "file_spread": 204,
+      "density": 4.6,
+      "score": 4950.4
+    },
+    {
+      "term": "body",
+      "kind": "uni",
+      "mentions": 869,
+      "file_spread": 289,
+      "density": 3.0,
+      "score": 4927.1
+    },
+    {
+      "term": "secondsnot",
+      "kind": "uni",
+      "mentions": 919,
+      "file_spread": 208,
+      "density": 4.4,
+      "score": 4909.6
+    },
+    {
+      "term": "sometimes",
+      "kind": "uni",
+      "mentions": 847,
+      "file_spread": 326,
+      "density": 2.6,
+      "score": 4904.1
+    },
+    {
+      "term": "play game",
+      "kind": "bi",
+      "mentions": 859,
+      "file_spread": 297,
+      "density": 2.9,
+      "score": 4893.8
+    },
+    {
+      "term": "listen",
+      "kind": "uni",
+      "mentions": 851,
+      "file_spread": 312,
+      "density": 2.7,
+      "score": 4890.0
+    },
+    {
+      "term": "rest",
+      "kind": "uni",
+      "mentions": 861,
+      "file_spread": 291,
+      "density": 3.0,
+      "score": 4887.7
+    },
+    {
+      "term": "sleep",
+      "kind": "uni",
+      "mentions": 894,
+      "file_spread": 234,
+      "density": 3.8,
+      "score": 4880.9
+    },
+    {
+      "term": "follow",
+      "kind": "uni",
+      "mentions": 866,
+      "file_spread": 279,
+      "density": 3.1,
+      "score": 4879.7
+    },
+    {
+      "term": "single",
+      "kind": "uni",
+      "mentions": 863,
+      "file_spread": 283,
+      "density": 3.0,
+      "score": 4875.1
+    },
+    {
+      "term": "cannot",
+      "kind": "uni",
+      "mentions": 853,
+      "file_spread": 302,
+      "density": 2.8,
+      "score": 4873.8
+    },
+    {
+      "term": "tired",
+      "kind": "uni",
+      "mentions": 865,
+      "file_spread": 278,
+      "density": 3.1,
+      "score": 4871.0
+    },
+    {
+      "term": "drive",
+      "kind": "uni",
+      "mentions": 897,
+      "file_spread": 224,
+      "density": 4.0,
+      "score": 4858.2
+    },
+    {
+      "term": "space",
+      "kind": "uni",
+      "mentions": 867,
+      "file_spread": 269,
+      "density": 3.2,
+      "score": 4853.8
+    },
+    {
+      "term": "seeing",
+      "kind": "uni",
+      "mentions": 843,
+      "file_spread": 314,
+      "density": 2.7,
+      "score": 4849.4
+    },
+    {
+      "term": "seems",
+      "kind": "uni",
+      "mentions": 845,
+      "file_spread": 304,
+      "density": 2.8,
+      "score": 4833.7
+    },
+    {
+      "term": "knows",
+      "kind": "uni",
+      "mentions": 848,
+      "file_spread": 296,
+      "density": 2.9,
+      "score": 4828.3
+    },
+    {
+      "term": "deep",
+      "kind": "uni",
+      "mentions": 887,
+      "file_spread": 230,
+      "density": 3.9,
+      "score": 4827.4
+    },
+    {
+      "term": "line",
+      "kind": "uni",
+      "mentions": 854,
+      "file_spread": 277,
+      "density": 3.1,
+      "score": 4806.0
+    },
+    {
+      "term": "build",
+      "kind": "uni",
+      "mentions": 890,
+      "file_spread": 220,
+      "density": 4.0,
+      "score": 4804.4
+    },
+    {
+      "term": "pop",
+      "kind": "uni",
+      "mentions": 845,
+      "file_spread": 286,
+      "density": 3.0,
+      "score": 4782.3
+    },
+    {
+      "term": "nope",
+      "kind": "uni",
+      "mentions": 848,
+      "file_spread": 266,
+      "density": 3.2,
+      "score": 4738.0
+    },
+    {
+      "term": "secondsfor",
+      "kind": "uni",
+      "mentions": 884,
+      "file_spread": 204,
+      "density": 4.3,
+      "score": 4705.5
+    },
+    {
+      "term": "before attack",
+      "kind": "bi",
+      "mentions": 1021,
+      "file_spread": 99,
+      "density": 10.3,
+      "score": 4701.9
+    },
+    {
+      "term": "middle",
+      "kind": "uni",
+      "mentions": 823,
+      "file_spread": 300,
+      "density": 2.7,
+      "score": 4697.0
+    },
+    {
+      "term": "bought",
+      "kind": "uni",
+      "mentions": 840,
+      "file_spread": 267,
+      "density": 3.1,
+      "score": 4696.4
+    },
+    {
+      "term": "everybody",
+      "kind": "uni",
+      "mentions": 814,
+      "file_spread": 306,
+      "density": 2.7,
+      "score": 4661.7
+    },
+    {
+      "term": "air",
+      "kind": "uni",
+      "mentions": 836,
+      "file_spread": 263,
+      "density": 3.2,
+      "score": 4661.5
+    },
+    {
+      "term": "course",
+      "kind": "uni",
+      "mentions": 824,
+      "file_spread": 285,
+      "density": 2.9,
+      "score": 4660.5
+    },
+    {
+      "term": "moment",
+      "kind": "uni",
+      "mentions": 813,
+      "file_spread": 304,
+      "density": 2.7,
+      "score": 4650.6
+    },
+    {
+      "term": "wall",
+      "kind": "uni",
+      "mentions": 818,
+      "file_spread": 286,
+      "density": 2.9,
+      "score": 4629.5
+    },
+    {
+      "term": "honestly",
+      "kind": "uni",
+      "mentions": 803,
+      "file_spread": 314,
+      "density": 2.6,
+      "score": 4619.3
+    },
+    {
+      "term": "join",
+      "kind": "uni",
+      "mentions": 837,
+      "file_spread": 248,
+      "density": 3.4,
+      "score": 4618.1
+    },
+    {
+      "term": "wonder",
+      "kind": "uni",
+      "mentions": 805,
+      "file_spread": 304,
+      "density": 2.6,
+      "score": 4604.9
+    },
+    {
+      "term": "worth",
+      "kind": "uni",
+      "mentions": 812,
+      "file_spread": 288,
+      "density": 2.8,
+      "score": 4601.1
+    },
+    {
+      "term": "dark",
+      "kind": "uni",
+      "mentions": 830,
+      "file_spread": 254,
+      "density": 3.3,
+      "score": 4599.2
+    },
+    {
+      "term": "human",
+      "kind": "uni",
+      "mentions": 821,
+      "file_spread": 260,
+      "density": 3.2,
+      "score": 4568.5
+    },
+    {
+      "term": "rocket",
+      "kind": "uni",
+      "mentions": 897,
+      "file_spread": 161,
+      "density": 5.6,
+      "score": 4563.6
+    },
+    {
+      "term": "between",
+      "kind": "uni",
+      "mentions": 805,
+      "file_spread": 288,
+      "density": 2.8,
+      "score": 4561.5
+    },
+    {
+      "term": "happening",
+      "kind": "uni",
+      "mentions": 797,
+      "file_spread": 297,
+      "density": 2.7,
+      "score": 4540.6
+    },
+    {
+      "term": "holy",
+      "kind": "uni",
+      "mentions": 812,
+      "file_spread": 265,
+      "density": 3.1,
+      "score": 4533.8
+    },
+    {
+      "term": "piece",
+      "kind": "uni",
+      "mentions": 805,
+      "file_spread": 277,
+      "density": 2.9,
+      "score": 4530.2
+    },
+    {
+      "term": "train",
+      "kind": "uni",
+      "mentions": 883,
+      "file_spread": 168,
+      "density": 5.3,
+      "score": 4529.7
+    },
+    {
+      "term": "secondswe're",
+      "kind": "uni",
+      "mentions": 869,
+      "file_spread": 182,
+      "density": 4.8,
+      "score": 4527.0
+    },
+    {
+      "term": "wish",
+      "kind": "uni",
+      "mentions": 790,
+      "file_spread": 305,
+      "density": 2.6,
+      "score": 4521.6
+    },
+    {
+      "term": "such",
+      "kind": "uni",
+      "mentions": 786,
+      "file_spread": 302,
+      "density": 2.6,
+      "score": 4491.0
+    },
+    {
+      "term": "secondsyour",
+      "kind": "uni",
+      "mentions": 852,
+      "file_spread": 193,
+      "density": 4.4,
+      "score": 4488.2
+    },
+    {
+      "term": "secondsone",
+      "kind": "uni",
+      "mentions": 839,
+      "file_spread": 209,
+      "density": 4.0,
+      "score": 4486.2
+    },
+    {
+      "term": "lady",
+      "kind": "uni",
+      "mentions": 828,
+      "file_spread": 223,
+      "density": 3.7,
+      "score": 4480.8
+    },
+    {
+      "term": "hair",
+      "kind": "uni",
+      "mentions": 816,
+      "file_spread": 241,
+      "density": 3.4,
+      "score": 4479.0
+    },
+    {
+      "term": "blah blah",
+      "kind": "bi",
+      "mentions": 897,
+      "file_spread": 144,
+      "density": 6.2,
+      "score": 4464.1
+    },
+    {
+      "term": "low",
+      "kind": "uni",
+      "mentions": 790,
+      "file_spread": 282,
+      "density": 2.8,
+      "score": 4459.9
+    },
+    {
+      "term": "gold",
+      "kind": "uni",
+      "mentions": 834,
+      "file_spread": 207,
+      "density": 4.0,
+      "score": 4451.5
+    },
+    {
+      "term": "safe",
+      "kind": "uni",
+      "mentions": 798,
+      "file_spread": 262,
+      "density": 3.0,
+      "score": 4446.6
+    },
+    {
+      "term": "drop",
+      "kind": "uni",
+      "mentions": 801,
+      "file_spread": 256,
+      "density": 3.1,
+      "score": 4444.8
+    },
+    {
+      "term": "order",
+      "kind": "uni",
+      "mentions": 791,
+      "file_spread": 262,
+      "density": 3.0,
+      "score": 4407.6
+    },
+    {
+      "term": "eye",
+      "kind": "uni",
+      "mentions": 800,
+      "file_spread": 243,
+      "density": 3.3,
+      "score": 4397.7
+    },
+    {
+      "term": "spot",
+      "kind": "uni",
+      "mentions": 789,
+      "file_spread": 261,
+      "density": 3.0,
+      "score": 4393.4
+    },
+    {
+      "term": "joke",
+      "kind": "uni",
+      "mentions": 780,
+      "file_spread": 267,
+      "density": 2.9,
+      "score": 4361.0
+    },
+    {
+      "term": "city",
+      "kind": "uni",
+      "mentions": 813,
+      "file_spread": 210,
+      "density": 3.9,
+      "score": 4351.1
+    },
+    {
+      "term": "moon",
+      "kind": "uni",
+      "mentions": 841,
+      "file_spread": 171,
+      "density": 4.9,
+      "score": 4329.0
+    },
+    {
+      "term": "putting",
+      "kind": "uni",
+      "mentions": 763,
+      "file_spread": 290,
+      "density": 2.6,
+      "score": 4328.7
+    },
+    {
+      "term": "main",
+      "kind": "uni",
+      "mentions": 771,
+      "file_spread": 271,
+      "density": 2.8,
+      "score": 4322.1
+    },
+    {
+      "term": "broken",
+      "kind": "uni",
+      "mentions": 767,
+      "file_spread": 276,
+      "density": 2.8,
+      "score": 4313.6
+    },
+    {
+      "term": "boss",
+      "kind": "uni",
+      "mentions": 805,
+      "file_spread": 210,
+      "density": 3.8,
+      "score": 4308.2
+    },
+    {
+      "term": "fall",
+      "kind": "uni",
+      "mentions": 764,
+      "file_spread": 277,
+      "density": 2.8,
+      "score": 4299.5
+    },
+    {
+      "term": "tank",
+      "kind": "uni",
+      "mentions": 815,
+      "file_spread": 194,
+      "density": 4.2,
+      "score": 4297.5
+    },
+    {
+      "term": "obviously",
+      "kind": "uni",
+      "mentions": 763,
+      "file_spread": 272,
+      "density": 2.8,
+      "score": 4280.0
+    },
+    {
+      "term": "realize",
+      "kind": "uni",
+      "mentions": 771,
+      "file_spread": 256,
+      "density": 3.0,
+      "score": 4278.3
+    },
+    {
+      "term": "cop",
+      "kind": "uni",
+      "mentions": 898,
+      "file_spread": 116,
+      "density": 7.7,
+      "score": 4276.4
+    },
+    {
+      "term": "anywhere",
+      "kind": "uni",
+      "mentions": 799,
+      "file_spread": 204,
+      "density": 3.9,
+      "score": 4253.1
+    },
+    {
+      "term": "action",
+      "kind": "uni",
+      "mentions": 816,
+      "file_spread": 182,
+      "density": 4.5,
+      "score": 4250.9
+    },
+    {
+      "term": "video game",
+      "kind": "bi",
+      "mentions": 760,
+      "file_spread": 267,
+      "density": 2.8,
+      "score": 4249.2
+    },
+    {
+      "term": "secondsheat",
+      "kind": "uni",
+      "mentions": 961,
+      "file_spread": 82,
+      "density": 11.7,
+      "score": 4246.5
+    },
+    {
+      "term": "secondsin",
+      "kind": "uni",
+      "mentions": 795,
+      "file_spread": 207,
+      "density": 3.8,
+      "score": 4243.3
+    },
+    {
+      "term": "system",
+      "kind": "uni",
+      "mentions": 764,
+      "file_spread": 257,
+      "density": 3.0,
+      "score": 4242.5
+    },
+    {
+      "term": "pokemon",
+      "kind": "uni",
+      "mentions": 962,
+      "file_spread": 81,
+      "density": 11.9,
+      "score": 4239.3
+    },
+    {
+      "term": "healing",
+      "kind": "uni",
+      "mentions": 854,
+      "file_spread": 138,
+      "density": 6.2,
+      "score": 4214.0
+    },
+    {
+      "term": "heal",
+      "kind": "uni",
+      "mentions": 823,
+      "file_spread": 166,
+      "density": 5.0,
+      "score": 4212.1
+    },
+    {
+      "term": "woman",
+      "kind": "uni",
+      "mentions": 757,
+      "file_spread": 259,
+      "density": 2.9,
+      "score": 4209.4
+    },
+    {
+      "term": "spider",
+      "kind": "uni",
+      "mentions": 869,
+      "file_spread": 123,
+      "density": 7.1,
+      "score": 4188.8
+    },
+    {
+      "term": "star",
+      "kind": "uni",
+      "mentions": 774,
+      "file_spread": 223,
+      "density": 3.5,
+      "score": 4188.6
+    },
+    {
+      "term": "finish",
+      "kind": "uni",
+      "mentions": 750,
+      "file_spread": 255,
+      "density": 2.9,
+      "score": 4158.9
+    },
+    {
+      "term": "couple",
+      "kind": "uni",
+      "mentions": 732,
+      "file_spread": 291,
+      "density": 2.5,
+      "score": 4155.4
+    },
+    {
+      "term": "secondswait",
+      "kind": "uni",
+      "mentions": 787,
+      "file_spread": 191,
+      "density": 4.1,
+      "score": 4137.6
+    },
+    {
+      "term": "store",
+      "kind": "uni",
+      "mentions": 756,
+      "file_spread": 234,
+      "density": 3.2,
+      "score": 4127.4
+    },
+    {
+      "term": "rivals",
+      "kind": "uni",
+      "mentions": 808,
+      "file_spread": 164,
+      "density": 4.9,
+      "score": 4125.6
+    },
+    {
+      "term": "horse",
+      "kind": "uni",
+      "mentions": 875,
+      "file_spread": 109,
+      "density": 8.0,
+      "score": 4112.9
+    },
+    {
+      "term": "goodbye",
+      "kind": "uni",
+      "mentions": 764,
+      "file_spread": 215,
+      "density": 3.6,
+      "score": 4106.7
+    },
+    {
+      "term": "honest",
+      "kind": "uni",
+      "mentions": 726,
+      "file_spread": 278,
+      "density": 2.6,
+      "score": 4088.3
+    },
+    {
+      "term": "unless",
+      "kind": "uni",
+      "mentions": 725,
+      "file_spread": 276,
+      "density": 2.6,
+      "score": 4077.4
+    },
+    {
+      "term": "player",
+      "kind": "uni",
+      "mentions": 741,
+      "file_spread": 238,
+      "density": 3.1,
+      "score": 4058.1
+    },
+    {
+      "term": "starts five",
+      "kind": "bi",
+      "mentions": 891,
+      "file_spread": 94,
+      "density": 9.5,
+      "score": 4057.5
+    },
+    {
+      "term": "cat",
+      "kind": "uni",
+      "mentions": 767,
+      "file_spread": 190,
+      "density": 4.0,
+      "score": 4028.5
+    },
+    {
+      "term": "secondsyes",
+      "kind": "uni",
+      "mentions": 772,
+      "file_spread": 181,
+      "density": 4.3,
+      "score": 4017.5
+    },
+    {
+      "term": "clean",
+      "kind": "uni",
+      "mentions": 727,
+      "file_spread": 246,
+      "density": 3.0,
+      "score": 4005.3
+    },
+    {
+      "term": "learned",
+      "kind": "uni",
+      "mentions": 712,
+      "file_spread": 271,
+      "density": 2.6,
+      "score": 3991.3
+    },
+    {
+      "term": "glad",
+      "kind": "uni",
+      "mentions": 712,
+      "file_spread": 269,
+      "density": 2.6,
+      "score": 3986.1
+    },
+    {
+      "term": "difference",
+      "kind": "uni",
+      "mentions": 753,
+      "file_spread": 197,
+      "density": 3.8,
+      "score": 3982.1
+    },
+    {
+      "term": "bitch",
+      "kind": "uni",
+      "mentions": 770,
+      "file_spread": 174,
+      "density": 4.4,
+      "score": 3976.9
+    },
+    {
+      "term": "mom",
+      "kind": "uni",
+      "mentions": 722,
+      "file_spread": 242,
+      "density": 3.0,
+      "score": 3966.0
+    },
+    {
+      "term": "dying",
+      "kind": "uni",
+      "mentions": 718,
+      "file_spread": 248,
+      "density": 2.9,
+      "score": 3961.5
+    },
+    {
+      "term": "halfway",
+      "kind": "uni",
+      "mentions": 798,
+      "file_spread": 140,
+      "density": 5.7,
+      "score": 3949.1
+    },
+    {
+      "term": "secondsup",
+      "kind": "uni",
+      "mentions": 762,
+      "file_spread": 177,
+      "density": 4.3,
+      "score": 3948.5
+    },
+    {
+      "term": "building",
+      "kind": "uni",
+      "mentions": 713,
+      "file_spread": 249,
+      "density": 2.9,
+      "score": 3936.8
+    },
+    {
+      "term": "attention",
+      "kind": "uni",
+      "mentions": 717,
+      "file_spread": 240,
+      "density": 3.0,
+      "score": 3932.6
+    },
+    {
+      "term": "kids",
+      "kind": "uni",
+      "mentions": 713,
+      "file_spread": 245,
+      "density": 2.9,
+      "score": 3925.3
+    },
+    {
+      "term": "score",
+      "kind": "uni",
+      "mentions": 779,
+      "file_spread": 153,
+      "density": 5.1,
+      "score": 3923.8
+    },
+    {
+      "term": "cheese",
+      "kind": "uni",
+      "mentions": 741,
+      "file_spread": 196,
+      "density": 3.8,
+      "score": 3914.9
+    },
+    {
+      "term": "shooting",
+      "kind": "uni",
+      "mentions": 720,
+      "file_spread": 228,
+      "density": 3.2,
+      "score": 3912.3
+    },
+    {
+      "term": "important",
+      "kind": "uni",
+      "mentions": 705,
+      "file_spread": 256,
+      "density": 2.8,
+      "score": 3912.1
+    },
+    {
+      "term": "secondsgo",
+      "kind": "uni",
+      "mentions": 738,
+      "file_spread": 196,
+      "density": 3.8,
+      "score": 3899.0
+    },
+    {
+      "term": "forgot",
+      "kind": "uni",
+      "mentions": 692,
+      "file_spread": 278,
+      "density": 2.5,
+      "score": 3896.8
+    },
+    {
+      "term": "cold",
+      "kind": "uni",
+      "mentions": 718,
+      "file_spread": 226,
+      "density": 3.2,
+      "score": 3895.1
+    },
+    {
+      "term": "poo",
+      "kind": "uni",
+      "mentions": 782,
+      "file_spread": 143,
+      "density": 5.5,
+      "score": 3886.4
+    },
+    {
+      "term": "looked",
+      "kind": "uni",
+      "mentions": 692,
+      "file_spread": 273,
+      "density": 2.5,
+      "score": 3884.3
+    },
+    {
+      "term": "turned",
+      "kind": "uni",
+      "mentions": 686,
+      "file_spread": 286,
+      "density": 2.4,
+      "score": 3882.4
+    },
+    {
+      "term": "enemy",
+      "kind": "uni",
+      "mentions": 745,
+      "file_spread": 181,
+      "density": 4.1,
+      "score": 3877.0
+    },
+    {
+      "term": "norman",
+      "kind": "uni",
+      "mentions": 906,
+      "file_spread": 71,
+      "density": 12.8,
+      "score": 3874.7
+    },
+    {
+      "term": "watched",
+      "kind": "uni",
+      "mentions": 696,
+      "file_spread": 257,
+      "density": 2.7,
+      "score": 3864.9
+    },
+    {
+      "term": "stick",
+      "kind": "uni",
+      "mentions": 706,
+      "file_spread": 235,
+      "density": 3.0,
+      "score": 3857.5
+    },
+    {
+      "term": "fixed",
+      "kind": "uni",
+      "mentions": 690,
+      "file_spread": 262,
+      "density": 2.6,
+      "score": 3844.8
+    },
+    {
+      "term": "random",
+      "kind": "uni",
+      "mentions": 682,
+      "file_spread": 279,
+      "density": 2.4,
+      "score": 3842.9
+    },
+    {
+      "term": "account",
+      "kind": "uni",
+      "mentions": 722,
+      "file_spread": 202,
+      "density": 3.6,
+      "score": 3836.1
+    },
+    {
+      "term": "trash",
+      "kind": "uni",
+      "mentions": 755,
+      "file_spread": 158,
+      "density": 4.8,
+      "score": 3827.0
+    },
+    {
+      "term": "secondsare",
+      "kind": "uni",
+      "mentions": 724,
+      "file_spread": 190,
+      "density": 3.8,
+      "score": 3802.6
+    },
+    {
+      "term": "upset",
+      "kind": "uni",
+      "mentions": 687,
+      "file_spread": 250,
+      "density": 2.7,
+      "score": 3796.0
+    },
+    {
+      "term": "mouse",
+      "kind": "uni",
+      "mentions": 698,
+      "file_spread": 225,
+      "density": 3.1,
+      "score": 3783.5
+    },
+    {
+      "term": "lag",
+      "kind": "uni",
+      "mentions": 738,
+      "file_spread": 167,
+      "density": 4.4,
+      "score": 3781.5
+    },
+    {
+      "term": "witch",
+      "kind": "uni",
+      "mentions": 783,
+      "file_spread": 124,
+      "density": 6.3,
+      "score": 3780.6
+    },
+    {
+      "term": "secondsif",
+      "kind": "uni",
+      "mentions": 727,
+      "file_spread": 179,
+      "density": 4.1,
+      "score": 3775.3
+    },
+    {
+      "term": "attack ready",
+      "kind": "bi",
+      "mentions": 827,
+      "file_spread": 95,
+      "density": 8.7,
+      "score": 3774.7
+    },
+    {
+      "term": "dumb",
+      "kind": "uni",
+      "mentions": 668,
+      "file_spread": 282,
+      "density": 2.4,
+      "score": 3771.2
+    },
+    {
+      "term": "takes",
+      "kind": "uni",
+      "mentions": 667,
+      "file_spread": 284,
+      "density": 2.3,
+      "score": 3770.2
+    },
+    {
+      "term": "faster",
+      "kind": "uni",
+      "mentions": 679,
+      "file_spread": 254,
+      "density": 2.7,
+      "score": 3762.5
+    },
+    {
+      "term": "dad",
+      "kind": "uni",
+      "mentions": 692,
+      "file_spread": 227,
+      "density": 3.0,
+      "score": 3757.1
+    },
+    {
+      "term": "family",
+      "kind": "uni",
+      "mentions": 677,
+      "file_spread": 256,
+      "density": 2.6,
+      "score": 3756.7
+    },
+    {
+      "term": "dollars",
+      "kind": "uni",
+      "mentions": 703,
+      "file_spread": 208,
+      "density": 3.4,
+      "score": 3755.7
+    },
+    {
+      "term": "balls",
+      "kind": "uni",
+      "mentions": 689,
+      "file_spread": 230,
+      "density": 3.0,
+      "score": 3749.8
+    },
+    {
+      "term": "secondson",
+      "kind": "uni",
+      "mentions": 704,
+      "file_spread": 203,
+      "density": 3.5,
+      "score": 3744.0
+    },
+    {
+      "term": "sam",
+      "kind": "uni",
+      "mentions": 808,
+      "file_spread": 101,
+      "density": 8.0,
+      "score": 3737.0
+    },
+    {
+      "term": "hands",
+      "kind": "uni",
+      "mentions": 667,
+      "file_spread": 270,
+      "density": 2.5,
+      "score": 3736.6
+    },
+    {
+      "term": "party",
+      "kind": "uni",
+      "mentions": 685,
+      "file_spread": 230,
+      "density": 3.0,
+      "score": 3728.1
+    },
+    {
+      "term": "touch",
+      "kind": "uni",
+      "mentions": 692,
+      "file_spread": 216,
+      "density": 3.2,
+      "score": 3722.9
+    },
+    {
+      "term": "eight",
+      "kind": "uni",
+      "mentions": 668,
+      "file_spread": 261,
+      "density": 2.6,
+      "score": 3719.7
+    },
+    {
+      "term": "son",
+      "kind": "uni",
+      "mentions": 677,
+      "file_spread": 241,
+      "density": 2.8,
+      "score": 3716.0
+    },
+    {
+      "term": "secondsof",
+      "kind": "uni",
+      "mentions": 702,
+      "file_spread": 198,
+      "density": 3.5,
+      "score": 3715.9
+    },
+    {
+      "term": "cards",
+      "kind": "uni",
+      "mentions": 739,
+      "file_spread": 150,
+      "density": 4.9,
+      "score": 3707.8
+    },
+    {
+      "term": "school",
+      "kind": "uni",
+      "mentions": 699,
+      "file_spread": 199,
+      "density": 3.5,
+      "score": 3703.5
+    },
+    {
+      "term": "actual",
+      "kind": "uni",
+      "mentions": 660,
+      "file_spread": 270,
+      "density": 2.4,
+      "score": 3697.4
+    },
+    {
+      "term": "secondshow",
+      "kind": "uni",
+      "mentions": 706,
+      "file_spread": 183,
+      "density": 3.9,
+      "score": 3681.7
+    },
+    {
+      "term": "jesus",
+      "kind": "uni",
+      "mentions": 681,
+      "file_spread": 221,
+      "density": 3.1,
+      "score": 3679.2
+    },
+    {
+      "term": "smoke",
+      "kind": "uni",
+      "mentions": 682,
+      "file_spread": 218,
+      "density": 3.1,
+      "score": 3675.3
+    },
+    {
+      "term": "lord",
+      "kind": "uni",
+      "mentions": 670,
+      "file_spread": 239,
+      "density": 2.8,
+      "score": 3672.0
+    },
+    {
+      "term": "extra",
+      "kind": "uni",
+      "mentions": 663,
+      "file_spread": 250,
+      "density": 2.7,
+      "score": 3663.4
+    },
+    {
+      "term": "winner",
+      "kind": "uni",
+      "mentions": 722,
+      "file_spread": 152,
+      "density": 4.8,
+      "score": 3632.0
+    },
+    {
+      "term": "ago",
+      "kind": "uni",
+      "mentions": 654,
+      "file_spread": 257,
+      "density": 2.5,
+      "score": 3631.6
+    },
+    {
+      "term": "healer",
+      "kind": "uni",
+      "mentions": 789,
+      "file_spread": 98,
+      "density": 8.1,
+      "score": 3625.5
+    },
+    {
+      "term": "pretty sure",
+      "kind": "bi",
+      "mentions": 651,
+      "file_spread": 261,
+      "density": 2.5,
+      "score": 3625.0
+    },
+    {
+      "term": "scared",
+      "kind": "uni",
+      "mentions": 652,
+      "file_spread": 258,
+      "density": 2.5,
+      "score": 3623.1
+    },
+    {
+      "term": "smash",
+      "kind": "uni",
+      "mentions": 767,
+      "file_spread": 111,
+      "density": 6.9,
+      "score": 3619.1
+    },
+    {
+      "term": "secondswhy",
+      "kind": "uni",
+      "mentions": 698,
+      "file_spread": 176,
+      "density": 4.0,
+      "score": 3613.0
+    },
+    {
+      "term": "secondshave",
+      "kind": "uni",
+      "mentions": 682,
+      "file_spread": 198,
+      "density": 3.4,
+      "score": 3610.0
+    },
+    {
+      "term": "experience",
+      "kind": "uni",
+      "mentions": 650,
+      "file_spread": 253,
+      "density": 2.6,
+      "score": 3599.3
+    },
+    {
+      "term": "block",
+      "kind": "uni",
+      "mentions": 673,
+      "file_spread": 209,
+      "density": 3.2,
+      "score": 3598.6
+    },
+    {
+      "term": "version",
+      "kind": "uni",
+      "mentions": 664,
+      "file_spread": 224,
+      "density": 3.0,
+      "score": 3596.3
+    },
+    {
+      "term": "points",
+      "kind": "uni",
+      "mentions": 683,
+      "file_spread": 192,
+      "density": 3.6,
+      "score": 3594.4
+    },
+    {
+      "term": "outside",
+      "kind": "uni",
+      "mentions": 656,
+      "file_spread": 234,
+      "density": 2.8,
+      "score": 3581.5
+    },
+    {
+      "term": "real fire",
+      "kind": "bi",
+      "mentions": 824,
+      "file_spread": 76,
+      "density": 10.8,
+      "score": 3579.3
+    },
+    {
+      "term": "expect",
+      "kind": "uni",
+      "mentions": 661,
+      "file_spread": 223,
+      "density": 3.0,
+      "score": 3577.1
+    },
+    {
+      "term": "eating",
+      "kind": "uni",
+      "mentions": 646,
+      "file_spread": 253,
+      "density": 2.6,
+      "score": 3577.1
+    },
+    {
+      "term": "skin",
+      "kind": "uni",
+      "mentions": 679,
+      "file_spread": 188,
+      "density": 3.6,
+      "score": 3559.1
+    },
+    {
+      "term": "chicken",
+      "kind": "uni",
+      "mentions": 679,
+      "file_spread": 187,
+      "density": 3.6,
+      "score": 3555.5
+    },
+    {
+      "term": "secondslook",
+      "kind": "uni",
+      "mentions": 681,
+      "file_spread": 181,
+      "density": 3.8,
+      "score": 3543.9
+    },
+    {
+      "term": "feels",
+      "kind": "uni",
+      "mentions": 636,
+      "file_spread": 262,
+      "density": 2.4,
+      "score": 3543.9
+    },
+    {
+      "term": "figured",
+      "kind": "uni",
+      "mentions": 632,
+      "file_spread": 267,
+      "density": 2.4,
+      "score": 3533.5
+    },
+    {
+      "term": "secondsah",
+      "kind": "uni",
+      "mentions": 680,
+      "file_spread": 178,
+      "density": 3.8,
+      "score": 3527.4
+    },
+    {
+      "term": "secondshe's",
+      "kind": "uni",
+      "mentions": 685,
+      "file_spread": 168,
+      "density": 4.1,
+      "score": 3514.0
+    },
+    {
+      "term": "roll",
+      "kind": "uni",
+      "mentions": 663,
+      "file_spread": 198,
+      "density": 3.3,
+      "score": 3509.5
+    },
+    {
+      "term": "plan",
+      "kind": "uni",
+      "mentions": 630,
+      "file_spread": 261,
+      "density": 2.4,
+      "score": 3508.1
+    },
+    {
+      "term": "alright",
+      "kind": "uni",
+      "mentions": 676,
+      "file_spread": 178,
+      "density": 3.8,
+      "score": 3506.7
+    },
+    {
+      "term": "somewhere",
+      "kind": "uni",
+      "mentions": 628,
+      "file_spread": 261,
+      "density": 2.4,
+      "score": 3496.9
+    },
+    {
+      "term": "confused",
+      "kind": "uni",
+      "mentions": 632,
+      "file_spread": 249,
+      "density": 2.5,
+      "score": 3489.6
+    },
+    {
+      "term": "sent",
+      "kind": "uni",
+      "mentions": 633,
+      "file_spread": 244,
+      "density": 2.6,
+      "score": 3482.3
+    },
+    {
+      "term": "seven",
+      "kind": "uni",
+      "mentions": 632,
+      "file_spread": 239,
+      "density": 2.6,
+      "score": 3463.8
+    },
+    {
+      "term": "sell",
+      "kind": "uni",
+      "mentions": 641,
+      "file_spread": 220,
+      "density": 2.9,
+      "score": 3460.2
+    },
+    {
+      "term": "dick",
+      "kind": "uni",
+      "mentions": 638,
+      "file_spread": 225,
+      "density": 2.8,
+      "score": 3458.3
+    },
+    {
+      "term": "let's let's",
+      "kind": "bi",
+      "mentions": 635,
+      "file_spread": 225,
+      "density": 2.8,
+      "score": 3442.0
+    },
+    {
+      "term": "worked",
+      "kind": "uni",
+      "mentions": 621,
+      "file_spread": 252,
+      "density": 2.5,
+      "score": 3436.2
+    },
+    {
+      "term": "swear",
+      "kind": "uni",
+      "mentions": 619,
+      "file_spread": 256,
+      "density": 2.4,
+      "score": 3434.9
+    },
+    {
+      "term": "weed",
+      "kind": "uni",
+      "mentions": 691,
+      "file_spread": 143,
+      "density": 4.8,
+      "score": 3434.1
+    },
+    {
+      "term": "secondsknow",
+      "kind": "uni",
+      "mentions": 662,
+      "file_spread": 176,
+      "density": 3.8,
+      "score": 3426.6
+    },
+    {
+      "term": "starting",
+      "kind": "uni",
+      "mentions": 612,
+      "file_spread": 269,
+      "density": 2.3,
+      "score": 3426.2
+    },
+    {
+      "term": "calling",
+      "kind": "uni",
+      "mentions": 633,
+      "file_spread": 223,
+      "density": 2.8,
+      "score": 3425.6
+    },
+    {
+      "term": "ground",
+      "kind": "uni",
+      "mentions": 621,
+      "file_spread": 247,
+      "density": 2.5,
+      "score": 3423.8
+    },
+    {
+      "term": "mess",
+      "kind": "uni",
+      "mentions": 648,
+      "file_spread": 196,
+      "density": 3.3,
+      "score": 3423.5
+    },
+    {
+      "term": "suck",
+      "kind": "uni",
+      "mentions": 619,
+      "file_spread": 251,
+      "density": 2.5,
+      "score": 3422.7
+    },
+    {
+      "term": "mad",
+      "kind": "uni",
+      "mentions": 626,
+      "file_spread": 228,
+      "density": 2.7,
+      "score": 3401.5
+    },
+    {
+      "term": "completely",
+      "kind": "uni",
+      "mentions": 611,
+      "file_spread": 257,
+      "density": 2.4,
+      "score": 3392.9
+    },
+    {
+      "term": "tiny",
+      "kind": "uni",
+      "mentions": 611,
+      "file_spread": 253,
+      "density": 2.4,
+      "score": 3383.3
+    },
+    {
+      "term": "daniel",
+      "kind": "uni",
+      "mentions": 858,
+      "file_spread": 50,
+      "density": 17.2,
+      "score": 3373.5
+    },
+    {
+      "term": "rally",
+      "kind": "uni",
+      "mentions": 1357,
+      "file_spread": 11,
+      "density": 123.4,
+      "score": 3372.0
+    },
+    {
+      "term": "secondsgood",
+      "kind": "uni",
+      "mentions": 651,
+      "file_spread": 175,
+      "density": 3.7,
+      "score": 3366.0
+    },
+    {
+      "term": "except",
+      "kind": "uni",
+      "mentions": 598,
+      "file_spread": 275,
+      "density": 2.2,
+      "score": 3361.0
+    },
+    {
+      "term": "stopped",
+      "kind": "uni",
+      "mentions": 601,
+      "file_spread": 263,
+      "density": 2.3,
+      "score": 3351.1
+    },
+    {
+      "term": "secondsbecause",
+      "kind": "uni",
+      "mentions": 641,
+      "file_spread": 183,
+      "density": 3.5,
+      "score": 3342.8
+    },
+    {
+      "term": "alive",
+      "kind": "uni",
+      "mentions": 605,
+      "file_spread": 249,
+      "density": 2.4,
+      "score": 3340.5
+    },
+    {
+      "term": "usually",
+      "kind": "uni",
+      "mentions": 600,
+      "file_spread": 258,
+      "density": 2.3,
+      "score": 3334.1
+    },
+    {
+      "term": "sweet",
+      "kind": "uni",
+      "mentions": 603,
+      "file_spread": 247,
+      "density": 2.4,
+      "score": 3324.6
+    },
+    {
+      "term": "fake",
+      "kind": "uni",
+      "mentions": 618,
+      "file_spread": 215,
+      "density": 2.9,
+      "score": 3321.9
+    },
+    {
+      "term": "floor",
+      "kind": "uni",
+      "mentions": 605,
+      "file_spread": 239,
+      "density": 2.5,
+      "score": 3315.8
+    },
+    {
+      "term": "answer",
+      "kind": "uni",
+      "mentions": 608,
+      "file_spread": 232,
+      "density": 2.6,
+      "score": 3314.2
+    },
+    {
+      "term": "network",
+      "kind": "uni",
+      "mentions": 666,
+      "file_spread": 143,
+      "density": 4.7,
+      "score": 3309.9
+    },
+    {
+      "term": "bag",
+      "kind": "uni",
+      "mentions": 623,
+      "file_spread": 200,
+      "density": 3.1,
+      "score": 3304.0
+    },
+    {
+      "term": "business",
+      "kind": "uni",
+      "mentions": 603,
+      "file_spread": 237,
+      "density": 2.5,
+      "score": 3299.8
+    },
+    {
+      "term": "victory",
+      "kind": "uni",
+      "mentions": 670,
+      "file_spread": 135,
+      "density": 5.0,
+      "score": 3291.5
+    },
+    {
+      "term": "energy",
+      "kind": "uni",
+      "mentions": 621,
+      "file_spread": 199,
+      "density": 3.1,
+      "score": 3290.3
+    },
+    {
+      "term": "learning",
+      "kind": "uni",
+      "mentions": 612,
+      "file_spread": 214,
+      "density": 2.9,
+      "score": 3286.8
+    },
+    {
+      "term": "data",
+      "kind": "uni",
+      "mentions": 643,
+      "file_spread": 163,
+      "density": 3.9,
+      "score": 3279.2
+    },
+    {
+      "term": "secondslet's",
+      "kind": "uni",
+      "mentions": 637,
+      "file_spread": 171,
+      "density": 3.7,
+      "score": 3279.0
+    },
+    {
+      "term": "enjoy",
+      "kind": "uni",
+      "mentions": 614,
+      "file_spread": 207,
+      "density": 3.0,
+      "score": 3277.2
+    },
+    {
+      "term": "squirrel",
+      "kind": "uni",
+      "mentions": 708,
+      "file_spread": 101,
+      "density": 7.0,
+      "score": 3274.5
+    },
+    {
+      "term": "text",
+      "kind": "uni",
+      "mentions": 607,
+      "file_spread": 216,
+      "density": 2.8,
+      "score": 3265.6
+    },
+    {
+      "term": "sign",
+      "kind": "uni",
+      "mentions": 611,
+      "file_spread": 206,
+      "density": 3.0,
+      "score": 3258.3
+    },
+    {
+      "term": "gives",
+      "kind": "uni",
+      "mentions": 585,
+      "file_spread": 260,
+      "density": 2.2,
+      "score": 3255.2
+    },
+    {
+      "term": "fortnite",
+      "kind": "uni",
+      "mentions": 668,
+      "file_spread": 129,
+      "density": 5.2,
+      "score": 3251.5
+    },
+    {
+      "term": "secondsgot",
+      "kind": "uni",
+      "mentions": 622,
+      "file_spread": 184,
+      "density": 3.4,
+      "score": 3247.1
+    },
+    {
+      "term": "loud",
+      "kind": "uni",
+      "mentions": 584,
+      "file_spread": 258,
+      "density": 2.3,
+      "score": 3245.2
+    },
+    {
+      "term": "marvel rivals",
+      "kind": "bi",
+      "mentions": 639,
+      "file_spread": 159,
+      "density": 4.0,
+      "score": 3243.0
+    },
+    {
+      "term": "shield",
+      "kind": "uni",
+      "mentions": 651,
+      "file_spread": 140,
+      "density": 4.7,
+      "score": 3221.6
+    },
+    {
+      "term": "metal",
+      "kind": "uni",
+      "mentions": 621,
+      "file_spread": 176,
+      "density": 3.5,
+      "score": 3214.4
+    },
+    {
+      "term": "epic",
+      "kind": "uni",
+      "mentions": 629,
+      "file_spread": 164,
+      "density": 3.8,
+      "score": 3211.6
+    },
+    {
+      "term": "somebody",
+      "kind": "uni",
+      "mentions": 584,
+      "file_spread": 241,
+      "density": 2.4,
+      "score": 3205.5
+    },
+    {
+      "term": "road",
+      "kind": "uni",
+      "mentions": 630,
+      "file_spread": 158,
+      "density": 4.0,
+      "score": 3193.4
+    },
+    {
+      "term": "sad",
+      "kind": "uni",
+      "mentions": 582,
+      "file_spread": 240,
+      "density": 2.4,
+      "score": 3192.2
+    },
+    {
+      "term": "clear",
+      "kind": "uni",
+      "mentions": 581,
+      "file_spread": 242,
+      "density": 2.4,
+      "score": 3191.5
+    },
+    {
+      "term": "patch",
+      "kind": "uni",
+      "mentions": 677,
+      "file_spread": 109,
+      "density": 6.2,
+      "score": 3182.2
+    },
+    {
+      "term": "picture",
+      "kind": "uni",
+      "mentions": 585,
+      "file_spread": 227,
+      "density": 2.6,
+      "score": 3176.2
+    },
+    {
+      "term": "king",
+      "kind": "uni",
+      "mentions": 606,
+      "file_spread": 187,
+      "density": 3.2,
+      "score": 3173.3
+    },
+    {
+      "term": "broke",
+      "kind": "uni",
+      "mentions": 579,
+      "file_spread": 239,
+      "density": 2.4,
+      "score": 3173.3
+    },
+    {
+      "term": "message",
+      "kind": "uni",
+      "mentions": 586,
+      "file_spread": 223,
+      "density": 2.6,
+      "score": 3171.2
+    },
+    {
+      "term": "secondscan",
+      "kind": "uni",
+      "mentions": 608,
+      "file_spread": 182,
+      "density": 3.3,
+      "score": 3167.4
+    },
+    {
+      "term": "step",
+      "kind": "uni",
+      "mentions": 580,
+      "file_spread": 230,
+      "density": 2.5,
+      "score": 3156.6
+    },
+    {
+      "term": "bigger",
+      "kind": "uni",
+      "mentions": 576,
+      "file_spread": 238,
+      "density": 2.4,
+      "score": 3154.4
+    },
+    {
+      "term": "purple",
+      "kind": "uni",
+      "mentions": 627,
+      "file_spread": 151,
+      "density": 4.2,
+      "score": 3150.0
+    },
+    {
+      "term": "tonight",
+      "kind": "uni",
+      "mentions": 572,
+      "file_spread": 244,
+      "density": 2.3,
+      "score": 3146.7
+    },
+    {
+      "term": "forever",
+      "kind": "uni",
+      "mentions": 570,
+      "file_spread": 248,
+      "density": 2.3,
+      "score": 3144.9
+    },
+    {
+      "term": "feet",
+      "kind": "uni",
+      "mentions": 588,
+      "file_spread": 209,
+      "density": 2.8,
+      "score": 3144.1
+    },
+    {
+      "term": "videos",
+      "kind": "uni",
+      "mentions": 592,
+      "file_spread": 201,
+      "density": 2.9,
+      "score": 3142.5
+    },
+    {
+      "term": "meant",
+      "kind": "uni",
+      "mentions": 566,
+      "file_spread": 255,
+      "density": 2.2,
+      "score": 3138.6
+    },
+    {
+      "term": "appreciate",
+      "kind": "uni",
+      "mentions": 636,
+      "file_spread": 136,
+      "density": 4.7,
+      "score": 3129.1
+    },
+    {
+      "term": "track",
+      "kind": "uni",
+      "mentions": 584,
+      "file_spread": 206,
+      "density": 2.8,
+      "score": 3114.3
+    },
+    {
+      "term": "spend",
+      "kind": "uni",
+      "mentions": 571,
+      "file_spread": 232,
+      "density": 2.5,
+      "score": 3112.5
+    },
+    {
+      "term": "streams",
+      "kind": "uni",
+      "mentions": 569,
+      "file_spread": 235,
+      "density": 2.4,
+      "score": 3108.9
+    },
+    {
+      "term": "buttons",
+      "kind": "uni",
+      "mentions": 574,
+      "file_spread": 224,
+      "density": 2.6,
+      "score": 3108.8
+    },
+    {
+      "term": "google",
+      "kind": "uni",
+      "mentions": 596,
+      "file_spread": 182,
+      "density": 3.3,
+      "score": 3104.9
+    },
+    {
+      "term": "catch",
+      "kind": "uni",
+      "mentions": 573,
+      "file_spread": 223,
+      "density": 2.6,
+      "score": 3100.9
+    },
+    {
+      "term": "secondsguys",
+      "kind": "uni",
+      "mentions": 631,
+      "file_spread": 135,
+      "density": 4.7,
+      "score": 3099.9
+    },
+    {
+      "term": "robot",
+      "kind": "uni",
+      "mentions": 610,
+      "file_spread": 158,
+      "density": 3.9,
+      "score": 3092.0
+    },
+    {
+      "term": "mic",
+      "kind": "uni",
+      "mentions": 570,
+      "file_spread": 225,
+      "density": 2.5,
+      "score": 3089.7
+    },
+    {
+      "term": "slow",
+      "kind": "uni",
+      "mentions": 565,
+      "file_spread": 236,
+      "density": 2.4,
+      "score": 3089.5
+    },
+    {
+      "term": "capture mission",
+      "kind": "bi",
+      "mentions": 681,
+      "file_spread": 91,
+      "density": 7.5,
+      "score": 3079.3
+    },
+    {
+      "term": "paid",
+      "kind": "uni",
+      "mentions": 566,
+      "file_spread": 223,
+      "density": 2.5,
+      "score": 3063.0
+    },
+    {
+      "term": "grab",
+      "kind": "uni",
+      "mentions": 564,
+      "file_spread": 227,
+      "density": 2.5,
+      "score": 3062.2
+    },
+    {
+      "term": "load",
+      "kind": "uni",
+      "mentions": 552,
+      "file_spread": 246,
+      "density": 2.2,
+      "score": 3041.2
+    },
+    {
+      "term": "group",
+      "kind": "uni",
+      "mentions": 567,
+      "file_spread": 212,
+      "density": 2.7,
+      "score": 3039.9
+    },
+    {
+      "term": "words",
+      "kind": "uni",
+      "mentions": 554,
+      "file_spread": 237,
+      "density": 2.3,
+      "score": 3031.6
+    },
+    {
+      "term": "hat",
+      "kind": "uni",
+      "mentions": 596,
+      "file_spread": 160,
+      "density": 3.7,
+      "score": 3028.5
+    },
+    {
+      "term": "murder",
+      "kind": "uni",
+      "mentions": 598,
+      "file_spread": 156,
+      "density": 3.8,
+      "score": 3023.6
+    },
+    {
+      "term": "amount",
+      "kind": "uni",
+      "mentions": 555,
+      "file_spread": 231,
+      "density": 2.4,
+      "score": 3022.9
+    },
+    {
+      "term": "fucked",
+      "kind": "uni",
+      "mentions": 595,
+      "file_spread": 158,
+      "density": 3.8,
+      "score": 3016.0
+    },
+    {
+      "term": "possible",
+      "kind": "uni",
+      "mentions": 547,
+      "file_spread": 242,
+      "density": 2.3,
+      "score": 3004.7
+    },
+    {
+      "term": "strange",
+      "kind": "uni",
+      "mentions": 583,
+      "file_spread": 172,
+      "density": 3.4,
+      "score": 3004.4
+    },
+    {
+      "term": "asked",
+      "kind": "uni",
+      "mentions": 548,
+      "file_spread": 235,
+      "density": 2.3,
+      "score": 2994.2
+    },
+    {
+      "term": "color",
+      "kind": "uni",
+      "mentions": 569,
+      "file_spread": 188,
+      "density": 3.0,
+      "score": 2982.6
+    },
+    {
+      "term": "lock",
+      "kind": "uni",
+      "mentions": 563,
+      "file_spread": 198,
+      "density": 2.8,
+      "score": 2980.1
+    },
+    {
+      "term": "gosh",
+      "kind": "uni",
+      "mentions": 540,
+      "file_spread": 244,
+      "density": 2.2,
+      "score": 2970.7
+    },
+    {
+      "term": "secondssee",
+      "kind": "uni",
+      "mentions": 564,
+      "file_spread": 191,
+      "density": 3.0,
+      "score": 2965.2
+    },
+    {
+      "term": "news",
+      "kind": "uni",
+      "mentions": 560,
+      "file_spread": 197,
+      "density": 2.8,
+      "score": 2961.4
+    },
+    {
+      "term": "gas",
+      "kind": "uni",
+      "mentions": 598,
+      "file_spread": 140,
+      "density": 4.3,
+      "score": 2959.4
+    },
+    {
+      "term": "holding",
+      "kind": "uni",
+      "mentions": 540,
+      "file_spread": 236,
+      "density": 2.3,
+      "score": 2952.8
+    },
+    {
+      "term": "secondsgoing",
+      "kind": "uni",
+      "mentions": 573,
+      "file_spread": 171,
+      "density": 3.4,
+      "score": 2949.5
+    },
+    {
+      "term": "bucks",
+      "kind": "uni",
+      "mentions": 546,
+      "file_spread": 220,
+      "density": 2.5,
+      "score": 2947.4
+    },
+    {
+      "term": "fire power",
+      "kind": "bi",
+      "mentions": 678,
+      "file_spread": 75,
+      "density": 9.0,
+      "score": 2936.2
+    },
+    {
+      "term": "child",
+      "kind": "uni",
+      "mentions": 555,
+      "file_spread": 197,
+      "density": 2.8,
+      "score": 2935.0
+    },
+    {
+      "term": "trust",
+      "kind": "uni",
+      "mentions": 538,
+      "file_spread": 231,
+      "density": 2.3,
+      "score": 2930.3
+    },
+    {
+      "term": "brother",
+      "kind": "uni",
+      "mentions": 551,
+      "file_spread": 201,
+      "density": 2.7,
+      "score": 2924.9
+    },
+    {
+      "term": "become",
+      "kind": "uni",
+      "mentions": 536,
+      "file_spread": 231,
+      "density": 2.3,
+      "score": 2919.5
+    },
+    {
+      "term": "ammo",
+      "kind": "uni",
+      "mentions": 590,
+      "file_spread": 139,
+      "density": 4.2,
+      "score": 2915.6
+    },
+    {
+      "term": "trouble",
+      "kind": "uni",
+      "mentions": 547,
+      "file_spread": 205,
+      "density": 2.7,
+      "score": 2914.3
+    },
+    {
+      "term": "butt",
+      "kind": "uni",
+      "mentions": 562,
+      "file_spread": 177,
+      "density": 3.2,
+      "score": 2912.2
+    },
+    {
+      "term": "post",
+      "kind": "uni",
+      "mentions": 542,
+      "file_spread": 212,
+      "density": 2.6,
+      "score": 2905.8
+    },
+    {
+      "term": "piss",
+      "kind": "uni",
+      "mentions": 558,
+      "file_spread": 177,
+      "density": 3.2,
+      "score": 2891.4
+    },
+    {
+      "term": "secondswhere",
+      "kind": "uni",
+      "mentions": 560,
+      "file_spread": 173,
+      "density": 3.2,
+      "score": 2889.1
+    },
+    {
+      "term": "characters",
+      "kind": "uni",
+      "mentions": 542,
+      "file_spread": 205,
+      "density": 2.6,
+      "score": 2887.7
+    },
+    {
+      "term": "fat",
+      "kind": "uni",
+      "mentions": 540,
+      "file_spread": 209,
+      "density": 2.6,
+      "score": 2887.4
+    },
+    {
+      "term": "secondsdude",
+      "kind": "uni",
+      "mentions": 558,
+      "file_spread": 172,
+      "density": 3.2,
+      "score": 2875.5
+    },
+    {
+      "term": "book",
+      "kind": "uni",
+      "mentions": 542,
+      "file_spread": 199,
+      "density": 2.7,
+      "score": 2871.7
+    },
+    {
+      "term": "secondswhat's",
+      "kind": "uni",
+      "mentions": 558,
+      "file_spread": 169,
+      "density": 3.3,
+      "score": 2865.8
+    },
+    {
+      "term": "table",
+      "kind": "uni",
+      "mentions": 547,
+      "file_spread": 187,
+      "density": 2.9,
+      "score": 2864.3
+    },
+    {
+      "term": "return",
+      "kind": "uni",
+      "mentions": 542,
+      "file_spread": 196,
+      "density": 2.8,
+      "score": 2863.5
+    },
+    {
+      "term": "secondsagain",
+      "kind": "uni",
+      "mentions": 578,
+      "file_spread": 140,
+      "density": 4.1,
+      "score": 2860.4
+    },
+    {
+      "term": "dangerous",
+      "kind": "uni",
+      "mentions": 554,
+      "file_spread": 169,
+      "density": 3.3,
+      "score": 2845.2
+    },
+    {
+      "term": "powers",
+      "kind": "uni",
+      "mentions": 568,
+      "file_spread": 146,
+      "density": 3.9,
+      "score": 2834.6
+    },
+    {
+      "term": "screaming",
+      "kind": "uni",
+      "mentions": 572,
+      "file_spread": 139,
+      "density": 4.1,
+      "score": 2826.6
+    },
+    {
+      "term": "boys",
+      "kind": "uni",
+      "mentions": 535,
+      "file_spread": 196,
+      "density": 2.7,
+      "score": 2826.5
+    },
+    {
+      "term": "uh-huh",
+      "kind": "uni",
+      "mentions": 551,
+      "file_spread": 167,
+      "density": 3.3,
+      "score": 2823.3
+    },
+    {
+      "term": "disappear",
+      "kind": "uni",
+      "mentions": 606,
+      "file_spread": 103,
+      "density": 5.9,
+      "score": 2814.5
+    },
+    {
+      "term": "ooh",
+      "kind": "uni",
+      "mentions": 537,
+      "file_spread": 182,
+      "density": 3.0,
+      "score": 2797.5
+    },
+    {
+      "term": "wife",
+      "kind": "uni",
+      "mentions": 538,
+      "file_spread": 173,
+      "density": 3.1,
+      "score": 2775.6
+    },
+    {
+      "term": "secondsgame",
+      "kind": "uni",
+      "mentions": 539,
+      "file_spread": 163,
+      "density": 3.3,
+      "score": 2748.8
+    },
+    {
+      "term": "kills",
+      "kind": "uni",
+      "mentions": 534,
+      "file_spread": 165,
+      "density": 3.2,
+      "score": 2729.8
+    },
+    {
+      "term": "hero",
+      "kind": "uni",
+      "mentions": 539,
+      "file_spread": 156,
+      "density": 3.5,
+      "score": 2725.3
+    },
+    {
+      "term": "luigi",
+      "kind": "uni",
+      "mentions": 645,
+      "file_spread": 66,
+      "density": 9.8,
+      "score": 2712.0
+    },
+    {
+      "term": "robocop",
+      "kind": "uni",
+      "mentions": 734,
+      "file_spread": 39,
+      "density": 18.8,
+      "score": 2707.6
+    },
+    {
+      "term": "checkpoint",
+      "kind": "uni",
+      "mentions": 579,
+      "file_spread": 105,
+      "density": 5.5,
+      "score": 2700.1
+    },
+    {
+      "term": "secondsheat heat",
+      "kind": "bi",
+      "mentions": 620,
+      "file_spread": 76,
+      "density": 8.2,
+      "score": 2693.2
+    },
+    {
+      "term": "healers",
+      "kind": "uni",
+      "mentions": 596,
+      "file_spread": 89,
+      "density": 6.7,
+      "score": 2681.9
+    },
+    {
+      "term": "rank",
+      "kind": "uni",
+      "mentions": 564,
+      "file_spread": 115,
+      "density": 4.9,
+      "score": 2681.0
+    },
+    {
+      "term": "makes sense",
+      "kind": "bi",
+      "mentions": 482,
+      "file_spread": 234,
+      "density": 2.1,
+      "score": 2631.5
+    },
+    {
+      "term": "stronger",
+      "kind": "uni",
+      "mentions": 571,
+      "file_spread": 95,
+      "density": 6.0,
+      "score": 2606.2
+    },
+    {
+      "term": "heroes",
+      "kind": "uni",
+      "mentions": 557,
+      "file_spread": 105,
+      "density": 5.3,
+      "score": 2597.5
+    },
+    {
+      "term": "stop vehicle",
+      "kind": "bi",
+      "mentions": 613,
+      "file_spread": 67,
+      "density": 9.1,
+      "score": 2586.6
+    },
+    {
+      "term": "game game",
+      "kind": "bi",
+      "mentions": 465,
+      "file_spread": 212,
+      "density": 2.2,
+      "score": 2493.0
+    },
+    {
+      "term": "roblox",
+      "kind": "uni",
+      "mentions": 539,
+      "file_spread": 94,
+      "density": 5.7,
+      "score": 2454.5
+    },
+    {
+      "term": "five four",
+      "kind": "bi",
+      "mentions": 522,
+      "file_spread": 106,
+      "density": 4.9,
+      "score": 2439.2
+    },
+    {
+      "term": "playing game",
+      "kind": "bi",
+      "mentions": 442,
+      "file_spread": 230,
+      "density": 1.9,
+      "score": 2405.5
+    },
+    {
+      "term": "keep fighting",
+      "kind": "bi",
+      "mentions": 552,
+      "file_spread": 75,
+      "density": 7.4,
+      "score": 2390.6
+    },
+    {
+      "term": "officer",
+      "kind": "uni",
+      "mentions": 553,
+      "file_spread": 67,
+      "density": 8.3,
+      "score": 2333.4
+    },
+    {
+      "term": "stranding",
+      "kind": "uni",
+      "mentions": 535,
+      "file_spread": 74,
+      "density": 7.2,
+      "score": 2309.9
+    },
+    {
+      "term": "fighting until",
+      "kind": "bi",
+      "mentions": 532,
+      "file_spread": 71,
+      "density": 7.5,
+      "score": 2275.2
+    },
+    {
+      "term": "let let",
+      "kind": "bi",
+      "mentions": 429,
+      "file_spread": 184,
+      "density": 2.3,
+      "score": 2239.5
+    },
+    {
+      "term": "team win",
+      "kind": "bi",
+      "mentions": 479,
+      "file_spread": 85,
+      "density": 5.6,
+      "score": 2133.6
+    },
+    {
+      "term": "ready battle",
+      "kind": "bi",
+      "mentions": 753,
+      "file_spread": 14,
+      "density": 53.8,
+      "score": 2039.2
+    },
+    {
+      "term": "until winner",
+      "kind": "bi",
+      "mentions": 473,
+      "file_spread": 67,
+      "density": 7.1,
+      "score": 1995.8
+    },
+    {
+      "term": "please please",
+      "kind": "bi",
+      "mentions": 388,
+      "file_spread": 133,
+      "density": 2.9,
+      "score": 1900.4
+    },
+    {
+      "term": "video games",
+      "kind": "bi",
+      "mentions": 361,
+      "file_spread": 178,
+      "density": 2.0,
+      "score": 1872.6
+    },
+    {
+      "term": "death stranding",
+      "kind": "bi",
+      "mentions": 433,
+      "file_spread": 72,
+      "density": 6.0,
+      "score": 1857.8
+    },
+    {
+      "term": "game play",
+      "kind": "bi",
+      "mentions": 349,
+      "file_spread": 190,
+      "density": 1.8,
+      "score": 1833.0
+    },
+    {
+      "term": "laughter",
+      "kind": "uni",
+      "mentions": 581,
+      "file_spread": 21,
+      "density": 27.7,
+      "score": 1795.9
+    },
+    {
+      "term": "area yours",
+      "kind": "bi",
+      "mentions": 413,
+      "file_spread": 71,
+      "density": 5.8,
+      "score": 1766.3
+    },
+    {
+      "term": "money money",
+      "kind": "bi",
+      "mentions": 349,
+      "file_spread": 134,
+      "density": 2.6,
+      "score": 1711.9
+    },
+    {
+      "term": "secondsthis real",
+      "kind": "bi",
+      "mentions": 411,
+      "file_spread": 58,
+      "density": 7.1,
+      "score": 1675.9
+    },
+    {
+      "term": "rally rally",
+      "kind": "bi",
+      "mentions": 1207,
+      "file_spread": 3,
+      "density": 402.3,
+      "score": 1673.3
+    },
+    {
+      "term": "secondsthe battle",
+      "kind": "bi",
+      "mentions": 419,
+      "file_spread": 53,
+      "density": 7.9,
+      "score": 1671.4
+    },
+    {
+      "term": "music music",
+      "kind": "bi",
+      "mentions": 427,
+      "file_spread": 49,
+      "density": 8.7,
+      "score": 1670.4
+    },
+    {
+      "term": "magic world",
+      "kind": "bi",
+      "mentions": 386,
+      "file_spread": 69,
+      "density": 5.6,
+      "score": 1639.9
+    },
+    {
+      "term": "call duty",
+      "kind": "bi",
+      "mentions": 362,
+      "file_spread": 89,
+      "density": 4.1,
+      "score": 1628.9
+    },
+    {
+      "term": "find magic",
+      "kind": "bi",
+      "mentions": 381,
+      "file_spread": 69,
+      "density": 5.5,
+      "score": 1618.7
+    },
+    {
+      "term": "witch find",
+      "kind": "bi",
+      "mentions": 377,
+      "file_spread": 71,
+      "density": 5.3,
+      "score": 1612.3
+    },
+    {
+      "term": "stay strong",
+      "kind": "bi",
+      "mentions": 359,
+      "file_spread": 81,
+      "density": 4.4,
+      "score": 1582.0
+    },
+    {
+      "term": "hit button",
+      "kind": "bi",
+      "mentions": 309,
+      "file_spread": 161,
+      "density": 1.9,
+      "score": 1572.1
+    },
+    {
+      "term": "heroes difference",
+      "kind": "bi",
+      "mentions": 352,
+      "file_spread": 72,
+      "density": 4.9,
+      "score": 1510.2
+    },
+    {
+      "term": "squirrel girl",
+      "kind": "bi",
+      "mentions": 351,
+      "file_spread": 71,
+      "density": 4.9,
+      "score": 1501.1
+    },
+    {
+      "term": "mess amazing",
+      "kind": "bi",
+      "mentions": 359,
+      "file_spread": 64,
+      "density": 5.6,
+      "score": 1498.6
+    },
+    {
+      "term": "never mind",
+      "kind": "bi",
+      "mentions": 292,
+      "file_spread": 161,
+      "density": 1.8,
+      "score": 1485.6
+    },
+    {
+      "term": "love love",
+      "kind": "bi",
+      "mentions": 290,
+      "file_spread": 160,
+      "density": 1.8,
+      "score": 1473.6
+    },
+    {
+      "term": "top-notch team",
+      "kind": "bi",
+      "mentions": 343,
+      "file_spread": 66,
+      "density": 5.2,
+      "score": 1442.2
+    },
+    {
+      "term": "real life",
+      "kind": "bi",
+      "mentions": 282,
+      "file_spread": 146,
+      "density": 1.9,
+      "score": 1407.3
+    },
+    {
+      "term": "red dead",
+      "kind": "bi",
+      "mentions": 369,
+      "file_spread": 40,
+      "density": 9.2,
+      "score": 1370.3
+    },
+    {
+      "term": "heat secondsheat",
+      "kind": "bi",
+      "mentions": 334,
+      "file_spread": 56,
+      "density": 6.0,
+      "score": 1350.4
+    },
+    {
+      "term": "norman reedus",
+      "kind": "bi",
+      "mentions": 341,
+      "file_spread": 50,
+      "density": 6.8,
+      "score": 1340.8
+    },
+    {
+      "term": "eat nuts",
+      "kind": "bi",
+      "mentions": 361,
+      "file_spread": 40,
+      "density": 9.0,
+      "score": 1340.6
+    },
+    {
+      "term": "stay while",
+      "kind": "bi",
+      "mentions": 272,
+      "file_spread": 134,
+      "density": 2.0,
+      "score": 1334.2
+    },
+    {
+      "term": "stop stop",
+      "kind": "bi",
+      "mentions": 277,
+      "file_spread": 109,
+      "density": 2.5,
+      "score": 1302.0
+    },
+    {
+      "term": "stop securing",
+      "kind": "bi",
+      "mentions": 296,
+      "file_spread": 76,
+      "density": 3.9,
+      "score": 1285.8
+    },
+    {
+      "term": "play play",
+      "kind": "bi",
+      "mentions": 253,
+      "file_spread": 154,
+      "density": 1.6,
+      "score": 1276.0
+    },
+    {
+      "term": "bro bro",
+      "kind": "bi",
+      "mentions": 287,
+      "file_spread": 84,
+      "density": 3.4,
+      "score": 1275.0
+    },
+    {
+      "term": "turn around",
+      "kind": "bi",
+      "mentions": 270,
+      "file_spread": 111,
+      "density": 2.4,
+      "score": 1274.0
+    },
+    {
+      "term": "switch including",
+      "kind": "bi",
+      "mentions": 306,
+      "file_spread": 63,
+      "density": 4.9,
+      "score": 1272.6
+    },
+    {
+      "term": "against world",
+      "kind": "bi",
+      "mentions": 304,
+      "file_spread": 64,
+      "density": 4.8,
+      "score": 1269.0
+    },
+    {
+      "term": "vehicle moving",
+      "kind": "bi",
+      "mentions": 307,
+      "file_spread": 60,
+      "density": 5.1,
+      "score": 1262.0
+    },
+    {
+      "term": "pretty cool",
+      "kind": "bi",
+      "mentions": 250,
+      "file_spread": 153,
+      "density": 1.6,
+      "score": 1259.2
+    },
+    {
+      "term": "ready action",
+      "kind": "bi",
+      "mentions": 346,
+      "file_spread": 37,
+      "density": 9.4,
+      "score": 1258.6
+    },
+    {
+      "term": "world help",
+      "kind": "bi",
+      "mentions": 285,
+      "file_spread": 71,
+      "density": 4.0,
+      "score": 1218.8
+    },
+    {
+      "term": "secondsyou're welcome",
+      "kind": "bi",
+      "mentions": 312,
+      "file_spread": 46,
+      "density": 6.8,
+      "score": 1201.2
+    },
+    {
+      "term": "coming stay",
+      "kind": "bi",
+      "mentions": 286,
+      "file_spread": 63,
+      "density": 4.5,
+      "score": 1189.4
+    },
+    {
+      "term": "current score",
+      "kind": "bi",
+      "mentions": 293,
+      "file_spread": 55,
+      "density": 5.3,
+      "score": 1179.4
+    },
+    {
+      "term": "run away",
+      "kind": "bi",
+      "mentions": 248,
+      "file_spread": 115,
+      "density": 2.2,
+      "score": 1178.9
+    },
+    {
+      "term": "stronger already",
+      "kind": "bi",
+      "mentions": 292,
+      "file_spread": 54,
+      "density": 5.4,
+      "score": 1170.1
+    },
+    {
+      "term": "better stop",
+      "kind": "bi",
+      "mentions": 281,
+      "file_spread": 60,
+      "density": 4.7,
+      "score": 1155.2
+    },
+    {
+      "term": "heat heat",
+      "kind": "bi",
+      "mentions": 278,
+      "file_spread": 61,
+      "density": 4.6,
+      "score": 1147.3
+    },
+    {
+      "term": "expect win",
+      "kind": "bi",
+      "mentions": 276,
+      "file_spread": 61,
+      "density": 4.5,
+      "score": 1139.1
+    },
+    {
+      "term": "including side",
+      "kind": "bi",
+      "mentions": 278,
+      "file_spread": 56,
+      "density": 5.0,
+      "score": 1124.0
+    },
+    {
+      "term": "area keep",
+      "kind": "bi",
+      "mentions": 261,
+      "file_spread": 72,
+      "density": 3.6,
+      "score": 1119.8
+    },
+    {
+      "term": "nothing nothing",
+      "kind": "bi",
+      "mentions": 269,
+      "file_spread": 62,
+      "density": 4.3,
+      "score": 1114.5
+    },
+    {
+      "term": "run run",
+      "kind": "bi",
+      "mentions": 256,
+      "file_spread": 73,
+      "density": 3.5,
+      "score": 1101.8
+    },
+    {
+      "term": "yours capture",
+      "kind": "bi",
+      "mentions": 264,
+      "file_spread": 62,
+      "density": 4.3,
+      "score": 1093.8
+    },
+    {
+      "term": "steam deck",
+      "kind": "bi",
+      "mentions": 253,
+      "file_spread": 74,
+      "density": 3.4,
+      "score": 1092.3
+    },
+    {
+      "term": "secondsyou stop",
+      "kind": "bi",
+      "mentions": 267,
+      "file_spread": 56,
+      "density": 4.8,
+      "score": 1079.5
+    },
+    {
+      "term": "whole game",
+      "kind": "bi",
+      "mentions": 221,
+      "file_spread": 126,
+      "density": 1.8,
+      "score": 1070.6
+    },
+    {
+      "term": "nuts kick",
+      "kind": "bi",
+      "mentions": 302,
+      "file_spread": 33,
+      "density": 9.2,
+      "score": 1065.0
+    },
+    {
+      "term": "epic victory",
+      "kind": "bi",
+      "mentions": 261,
+      "file_spread": 54,
+      "density": 4.8,
+      "score": 1045.9
+    },
+    {
+      "term": "let's try",
+      "kind": "bi",
+      "mentions": 212,
+      "file_spread": 135,
+      "density": 1.6,
+      "score": 1041.5
+    },
+    {
+      "term": "real quick",
+      "kind": "bi",
+      "mentions": 212,
+      "file_spread": 118,
+      "density": 1.8,
+      "score": 1013.2
+    },
+    {
+      "term": "secondsdon't worry",
+      "kind": "bi",
+      "mentions": 225,
+      "file_spread": 88,
+      "density": 2.6,
+      "score": 1009.9
+    },
+    {
+      "term": "securing mission",
+      "kind": "bi",
+      "mentions": 237,
+      "file_spread": 68,
+      "density": 3.5,
+      "score": 1003.5
+    },
+    {
+      "term": "chance stop",
+      "kind": "bi",
+      "mentions": 246,
+      "file_spread": 58,
+      "density": 4.2,
+      "score": 1003.1
+    },
+    {
+      "term": "secondsall capture",
+      "kind": "bi",
+      "mentions": 266,
+      "file_spread": 41,
+      "density": 6.5,
+      "score": 994.2
+    },
+    {
+      "term": "iron fist",
+      "kind": "bi",
+      "mentions": 273,
+      "file_spread": 37,
+      "density": 7.4,
+      "score": 993.1
+    },
+    {
+      "term": "dude dude",
+      "kind": "bi",
+      "mentions": 211,
+      "file_spread": 103,
+      "density": 2.0,
+      "score": 980.0
+    },
+    {
+      "term": "live stream",
+      "kind": "bi",
+      "mentions": 207,
+      "file_spread": 112,
+      "density": 1.8,
+      "score": 978.6
+    },
+    {
+      "term": "game because",
+      "kind": "bi",
+      "mentions": 197,
+      "file_spread": 136,
+      "density": 1.4,
+      "score": 969.2
+    },
+    {
+      "term": "checkpoint keep",
+      "kind": "bi",
+      "mentions": 234,
+      "file_spread": 59,
+      "density": 4.0,
+      "score": 958.1
+    },
+    {
+      "term": "team's capture",
+      "kind": "bi",
+      "mentions": 231,
+      "file_spread": 62,
+      "density": 3.7,
+      "score": 957.1
+    },
+    {
+      "term": "halfway keep",
+      "kind": "bi",
+      "mentions": 233,
+      "file_spread": 59,
+      "density": 3.9,
+      "score": 954.0
+    },
+    {
+      "term": "feeling stronger",
+      "kind": "bi",
+      "mentions": 252,
+      "file_spread": 43,
+      "density": 5.9,
+      "score": 953.6
+    },
+    {
+      "term": "halfway point",
+      "kind": "bi",
+      "mentions": 218,
+      "file_spread": 77,
+      "density": 2.8,
+      "score": 949.8
+    },
+    {
+      "term": "forward press",
+      "kind": "bi",
+      "mentions": 682,
+      "file_spread": 3,
+      "density": 227.3,
+      "score": 945.5
+    },
+    {
+      "term": "sealed yet",
+      "kind": "bi",
+      "mentions": 226,
+      "file_spread": 64,
+      "density": 3.5,
+      "score": 943.4
+    },
+    {
+      "term": "boy boy",
+      "kind": "bi",
+      "mentions": 205,
+      "file_spread": 96,
+      "density": 2.1,
+      "score": 937.8
+    },
+    {
+      "term": "secondsokay looks",
+      "kind": "bi",
+      "mentions": 355,
+      "file_spread": 13,
+      "density": 27.3,
+      "score": 936.9
+    },
+    {
+      "term": "mean mean",
+      "kind": "bi",
+      "mentions": 191,
+      "file_spread": 132,
+      "density": 1.4,
+      "score": 934.1
+    },
+    {
+      "term": "reached checkpoint",
+      "kind": "bi",
+      "mentions": 227,
+      "file_spread": 59,
+      "density": 3.8,
+      "score": 929.4
+    },
+    {
+      "term": "amazing spider-man",
+      "kind": "bi",
+      "mentions": 232,
+      "file_spread": 53,
+      "density": 4.4,
+      "score": 925.4
+    },
+    {
+      "term": "open open",
+      "kind": "bi",
+      "mentions": 261,
+      "file_spread": 33,
+      "density": 7.9,
+      "score": 920.4
+    },
+    {
+      "term": "quick play",
+      "kind": "bi",
+      "mentions": 223,
+      "file_spread": 61,
+      "density": 3.7,
+      "score": 920.4
+    },
+    {
+      "term": "capture progress",
+      "kind": "bi",
+      "mentions": 215,
+      "file_spread": 68,
+      "density": 3.2,
+      "score": 910.3
+    },
+    {
+      "term": "moon haunts",
+      "kind": "bi",
+      "mentions": 226,
+      "file_spread": 53,
+      "density": 4.3,
+      "score": 901.5
+    },
+    {
+      "term": "scarlet witch",
+      "kind": "bi",
+      "mentions": 206,
+      "file_spread": 76,
+      "density": 2.7,
+      "score": 894.8
+    },
+    {
+      "term": "jury executioner",
+      "kind": "bi",
+      "mentions": 222,
+      "file_spread": 54,
+      "density": 4.1,
+      "score": 889.6
+    },
+    {
+      "term": "nice deep",
+      "kind": "bi",
+      "mentions": 213,
+      "file_spread": 60,
+      "density": 3.5,
+      "score": 875.6
+    },
+    {
+      "term": "hear hear",
+      "kind": "bi",
+      "mentions": 186,
+      "file_spread": 106,
+      "density": 1.8,
+      "score": 869.1
+    },
+    {
+      "term": "half mission",
+      "kind": "bi",
+      "mentions": 209,
+      "file_spread": 58,
+      "density": 3.6,
+      "score": 852.2
+    },
+    {
+      "term": "open door",
+      "kind": "bi",
+      "mentions": 187,
+      "file_spread": 93,
+      "density": 2.0,
+      "score": 849.6
+    },
+    {
+      "term": "willing help",
+      "kind": "bi",
+      "mentions": 204,
+      "file_spread": 60,
+      "density": 3.4,
+      "score": 838.6
+    },
+    {
+      "term": "help please",
+      "kind": "bi",
+      "mentions": 196,
+      "file_spread": 71,
+      "density": 2.8,
+      "score": 838.2
+    },
+    {
+      "term": "nice spot",
+      "kind": "bi",
+      "mentions": 212,
+      "file_spread": 50,
+      "density": 4.2,
+      "score": 833.5
+    },
+    {
+      "term": "captured half",
+      "kind": "bi",
+      "mentions": 204,
+      "file_spread": 58,
+      "density": 3.5,
+      "score": 831.8
+    },
+    {
+      "term": "keep keep",
+      "kind": "bi",
+      "mentions": 174,
+      "file_spread": 117,
+      "density": 1.5,
+      "score": 830.1
+    },
+    {
+      "term": "judge jury",
+      "kind": "bi",
+      "mentions": 204,
+      "file_spread": 57,
+      "density": 3.6,
+      "score": 828.3
+    },
+    {
+      "term": "poo poo",
+      "kind": "bi",
+      "mentions": 191,
+      "file_spread": 75,
+      "density": 2.5,
+      "score": 827.2
+    },
+    {
+      "term": "powers mine",
+      "kind": "bi",
+      "mentions": 208,
+      "file_spread": 51,
+      "density": 4.1,
+      "score": 821.9
+    },
+    {
+      "term": "something something",
+      "kind": "bi",
+      "mentions": 176,
+      "file_spread": 105,
+      "density": 1.7,
+      "score": 820.8
+    },
+    {
+      "term": "hit checkpoint",
+      "kind": "bi",
+      "mentions": 203,
+      "file_spread": 53,
+      "density": 3.8,
+      "score": 809.8
+    },
+    {
+      "term": "secondsyou'll top-notch",
+      "kind": "bi",
+      "mentions": 208,
+      "file_spread": 48,
+      "density": 4.3,
+      "score": 809.5
+    },
+    {
+      "term": "let check",
+      "kind": "bi",
+      "mentions": 169,
+      "file_spread": 116,
+      "density": 1.5,
+      "score": 804.8
+    },
+    {
+      "term": "donkey kong",
+      "kind": "bi",
+      "mentions": 216,
+      "file_spread": 40,
+      "density": 5.4,
+      "score": 802.1
+    },
+    {
+      "term": "hero villain",
+      "kind": "bi",
+      "mentions": 192,
+      "file_spread": 64,
+      "density": 3.0,
+      "score": 801.5
+    },
+    {
+      "term": "thank thank",
+      "kind": "bi",
+      "mentions": 175,
+      "file_spread": 95,
+      "density": 1.8,
+      "score": 798.8
+    },
+    {
+      "term": "progress passed",
+      "kind": "bi",
+      "mentions": 188,
+      "file_spread": 68,
+      "density": 2.8,
+      "score": 796.0
+    },
+    {
+      "term": "please tell",
+      "kind": "bi",
+      "mentions": 170,
+      "file_spread": 106,
+      "density": 1.6,
+      "score": 794.4
+    },
+    {
+      "term": "hit hit",
+      "kind": "bi",
+      "mentions": 171,
+      "file_spread": 102,
+      "density": 1.7,
+      "score": 792.5
+    },
+    {
+      "term": "passed halfway",
+      "kind": "bi",
+      "mentions": 188,
+      "file_spread": 66,
+      "density": 2.8,
+      "score": 790.5
+    },
+    {
+      "term": "press button",
+      "kind": "bi",
+      "mentions": 169,
+      "file_spread": 106,
+      "density": 1.6,
+      "score": 789.7
+    },
+    {
+      "term": "bam bam",
+      "kind": "bi",
+      "mentions": 191,
+      "file_spread": 61,
+      "density": 3.1,
+      "score": 788.3
+    },
+    {
+      "term": "jesus christ",
+      "kind": "bi",
+      "mentions": 168,
+      "file_spread": 104,
+      "density": 1.6,
+      "score": 781.9
+    },
+    {
+      "term": "watch watch",
+      "kind": "bi",
+      "mentions": 171,
+      "file_spread": 92,
+      "density": 1.9,
+      "score": 775.1
+    },
+    {
+      "term": "five nights",
+      "kind": "bi",
+      "mentions": 199,
+      "file_spread": 48,
+      "density": 4.1,
+      "score": 774.5
+    },
+    {
+      "term": "super mario",
+      "kind": "bi",
+      "mentions": 189,
+      "file_spread": 59,
+      "density": 3.2,
+      "score": 773.8
+    },
+    {
+      "term": "walk around",
+      "kind": "bi",
+      "mentions": 164,
+      "file_spread": 111,
+      "density": 1.5,
+      "score": 773.8
+    },
+    {
+      "term": "money daniel",
+      "kind": "bi",
+      "mentions": 429,
+      "file_spread": 5,
+      "density": 85.8,
+      "score": 768.7
+    },
+    {
+      "term": "help help",
+      "kind": "bi",
+      "mentions": 165,
+      "file_spread": 90,
+      "density": 1.8,
+      "score": 744.3
+    },
+    {
+      "term": "vehicle reached",
+      "kind": "bi",
+      "mentions": 183,
+      "file_spread": 56,
+      "density": 3.3,
+      "score": 739.9
+    },
+    {
+      "term": "humans ever",
+      "kind": "bi",
+      "mentions": 195,
+      "file_spread": 43,
+      "density": 4.5,
+      "score": 737.9
+    },
+    {
+      "term": "game mode",
+      "kind": "bi",
+      "mentions": 171,
+      "file_spread": 70,
+      "density": 2.4,
+      "score": 728.9
+    },
+    {
+      "term": "keep momentum",
+      "kind": "bi",
+      "mentions": 180,
+      "file_spread": 56,
+      "density": 3.2,
+      "score": 727.7
+    },
+    {
+      "term": "hello hello",
+      "kind": "bi",
+      "mentions": 164,
+      "file_spread": 82,
+      "density": 2.0,
+      "score": 724.7
+    },
+    {
+      "term": "keep playing",
+      "kind": "bi",
+      "mentions": 156,
+      "file_spread": 102,
+      "density": 1.5,
+      "score": 723.0
+    },
+    {
+      "term": "vehicle destination",
+      "kind": "bi",
+      "mentions": 177,
+      "file_spread": 56,
+      "density": 3.2,
+      "score": 715.6
+    },
+    {
+      "term": "yep yep",
+      "kind": "bi",
+      "mentions": 172,
+      "file_spread": 61,
+      "density": 2.8,
+      "score": 709.9
+    },
+    {
+      "term": "nope nope",
+      "kind": "bi",
+      "mentions": 172,
+      "file_spread": 61,
+      "density": 2.8,
+      "score": 709.9
+    },
+    {
+      "term": "let anything",
+      "kind": "bi",
+      "mentions": 170,
+      "file_spread": 64,
+      "density": 2.7,
+      "score": 709.6
+    },
+    {
+      "term": "secondsmission area",
+      "kind": "bi",
+      "mentions": 183,
+      "file_spread": 46,
+      "density": 4.0,
+      "score": 704.6
+    },
+    {
+      "term": "chaos control",
+      "kind": "bi",
+      "mentions": 183,
+      "file_spread": 45,
+      "density": 4.1,
+      "score": 700.6
+    },
+    {
+      "term": "alan rickman",
+      "kind": "bi",
+      "mentions": 205,
+      "file_spread": 28,
+      "density": 7.3,
+      "score": 690.3
+    },
+    {
+      "term": "feeling fantastic",
+      "kind": "bi",
+      "mentions": 177,
+      "file_spread": 48,
+      "density": 3.7,
+      "score": 688.9
+    },
+    {
+      "term": "sick tired",
+      "kind": "bi",
+      "mentions": 152,
+      "file_spread": 91,
+      "density": 1.7,
+      "score": 687.3
+    },
+    {
+      "term": "victory win",
+      "kind": "bi",
+      "mentions": 178,
+      "file_spread": 46,
+      "density": 3.9,
+      "score": 685.3
+    },
+    {
+      "term": "walking around",
+      "kind": "bi",
+      "mentions": 148,
+      "file_spread": 101,
+      "density": 1.5,
+      "score": 684.5
+    },
+    {
+      "term": "because because",
+      "kind": "bi",
+      "mentions": 147,
+      "file_spread": 103,
+      "density": 1.4,
+      "score": 682.7
+    },
+    {
+      "term": "wonders cosmos",
+      "kind": "bi",
+      "mentions": 182,
+      "file_spread": 41,
+      "density": 4.4,
+      "score": 680.3
+    },
+    {
+      "term": "ice cream",
+      "kind": "bi",
+      "mentions": 161,
+      "file_spread": 67,
+      "density": 2.4,
+      "score": 679.3
+    },
+    {
+      "term": "cosmos humans",
+      "kind": "bi",
+      "mentions": 181,
+      "file_spread": 41,
+      "density": 4.4,
+      "score": 676.5
+    },
+    {
+      "term": "secondsyou're ready",
+      "kind": "bi",
+      "mentions": 193,
+      "file_spread": 32,
+      "density": 6.0,
+      "score": 674.8
+    },
+    {
+      "term": "elon musk",
+      "kind": "bi",
+      "mentions": 162,
+      "file_spread": 61,
+      "density": 2.7,
+      "score": 668.6
+    },
+    {
+      "term": "never stop",
+      "kind": "bi",
+      "mentions": 156,
+      "file_spread": 70,
+      "density": 2.2,
+      "score": 665.0
+    },
+    {
+      "term": "secondsonly left",
+      "kind": "bi",
+      "mentions": 177,
+      "file_spread": 41,
+      "density": 4.3,
+      "score": 661.6
+    },
+    {
+      "term": "doo doo",
+      "kind": "bi",
+      "mentions": 208,
+      "file_spread": 23,
+      "density": 9.0,
+      "score": 661.0
+    },
+    {
+      "term": "four capture",
+      "kind": "bi",
+      "mentions": 181,
+      "file_spread": 37,
+      "density": 4.9,
+      "score": 658.4
+    },
+    {
+      "term": "through door",
+      "kind": "bi",
+      "mentions": 177,
+      "file_spread": 40,
+      "density": 4.4,
+      "score": 657.3
+    },
+    {
+      "term": "red bull",
+      "kind": "bi",
+      "mentions": 188,
+      "file_spread": 31,
+      "density": 6.1,
+      "score": 651.6
+    },
+    {
+      "term": "secondsthe heroes",
+      "kind": "bi",
+      "mentions": 174,
+      "file_spread": 41,
+      "density": 4.2,
+      "score": 650.4
+    },
+    {
+      "term": "end stream",
+      "kind": "bi",
+      "mentions": 140,
+      "file_spread": 98,
+      "density": 1.4,
+      "score": 643.3
+    },
+    {
+      "term": "guess guess",
+      "kind": "bi",
+      "mentions": 140,
+      "file_spread": 98,
+      "density": 1.4,
+      "score": 643.3
+    },
+    {
+      "term": "trying figure",
+      "kind": "bi",
+      "mentions": 137,
+      "file_spread": 105,
+      "density": 1.3,
+      "score": 638.9
+    },
+    {
+      "term": "mario mario",
+      "kind": "bi",
+      "mentions": 178,
+      "file_spread": 34,
+      "density": 5.2,
+      "score": 632.9
+    },
+    {
+      "term": "return favor",
+      "kind": "bi",
+      "mentions": 175,
+      "file_spread": 36,
+      "density": 4.9,
+      "score": 631.9
+    },
+    {
+      "term": "nights freddy's",
+      "kind": "bi",
+      "mentions": 162,
+      "file_spread": 47,
+      "density": 3.4,
+      "score": 627.1
+    },
+    {
+      "term": "four four",
+      "kind": "bi",
+      "mentions": 147,
+      "file_spread": 70,
+      "density": 2.1,
+      "score": 626.6
+    },
+    {
+      "term": "away away",
+      "kind": "bi",
+      "mentions": 154,
+      "file_spread": 57,
+      "density": 2.7,
+      "score": 625.3
+    },
+    {
+      "term": "final score",
+      "kind": "bi",
+      "mentions": 160,
+      "file_spread": 47,
+      "density": 3.4,
+      "score": 619.4
+    },
+    {
+      "term": "anyone willing",
+      "kind": "bi",
+      "mentions": 157,
+      "file_spread": 50,
+      "density": 3.1,
+      "score": 617.3
+    },
+    {
+      "term": "voice chat",
+      "kind": "bi",
+      "mentions": 144,
+      "file_spread": 70,
+      "density": 2.1,
+      "score": 613.8
+    },
+    {
+      "term": "paying attention",
+      "kind": "bi",
+      "mentions": 134,
+      "file_spread": 96,
+      "density": 1.4,
+      "score": 613.0
+    },
+    {
+      "term": "thought thought",
+      "kind": "bi",
+      "mentions": 136,
+      "file_spread": 89,
+      "density": 1.5,
+      "score": 612.0
+    },
+    {
+      "term": "vehicle tracks",
+      "kind": "bi",
+      "mentions": 154,
+      "file_spread": 51,
+      "density": 3.0,
+      "score": 608.5
+    },
+    {
+      "term": "root beer",
+      "kind": "bi",
+      "mentions": 153,
+      "file_spread": 52,
+      "density": 2.9,
+      "score": 607.5
+    },
+    {
+      "term": "spend money",
+      "kind": "bi",
+      "mentions": 135,
+      "file_spread": 89,
+      "density": 1.5,
+      "score": 607.5
+    },
+    {
+      "term": "let's play",
+      "kind": "bi",
+      "mentions": 140,
+      "file_spread": 73,
+      "density": 1.9,
+      "score": 602.6
+    },
+    {
+      "term": "secondsall let's",
+      "kind": "bi",
+      "mentions": 135,
+      "file_spread": 84,
+      "density": 1.6,
+      "score": 599.8
+    },
+    {
+      "term": "secondsyou'll keep",
+      "kind": "bi",
+      "mentions": 160,
+      "file_spread": 41,
+      "density": 3.9,
+      "score": 598.0
+    },
+    {
+      "term": "kill kill",
+      "kind": "bi",
+      "mentions": 141,
+      "file_spread": 68,
+      "density": 2.1,
+      "score": 597.0
+    },
+    {
+      "term": "played game",
+      "kind": "bi",
+      "mentions": 130,
+      "file_spread": 97,
+      "density": 1.3,
+      "score": 596.0
+    },
+    {
+      "term": "play games",
+      "kind": "bi",
+      "mentions": 129,
+      "file_spread": 95,
+      "density": 1.4,
+      "score": 588.8
+    },
+    {
+      "term": "yum yum",
+      "kind": "bi",
+      "mentions": 168,
+      "file_spread": 32,
+      "density": 5.2,
+      "score": 587.4
+    },
+    {
+      "term": "another epic",
+      "kind": "bi",
+      "mentions": 149,
+      "file_spread": 49,
+      "density": 3.0,
+      "score": 582.9
+    },
+    {
+      "term": "great job",
+      "kind": "bi",
+      "mentions": 130,
+      "file_spread": 87,
+      "density": 1.5,
+      "score": 582.1
+    },
+    {
+      "term": "hate hate",
+      "kind": "bi",
+      "mentions": 130,
+      "file_spread": 85,
+      "density": 1.5,
+      "score": 579.1
+    },
+    {
+      "term": "because game",
+      "kind": "bi",
+      "mentions": 128,
+      "file_spread": 91,
+      "density": 1.4,
+      "score": 578.8
+    },
+    {
+      "term": "frame rate",
+      "kind": "bi",
+      "mentions": 140,
+      "file_spread": 60,
+      "density": 2.3,
+      "score": 575.5
+    },
+    {
+      "term": "trying find",
+      "kind": "bi",
+      "mentions": 126,
+      "file_spread": 91,
+      "density": 1.4,
+      "score": 569.7
+    },
+    {
+      "term": "halfway stop",
+      "kind": "bi",
+      "mentions": 148,
+      "file_spread": 45,
+      "density": 3.3,
+      "score": 566.6
+    },
+    {
+      "term": "boom boom",
+      "kind": "bi",
+      "mentions": 146,
+      "file_spread": 47,
+      "density": 3.1,
+      "score": 565.2
+    },
+    {
+      "term": "anything stand",
+      "kind": "bi",
+      "mentions": 141,
+      "file_spread": 54,
+      "density": 2.6,
+      "score": 565.0
+    },
+    {
+      "term": "ooh ooh",
+      "kind": "bi",
+      "mentions": 179,
+      "file_spread": 22,
+      "density": 8.1,
+      "score": 561.3
+    },
+    {
+      "term": "jump jump",
+      "kind": "bi",
+      "mentions": 154,
+      "file_spread": 37,
+      "density": 4.2,
+      "score": 560.2
+    },
+    {
+      "term": "help vehicle",
+      "kind": "bi",
+      "mentions": 141,
+      "file_spread": 52,
+      "density": 2.7,
+      "score": 559.8
+    },
+    {
+      "term": "calling raccoon",
+      "kind": "bi",
+      "mentions": 160,
+      "file_spread": 32,
+      "density": 5.0,
+      "score": 559.4
+    },
+    {
+      "term": "almost yours",
+      "kind": "bi",
+      "mentions": 142,
+      "file_spread": 50,
+      "density": 2.8,
+      "score": 558.3
+    },
+    {
+      "term": "charge acceleration",
+      "kind": "bi",
+      "mentions": 254,
+      "file_spread": 8,
+      "density": 31.8,
+      "score": 558.1
+    },
+    {
+      "term": "let break",
+      "kind": "bi",
+      "mentions": 171,
+      "file_spread": 25,
+      "density": 6.8,
+      "score": 557.1
+    },
+    {
+      "term": "touch healing",
+      "kind": "bi",
+      "mentions": 148,
+      "file_spread": 41,
+      "density": 3.6,
+      "score": 553.2
+    },
+    {
+      "term": "chat gpt",
+      "kind": "bi",
+      "mentions": 145,
+      "file_spread": 44,
+      "density": 3.3,
+      "score": 552.0
+    },
+    {
+      "term": "bye bye",
+      "kind": "bi",
+      "mentions": 134,
+      "file_spread": 59,
+      "density": 2.3,
+      "score": 548.6
+    },
+    {
+      "term": "save game",
+      "kind": "bi",
+      "mentions": 126,
+      "file_spread": 74,
+      "density": 1.7,
+      "score": 544.0
+    },
+    {
+      "term": "best part",
+      "kind": "bi",
+      "mentions": 123,
+      "file_spread": 81,
+      "density": 1.5,
+      "score": 542.0
+    },
+    {
+      "term": "went through",
+      "kind": "bi",
+      "mentions": 120,
+      "file_spread": 90,
+      "density": 1.3,
+      "score": 541.3
+    },
+    {
+      "term": "youtube channel",
+      "kind": "bi",
+      "mentions": 128,
+      "file_spread": 65,
+      "density": 2.0,
+      "score": 536.3
+    },
+    {
+      "term": "almost turn",
+      "kind": "bi",
+      "mentions": 135,
+      "file_spread": 51,
+      "density": 2.6,
+      "score": 533.4
+    },
+    {
+      "term": "secondswell expect",
+      "kind": "bi",
+      "mentions": 144,
+      "file_spread": 39,
+      "density": 3.7,
+      "score": 531.2
+    },
+    {
+      "term": "far away",
+      "kind": "bi",
+      "mentions": 120,
+      "file_spread": 82,
+      "density": 1.5,
+      "score": 530.3
+    },
+    {
+      "term": "yummy yummy",
+      "kind": "bi",
+      "mentions": 166,
+      "file_spread": 23,
+      "density": 7.2,
+      "score": 527.6
+    },
+    {
+      "term": "left left",
+      "kind": "bi",
+      "mentions": 121,
+      "file_spread": 76,
+      "density": 1.6,
+      "score": 525.6
+    },
+    {
+      "term": "start playing",
+      "kind": "bi",
+      "mentions": 117,
+      "file_spread": 86,
+      "density": 1.4,
+      "score": 522.5
+    },
+    {
+      "term": "ready ready",
+      "kind": "bi",
+      "mentions": 116,
+      "file_spread": 81,
+      "density": 1.4,
+      "score": 511.2
+    },
+    {
+      "term": "secondsheat secondsheat",
+      "kind": "bi",
+      "mentions": 137,
+      "file_spread": 40,
+      "density": 3.4,
+      "score": 508.8
+    },
+    {
+      "term": "play video",
+      "kind": "bi",
+      "mentions": 113,
+      "file_spread": 89,
+      "density": 1.3,
+      "score": 508.5
+    },
+    {
+      "term": "secondsthe moon",
+      "kind": "bi",
+      "mentions": 136,
+      "file_spread": 41,
+      "density": 3.3,
+      "score": 508.3
+    },
+    {
+      "term": "four five",
+      "kind": "bi",
+      "mentions": 118,
+      "file_spread": 73,
+      "density": 1.6,
+      "score": 507.9
+    },
+    {
+      "term": "baby baby",
+      "kind": "bi",
+      "mentions": 125,
+      "file_spread": 57,
+      "density": 2.2,
+      "score": 507.6
+    },
+    {
+      "term": "secondsthis game",
+      "kind": "bi",
+      "mentions": 119,
+      "file_spread": 70,
+      "density": 1.7,
+      "score": 507.3
+    },
+    {
+      "term": "never played",
+      "kind": "bi",
+      "mentions": 114,
+      "file_spread": 83,
+      "density": 1.4,
+      "score": 505.1
+    },
+    {
+      "term": "looks mission",
+      "kind": "bi",
+      "mentions": 127,
+      "file_spread": 51,
+      "density": 2.5,
+      "score": 501.8
+    },
+    {
+      "term": "let's keep",
+      "kind": "bi",
+      "mentions": 116,
+      "file_spread": 74,
+      "density": 1.6,
+      "score": 500.8
+    },
+    {
+      "term": "black panther",
+      "kind": "bi",
+      "mentions": 128,
+      "file_spread": 48,
+      "density": 2.7,
+      "score": 498.2
+    },
+    {
+      "term": "double kill",
+      "kind": "bi",
+      "mentions": 127,
+      "file_spread": 49,
+      "density": 2.6,
+      "score": 496.8
+    },
+    {
+      "term": "robo cop",
+      "kind": "bi",
+      "mentions": 171,
+      "file_spread": 17,
+      "density": 10.1,
+      "score": 494.3
+    },
+    {
+      "term": "pay attention",
+      "kind": "bi",
+      "mentions": 112,
+      "file_spread": 80,
+      "density": 1.4,
+      "score": 492.2
+    },
+    {
+      "term": "turn turn",
+      "kind": "bi",
+      "mentions": 119,
+      "file_spread": 61,
+      "density": 2.0,
+      "score": 491.1
+    },
+    {
+      "term": "end game",
+      "kind": "bi",
+      "mentions": 113,
+      "file_spread": 75,
+      "density": 1.5,
+      "score": 489.4
+    },
+    {
+      "term": "five five",
+      "kind": "bi",
+      "mentions": 119,
+      "file_spread": 60,
+      "density": 2.0,
+      "score": 489.2
+    },
+    {
+      "term": "uh-huh uh-huh",
+      "kind": "bi",
+      "mentions": 125,
+      "file_spread": 49,
+      "density": 2.6,
+      "score": 489.0
+    },
+    {
+      "term": "beep beep",
+      "kind": "bi",
+      "mentions": 129,
+      "file_spread": 43,
+      "density": 3.0,
+      "score": 488.2
+    },
+    {
+      "term": "poppy playtime",
+      "kind": "bi",
+      "mentions": 146,
+      "file_spread": 27,
+      "density": 5.4,
+      "score": 486.5
+    },
+    {
+      "term": "score zero",
+      "kind": "bi",
+      "mentions": 131,
+      "file_spread": 40,
+      "density": 3.3,
+      "score": 486.5
+    },
+    {
+      "term": "rest until",
+      "kind": "bi",
+      "mentions": 136,
+      "file_spread": 34,
+      "density": 4.0,
+      "score": 483.5
+    },
+    {
+      "term": "cut scene",
+      "kind": "bi",
+      "mentions": 124,
+      "file_spread": 48,
+      "density": 2.6,
+      "score": 482.6
+    },
+    {
+      "term": "running around",
+      "kind": "bi",
+      "mentions": 108,
+      "file_spread": 85,
+      "density": 1.3,
+      "score": 481.1
+    },
+    {
+      "term": "better better",
+      "kind": "bi",
+      "mentions": 110,
+      "file_spread": 78,
+      "density": 1.4,
+      "score": 480.6
+    },
+    {
+      "term": "charge fire",
+      "kind": "bi",
+      "mentions": 134,
+      "file_spread": 34,
+      "density": 3.9,
+      "score": 476.4
+    },
+    {
+      "term": "real question",
+      "kind": "bi",
+      "mentions": 109,
+      "file_spread": 76,
+      "density": 1.4,
+      "score": 473.5
+    },
+    {
+      "term": "beat game",
+      "kind": "bi",
+      "mentions": 113,
+      "file_spread": 65,
+      "density": 1.7,
+      "score": 473.4
+    },
+    {
+      "term": "secondsbetter stop",
+      "kind": "bi",
+      "mentions": 132,
+      "file_spread": 35,
+      "density": 3.8,
+      "score": 473.0
+    },
+    {
+      "term": "hold hold",
+      "kind": "bi",
+      "mentions": 112,
+      "file_spread": 65,
+      "density": 1.7,
+      "score": 469.2
+    },
+    {
+      "term": "fruit salad",
+      "kind": "bi",
+      "mentions": 162,
+      "file_spread": 17,
+      "density": 9.5,
+      "score": 468.2
+    },
+    {
+      "term": "part game",
+      "kind": "bi",
+      "mentions": 109,
+      "file_spread": 71,
+      "density": 1.5,
+      "score": 466.2
+    },
+    {
+      "term": "secondspick hero",
+      "kind": "bi",
+      "mentions": 121,
+      "file_spread": 46,
+      "density": 2.6,
+      "score": 465.9
+    },
+    {
+      "term": "norman reus",
+      "kind": "bi",
+      "mentions": 153,
+      "file_spread": 20,
+      "density": 7.7,
+      "score": 465.8
+    },
+    {
+      "term": "best friend",
+      "kind": "bi",
+      "mentions": 110,
+      "file_spread": 67,
+      "density": 1.6,
+      "score": 464.1
+    }
+  ]
+}

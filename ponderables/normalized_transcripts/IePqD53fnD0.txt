@@ -1,0 +1,1302 @@
+# IePqD53fnD0
+# Source: engagement_panel
+# Quality: good
+# Word count: 20663
+# Available sources: engagement_panel
+
+[00:01] 1 second[Music]
+[00:18] 18 secondsHeat.
+[00:18] 18 seconds[Music]
+[00:23] 23 secondsHeat. Heat. Heat.
+[00:34] 34 seconds[Music]
+[01:10] 1 minute, 10 secondsOh yeah, we got to get this on the road. Yeah, just just quickly quickly quickly.
+[01:19] 1 minute, 19 secondsIt's the middle of the night. We must game. Heck, I still have the light
+[01:25] 1 minute, 25 secondson. Um, I need to Yeah, that way. That works.
+[01:41] 1 minute, 41 secondsThanks. I think if I hit this button.
+[01:44] 1 minute, 44 secondsBoom. There we go. Lighting should be fixed. And then one more. One
+[01:52] 1 minute, 52 secondsmore. It's It's that easy. Middle of the night. Uh I have been working over the past what? Three, four
+[02:00] 2 minutesdays. Four days. Past four days on this thing. I had a brain blast idea like
+[02:09] 2 minutes, 9 secondsJimmy Neutron. brain blast. I uh realized that normal ways that we broadcast
+[02:17] 2 minutes, 17 secondsuh information mechanisms, attention mechanisms, just every type of AI are done via flat arrays. And I was like, "Oh, yo yo yo yo
+[02:26] 2 minutes, 26 secondsyo yo yo, flat arrays." And then I read this paper where they put where they broadcast it as circles on a ball. And I was like, "Oh, that's pretty cool. You
+[02:34] 2 minutes, 34 secondscan do that." And I was like, "Wait, you can do that?" And then and then I realized, wait, you can do that. And so I was like, if you
+[02:43] 2 minutes, 43 secondscould do it on a ball, you can do a ball inside of a ball or you can do any shape. You balls inside of balls are good, though, cuz uh rectangles collide
+[02:51] 2 minutes, 51 secondson the corners if you rotate them. So my idea was is you rotate uh the balls and you have velocity mapped and then you
+[02:59] 2 minutes, 59 secondshave density in between the balls and you nest them. to to make this easy to understand. I actually I got one thing
+[03:08] 3 minutes, 8 secondsbecause if I'm going to talk about it, I'll at least pull up the one image that makes sense. I have one image in my entire project that actually helps
+[03:16] 3 minutes, 16 secondspeople understand. Here you go. I'm going to make even bigger. This
+[03:24] 3 minutes, 24 secondsThis is a nested hyperbolic level. And this is what I made. This is well this is a projection of what I made in 3D
+[03:30] 3 minutes, 30 secondsspace because it's actually a 4D space but it's a ball inside of a ball inside of a ball and the points cluster in the balls on systems and are stored as
+[03:39] 3 minutes, 39 secondspoints on the balls and as vector arrays in between the balls and in doing that you have a densely packed information
+[03:47] 3 minutes, 47 secondsarray. Instead of having a bunch of a bunch of tables and a bunch of stored tables you can store it all in one ball.
+[03:55] 3 minutes, 55 secondsAnd and while it may seem more complicated because of the math, it is.
+[03:58] 3 minutes, 58 secondsYou have to compute it. And it means it takes a lot more for training than it does for inference. But that means you can run you could run a huge huge huge
+[04:06] 4 minutes, 6 secondshuge huge huge huge huge huge huge huge huge huge model on a little computer for
+[04:13] 4 minutes, 13 secondsinference and it would just you know take a while to do the inference but not as long as a training.
+[04:19] 4 minutes, 19 secondsSee, one one batch of training is how long one
+[04:26] 4 minutes, 26 secondsbatch of infrance inference should take, but it's a billion [ __ ] batches for training and is the way the way it's
+[04:34] 4 minutes, 34 secondsdone with the patch network. And you can continually ingest data and output supposedly. And it could be coordinated
+[04:43] 4 minutes, 43 secondsfor image data, vector data, robotics data such as movement of limbs, uh um
+[04:49] 4 minutes, 49 secondsmRNA research for the splining of uh proteins like my research should should
+[04:57] 4 minutes, 57 secondstotally there's a paper there's a lot I the only thing is I'm not in college so I don't I don't have anybody to talk to
+[05:04] 5 minutes, 4 secondsexcept like the internet. So, like if you guys are watching this in the future or past, uh, By Tropics on my GitHub is
+[05:12] 5 minutes, 12 secondsdefinitely the repo to check out. It's got a lot of code and a paper. And I think I'm if I'm going to make anything
+[05:19] 5 minutes, 19 secondselse, I'm going to use stuff from that repo and move on to like other stuff or like try to learn how to use it for generalized applied robotics learning
+[05:28] 5 minutes, 28 secondsbecause I think I think while text data is whoopity dupity, I think it's way better for a centralized robotics system
+[05:35] 5 minutes, 35 secondsand I want to make little tiny robots and it's good for tiny robots. Now it's gaming time.
+[05:47] 5 minutes, 47 secondsAll right. I hope I fixed this thing finally from what every time I played. Yay. It finally is the correct
+[05:54] 5 minutes, 54 seconds[Music]
+[05:56] 5 minutes, 56 secondsmicrophone.
+[05:59] 5 minutes, 59 secondsUm, what was the settings are still the same with VSync. All right, we're just hoping and praying.
+[06:08] 6 minutes, 8 secondsWhat? I got frame requests. was Jazz.
+[06:20] 6 minutes, 20 seconds[ __ ] Can I There you go.
+[06:32] 6 minutes, 32 seconds[Music]
+[06:34] 6 minutes, 34 secondsAh, what's up, Kami? Yummy.
+[06:40] 6 minutes, 40 secondsAll right. Any of these guys go below gold three and you're
+[06:47] 6 minutes, 47 secondsout. Gold three and you're out. Nobody's gone below gold three yet. So, I'm still happy. But if you stay below gold three,
+[06:54] 6 minutes, 54 secondsyou're out. I You're out. I might be out of my own clan. I don't know. I don't know how the rules work here. I really I really don't know how things are going
+[07:01] 7 minutes, 1 secondto be honest because from what I what I've heard, there's a lot of there's a lot of stuff going on with the rank and there's a big strike with supports. I
+[07:09] 7 minutes, 9 secondshave not been playing for 4 days and in that 4 days the entire game has gone to [ __ ] Now I don't want to say I haven't been playing. I have a Steam Deck. I played the game on my Steam account on
+[07:18] 7 minutes, 18 secondsthe Steam Deck. Played big head mode a little bit and I learned what big head mode was and I have to do big head mode here. So, to be honest, I'm probably
+[07:26] 7 minutes, 26 secondsgonna be playing big head mode tonight and then move into rank.
+[07:42] 7 minutes, 42 secondsFrom what I remember, you don't have to be a witch to find a man. Normal characters suck in big head.
+[07:50] 7 minutes, 50 secondsThe battle starts in 5 4 3 2 1. Only one team wins this. Try to make it yours.
+[08:03] 8 minutes, 3 secondsThe multiverse offers endless possibilities, but only if it survives this chaos. I still want you. Shake it up. Disappearing.
+[08:16] 8 minutes, 16 secondsYou're in the lead now. Try to make it last.
+[08:20] 8 minutes, 20 secondsBest friends not going anywhere.
+[08:29] 8 minutes, 29 secondsYou'll turn this around. You're in the lead now. Try to make it last.
+[08:37] 8 minutes, 37 secondsDouble kill.
+[08:47] 8 minutes, 47 secondsNo more chill out. I
+[09:05] 9 minutes, 5 secondsstill chaos control.
+[09:11] 9 minutes, 11 secondsMy own cannot save you this time, didn't you?
+[09:21] 9 minutes, 21 secondsBum bum.
+[09:31] 9 minutes, 31 secondsMy fate isn't serious. You're not going anywhere.
+[09:41] 9 minutes, 41 secondsThat did the trick. Double kill.
+[10:03] 10 minutes, 3 secondscoming from behind.
+[10:07] 10 minutes, 7 seconds[Music]
+[10:20] 10 minutes, 20 secondsYou won't have to fight alone. Don't mess with the Amazing Spider-Man.
+[10:33] 10 minutes, 33 secondsMy fate isn't sealed yet. Destructive power.
+[10:42] 10 minutes, 42 secondsHelp. I still want you. I'm doing this my way.
+[10:53] 10 minutes, 53 secondsI won't make the same mistakes again. You're one minute until show.
+[11:04] 11 minutes, 4 secondsI didn't disappear.
+[11:13] 11 minutes, 13 secondsBehind you. Victory. My fate isn't sealed yet.
+[11:25] 11 minutes, 25 secondsI don't want to become action commences in 30 seconds.
+[11:35] 11 minutes, 35 secondsGo back to whatever cave you crawled out of. Goodbye.
+[11:46] 11 minutes, 46 seconds10 seconds. Noing out now. My fate isn't sealed yet.
+[12:00] 12 minutesAnother epic victory. Big
+[12:15] 12 minutes, 15 secondswin. And more of that.
+[12:21] 12 minutes, 21 seconds[Music]
+[12:30] 12 minutes, 30 secondsThe higher the pressure, the more dazzling the diamond.
+[12:39] 12 minutes, 39 secondsThe battle starts in five, four, three, two, one. Only one team wins this. Try to make it yours.
+[13:02] 13 minutes, 2 secondsBut you can still turn this around. You can still turn this around.
+[13:13] 13 minutes, 13 secondsYou can't be rid of me so easily, I'm afraid. Of the deep.
+[13:21] 13 minutes, 21 secondsfor a king. Your army is
+[14:03] 14 minutes, 3 secondsEmma Frost never surreners. Neymar keeps strange company.
+[14:22] 14 minutes, 22 secondsYou can't be rid of me so easily. I'm afraid.
+[14:31] 14 minutes, 31 secondsTry to go for a pick me up.
+[14:51] 14 minutes, 51 secondsFantastic. And now there's hellfire to pay.
+[14:59] 14 minutes, 59 secondsI'll patch you up. I was fine. Thank you. You were beneath me.
+[15:13] 15 minutes, 13 secondsdisappear. Clear the way.
+[15:41] 15 minutes, 41 secondsHell.
+[15:45] 15 minutes, 45 secondsOne minute until my crows. Keep your tentacles to yourself, Neymar.
+[16:04] 16 minutes, 4 secondsTrouble has arrived.
+[16:15] 16 minutes, 15 secondsAction commences in 30 seconds.
+[16:27] 16 minutes, 27 secondsThese things are even more heavily than I am. No hard feelings.
+[16:37] 16 minutes, 37 secondsNo backing up now.
+[16:45] 16 minutes, 45 secondsWell, you can't expect to win them all.
+[17:16] 17 minutes, 16 secondsI've seen wonders out there in the cosmos few humans will ever behold.
+[17:26] 17 minutes, 26 secondsThe battle starts in five, four, three, two, one. Only one team wins this. Try to make it yours.
+[17:38] 17 minutes, 38 secondsFrank, my inventions have saved worlds.
+[17:41] 17 minutes, 41 secondsBut the best thing I ever built was my family. No escaping us now.
+[17:49] 17 minutes, 49 secondsGot my cover. Nice.
+[18:00] 18 minutesThat almost hurt. You're in the lead now. Try to make it last.
+[18:08] 18 minutes, 8 secondsThey've come from behind, but you can still turn this around.
+[18:19] 18 minutes, 19 secondscan always use a shield.
+[18:24] 18 minutes, 24 secondsYou're in the lead now. Try to make it unusually satisfying.
+[18:31] 18 minutes, 31 secondsLocated a nest. You're in the lead now. Try to make it last.
+[18:38] 18 minutes, 38 secondsI'm not ready to give up yet.
+[18:44] 18 minutes, 44 secondsThey've come from behind, but you can still turn this around. You're in the lead now. Try to make it last.
+[18:52] 18 minutes, 52 secondsThey've come from behind, but you can still turn this around. Let me return the favor.
+[18:59] 18 minutes, 59 secondsThey come from behind, but you can still turn this around.
+[19:05] 19 minutes, 5 secondsI won't rest until this is solved. I've got you.
+[19:15] 19 minutes, 15 secondsSuccess. Located a nest of synthetic spiders.
+[19:25] 19 minutes, 25 secondsI'm more resilient than you think. You deserve this.
+[19:35] 19 minutes, 35 secondsI've got you. We are undefeatable. SP. Let me return the favor.
+[19:45] 19 minutes, 45 secondsHostiles in front.
+[19:50] 19 minutes, 50 secondsI'm more resilient than you think. Watch me.
+[19:59] 19 minutes, 59 secondsJudge, jury, executioner.
+[20:03] 20 minutes, 3 secondsDouble kill. You should have known better. My armor is stronger now.
+[20:16] 20 minutes, 16 secondsAn army of artificial arachnets with you. That almost hurts.
+[20:26] 20 minutes, 26 secondsThis should keep us safe. Spider. One minute until showtime.
+[20:40] 20 minutes, 40 secondsWell, hello there. Let me return the favor.
+[20:56] 20 minutes, 56 secondsThey come from behind, but you can still turn this around.
+[21:02] 21 minutes, 2 secondsAction commences. They come from behind, but you can still turn this around.
+[21:12] 21 minutes, 12 secondsI'm more resilient than you think. Well, hello.
+[21:19] 21 minutes, 19 secondsWe are undefeatable.
+[21:22] 21 minutes, 22 seconds10 seconds. No backing out now. I'm doing this my way. Behold the child.
+[21:33] 21 minutes, 33 secondsYes. Last second. Another epic victory. Take win.
+[21:46] 21 minutes, 46 secondsI was like, "Come here, you little [ __ ] Last kill. You're in the lead. You win." All right.
+[22:12] 22 minutes, 12 seconds[Music]
+[22:22] 22 minutes, 22 secondsI've seen wonders out there in the cosmos few humans will ever behold.
+[22:30] 22 minutes, 30 secondsThe battle starts in five, 4, 3, 2, 1.
+[22:36] 22 minutes, 36 secondsOnly one team wins this. Try to make it yours.
+[22:43] 22 minutes, 43 secondsEven in the face of cosmic cataclysm, every one of us can make a difference. We got company.
+[22:58] 22 minutes, 58 secondsYou're in the lead now. Try to make it.
+[23:04] 23 minutes, 4 seconds[Music]
+[23:07] 23 minutes, 7 secondsEnemy's on your tail.
+[23:12] 23 minutes, 12 secondsDestroy it. Keep your fish up. Anger.
+[23:31] 23 minutes, 31 secondsThe only way we win this is together. We'll find a way to bring you back then. I promise.
+[23:55] 23 minutes, 55 secondsWe are undefeable.
+[24:05] 24 minutes, 5 secondsNot so fast, friend.
+[24:08] 24 minutes, 8 secondsYou're in the lead now. Try to make it last. Well, hello there.
+[24:16] 24 minutes, 16 secondsYou're in the lead now. Try to make it left.
+[24:34] 24 minutes, 34 secondsThat should come in handy. Look out for one another.
+[24:42] 24 minutes, 42 seconds[Music]
+[24:45] 24 minutes, 45 secondsAssemble ancient Egypt. Fleming reserves the favor. We've been discovered.
+[24:53] 24 minutes, 53 secondsExcellent. The moon.
+[25:01] 25 minutes, 1 secondI'm not ready to give up yet. I am ready to put on a show.
+[25:11] 25 minutes, 11 secondspower has been neutralized. Fantastic.
+[25:17] 25 minutes, 17 secondsWay we win. Feeling fantastic.
+[25:28] 25 minutes, 28 secondsI won't rest until this is You're in the lead now. Try to make it past you.
+[25:36] 25 minutes, 36 secondsOne minute until we are undefeable.
+[25:46] 25 minutes, 46 seconds[Music]
+[25:53] 25 minutes, 53 secondsAn ancient Egyptian artifact. Interesting. the price for that.
+[26:07] 26 minutes, 7 secondsIn
+[3026:19] 26 minutes, 19 secondsseconds in your favor or a dagger, they go behind you.
+[26:27] 26 minutes, 27 secondsNo backing out now.
+[26:39] 26 minutes, 39 secondsAnother epic victory. Big
+[26:51] 26 minutes, 51 secondswin. Ah.
+[27:11] 27 minutes, 11 secondsI've seen wonders out there in the cosmos few humans will ever behold.
+[27:20] 27 minutes, 20 secondsThe battle starts in 5 4 3 2 1. Only one team wins this. Try to make it yours.
+[27:37] 27 minutes, 37 secondsIs simple. Solve everything. Our enemies are here. Let's get started. Help
+[27:46] 27 minutes, 46 secondsfriends. Here's an enemy. You're in the lead now.
+[27:51] 27 minutes, 51 secondsThey've come from behind, but you can still turn this around.
+[28:05] 28 minutes, 5 secondsYou're in the lead now. Try to make it last. Double KO. That's three.
+[28:17] 28 minutes, 17 secondsPentagram strange is teleporting
+[28:32] 28 minutes, 32 secondsaround truly harm.
+[28:40] 28 minutes, 40 secondsTrouble has arrived.
+[28:51] 28 minutes, 51 secondsHelp friends. Look, here is an enemy.
+[29:06] 29 minutes, 6 secondsFantastic. We got to look out for one another.
+[29:19] 29 minutes, 19 secondsAssemble.
+[29:40] 29 minutes, 40 secondsthe world. Let me return the favor.
+[29:54] 29 minutes, 54 secondsI won't rest until this is solved.
+[30:03] 30 minutes, 3 secondsNot so fast, friend.
+[30:10] 30 minutes, 10 secondsNever miss around. Well, hello there.
+[30:26] 30 minutes, 26 secondsOne minute till return. I am ready to put on a show.
+[30:38] 30 minutes, 38 secondsShake it up. Hostile ahead.
+[30:47] 30 minutes, 47 secondsBy the eye of Agamoto.
+[30:55] 30 minutes, 55 secondsI won't rest until this is action commences in 30 seconds.
+[31:04] 31 minutes, 4 secondsthe favor. I'm not ready to give up yet.
+[31:16] 31 minutes, 16 seconds10 seconds. No backing out now. Assemble. Fantastic.
+[31:29] 31 minutes, 29 secondsAnother epic victory. Big win.
+[31:36] 31 minutes, 36 seconds[Music]
+[32:15] 32 minutes, 15 seconds[Music]
+[32:23] 32 minutes, 23 seconds[Music]
+[32:34] 32 minutes, 34 seconds[Music]
+[32:39] 32 minutes, 39 secondsFive
+[32:40] 32 minutes, 40 seconds[Music]
+[32:53] 32 minutes, 53 secondsmore. I've seen wonders out there in the cosmos. Few humans will ever behold.
+[33:04] 33 minutes, 4 secondsThe battle starts in 5 4 3 2 one. Only one team wins this. Try to make it yours.
+[33:17] 33 minutes, 17 secondsWinning isn't always about getting harder. Sometimes it's about thinking harder.
+[33:29] 33 minutes, 29 secondsShake it up. An exponential boost.
+[33:37] 33 minutes, 37 secondsI need assistance. I've come from behind, but you can still turn this around.
+[33:52] 33 minutes, 52 secondsThis should come in handy. Fire.
+[33:58] 33 minutes, 58 secondsYou're in the lead now. Try to make it last.
+[34:07] 34 minutes, 7 secondsThat almost hurt. They've come from behind. But you can still turn this around. So fast, friend.
+[34:16] 34 minutes, 16 secondsThey've come from behind. But you can still turn this around. We've been discovered.
+[34:25] 34 minutes, 25 secondspredictable outcome. I was going to kill that Jeff or it was going to feed me.
+[34:32] 34 minutes, 32 seconds[Music]
+[34:41] 34 minutes, 41 secondsI'm not ready to give up yet.
+[34:58] 34 minutes, 58 secondsSay we win.
+[35:10] 35 minutes, 10 secondsYou're a beautiful soul. You find return the favor. Don't forget feeling fantastic.
+[35:21] 35 minutes, 21 secondsThe only way we win this assemble
+[35:33] 35 minutes, 33 secondsfriends has called forth allies from the depths. The ocean you I'm more resilient than you think.
+[35:50] 35 minutes, 50 secondsThat almost hurt. Disappear.
+[35:58] 35 minutes, 58 secondsHurricane incoming.
+[36:10] 36 minutes, 10 secondsOne minute till time. Cool.
+[36:18] 36 minutes, 18 secondsYou should have known better.
+[36:26] 36 minutes, 26 seconds[Music]
+[36:32] 36 minutes, 32 secondsYou get a web. You get a commences in 30 seconds. I'm more resilient than you think.
+[36:56] 36 minutes, 56 secondsFeeling fantastic. 10 seconds. No backing out now.
+[37:03] 37 minutes, 3 secondsThat's one down. Fantastic.
+[37:12] 37 minutes, 12 seconds[Music]
+[37:13] 37 minutes, 13 secondsWell, you can't expect to win them all.
+[37:20] 37 minutes, 20 secondsI just wanted to kill that Jeff and I killed that Jeff twice. Accomplished.
+[37:33] 37 minutes, 33 secondsI got my actual Jeff one v one that I wanted in my head and it proved that yes, you can one v one a [ __ ] diving Jeff and maybe you don't need a nerf
+[37:42] 37 minutes, 42 secondsdiving Jeff. It's just diving Jeff is really annoying. Hear the box.
+[37:59] 37 minutes, 59 secondsI've seen wonders out there in the cosmos. Few humans will ever be old.
+[38:06] 38 minutes, 6 secondsThe battle starts in 5 4 3 2 1. Only one team wins this. Try to make it yours.
+[38:23] 38 minutes, 23 secondsEven in the face of cosmic catac
+[38:47] 38 minutes, 47 secondsTry to make it seas has pulled forth his own army.
+[39:06] 39 minutes, 6 secondsThere's still more work to be done. You're in the lead now. Try to make it.
+[39:14] 39 minutes, 14 secondsYou're in the lead now. Try to make it last. That almost hurt.
+[39:23] 39 minutes, 23 secondsCome from behind, but you can still turn this around. I won't rest until this is solved.
+[39:30] 39 minutes, 30 secondsYou're in the lead now. Try to make it. Transgressions have been repaid.
+[39:41] 39 minutes, 41 secondsSorry about that.
+[39:51] 39 minutes, 51 secondsLet me return the favor.
+[40:02] 40 minutes, 2 secondsI won't rest until this is solved.
+[40:14] 40 minutes, 14 seconds[Music]
+[40:18] 40 minutes, 18 secondsThat was simple. Let me return the favor.
+[40:30] 40 minutes, 30 secondsThat takes care of me.
+[40:35] 40 minutes, 35 secondsWatch me s Assemble.
+[40:48] 40 minutes, 48 secondsChaos tail. Fantastic.
+[40:57] 40 minutes, 57 secondsUnleash. I wanted that Jeff dead. You failed.
+[41:06] 41 minutes, 6 secondsA futile attempt. Good job, Jeff. Thank you for the heals.
+[41:25] 41 minutes, 25 secondsTrouble has arrived. Supernova.
+[41:42] 41 minutes, 42 secondsAction commences in 30 seconds.
+[41:51] 41 minutes, 51 secondsSister is not going to be happy about this. Johnny, you
+[41:57] 41 minutes, 57 secondsare. I accept. That almost hurt. I could learn a few things from you. Another epic victory. Big win.
+[42:52] 42 minutes, 52 secondsWhen scientific resolutions prove insufficient. Giant fists do come in handy.
+[43:03] 43 minutes, 3 secondsThat almost hurt. Hell at least.
+[43:18] 43 minutes, 18 secondsA futile attempt is on fire.
+[43:26] 43 minutes, 26 secondsThe only way we win this is together. This ship will serve me well.
+[43:36] 43 minutes, 36 secondsThis should come in handy.
+[43:39] 43 minutes, 39 secondsExtra protection. They've come from behind. You can still turn this around.
+[43:44] 43 minutes, 44 secondsThey've come from behind. You can still turn this around. They've come from behind.
+[43:52] 43 minutes, 52 secondsYou're in the lead now. Try to make it last.
+[43:56] 43 minutes, 56 seconds[Music]
+[43:59] 43 minutes, 59 secondsThey've come from behind. But you can still turn this around. That'll work.
+[44:07] 44 minutes, 7 seconds[Music]
+[44:09] 44 minutes, 9 seconds[Applause]
+[44:11] 44 minutes, 11 secondsBut you can still turn this around.
+[44:14] 44 minutes, 14 secondsThey've come from behind. You can still turn this around.
+[44:18] 44 minutes, 18 secondsYou're in the lead now. Try to make it last.
+[44:31] 44 minutes, 31 secondsThat almost hurt.
+[44:34] 44 minutes, 34 secondsThey come from behind. You can still turn this around. One minute until they come from behind.
+[44:42] 44 minutes, 42 secondsYou can still turn this around. That was pretty satisfying. Excellent.
+[44:52] 44 minutes, 52 secondsLet me return this around. Fantastic.
+[45:09] 45 minutes, 9 secondsAction commences in 30 seconds.
+[45:28] 45 minutes, 28 seconds10 seconds. No backing out now. I got you.
+[45:41] 45 minutes, 41 secondsWell, you can't expect to win them all.
+[46:17] 46 minutes, 17 secondsI've seen wonders out there in the cosmos few humans will ever behold.
+[46:26] 46 minutes, 26 secondsThe battle starts in 5 4 3 2 1. Only one team wins this. Try to make it yours.
+[46:39] 46 minutes, 39 secondsI am. There's a solution to every problem. If you just look hard. I'm Hulky.
+[46:46] 46 minutes, 46 secondsIt seems we have.
+[46:48] 46 minutes, 48 secondsYou're in the lead now. Try to make it last.
+[46:53] 46 minutes, 53 secondsNo, I'm fine. A futile attempt. They come from behind, but you can still turn this around.
+[47:01] 47 minutes, 1 secondYou're in the lead now.
+[47:16] 47 minutes, 16 secondsFeeling fantastic. You're in the lead now.
+[47:25] 47 minutes, 25 secondsYou're in the lead now. Try to make it last.
+[47:33] 47 minutes, 33 seconds[Music]
+[47:36] 47 minutes, 36 secondsThis shield will serve me well.
+[47:51] 47 minutes, 51 secondsWe got to look out for one another. Let me return the favor.
+[47:59] 47 minutes, 59 secondsLong range shoot. Never miss my target.
+[48:10] 48 minutes, 10 secondsThere's still more work to be done.
+[48:12] 48 minutes, 12 secondsThey've come from behind, but you can still turn this around. You're in the lead now. Try to make it hulky.
+[48:22] 48 minutes, 22 secondsYou're in the lead now. Try to make it last.
+[48:28] 48 minutes, 28 secondsThis should limit any damage. Fantastic.
+[48:44] 48 minutes, 44 secondsThey've come from mine, but you can still turn this around.
+[48:55] 48 minutes, 55 secondsThey've come from behind, but you can still jury executioner.
+[49:06] 49 minutes, 6 secondsYou're in the lead now. Try to make it last. I'm Hulking.
+[49:25] 49 minutes, 25 secondsPlasma. They're behind you. On the chaos, Mike. Feeling fantastic.
+[49:33] 49 minutes, 33 secondsOne minute until you smash someone in there.
+[49:46] 49 minutes, 46 secondsHere they come.
+[49:51] 49 minutes, 51 secondsThey come from behind, but you can still turn this around. Born again.
+[50:01] 50 minutes, 1 second[Music]
+[50:03] 50 minutes, 3 secondsAction commences in 30 seconds.
+[50:11] 50 minutes, 11 secondsSecond chance is over.
+[50:21] 50 minutes, 21 secondsMake it last. 10 seconds. Let's stand down.
+[50:31] 50 minutes, 31 secondsThey've come from behind, but you can still turn this around. You're in the lead. Another epic victory. Big win.
+[51:07] 51 minutes, 7 secondsOne more match.
+[51:25] 51 minutes, 25 secondsI've seen wonders out there in the cosmos. Few humans will ever behold.
+[51:35] 51 minutes, 35 secondsThe battle starts in five, four, three, two, one. Only one team wins.
+[51:51] 51 minutes, 51 secondsMy inventions have saved the world. But the best thing I ever built was my an opportunity as strong
+[51:59] 51 minutes, 59 secondsas a shot. Let me return this little behind. You can still turn this around.
+[52:09] 52 minutes, 9 secondsExcellent. You're in the lead now. Try to make it last. They've come from behind, but you can still turn this around.
+[52:19] 52 minutes, 19 secondsYou're in the lead now. Try to make it last. Sniper.
+[52:27] 52 minutes, 27 secondsSniper is down. Quite the collaboration.
+[52:38] 52 minutes, 38 secondsAn army of artificial arachn.
+[52:49] 52 minutes, 49 secondsI'm not ready to give up yet. Blew them away. Enemy in front of us.
+[53:04] 53 minutes, 4 secondsYou know what to do, spiders.
+[53:09] 53 minutes, 9 secondsA futile attempt behind you. I feel I'm not ready to give up yet.
+[53:29] 53 minutes, 29 secondsas strong as return.
+[53:48] 53 minutes, 48 secondsI won't rest until this is solved. My minion struck like a true blood. I am an opportunity for combat.
+[54:07] 54 minutes, 7 secondsA futile attempt.
+[54:21] 54 minutes, 21 secondsThere's still more work to be done. What a fascinating design.
+[54:34] 54 minutes, 34 secondsThat almost hurt. They got behind you. One minute.
+[54:42] 54 minutes, 42 seconds[Music]
+[55:00] 55 minutesUsually satisfying. Fantastic.
+[55:11] 55 minutes, 11 secondsaction commences in 30 seconds.
+[55:19] 55 minutes, 19 secondsThese spiders, what a fascinating design. Armed and dangerous.
+[55:29] 55 minutes, 29 secondsThere's still more work to be done. 10 seconds. No backing up now.
+[55:40] 55 minutes, 40 secondsthe collaboration.
+[55:44] 55 minutes, 44 secondsAnother epic victory. Big
+[55:47] 55 minutes, 47 seconds[Music]
+[55:52] 55 minutes, 52 seconds[Music]
+[56:03] 56 minutes, 3 secondswin. Finally.
+[56:08] 56 minutes, 8 secondsUm, get to the thing and then battle
+[56:15] 56 minutes, 15 secondsemote. Oh, I can pick my own brain blast emote. Honestly, squirrel girl is the funniest.
+[56:32] 56 minutes, 32 secondsYeah, squirrel girl.
+[56:35] 56 minutes, 35 secondsShe's the funniest brain blast. She has cuz her squirrel also gets
+[56:44] 56 minutes, 44 secondsbig. Anyway, how many how many of those do I have to do? Score three double kos. That's easy.
+[56:53] 56 minutes, 53 seconds10 health packs. I don't do that often, but okay.
+[57:01] 57 minutes, 1 secondUh, vanguard. I think that's tank. I have to play as Neymar. All right, I need to play some quick match
+[57:09] 57 minutes, 9 secondsand spawn some Neymar [ __ ] Emma Frost stuff. All right, finally.
+[57:33] 57 minutes, 33 secondsThe right heroes could make all the difference.
+[57:39] 57 minutes, 39 secondsSomeone Those who oppose me shall be left to drown in my wake.
+[57:48] 57 minutes, 48 secondsThose who oppose me shall be left to drown in my wake. Those who oppose me shall be left to drown. Those who oppose me shall be left to drown. Those who
+[57:57] 57 minutes, 57 secondsoppose me shall be left to drown in my wake.
+[58:11] 58 minutes, 11 secondsI am the ocean's avenging son. You will get no love from me. Attack them. You'll be coming in 30 seconds. Stay strong.
+[58:19] 58 minutes, 19 secondsAll right, I only need to throw 18 more of those.
+[58:23] 58 minutes, 23 secondsI was honored to receive your invitation to the Hellfire Gala, Emma. Remember, it is a formal affair, Neyar. Shall I
+[58:32] 58 minutes, 32 secondsassume you'll be wearing a shirt? If that is what is expected of me, of course. How disappointing.
+[58:41] 58 minutes, 41 secondsThe battle starts in five, 4, 3, 2, 1. You have to stop them from securing the mission area.
+[58:52] 58 minutes, 52 secondsLook who's here. Anyone willing to help.
+[59:05] 59 minutes, 5 secondsThat is much better.
+[59:08] 59 minutes, 8 secondsSuch a pity to harm a denism of I know out of sight.
+[59:22] 59 minutes, 22 secondsI appreciate you. Like the tide, Namore always rises again.
+[59:28] 59 minutes, 28 secondsDennis of the deep. Yes. Yes.
+[59:47] 59 minutes, 47 secondsMy impressive would suck. I just want to kill you bad guys.
+[59:58] 59 minutes, 58 secondsMy friends are here.
+[01:00] :141 hour, 14 secondsDennis of the deep you what you deserve.
+[01:00] :241 hour, 24 secondsWash our foes away.
+[01:00] :281 hour, 28 secondsMonsters of the deep. Protect your king. Do your work.
+[01:00] :431 hour, 43 secondsHow protect you.
+[01:01] :021 hour, 1 minute, 2 secondsI am.
+[01:01] :041 hour, 1 minute, 4 secondsI am group. My battle has only just begun. My turn. Turn now.
+[01:01] :201 hour, 1 minute, 20 secondsYou need to stop that vehicle in this space. That is much better.
+[01:01] :341 hour, 1 minute, 34 secondsYour powers are mine. I'll take the monsters of the deep.
+[01:01] :431 hour, 1 minute, 43 secondsAttack them. Wash our fork away.
+[01:01] :501 hour, 1 minute, 50 secondsBy the eye of Agamoto.
+[01:01] :531 hour, 1 minute, 53 secondsHere they are. The fool. Protect me. Hulk.
+[01:02] :111 hour, 2 minutes, 11 secondsThey've made it halfway. Stop them. My battle has only just begun. Better stop that vehicle.
+[01:02] :281 hour, 2 minutes, 28 secondsAnyway, a shield fit for a king. There's still a chance to stop them.
+[01:02] :341 hour, 2 minutes, 34 seconds[Music]
+[01:02] :361 hour, 2 minutes, 36 secondsAnyone willing to help? Consider yourself conquered.
+[01:02] :431 hour, 2 minutes, 43 secondsDennis of the deep. Enemy down them.
+[01:02] :521 hour, 2 minutes, 52 secondsMonsters of the deep.
+[01:02] :591 hour, 2 minutes, 59 secondsWe got to stop them in their tracks. We stop them in their tracks. Let's take a step back.
+[01:03] :111 hour, 3 minutes, 11 secondsMore foes to conquer.
+[01:03] :161 hour, 3 minutes, 16 secondsHow refreshing. Hulk beast. I am through.
+[01:03] :301 hour, 3 minutes, 30 secondsFeeling fantastic. My battle has only just begun.
+[01:03] :401 hour, 3 minutes, 40 secondsAttack them.
+[01:03] :491 hour, 3 minutes, 49 secondsWe hit a checkpoint. Now might be a good time to stop them.
+[01:04] :021 hour, 4 minutes, 2 secondsMonsters of the disappearing. A little help, please.
+[01:04] :201 hour, 4 minutes, 20 secondsShields up. I was gone. Thank the way. Clear the way.
+[01:04] :271 hour, 4 minutes, 27 secondsI will not be stopped so easily.
+[01:04] :431 hour, 4 minutes, 43 secondsNow your king by the eye of Aamoto. My friends are here.
+[01:04] :511 hour, 4 minutes, 51 secondsDouble KO. That's three.
+[01:04] :571 hour, 4 minutes, 57 secondsThat is much better. Monsters of the deep.
+[01:05] :061 hour, 5 minutes, 6 secondsYou stop them in their tracks. Protect your powers are protect me.
+[01:05] :291 hour, 5 minutes, 29 secondsMy turn. You cannot wash your hands more.
+[01:05] :441 hour, 5 minutes, 44 secondsMonsters of the deep.
+[01:05] :471 hour, 5 minutes, 47 secondsProtect your How refreshing.
+[01:05] :571 hour, 5 minutes, 57 secondsYou belong to me.
+[01:06] :101 hour, 6 minutes, 10 secondsdisappear. Shields up the light. We've got
+[01:06] :221 hour, 6 minutes, 22 secondstrouble. I am powers of mine. Disappear.
+[01:06] :351 hour, 6 minutes, 35 secondsmoving first. Like the tide, Namore always rises again.
+[01:06] :441 hour, 6 minutes, 44 secondsMy turn now. Denison of the deep.
+[01:06] :521 hour, 6 minutes, 52 secondsThese waves will not break. It's not bad for tiny land mammals.
+[01:07] :041 hour, 7 minutes, 4 secondsMy friends are here. That is much better.
+[01:07] :141 hour, 7 minutes, 14 secondsGet ready. Here come the bad guys.
+[01:07] :171 hour, 7 minutes, 17 secondsThese waves will not help me away.
+[01:07] :331 hour, 7 minutes, 33 secondsForce. My battle has only just begun.
+[01:07] :471 hour, 7 minutes, 47 secondsOnly 60 seconds left.
+[01:07] :521 hour, 7 minutes, 52 secondsThis place is worth a good look. Attack them. Wash our souls away.
+[01:07] :571 hour, 7 minutes, 57 secondsWe could have used the mind force.
+[01:08] :041 hour, 8 minutes, 4 secondsI am another wash your hands of no more.
+[01:08] :151 hour, 8 minutes, 15 secondsMonsters of the deep seconds. Your powers are mine.
+[01:08] :271 hour, 8 minutes, 27 secondsAnyone willing to help you. The final 10 seconds.
+[01:08] :401 hour, 8 minutes, 40 secondsYou belong to me. Well, you can't expect them all.
+[01:08] :531 hour, 8 minutes, 53 secondsDid I do the
+[01:08] :551 hour, 8 minutes, 55 seconds[Music]
+[01:09] :001 hour, 9 minutesthing?
+[01:09] :021 hour, 9 minutes, 2 secondsOkay. Okay. Neore is a
+[01:09] :051 hour, 9 minutes, 5 seconds[Music]
+[01:09] :071 hour, 9 minutes, 7 secondsmutant
+[01:09] :181 hour, 9 minutes, 18 secondsapparently. All right. Collect 10 health packs. Heal 30,000 health. Defeat
+[101:09] :251 hour, 9 minutes, 25 secondsenemies as Emma Frost. All right, let's go for that
+[101:09] :321 hour, 9 minutes, 32 secondsenemies as Emma Frost thing. Also, what's in my my battle pass? 1,600 redeem.
+[01:09] :401 hour, 9 minutes, 40 seconds[Music]
+[01:09] :461 hour, 9 minutes, 46 secondsYep. Yak.
+[01:09] :521 hour, 9 minutes, 52 seconds[Music]
+[01:09] :551 hour, 9 minutes, 55 secondsNext one. Need another 600 to redeem all of her. All
+[01:10] :011 hour, 10 minutes, 1 secondright, that unlocks. Then we'll get that
+[01:10] :101 hour, 10 minutes, 10 secondswhenever whenever. So right now really it's just play play a quick match as I'm across and try to get kills.
+[01:10] :251 hour, 10 minutes, 25 seconds[Music]
+[01:10] :361 hour, 10 minutes, 36 secondsThe right heroes could make all the difference.
+[01:10] :401 hour, 10 minutes, 40 secondsThe higher the pressure, the more dazzling the diamond.
+[01:11] :171 hour, 11 minutes, 17 secondsWhen mutants are in danger, the white we'll be coming in 30 seconds. Stay strong. Usually
+[01:11] :261 hour, 11 minutes, 26 secondsyou guys are the coolest. I always thought so. Somebody, shall we? You're pretty cool yourself. Being able to
+[01:11] :341 hour, 11 minutes, 34 secondsunderstand animals. I wish I could do that. Yeah. All you have to do is listen. They really hate you. anybody
+[01:11] :421 hour, 11 minutes, 42 secondslike me. He's such an evil. The battle starts in 5 4 3 2 1.
+[01:11] :501 hour, 11 minutes, 50 secondsYou have to stop them from securing the mission area.
+[01:11] :551 hour, 11 minutes, 55 secondsRichards and Stark think they know everything. But when man plans, gods are
+[01:12] :051 hour, 12 minutes, 5 secondsI'll catch you up. I was fine. But thank you. for squirrels.
+[01:12] :171 hour, 12 minutes, 17 secondsI have that [ __ ]
+[01:12] :331 hour, 12 minutes, 33 secondshurt. That's me. You're welcome.
+[01:12] :471 hour, 12 minutes, 47 secondsI suppose lead them to
+[01:13] :001 hour, 13 minutesdomination
+[01:13] :011 hour, 13 minutes, 1 second[Music]
+[01:13] :051 hour, 13 minutes, 5 secondshere on me. As long as I got bullets, I
+[01:13] :161 hour, 13 minutes, 16 secondsdeserved that, dear.
+[01:13] :241 hour, 13 minutes, 24 secondsFire from behind. Watch out. Healing would be helpful. I suppose that helps.
+[01:13] :441 hour, 13 minutes, 44 secondsYou're welcome.
+[01:13] :531 hour, 13 minutes, 53 secondsUh-oh. I feel magnetic.
+[01:14] :161 hour, 14 minutes, 16 secondsare gone. I'm back. And now there's hellfire to pay.
+[01:14] :251 hour, 14 minutes, 25 secondsTremble before fast. Hey T, enjoy the
+[01:14] :401 hour, 14 minutes, 40 seconds[Music]
+[01:14] :441 hour, 14 minutes, 44 secondsamplifier. Me is mine.
+[01:15] :011 hour, 15 minutes, 1 seconddo a ton of damage here.
+[01:15] :071 hour, 15 minutes, 7 secondsTippy spotted bad guys. There are a ton of damage here. I'll you still trying to help. I'm doing this my way.
+[01:15] :201 hour, 15 minutes, 20 secondsI seem to be unprotected.
+[01:15] :351 hour, 15 minutes, 35 secondsDon't mind me. I'm just dying.
+[01:15] :391 hour, 15 minutes, 39 secondsYou got to pass you up.
+[01:15] :501 hour, 15 minutes, 50 secondsOnly 60 seconds left. I suppose that helps.
+[01:15] :581 hour, 15 minutes, 58 secondsMental domination. Leave them to maximum pulse.
+[01:16] :061 hour, 16 minutes, 6 seconds[Applause]
+[01:16] :171 hour, 16 minutes, 17 secondsYou can't be rid of me so easily, I'm afraid. Down to 30 seconds.
+[01:16] :261 hour, 16 minutes, 26 secondsHunker down. We're almost there. On to the You were unfit for this world.
+[01:16] :371 hour, 16 minutes, 37 secondsMagnetos against the ground. Final 10 seconds.
+[01:16] :481 hour, 16 minutes, 48 seconds[Music]
+[01:16] :571 hour, 16 minutes, 57 secondsI will help. You'll have to keep fighting until we have a winner in the world.
+[01:17] :031 hour, 17 minutes, 3 secondsYou need to stop that vehicle in its tracks.
+[01:17] :081 hour, 17 minutes, 8 seconds[Music]
+[01:17] :241 hour, 17 minutes, 24 secondsBetter stop that vehicle.
+[01:17] :441 hour, 17 minutes, 44 secondsThey made it halfway. You stop them. All they did was make me angrier.
+[01:17] :561 hour, 17 minutes, 56 secondsTeam play. Hey team, enjoy the amplifier.
+[01:18] :021 hour, 18 minutes, 2 secondsMaximum pulse.
+[01:18] :171 hour, 18 minutes, 17 secondsYou found them in their tracks.
+[01:18] :361 hour, 18 minutes, 36 secondsTremble before B.
+[01:18] :391 hour, 18 minutes, 39 seconds[Applause]
+[01:18] :491 hour, 18 minutes, 49 seconds[Music]
+[01:18] :531 hour, 18 minutes, 53 secondsThey hit a checkpoint. Now might be a good time to stop them.
+[01:19] :001 hour, 19 minutesI could go for
+[01:19] :121 hour, 19 minutes, 12 secondsimpervious that people Emma Frost never surrenders.
+[01:19] :301 hour, 19 minutes, 30 secondsI really want to play something else than Emma Frost.
+[01:19] :351 hour, 19 minutes, 35 secondsBut I have to get what 10 kills and she This is I don't know how to [ __ ] play her. I'm just going to be quite honest.
+[01:19] :431 hour, 19 minutes, 43 secondsI don't know how to play her.
+[01:19] :481 hour, 19 minutes, 48 secondsMy friends are here.
+[01:20] :001 hour, 20 minutesHe's stuck them in their track.
+[01:20] :101 hour, 20 minutes, 10 secondsSome uninvited guests.
+[01:20] :131 hour, 20 minutes, 13 secondsRest now, little one. I shall return you to the death. Keep that up, Neymar. And you know now, little fish.
+[01:20] :241 hour, 20 minutes, 24 secondsI was fine. Get there. Fear magneto.
+[01:20] :331 hour, 20 minutes, 33 secondsSo long. I'm fine. Don't mind me. Maximum.
+[01:20] :451 hour, 20 minutes, 45 secondsI'm doing this my way.
+[01:20] :591 hour, 20 minutes, 59 secondsOnly 60 seconds left.
+[01:21] :101 hour, 21 minutes, 10 secondsThey are in front of us. Idiots. Keep that up, Neymar. And you may earn yourself a queen. I suppose that helps.
+[01:21] :171 hour, 21 minutes, 17 secondsStop them in their tracks. Us against the world.
+[01:21] :241 hour, 21 minutes, 24 secondsWho is it? Right behind you. Down to 30 seconds.
+[01:21] :381 hour, 21 minutes, 38 secondsNo, my baby. Tremble before another inch or else.
+[01:21] :481 hour, 21 minutes, 48 secondsExquisite. The final 10 seconds.
+[01:22] :031 hour, 22 minutes, 3 secondsYour powers are mine. The world. This queen's reign isn't over.
+[01:22] :121 hour, 22 minutes, 12 secondsWell, you can't expect to win them all.
+[01:22] :341 hour, 22 minutes, 34 secondsSix. All right.
+[01:22] :371 hour, 22 minutes, 37 secondsUm, put it on BRB.
+[01:23] :051 hour, 23 minutes, 5 secondsthere. And then we put it on. Uh there we go.
+[01:23] :151 hour, 23 minutes, 15 seconds[Music]
+[01:23] :391 hour, 23 minutes, 39 secondsYou know what? You know what? You know what? Know what? You You know what? You know what? You know what? You know what?
+[01:23] :421 hour, 23 minutes, 42 secondsKnow what you know. You know what? You know what? You know what? Know what you know. You know what? You know what? You know what? You know what? You know, you know what? You know what? You know, you know what? You know what? You know what?
+[01:23] :511 hour, 23 minutes, 51 secondsYou know, you know, you know what? You know what? You know, you know, you know, you know, you know, you know, you know, you know, you know, you know what? You
+[01:23] :591 hour, 23 minutes, 59 secondsknow, you know what? You know, you know, you know, you know what? You know, you know what? You know, you know what? You know what? You know what? You know what?
+[01:24] :071 hour, 24 minutes, 7 secondsYou know what? You know, you know what? You know what? You know what you know.
+[01:24] :111 hour, 24 minutes, 11 secondsYou know what? You know what? You know what? You know what? You know what? You know what? You know what? You know, you know what? You know what the witch go?
+[01:24] :181 hour, 24 minutes, 18 secondsWhere' she go? You know it. You know it.
+[01:24] :201 hour, 24 minutes, 20 secondsYou know you know where there go where she go. You know you know you know where she go there.
+[01:24] :341 hour, 24 minutes, 34 seconds[Music]
+[01:24] :571 hour, 24 minutes, 57 seconds[Music]
+[01:25] :041 hour, 25 minutes, 4 secondsWhat's you know what they say all toast. Oh my god.
+[01:25] :161 hour, 25 minutes, 16 seconds[Music]
+[01:25] :311 hour, 25 minutes, 31 secondsfeel.
+[01:25] :341 hour, 25 minutes, 34 seconds[Music]
+[01:25] :581 hour, 25 minutes, 58 seconds[Music]
+[01:26] :061 hour, 26 minutes, 6 seconds[Music]
+[01:26] :231 hour, 26 minutes, 23 secondsSee, you know what? You know what? You know, you know what? You know what? You know what? You know what? You know what?
+[01:26] :271 hour, 26 minutes, 27 secondsKnow what? You know, you know what? You know what? You know, you know what? You know what? You know what? You know what?
+[01:26] :311 hour, 26 minutes, 31 secondsYou know what I know? You know, you know what? You know what? You know, you know what? You know what? You know what? You know what? You know, you know what? You know, you know what? You know what? You know, you know what? You know, you know, you know, you know, hey, you know what?
+[01:26] :421 hour, 26 minutes, 42 secondsYou know what? You know what? You know what? You know what? You know what? You know what? You know, you know what? You know what? You know what? You know what?
+[01:26] :481 hour, 26 minutes, 48 secondsYou know what? You know what? You know what? You know, you know what? You know what? You know what? You know what? You know what? You know what? You know what? You know, you know what? You know what?
+[01:26] :561 hour, 26 minutes, 56 secondsYou know what? You know what? You know what? You know what? You know what? You know what? You know what? You know, you know what? You know what? The witch
+[01:27] :061 hour, 27 minutes, 6 secondsgo over there. You know what? You know what? You know, you know what? You know, go where she go.
+[01:27] :191 hour, 27 minutes, 19 seconds[Music]
+[01:27] :351 hour, 27 minutes, 35 secondsWhat's
+[01:27] :491 hour, 27 minutes, 49 secondsYou know what they say, all
+[01:27] :541 hour, 27 minutes, 54 seconds[Music]
+[01:28] :001 hour, 28 minutes[Music]
+[01:28] :141 hour, 28 minutes, 14 secondsShitt11 know.
+[01:28] :181 hour, 28 minutes, 18 seconds[Music]
+[01:28] :391 hour, 28 minutes, 39 secondsIt's been fun.
+[01:28] :431 hour, 28 minutes, 43 seconds[Music]
+[01:29] :031 hour, 29 minutes, 3 seconds[Music]
+[01:29] :051 hour, 29 minutes, 5 secondsHey,
+[01:29] :101 hour, 29 minutes, 10 seconds[Music]
+[01:29] :281 hour, 29 minutes, 28 secondsYou know what? You know what? You know what? Know what? You You know what? You know what? You know what? You know what?
+[01:29] :311 hour, 29 minutes, 31 secondsKnow what you know. You know what? You know what? You know what? Know what you know what. You know what? You know what?
+[01:29] :351 hour, 29 minutes, 35 secondsYou know what? Know what you know. You know what? You know what? You know what I know what you know. You know what? You know what? You know what? Know what you know. You know what? You know what? You know what? Know what you know. You know,
+[01:29] :441 hour, 29 minutes, 44 secondsyou know, you know, you know. Hey, you know what? You know what? You know what?
+[01:29] :471 hour, 29 minutes, 47 secondsYou know what? You know what? You know what? You know what? You know what? You know, you know what? You know what? You know what? You know what? You know what?
+[01:29] :531 hour, 29 minutes, 53 secondsYou know what? You know what? Know, you know what? You know what? You know, you know what? You know what? You know what?
+[01:29] :581 hour, 29 minutes, 58 secondsYou know what? Know you know. You know what? You know what? You know what? You know what? You know what? You know what?
+[01:30] :041 hour, 30 minutes, 4 secondsYou know what? You know what? You know, you know what? You know what you know. You know what? You
+[01:30] :111 hour, 30 minutes, 11 secondsknow, there you know. Where she go? Where'd she go? Where' she go? There.
+[01:30] :231 hour, 30 minutes, 23 seconds[Music]
+[01:30] :521 hour, 30 minutes, 52 secondsWhat's you know what they say all
+[01:30] :581 hour, 30 minutes, 58 seconds[Music]
+[01:31] :041 hour, 31 minutes, 4 seconds[Music]
+[01:31] :151 hour, 31 minutes, 15 seconds1.11 heyway.
+[01:31] :231 hour, 31 minutes, 23 seconds[Music]
+[01:31] :441 hour, 31 minutes, 44 secondsIt's been one of the day.
+[01:31] :481 hour, 31 minutes, 48 seconds[Music]
+[01:32] :121 hour, 32 minutes, 12 secondsYou know what? You know what? You know what it You know what? You know what? You know what? You know what? You know what?
+[01:32] :191 hour, 32 minutes, 19 secondsYou know what? You know what? You know what? Know what? You know, you know what? You know what? You know, you know what? You know what? You know what? You know what? You know, you know what? You know, you know what? You know what? You
+[01:32] :261 hour, 32 minutes, 26 secondsknow, you know what? You know, you know, you know, you know, hey, you know what? You know what? You know, you know what?
+[01:32] :321 hour, 32 minutes, 32 secondsYou know what? You know what? You know what? You know, you know, you know, you know, you know, you know, you know, you know, you know. Oh, you know what? You know what? You know what? You know what?
+[01:32] :411 hour, 32 minutes, 41 secondsYou know what? You know what it goes. Go. You know what? You know what? You know, you know what?
+[01:32] :551 hour, 32 minutes, 55 secondsWhere there go where she go there.
+[01:33] :071 hour, 33 minutes, 7 seconds[Music]
+[01:33] :241 hour, 33 minutes, 24 secondsWelcome. All right.
+[01:33] :541 hour, 33 minutes, 54 secondsWant a red pepper
+[01:34] :091 hour, 34 minutes, 9 secondsplate? Want to eat a yogurt. Get in me.
+[01:34] :181 hour, 34 minutes, 18 secondsHere you put another one. Oh, you a little bit. Yep.
+[01:34] :261 hour, 34 minutes, 26 secondsBurnt. Everything is now sticky because there's yogurt on my fingers. I can't get this open. You're right. I should definitely put a microphone over there
+[01:34] :341 hour, 34 minutes, 34 secondsso people can hear you. No, instead you should help me by ming me up. Yes. That doesn't help.
+[01:34] :411 hour, 34 minutes, 41 secondsaggravating me. Okay, but you now you have a voice.
+[01:34] :471 hour, 34 minutes, 47 secondsYes, you're very helpful. Instead of helping me open that and make me burn myself even more, you decide to mic me
+[01:34] :541 hour, 34 minutes, 54 secondsup. Thank you. What a gentleman. My hurts, especially where that cut is.
+[01:35] :201 hour, 35 minutes, 20 secondsSorry, I got yogurt all over. Take the plastic off of your food and instead put a microphone up.
+[01:35] :341 hour, 35 minutes, 34 secondsI just thought you could handle some plastic on your own.
+[01:35] :461 hour, 35 minutes, 46 secondsYeah, I can barely even make it down.
+[01:35] :511 hour, 35 minutes, 51 seconds[Music]
+[01:35] :521 hour, 35 minutes, 52 secondsYeah, but you're still awesome. I'm a pain in the
+[01:36] :181 hour, 36 minutes, 18 seconds[ __ ] All right.
+[01:36] :241 hour, 36 minutes, 24 secondsUm I need to be Emma Frosty.
+[01:36] :451 hour, 36 minutes, 45 secondsPick your hero or villain. I'm not judging. The higher the pressure, the more dazzling the diamond.
+[01:37] :131 hour, 37 minutes, 13 secondsI'm about to turn on uh push to talk. I don't know.
+[01:37] :241 hour, 37 minutes, 24 secondsThe only thing I think muting it is just the best bet. Only unmute it when I need it.
+[01:37] :291 hour, 37 minutes, 29 seconds30 seconds before you I can just argue with press no buttons.
+[01:37] :351 hour, 37 minutes, 35 secondsAre you reading my mind? I don't have to read your mind to know what you're thinking. Ouch. H. You're so
+[01:37] :431 hour, 37 minutes, 43 secondssensitive. I was a prisoner of the collector. One day I will get even.
+[01:37] :531 hour, 37 minutes, 53 secondsThe battle starts in five, four, three, two, one.
+[01:37] :591 hour, 37 minutes, 59 secondsAll you need to do is capture the mission area. Got it. No, you can't be brave without being listen. I saw what was happening and I didn't know.
+[01:38] :111 hour, 38 minutes, 11 secondsEnemy ahead. Prepare to engage.
+[01:38] :161 hour, 38 minutes, 16 secondsI was fine. The thing mission area is yours faster.
+[01:38] :411 hour, 38 minutes, 41 secondsNow your mental domination.
+[01:38] :521 hour, 38 minutes, 52 secondsDouble KO. Gone and already forgotten. The missionary is yours. That's three.
+[01:39] :021 hour, 39 minutes, 2 secondsExcellent teamwork.
+[01:39] :151 hour, 39 minutes, 15 secondsI need assistance rejuvenation.
+[01:39] :331 hour, 39 minutes, 33 secondsThey are coming from behind. Steal peasants.
+[01:39] :471 hour, 39 minutes, 47 secondsYour power.
+[01:39] :571 hour, 39 minutes, 57 secondsYou captured more than half of the mission area. Keep going. Back up all that robot.
+[01:40] :101 hour, 40 minutes, 10 secondsChief, armed and dangerous.
+[01:40] :231 hour, 40 minutes, 23 secondsTogether to victory. Mental domination.
+[01:40] :371 hour, 40 minutes, 37 secondsDid you even train for this? Peter Quill. I suppose that helps.
+[01:40] :541 hour, 40 minutes, 54 secondsI'm already friends. Gather around.
+[01:41] :081 hour, 41 minutes, 8 secondsWell, that round did a lot better. That that that other round before I went and smoked was awful. And now now it's just like, "Hey, look. You want free kills?
+[01:41] :171 hour, 41 minutes, 17 secondsYou want to have a fun time? Go for it." Insane. Insane stuff going on here.
+[01:41] :271 hour, 41 minutes, 27 seconds30 seconds before you attack. Get ready. Warlock. Old buddy. Man, you look good.
+[01:41] :361 hour, 41 minutes, 36 secondsDid you get some work done? I recently emerged from a regenerative cocoon.
+[01:41] :411 hour, 41 minutes, 41 secondsYou've got to hook me up with one of those, bro. I could use a serious tuneup. Perhaps I should focus my cosmic
+[01:41] :481 hour, 41 minutes, 48 secondspower on more important matters. The battle starts in 5 4 3 2 1.
+[01:41] :581 hour, 41 minutes, 58 secondsAll you need to do is capture the mission area. Got it.
+[01:42] :021 hour, 42 minutes, 2 secondsSpace I can protect, but add time to the mix and things get tricky. Oh, they do not look happy.
+[01:42] :151 hour, 42 minutes, 15 secondsI suppose that helps. Rise, my friends.
+[01:42] :281 hour, 42 minutes, 28 secondsLooks like the mission area is yours to capture now.
+[01:42] :341 hour, 42 minutes, 34 secondsThe mission area is yours.
+[01:42] :571 hour, 42 minutes, 57 secondstrain for this. Double kill.
+[01:43] :031 hour, 43 minutes, 3 secondsThat's great.
+[01:43] :261 hour, 43 minutes, 26 secondsSome rejuvenation would be nice together to victory.
+[01:43] :351 hour, 43 minutes, 35 secondsMore than half of the mission area. Keep going to my greatest hits.
+[01:43] :441 hour, 43 minutes, 44 secondsright behind you.
+[01:44] :001 hour, 44 minutesI'm going my friends.
+[01:44] :151 hour, 44 minutes, 15 secondsI require some aid.
+[01:44] :351 hour, 44 minutes, 35 secondsYou'll have to keep fighting until you have a winner. Control.
+[01:44] :471 hour, 44 minutes, 47 secondsInvigorating. No. God [ __ ] All they did was make me angrier.
+[01:45] :011 hour, 45 minutes, 1 secondNot again.
+[01:45] :031 hour, 45 minutes, 3 secondsYour powers are mine. Our
+[01:45] :251 hour, 45 minutes, 25 seconds[Music]
+[01:45] :311 hour, 45 minutes, 31 secondsfriends. Let's keep fighting until we have a winner.
+[01:45] :441 hour, 45 minutes, 44 secondsYour suffering
+[01:45] :511 hour, 45 minutes, 51 secondsteam get rid of me so easily. I'm afraid
+[01:46] :041 hour, 46 minutes, 4 secondsthe numbers aren't in our favor.
+[01:46] :131 hour, 46 minutes, 13 secondsJudge, jury, executioner.
+[01:46] :251 hour, 46 minutes, 25 secondsLeave all
+[01:46] :451 hour, 46 minutes, 45 secondsthat. I was fine. Take this.
+[01:47] :091 hour, 47 minutes, 9 secondsThe White Queen always gets what she wants at any cost. Here's where we hit next.
+[01:47] :201 hour, 47 minutes, 20 seconds30 seconds before you attack. Get ready.
+[01:47] :261 hour, 47 minutes, 26 secondsWould you look at us? The man out of time and the cyborg assassin. They've sure come a long way from Brooklyn, Steve. But as long as we've still got a
+[01:47] :351 hour, 47 minutes, 35 secondslittle Brooklyn inside of us, Buck, I have a feeling we'll be just fine.
+[01:47] :441 hour, 47 minutes, 44 secondsThe battle starts in 5 4 3 2 1.
+[01:47] :501 hour, 47 minutes, 50 secondsAll you need to do is capture the mission area. Got it. It is my destiny to lead you to victory.
+[01:47] :581 hour, 47 minutes, 58 secondsDo not stand in my way.
+[01:48] :011 hour, 48 minutes, 1 secondComing. Wait a minute. I can be any character I want. I already did the challenge.
+[01:48] :081 hour, 48 minutes, 8 secondsEnemy ahead. Prepare to engage.
+[01:48] :151 hour, 48 minutes, 15 secondsYour power will help.
+[01:48] :211 hour, 48 minutes, 21 secondsThe mission area is yours to capture now. Mission area is yours.
+[01:48] :331 hour, 48 minutes, 33 secondsCease hostile action.
+[01:48] :501 hour, 48 minutes, 50 secondsup. I was fine. Thank you.
+[01:48] :591 hour, 48 minutes, 59 secondsRise, my friend.
+[01:49] :131 hour, 49 minutes, 13 secondsDouble kill. Judge jury.
+[01:49] :211 hour, 49 minutes, 21 secondsThat's three.
+[01:49] :241 hour, 49 minutes, 24 secondsWow. Four in a row. Five. Just amazing. More than half of the mission area. Keep going.
+[01:49] :421 hour, 49 minutes, 42 secondsThat is so fun. I know. Weapon of war.
+[01:49] :581 hour, 49 minutes, 58 secondsSupernova. Pathetic. Glory is almost yours.
+[01:50] :071 hour, 50 minutes, 7 secondsThat's the monkey I know
+[01:50] :101 hour, 50 minutes, 10 seconds[Music]
+[01:50] :121 hour, 50 minutes, 12 secondsin embarrassing shields up.
+[01:50] :361 hour, 50 minutes, 36 secondsI don't even know how I cleaned house on that. All I was doing was just playing.
+[01:50] :391 hour, 50 minutes, 39 secondsAnother epic victory. I was thinking about switching characters for damn. I was like, yeah, whatever.
+[01:51] :011 hour, 51 minutes, 1 secondOkay. Okay.
+[01:51] :071 hour, 51 minutes, 7 secondsOkay. Yeah, you guys can boats. All
+[01:51] :131 hour, 51 minutes, 13 secondsright. How much more do I need to do? Oh, done.
+[01:51] :371 hour, 51 minutes, 37 secondsOkay. And this thing. Okay. And then then I get this thing.
+[01:51] :471 hour, 51 minutes, 47 secondsRight. I put Yay. I got Bug Girl. Bug girl. Look, she looks like Bug Girl.
+[01:51] :551 hour, 51 minutes, 55 secondsI unlocked bug girl and she's got
+[01:52] :041 hour, 52 minutes, 4 secondsuh got like bug clothing. Are they all wings? Is everything that she's wearing
+[01:52] :131 hour, 52 minutes, 13 secondsa wing or carropus or is this a costume meant to look like a wing? cuz those those look like
+[01:52] :211 hour, 52 minutes, 21 secondswings, flowers. Ve very interesting design.
+[01:52] :261 hour, 52 minutes, 26 secondsMainly because she looks like she actually has flowers coming out of her and that she's actually made of grass.
+[01:52] :321 hour, 52 minutes, 32 secondsThis is This is a very good design. I actually think this is like a peak. This is how a veggie person This is a vegetable.
+[01:52] :421 hour, 52 minutes, 42 seconds[Music]
+[01:52] :431 hour, 52 minutes, 43 secondsIt's a vegetable. People want a [ __ ] vegetable most likely. This called This was called a Goonar game. I found out it's a Goonar game.
+[01:52] :551 hour, 52 minutes, 55 seconds[Music]
+[01:52] :581 hour, 52 minutes, 58 secondsYeah, I don't think so. Penny is. And then it's weird for Jeff and
+[01:53] :061 hour, 53 minutes, 6 secondsweird for Ra Rocket and weird for um uh Groot, I guess.
+[01:53] :171 hour, 53 minutes, 17 secondsSo, you buy the brain blast emote for 400 if you want it for other
+[01:53] :231 hour, 53 minutes, 23 secondscharacters, and that's only right now,
+[01:53] :311 hour, 53 minutes, 31 secondshuh? I'm not really I'm not really stoked about Scarlet Witch getting a brain blast or anything. Squirrel Girl was kind of like pretty sick. Uh, Mr.
+[01:53] :391 hour, 53 minutes, 39 secondsFantastic might be one I get. He He's pretty his brain blast is pretty good, but other than that, I mean, Gru and
+[01:53] :461 hour, 53 minutes, 46 secondsThing kind of just look actually what they should look like with the brain blast. Uh, cereals.
+[01:53] :541 hour, 53 minutes, 54 seconds[Music]
+[01:54] :021 hour, 54 minutes, 2 secondsAll right, now that I got that done,
+[01:54] :091 hour, 54 minutes, 9 secondsum, to complete Doom's Rise, I have to buy
+[01:54] :151 hour, 54 minutes, 15 seconds[Music]
+[01:54] :171 hour, 54 minutes, 17 secondsthat, right? One, two, three, four, five. See, I don't think you can get all six.
+[01:54] :271 hour, 54 minutes, 27 secondsThis one is locked behind the battle pass. You can't get this achievement without having got that battle pass. I
+[01:54] :351 hour, 54 minutes, 35 secondswill explain in depth, but this this you cannot get the achievement if you do not have the
+[01:54] :431 hour, 54 minutes, 43 secondsbattle pass. I pretty sure I have to unlock not just these, but that first
+[01:54] :511 hour, 54 minutes, 51 secondsone. I'll look into it. I'm going to unlock everything and see. All right, cool. Did you show me all the things?
+[01:55] :031 hour, 55 minutes, 3 secondsGreat. So, now all I have left is the the the blah blah and the blah
+[01:55] :151 hour, 55 minutes, 15 secondsblah. Okay. Um, and I still only have 1,100.
+[01:55] :231 hour, 55 minutes, 23 secondsIt's pretty decent costume for Luna.
+[01:55] :291 hour, 55 minutes, 29 secondsHonestly, it's one of the more professional looking Lunas, even if it does give her very detailed
+[01:55] :361 hour, 55 minutes, 36 secondsfeet, which is fine. I'm a foot person, but I don't know. It's like they gave
+[01:55] :431 hour, 55 minutes, 43 secondsher like sandals that show her toes, huh?
+[01:55] :531 hour, 55 minutes, 53 secondsOkay. Okay, toe fairy lady. Um, now that I've done the achievos, I can actually try some competitive. Oh man, guys, this is it.
+[01:56] :041 hour, 56 minutes, 4 secondsThis is the make or break on whether or not we go up or down. I've been told it's a bad
+[01:56] :131 hour, 56 minutes, 13 secondsidea. Where's that box at? Oh, wait. I have this
+[01:56] :191 hour, 56 minutes, 19 seconds[Music]
+[01:56] :291 hour, 56 minutes, 29 seconds[Music]
+[01:56] :371 hour, 56 minutes, 37 seconds[Music]
+[01:56] :471 hour, 56 minutes, 47 seconds[Music]
+[01:56] :571 hour, 56 minutes, 57 secondsWhich hero do you think you want to be today?
+[01:57] :001 hour, 57 minutesEat nuts and kick
+[01:57] :031 hour, 57 minutes, 3 seconds[Music]
+[01:57] :111 hour, 57 minutes, 11 secondsbutts. Now, who am I going to banish from this match?
+[01:57] :311 hour, 57 minutes, 31 seconds[Music]
+[01:57] :591 hour, 57 minutes, 59 seconds[Music]
+[01:58] :121 hour, 58 minutes, 12 secondsThe right heroes could make all the difference. You don't have to be a witch to magic in this world. But it does help.
+[01:58] :261 hour, 58 minutes, 26 seconds[Music]
+[01:58] :371 hour, 58 minutes, 37 secondsI've seen wonders out there in the cosmos few humans will ever behold.
+[01:58] :481 hour, 58 minutes, 48 secondsDPS's are like blocking his DPS's round DPS. All right, I'll be I'll be a
+[01:58] :551 hour, 58 minutes, 55 secondstank. Hard enough. I guess I'll be coming in 30 seconds. Stay strong.
+[01:59] :011 hour, 59 minutes, 1 second[Music]
+[01:59] :031 hour, 59 minutes, 3 secondsPlease tell me this isn't the date night you've been planning for us, Reed.
+[01:59] :071 hour, 59 minutes, 7 secondsNo, but when you think about it, what could be more romantic than saving the universe side by side? Literally anything. Noted.
+[01:59] :201 hour, 59 minutes, 20 secondsThe battle starts in 5 4 3 2 1.
+[01:59] :281 hour, 59 minutes, 28 secondsBeacon's here. Heads up. Back guys. Listen.
+[01:59] :371 hour, 59 minutes, 37 secondsYou need to stop that vehicle in its track. Stay a while.
+[01:59] :451 hour, 59 minutes, 45 secondsOh my invisible. That was a shot.
+[02:00] :012 hours, 1 secondOne less problem. Hey, idiot.
+[02:00] :252 hours, 25 secondsI'm more resilient than you think. Your girl Penny is ready to go.
+[02:00] :342 hours, 34 secondsThey made it halfway. Stop them.
+[02:00] :372 hours, 37 secondsWe need to fall back. Better stop that vehicle.
+[02:00] :472 hours, 47 secondsYou're up, little one. There's still a chance to stop them.
+[02:00] :562 hours, 56 secondsI'm just dying. Hutile attack. This is real fire power.
+[02:01] :042 hours, 1 minute, 4 secondsGood work, Susan.
+[02:01] :132 hours, 1 minute, 13 secondsNowhere to hide. They hit a checkpoint. Now might be a good time to stop them.
+[02:01] :202 hours, 1 minute, 20 secondsWe might need a second tank. Well, it ain't easy being this strong or this handsome.
+[02:01] :312 hours, 1 minute, 31 secondsI'm glad I'm muted. It's worse than a second tank. Our our healers are standing on top and getting built.
+[02:01] :382 hours, 1 minute, 38 secondsLittle pieces of keyholes everywhere. The moon haunts you.
+[02:01] :532 hours, 1 minute, 53 secondsLet's rumble.
+[02:01] :592 hours, 1 minute, 59 secondsAny other tank options?
+[02:02] :122 hours, 2 minutes, 12 secondsWhen scientific resolutions prove insufficient, giant fists do come in handy.
+[02:02] :202 hours, 2 minutes, 20 secondsA little help, please.
+[02:02] :232 hours, 2 minutes, 23 secondsThis should keep us safe. Let me return to enjoy the air. Feeling fantastic. Here comes trouble.
+[02:02] :412 hours, 2 minutes, 41 secondsI got to go behind a futile
+[02:02] :492 hours, 2 minutes, 49 secondsattempt. We are further out of the face.
+[02:03] :062 hours, 3 minutes, 6 secondsThey hit a checkpoint. Now might be a good time to stop them until this is solved.
+[02:03] :172 hours, 3 minutes, 17 secondsOne of these weird keyhole things.
+[02:03] :182 hours, 3 minutes, 18 secondsAnyway, my she's going to be very literally
+[02:03] :262 hours, 3 minutes, 26 secondsBack down that vehicle. Here they go.
+[02:03] :402 hours, 3 minutes, 40 secondsThis is real fire power. The moon haunts you. Shield activated. spelling.
+[02:03] :482 hours, 3 minutes, 48 secondsBehold the J of thunder.
+[02:03] :592 hours, 3 minutes, 59 secondsBehind us. My resistance is down.
+[02:04] :092 hours, 4 minutes, 9 secondsI'll do my best to carry on.
+[02:04] :192 hours, 4 minutes, 19 secondsI won't. The hell is Itchy Rugrat doing?
+[02:04] :222 hours, 4 minutes, 22 secondsMay have the most kills, but you've done nothing to stop the [ __ ] cart. This does nothing to stop the cart.
+[02:04] :332 hours, 4 minutes, 33 secondsNever miss.
+[02:04] :422 hours, 4 minutes, 42 secondsAh, a gift from Konu. Wonderful. Look at Moonnight gameplay.
+[02:04] :502 hours, 4 minutes, 50 secondsMoonnight game play. I I hit a thing and then and then I shot at that tank. Oh my god, I got killed.
+[02:04] :572 hours, 4 minutes, 57 secondsVery angry. Moonnight gameplay.
+[02:05] :082 hours, 5 minutes, 8 secondsArmored against the world. This is real fire
+[02:05] :182 hours, 5 minutes, 18 secondspower. I'm pretty sure I hit that B and then I hit that. But but the game was like, "No, you didn't.
+[02:05] :242 hours, 5 minutes, 24 secondsNo, you didn't." Replay that back. Did I hit that B button? If I did, I hit it. game. Game,
+[02:05] :322 hours, 5 minutes, 32 secondsyou may you may tell me I didn't, but I did. I've got the I've got the I've got the recording to prove it. If I didn't, the recording will also make me look like a dumbass.
+[02:05] :452 hours, 5 minutes, 45 secondsThe [ __ ] over here, bro. Armor is this power.
+[02:05] :572 hours, 5 minutes, 57 secondsEnemy fire in preparation. Behold the god of thunder.
+[02:06] :072 hours, 6 minutes, 7 secondsImmediately my can you never
+[02:06] :172 hours, 6 minutes, 17 secondsthe moon haunts you rock it
+[02:06] :252 hours, 6 minutes, 25 secondsup our team out only 60 seconds left you think more vulnerable than ever
+[02:06] :332 hours, 6 minutes, 33 secondsthere's going to be a This is real fire. Goodbye game. Goodbye game. Goodbye.
+[02:06] :482 hours, 6 minutes, 48 secondsGoodbye game.
+[02:06] :502 hours, 6 minutes, 50 secondsAin't no way we [ __ ] winning this [ __ ] Goodbye.
+[02:06] :542 hours, 6 minutes, 54 secondsAin't got no. He's been throwing the same [ __ ] threes the entire match.
+[02:07] :002 hours, 7 minutesThe keys are more dangerous if there's more than one shield activated. Attack is almost exhausted.
+[02:07] :072 hours, 7 minutes, 7 secondsWait for it. There was no [ __ ] way. Two. Three.
+[02:07] :112 hours, 7 minutes, 11 secondsTime to switch things up, including which side you Yeah, let's make some switches. I Let's make some switches.
+[02:07] :192 hours, 7 minutes, 19 secondsYou'll need a top-notch team to win this one. Who are you calling? I'm go [ __ ] heal her, dude.
+[02:07] :352 hours, 7 minutes, 35 secondsYou guys, you guys figure [ __ ] out. You guys, you guys play block or attack. Oh, this is attack.
+[02:07] :422 hours, 7 minutes, 42 secondsYeah, I've already resigned this game. Oh, could you go magream? Go whatever. Go anything. I got a plan.
+[02:07] :512 hours, 7 minutes, 51 secondsI'm done with this game. Not because I'm upset, but because look at these stats.
+[02:07] :562 hours, 7 minutes, 56 secondsAnd they're they're thinking they're thinking with these stats, man. We we we have a chance. We had a we had a decent we had a decent chance from what we witnessed last game. Let's switch it up.
+[02:08] :092 hours, 8 minutes, 9 secondsSwitch it up. We'll do great. I'm like, all right. You know, I can heal you. I can push these [ __ ] through. Maybe.
+[02:08] :142 hours, 8 minutes, 14 secondsOh, this is hard. We could try to push with the force of a thousand [ __ ] sons. Here, take this thingy. I will fight for it. You want that? Take it.
+[02:08] :232 hours, 8 minutes, 23 secondsGet some Get some shields up in you. I'm going to take it away at the last second. In five, four, three, two, one.
+[02:08] :382 hours, 8 minutes, 38 secondsTime has arrived. Who will stitch it together again? Help get that vehicle to it destination.
+[02:08] :452 hours, 8 minutes, 45 secondsI'll pass you up. Here we come. No, I'm fine. Someone scratch my back. Team player. That's me.
+[02:08] :572 hours, 8 minutes, 57 secondsNeeded that boost. You're ready for action. I'll be [ __ ] in no time.
+[02:09] :142 hours, 9 minutes, 14 secondsGood medicine. You're welcome. Careful. We got a robot investing.
+[02:09] :222 hours, 9 minutes, 22 secondsSorry. Here is an enemy.
+[02:09] :322 hours, 9 minutes, 32 secondsI'm [ __ ] help. You're welcome. Spider Zero. I trust. It's Spider.
+[02:09] :412 hours, 9 minutes, 41 secondsBreak. Real nice.
+[02:09] :442 hours, 9 minutes, 44 secondsThat's the boost I need in front of us with the doctors. I'll patch you up by me. See, I'm [ __ ] helpful.
+[02:09] :552 hours, 9 minutes, 55 secondsThat [ __ ] hurt. This is real fire power.
+[02:10] :032 hours, 10 minutes, 3 secondsAlmost there. Go back now. at last.
+[02:10] :152 hours, 10 minutes, 15 secondsThere we go. The vehicle reached the checkpoint. Keep up the momentum. If we squash him on time and we just make it look like we're the
+[02:10] :232 hours, 10 minutes, 23 seconds[ __ ] badasses here. Let us see. I'm helpful. Need that.
+[02:10] :372 hours, 10 minutes, 37 secondsYou're ready for action. That's the moon.
+[02:10] :502 hours, 10 minutes, 50 secondsKeep killing uh Thor. He keeps running. You're welcome. Your powers are mine. The world.
+[02:10] :572 hours, 10 minutes, 57 secondsHere is our escort duty.
+[02:11] :012 hours, 11 minutes, 1 secondA nest of mechanical spiders. Halfway there. Keep going.
+[02:11] :072 hours, 11 minutes, 7 secondsBehold the god of doctor's like [ __ ] that healer.
+[02:11] :152 hours, 11 minutes, 15 secondsJust what the doctor against the world.
+[02:11] :202 hours, 11 minutes, 20 secondsThings are going to be different this time. She regret might be cheating. That was [ __ ] [ __ ] You're welcome.
+[02:11] :332 hours, 11 minutes, 33 secondsBring on the chaos. Hawkeye's down on the boomerang arrow.
+[02:11] :392 hours, 11 minutes, 39 secondsI'm ready to unleash time.
+[02:11] :452 hours, 11 minutes, 45 secondsYou're ready for action. Our enemies are near. Those beacons don't grow a tree, you know. Bless the healing.
+[02:11] :542 hours, 11 minutes, 54 secondsThe wizard is down the
+[02:12] :072 hours, 12 minutes, 7 secondsHell at least.
+[02:12] :192 hours, 12 minutes, 19 secondsTime to heal. Oh, I'm not going to make it easy. Get that vehicle moving again.
+[02:12] :352 hours, 12 minutes, 35 secondsThis is real fire power.
+[02:12] :432 hours, 12 minutes, 43 secondsYour weak human eyes. Our enemies on here.
+[02:12] :512 hours, 12 minutes, 51 secondsI'll patch you up. Almost there. Don't turn back now.
+[02:13] :022 hours, 13 minutes, 2 secondsopening up for the day.
+[02:13] :052 hours, 13 minutes, 5 seconds[Applause]
+[02:13] :092 hours, 13 minutes, 9 secondsReached a checkpoint. Keep up the momentum.
+[02:13] :182 hours, 13 minutes, 18 secondsRelay deployed. It ain't cheap. See, I'm [ __ ] helpful.
+[02:13] :282 hours, 13 minutes, 28 secondsYou did that for me. Don't know how you did that trick, Steven, but I'm impressed.
+[02:13] :432 hours, 13 minutes, 43 secondsI'm ready to The moon haunts you. You're welcome. Yeah,
+[02:13] :512 hours, 13 minutes, 51 secondsI'm going to miss that wizard. Uh-oh. An enchanter almost bowed out.
+[02:13] :582 hours, 13 minutes, 58 secondsThat's the boost I needed. I needed that boost. I'll patch you up. I blew up.
+[02:14] :062 hours, 14 minutes, 6 secondsI am ready to put on a show. That will [ __ ] hurt.
+[02:14] :142 hours, 14 minutes, 14 secondsYou did that with your weak human eyes.
+[02:14] :162 hours, 14 minutes, 16 secondsThat's it. Don't let the cart stand. I hope that they push the curtain.
+[02:14] :232 hours, 14 minutes, 23 secondsLet us meet the weaver. Try harder. All my words immediately. This is real fire power.
+[02:14] :332 hours, 14 minutes, 33 secondsSo close. This is your big chance. Oh, I'm fine.
+[02:14] :392 hours, 14 minutes, 39 secondsUnleash. By the eye of Aoto belong to me.
+[02:14] :482 hours, 14 minutes, 48 secondsBehold the god of thunder.
+[02:14] :532 hours, 14 minutes, 53 secondsMy power. Things are going to be different this time.
+[02:15] :012 hours, 15 minutes, 1 secondAll right, just regroup and we got this.
+[02:15] :092 hours, 15 minutes, 9 secondsThe eye must rest. Armor packs here. Pay us. Get that vehicle moving again.
+[02:15] :162 hours, 15 minutes, 16 secondsAt this rate, Spider Zero will be an old woman when we get
+[02:15] :282 hours, 15 minutes, 28 secondsdown. Okay. Don't mind me. Only seconds left.
+[02:15] :462 hours, 15 minutes, 46 secondsGet SP. You ain't got rid of me yet.
+[02:15] :532 hours, 15 minutes, 53 secondsIt is proven here at the moment. I'm opening up this [ __ ] fast.
+[02:16] :012 hours, 16 minutes, 1 secondLook here. Down to 30 seconds. Get that vehicle moving again.
+[02:16] :072 hours, 16 minutes, 7 secondsThe moon haunts you.
+[02:16] :142 hours, 16 minutes, 14 secondsYour powers are mine. The god of thunder.
+[02:16] :202 hours, 16 minutes, 20 secondsRockets launching again. Yeah, that's strange. Final 10 seconds. [ __ ] Get that vehicle moving again.
+[02:16] :302 hours, 16 minutes, 30 secondsSomeone get my back. Final score, two 2 three.
+[02:16] :452 hours, 16 minutes, 45 secondsWell, you can't expect to win them all.
+[02:16] :492 hours, 16 minutes, 49 secondsI still don't know what was going on with our first healers. Our first healers were
+[02:16] :572 hours, 16 minutes, 57 secondsjust I don't know, man. I'll take the last
+[02:17] :072 hours, 17 minutes, 7 secondswas. Oh yeah, he
+[02:17] :162 hours, 17 minutes, 16 secondswas. That statement was
+[02:17] :212 hours, 17 minutes, 21 seconds[Music]
+[02:17] :252 hours, 17 minutes, 25 secondstrue. Which hero do you think you want to be today?
+[02:17] :332 hours, 17 minutes, 33 secondsEat nuts and kick butts. Now, who am I going to banish from this?
+[02:17] :482 hours, 17 minutes, 48 seconds[Music]
+[02:17] :552 hours, 17 minutes, 55 seconds[Music]
+[02:18] :212 hours, 18 minutes, 21 seconds[Music]
+[02:18] :262 hours, 18 minutes, 26 secondsDoes everyone want to [ __ ] ban Groot?
+[02:18] :292 hours, 18 minutes, 29 secondsRoot is so easy. Whatever. This will be a good game. It's just going to be so boring.
+[02:18] :422 hours, 18 minutes, 42 secondsThe right heroes could make all the difference.
+[02:18] :562 hours, 18 minutes, 56 secondsWhat the hell?
+[02:19] :182 hours, 19 minutes, 18 secondsRound one. Uh, this is Tippy Toto and she has the powers of um just a a regular squirrel.
+[02:19] :262 hours, 19 minutes, 26 secondsShe'll be coming in 30 seconds. Stay strong.
+[02:19] :322 hours, 19 minutes, 32 secondsUh, hey Tony. Are we going to fix all this? Oh, you bet we are, Dorine. If I ever see Doom again, I'm going to like a walnut. I know you will.
+[02:19] :502 hours, 19 minutes, 50 secondsThe battle starts in five. 4 3 2 one.
+[02:19] :572 hours, 19 minutes, 57 secondsYou have to stop them from securing the mission area. I am the other team of four. I can make this work.
+[02:20] :062 hours, 20 minutes, 6 secondsI am. I am. Sorry. No here.
+[02:20] :282 hours, 20 minutes, 28 secondsI lift up my comrades. I am
+[02:20] :412 hours, 20 minutes, 41 secondsthe knuckle spike isn't hurting for certain.
+[02:20] :502 hours, 20 minutes, 50 secondsHurricane.
+[02:20] :532 hours, 20 minutes, 53 secondsThis is real
+[02:20] :552 hours, 20 minutes, 55 seconds[Applause]
+[02:20] :572 hours, 20 minutes, 57 secondsfirepower.
+[02:21] :052 hours, 21 minutes, 5 seconds[Music]
+[02:21] :242 hours, 21 minutes, 24 secondsAnother fight is coming. Anyone willing to help?
+[02:21] :342 hours, 21 minutes, 34 secondsI am ready to put on a show. Shields up.
+[02:21] :412 hours, 21 minutes, 41 secondsPulse charge. Fire. By the eye of Aamoto.
+[02:21] :502 hours, 21 minutes, 50 secondsWay too many bad guys here.
+[02:21] :592 hours, 21 minutes, 59 seconds[Music]
+[02:22] :022 hours, 22 minutes, 2 secondsPunisher. Let's end this quick. We're back. Right, Tippy?
+[02:22] :122 hours, 22 minutes, 12 secondsYou need to stop that vehicle in its tracks. The knuckle spike is coming.
+[02:22] :222 hours, 22 minutes, 22 secondsMy
+[02:22] :272 hours, 22 minutes, 27 seconds[Music]
+[02:22] :312 hours, 22 minutes, 31 secondslast one follow that vehicle.
+[02:22] :462 hours, 22 minutes, 46 secondsInvisible. I am.
+[02:22] :522 hours, 22 minutes, 52 secondsThey made it halfway. Stop them. This is real fire power.
+[02:23] :022 hours, 23 minutes, 2 secondsI'm not done with this fight yet.
+[02:23] :122 hours, 23 minutes, 12 secondsHurricane incoming.
+[02:23] :182 hours, 23 minutes, 18 secondsI am judge. Jury, executioner.
+[02:23] :412 hours, 23 minutes, 41 secondsThere's still a chance to stop them. Better stop that vehicle.
+[02:23] :462 hours, 23 minutes, 46 secondsThere's a hell of there. I should be changing it up. I am Groot.
+[02:23] :562 hours, 23 minutes, 56 secondsThey hit a checkpoint. Now might be a good time to stop them. By the eye of Agamoto fight, let me return the favor.
+[02:24] :162 hours, 24 minutes, 16 secondsthat vehicle. Oh, their healer is now on point.
+[02:24] :232 hours, 24 minutes, 23 secondsGood medicine. Not that they're dealing too much damage. Their healer is healing too much heals.
+[02:24] :312 hours, 24 minutes, 31 secondsWhat What should we do? What should we do? Ah, [ __ ] it. Power or never. Stop them.
+[02:24] :422 hours, 24 minutes, 42 secondsLose the rank. Lose the rank. Lose the rank. Lose the rank. Fire.
+[02:24] :592 hours, 24 minutes, 59 secondsWhat a relief.
+[02:25] :142 hours, 25 minutes, 14 secondsThis is real fire power. I am ready to put on a show.
+[02:25] :262 hours, 25 minutes, 26 secondsIron scratch my back at least. Not so fast.
+[02:25] :372 hours, 25 minutes, 37 secondsdown.
+[02:25] :472 hours, 25 minutes, 47 secondsJudge can't avoid the big hoe in the sky that has a [ __ ] 15sec.
+[02:25] :542 hours, 25 minutes, 54 secondsI can pew pew pew pew pew pew and I have a shitload of health. that
+[02:26] :072 hours, 26 minutes, 7 seconds[ __ ] God damn. There's like a big cluster of them over there. What happened to our guys? Are they all dead? They're all dead.
+[02:26] :152 hours, 26 minutes, 15 secondsThey died. Of course they died. And look, where's our healers? Dead. Healers.
+[02:26] :232 hours, 26 minutes, 23 secondsdown that vehicle. False charge fire.
+[02:26] :402 hours, 26 minutes, 40 secondsThis is real fire power.
+[02:26] :492 hours, 26 minutes, 49 secondsI flew rockets amp.
+[02:26] :552 hours, 26 minutes, 55 secondsI'm not ready to give up yet. Only 60 seconds left.
+[02:27] :012 hours, 27 minutes, 1 secondBy the eye of The current score is 0 2 3. Time to switch things up, including which side you're on.
+[02:27] :152 hours, 27 minutes, 15 secondsYou'll need a top-notch team to win this one. I've seen wonders out there in the cosmos few humans will ever behold.
+[02:27] :232 hours, 27 minutes, 23 seconds[Music]
+[02:27] :342 hours, 27 minutes, 34 seconds[Music]
+[02:27] :412 hours, 27 minutes, 41 secondsYou don't have to be a witch to find a magic in this world. Round two. There is no reason to be afraid of my magic, unless you give me.
+[02:27] :592 hours, 27 minutes, 59 seconds30 seconds before you attack. Get ready.
+[02:28] :052 hours, 28 minutes, 5 secondsHey, Groot. Uh, don't get mad if some of my pals ride on your branches. Okay, I am Groot. Wait, you didn't have squirrels on planet X? That's a bummer.
+[02:28] :232 hours, 28 minutes, 23 secondsThe battle starts in five, 4, 3, two, one.
+[02:28] :302 hours, 28 minutes, 30 secondsAll you need to do is capture the mission area. Got it.
+[02:28] :342 hours, 28 minutes, 34 secondsHey, I bet I can help with the time fixing thingamajig. Oh, or maybe I'll have to next time.
+[02:28] :582 hours, 28 minutes, 58 secondsMy life force is exposed now. A disappearing life will kill you.
+[02:29] :042 hours, 29 minutes, 4 secondsThrow you from a twist.
+[02:29] :142 hours, 29 minutes, 14 secondsI won't make the same mistake. Goodbye. Force is in preparation.
+[02:29] :242 hours, 29 minutes, 24 secondsI feel like I'm being watched.
+[02:29] :312 hours, 29 minutes, 31 secondsFeeling stronger already.
+[02:29] :412 hours, 29 minutes, 41 secondsThis is real fire. Blue rockets.
+[02:29] :532 hours, 29 minutes, 53 secondsI am ready to put on a show. Judge, jury, executioner.
+[02:30] :092 hours, 30 minutes, 9 seconds[Music]
+[02:30] :112 hours, 30 minutes, 11 secondsChaos.
+[02:30] :202 hours, 30 minutes, 20 secondsI am much better now. Goodbye.
+[02:30] :342 hours, 30 minutes, 34 secondsNothing here. Suspicious.
+[02:30] :392 hours, 30 minutes, 39 secondsMortal, we're about to have company. By the eye of Agamoto. You're welcome.
+[02:30] :522 hours, 30 minutes, 52 secondsHell unleashed. [ __ ] god.
+[02:31] :062 hours, 31 minutes, 6 secondsI am I am I won't make the same mistakes again.
+[02:31] :202 hours, 31 minutes, 20 secondsBe right back.
+[02:31] :272 hours, 31 minutes, 27 secondsHoly [ __ ] It's It's not her, dude. It's that [ __ ] Groot. Bam. Bam. Bam. You see that combo? You see that combo he's
+[02:31] :352 hours, 31 minutes, 35 secondsdoing? He's doing three attacks within the span of a second. I want to know that group combo.
+[02:31] :422 hours, 31 minutes, 42 secondsI am ready to put on a show. Now a disappearing one.
+[02:31] :502 hours, 31 minutes, 50 secondsCharge. Fire. Chaos control.
+[02:31] :592 hours, 31 minutes, 59 secondsBack to 30 seconds. Judge, jury, executioner.
+[02:32] :112 hours, 32 minutes, 11 secondsHow did that not kill him, dude?
+[02:32] :172 hours, 32 minutes, 17 secondsBy the eye of
+[02:32] :192 hours, 32 minutes, 19 seconds[ __ ]
+[02:32] :232 hours, 32 minutes, 23 secondsThis is the most [ __ ] I've ever seen.
+[02:32] :292 hours, 32 minutes, 29 secondsHoly [ __ ] I'm opening a portal. Final score, 0 2. Our our Iron Man was trying
+[02:32] :362 hours, 32 minutes, 36 secondsto carry really [ __ ] hard, by the way.
+[02:32] :422 hours, 32 minutes, 42 secondsWell, you can't expect to win them
+[02:32] :562 hours, 32 minutes, 56 secondsall. Holy DPS diff. Look at the actual [ __ ] damage stats.
+[02:33] :062 hours, 33 minutes, 6 secondsIt's the healer diff.
+[02:33] :112 hours, 33 minutes, 11 secondsWhat are you guys? These guys looked at this chart and went 100% DPS
+[02:33] :232 hours, 33 minutes, 23 secondsdiff. It's the healers. Look. All right.
+[02:33] :272 hours, 33 minutes, 27 secondsI want you guys to understand a com a common statistic thing. Okay. Healer number higher. Right. Right. Right.
+[02:33] :332 hours, 33 minutes, 33 secondsRight. Our damage number is higher across most of the people on the team.
+[02:33] :382 hours, 33 minutes, 38 secondsSo we were we were pumping out more damage. The reason the healers or the reason you're not seeing more kills?
+[02:33] :442 hours, 33 minutes, 44 secondsIt's cuz they're not dying. You want to know why they're not dying? Because that healer number is really [ __ ] high. It's a healer diff.
+[02:33] :542 hours, 33 minutes, 54 secondsPlease get me the [ __ ] out of this rank and get me higher up where I can have people that actually understand how this
+[02:34] :032 hours, 34 minutes, 3 secondsworks. I'm not going to say nothing cuz you know what? It was a DPS diff. I played like [ __ ] I was not paying attention. I smoked
+[02:34] :102 hours, 34 minutes, 10 secondsweed on my ammo. Uh, am I last game of the night?
+[02:34] :152 hours, 34 minutes, 15 secondsIt's about to be
+[04:00] a.m. and I want to get some sleep in.
+[02:34] :212 hours, 34 minutes, 21 secondsWait, are we where are we doing breakfast? Like what city? Or don't don't say it out loud.
+[02:34] :292 hours, 34 minutes, 29 secondsLike think about that. Okay.
+[02:34] :422 hours, 34 minutes, 42 seconds[Music]
+[02:34] :462 hours, 34 minutes, 46 secondsWhich hero do you think you want to be today?
+[02:34] :502 hours, 34 minutes, 50 secondsEat nuts and kick butt. So, it's feeding me win matches now because
+[02:34] :582 hours, 34 minutes, 58 secondsI'm I'm in the golds again. Or is it just saying you're about to be in the golds, boy? You about to be in the golds.
+[02:35] :122 hours, 35 minutes, 12 secondsOh, no one wants to [ __ ] bang Groot.
+[02:35] :272 hours, 35 minutes, 27 seconds[Music]
+[02:35] :542 hours, 35 minutes, 54 secondsthing is cool to deal with. I ain't going to care. Okay.
+[02:36] :022 hours, 36 minutes, 2 secondsThe right heroes could make all the difference. What?
+[02:36] :112 hours, 36 minutes, 11 secondsRose or Rosie, you want to heal or do you want to think? All right. Bye.
+[02:36] :292 hours, 36 minutes, 29 seconds[Music]
+[02:36] :422 hours, 36 minutes, 42 secondsRound one. This is Tippito and she has the powers. They'll be coming in 30 seconds. Stay strong.
+[02:36] :532 hours, 36 minutes, 53 secondsHey, Rocket Quill, you got your ship. If you do, let's get out of here. But we're uh we're supposed to save the world.
+[02:37] :022 hours, 37 minutes, 2 secondsFine. We'll save the world.
+[02:37] :062 hours, 37 minutes, 6 seconds[Music]
+[02:37] :102 hours, 37 minutes, 10 secondsThe battle starts in five. 4 3 2
+[12:37] :172 hours, 37 minutes, 17 seconds[Music]
+[02:37] :212 hours, 37 minutes, 21 secondsIron Man.
+[02:37] :312 hours, 37 minutes, 31 secondsThat [ __ ] hurt.
+[02:37] :372 hours, 37 minutes, 37 secondsI'll patch you up. Oo, a touch of healing.
+[02:37] :472 hours, 37 minutes, 47 seconds[Music]
+[02:37] :502 hours, 37 minutes, 50 secondsOh, look at that poor pushy tail.
+[02:38] :022 hours, 38 minutes, 2 secondsYeah, that uh Iron Man going to be a problem. If you know how to play Hela, that'd be a good or
+[02:38] :172 hours, 38 minutes, 17 secondsPunisher. You have to get all close and personal. You can stand in the back. There's still a chance to stop them.
+[02:38] :282 hours, 38 minutes, 28 secondsBack up. Back up. They walked out. They walked. Just back up. They hit a checkpoint. Now might be a good time to stop them.
+[02:38] :392 hours, 38 minutes, 39 secondsTime to go nuts. I don't think SP the problem. We just need Iron Man. I think it maximum pulse.
+[02:38] :502 hours, 38 minutes, 50 secondsYeah, we need something for Iron Man. Uh yeah. Uh do you know how to play uh Punisher or Hela?
+[02:39] :082 hours, 39 minutes, 8 secondsand just focus uh target focus for Iron Man.
+[02:39] :212 hours, 39 minutes, 21 secondsI'll patch you up.
+[02:39] :322 hours, 39 minutes, 32 secondsThey're just going to walk.
+[02:39] :372 hours, 39 minutes, 37 secondsHere I come again. They hit a checkpoint. Now might be a good time to stop them. May be powered by chaos, but I'm trying to bring a bit of order to the universe.
+[02:39] :502 hours, 39 minutes, 50 secondsMore tentacles than Garganos himself.
+[02:39] :522 hours, 39 minutes, 52 secondsSometimes revealed. Got to stop that vehicle.
+[02:40] :042 hours, 40 minutes, 4 secondsI'm doing this my way. You belong to me.
+[02:40] :082 hours, 40 minutes, 8 secondsI am ready to put on a show. May Luna Magneto
+[02:40] :212 hours, 40 minutes, 21 secondsMaga in front of us. I unleash the
+[02:40] :412 hours, 40 minutes, 41 secondspower going back. Disappear.
+[02:40] :472 hours, 40 minutes, 47 secondsGet out of here. We always follow.
+[02:40] :572 hours, 40 minutes, 57 secondsstronger.
+[02:41] :012 hours, 41 minutes, 1 secondSo cold behind you.
+[02:41] :212 hours, 41 minutes, 21 secondsChaos always chaos control. Look who's here.
+[02:41] :312 hours, 41 minutes, 31 secondsBack up scre.
+[02:41] :412 hours, 41 minutes, 41 secondsHe got off Iron Man. So funny. He focus uh focus back.
+[02:41] :472 hours, 41 minutes, 47 secondsYou belong to me. I am ready to put on a show. Hey, enjoy the fire.
+[02:41] :592 hours, 41 minutes, 59 secondshave iron fist. disappear.
+[02:42] :142 hours, 42 minutes, 14 secondsI'll sh back up. Back up. Enemy in front of us.
+[02:42] :282 hours, 42 minutes, 28 secondsKnight's mysticism was no matter stand up against a full
+[02:42] :532 hours, 42 minutes, 53 secondsstrength down fighting. Get out of here.
+[02:42] :572 hours, 42 minutes, 57 secondsunder my spell. The
+[02:43] :142 hours, 43 minutes, 14 secondsmoon on the bike again. You're welcome.
+[02:43] :232 hours, 43 minutes, 23 secondsI am ready to put on a show. Enjoy. Mort.
+[02:43] :352 hours, 43 minutes, 35 secondsWow. Four in a row.
+[02:43] :382 hours, 43 minutes, 38 secondsGood [ __ ] dog. Good [ __ ] Final judgement is ready.
+[02:43] :452 hours, 43 minutes, 45 secondsI turned my mic off cuz I want to rank up and I don't want to argue with these people that talk so much. I'd rather
+[02:43] :532 hours, 43 minutes, 53 secondsjust be silent. You're welcome. At this point, they could just watch the stream to get my commentary.
+[02:44] :002 hours, 44 minutesAnd you know what? If they're bad without the call outs, build a team with me. Yeah, there
+[02:44] :152 hours, 44 minutes, 15 secondsdisappear. Got a minute left, though. I got M. We got ready.
+[02:44] :322 hours, 44 minutes, 32 secondsWhat a pair we made.
+[02:44] :422 hours, 44 minutes, 42 secondsYou belong to me. Down to 30 seconds.
+[02:44] :552 hours, 44 minutes, 55 secondsI'll catch you up already. Limitless magic.
+[02:45] :052 hours, 45 minutes, 5 secondsI am ready to
+[02:45] :082 hours, 45 minutes, 8 seconds[Music]
+[02:45] :132 hours, 45 minutes, 13 secondsopen. Double kill.
+[02:45] :202 hours, 45 minutes, 20 secondsScore is zero two two.
+[02:45] :262 hours, 45 minutes, 26 secondsTime to switch things up, including which side you're on.
+[02:45] :322 hours, 45 minutes, 32 secondsYou don't have to be a witch to find the magic in this world, but it does help.
+[02:45] :362 hours, 45 minutes, 36 secondsYou'll need a top-notch team to win this one.
+[02:45] :422 hours, 45 minutes, 42 secondsI mean, they were going to try to pull the [ __ ] the [ __ ] Hulk alt and the Iron Man alt and the [ __ ] Hulk iron
+[02:45] :512 hours, 45 minutes, 51 secondsman and the Hulk Neymore. And I was like, "All right, let me just pull out the [ __ ] machine that Scarlet Witch has
+[02:45] :592 hours, 45 minutes, 59 secondsbecome for this season." I I like playing her, but the problem is everyone expects that. And And now she's targeted because of that. Like, she used to be
+[02:46] :072 hours, 46 minutes, 7 secondstargeted because of her alult. Now she's targeted 24/7 by everyone because of that [ __ ] thing. Unless you're Unless you're walking with this [ __ ] and he's
+[02:46] :142 hours, 46 minutes, 14 secondsdoing the shield and you got a healer on your ass and you're doing it the right way. Before you attack, ain't no way. Get ready.
+[02:46] :202 hours, 46 minutes, 20 secondsYou cannot save. I don't need telepathy to know what you're thinking, Emma. By the way, healer diff, this healer on top
+[02:46] :292 hours, 46 minutes, 29 secondsof it. Nod and Rose, they're doing great. Rose is like healing like crazy. And there are more to learn at the bottom of my roof.
+[02:46] :402 hours, 46 minutes, 40 secondsThe battle starts in five. 4 3 2 1.
+[02:46] :492 hours, 46 minutes, 49 secondsHelp get that vehicle to its destination. So there are two dudes, huh? Sounds like overpopulation.
+[02:46] :562 hours, 46 minutes, 56 secondsWe need to get these beasts. That's I'll pass you up.
+[02:47] :122 hours, 47 minutes, 12 secondsYou need to fail. Steven, you're not going anywhere.
+[02:47] :252 hours, 47 minutes, 25 secondsWho is supreme now? Steven, don't push up to my limitless magic.
+[02:47] :372 hours, 47 minutes, 37 secondsAlmost there. Don't turn back now.
+[02:47] :492 hours, 47 minutes, 49 secondsI'll patch you up in front of us.
+[02:47] :562 hours, 47 minutes, 56 secondsVehicle reached a checkpoint. Keep up the momentum.
+[02:48] :032 hours, 48 minutes, 3 secondsHere is an end. [ __ ] hurt.
+[02:48] :182 hours, 48 minutes, 18 secondsCan you focus
+[02:48] :192 hours, 48 minutes, 19 seconds[Music]
+[02:48] :212 hours, 48 minutes, 21 secondsfor the fire?
+[02:48] :262 hours, 48 minutes, 26 secondsI am ready to put on a show. You're not going anywhere. Keep going.
+[02:48] :352 hours, 48 minutes, 35 secondsYou're welcome. I my way. You belong to me.
+[02:48] :502 hours, 48 minutes, 50 secondsThose guys are about to shoot us.
+[02:48] :542 hours, 48 minutes, 54 secondsI'll catch you up forever. Feel
+[02:48] :592 hours, 48 minutes, 59 seconds[Music]
+[02:49] :022 hours, 49 minutes, 2 secondsmagn fire power. Scrap the amplifier.
+[02:49] :152 hours, 49 minutes, 15 secondsGuards themselves are counting on us. Limitless magic.
+[02:49] :232 hours, 49 minutes, 23 secondsKeep up the momentum. I'm stronger already. You are under my spell. Now a disappearing. I'll patch you up.
+[02:49] :412 hours, 49 minutes, 41 secondsArmed and dangerous. I'm just dying.
+[02:49] :482 hours, 49 minutes, 48 secondsGoodbye.
+[02:49] :552 hours, 49 minutes, 55 secondsThe
+[02:50] :002 hours, 50 minutes[Music]
+[02:50] :022 hours, 50 minutes, 2 secondsmutants double kill. That's three. Now, this shield should do nicely.
+[02:50] :102 hours, 50 minutes, 10 secondsDon't let anything stand in your way.
+[02:50] :182 hours, 50 minutes, 18 secondsGood [ __ ] Huh? This was just 3. Thank you for climbing.
+[02:50] :292 hours, 50 minutes, 29 secondsAnother epic victory. Win.
+[02:50] :332 hours, 50 minutes, 33 seconds[Music]
+[02:50] :342 hours, 50 minutes, 34 seconds[Applause]
+[02:51] :052 hours, 51 minutes, 5 seconds[Music]
+[02:51] :152 hours, 51 minutes, 15 secondsWhich hero do you think you want to be today? I've seen wonders out there in the jail.
+[02:51] :242 hours, 51 minutes, 24 secondsStay a while. GG's Jaylen. GG. Thank you for playing. I was just trying to I was just trying to play squirrel girl or
+[02:51] :312 hours, 51 minutes, 31 secondswhatever. And then that combo that combo with the Iron Man hit hard so they told us to switch. I was
+[02:51] :392 hours, 51 minutes, 39 secondslike, "Fuck it." One of them was was strange, so I was like, "I'll whip out the the
+[02:51] :472 hours, 51 minutes, 47 secondsuh Scarlet Witch." I just like I don't know the flexibility of it. I was
+[02:52] :022 hours, 52 minutes, 2 secondsstrange. Are you a strange? Well, that strange that strange uh combo really made the game. Switching to Strange made
+[02:52] :092 hours, 52 minutes, 9 secondsit possible. I mean, I wasn't having a good time with that squirrel girl because they were countering it really hard without the hell. The iron man was
+[02:52] :182 hours, 52 minutes, 18 secondsjust devastating and being able to shut him down with his new combo. Mr. Fantastic. Why do you got four [ __ ] cams in your stream?
+[02:52] :302 hours, 52 minutes, 30 secondsThanks for following. Pick your hero. I just popped on his stream, right? This [ __ ] got four cams, bro. You got a desktop cam, like three face cams.
+[02:52] :402 hours, 52 minutes, 40 secondsWhat the [ __ ] Yeah, I got all the cameras. The cameras
+[02:52] :472 hours, 52 minutes, 47 secondsare what I do. Uh, the only reason I mute in the game and don't do call outs is because it gets real [ __ ] annoying arguing with people. So, I just play the game now. I
+[02:52] :562 hours, 52 minutes, 56 secondsplay the game in solo queue and try to try to get up. Want to want to join the tournament.
+[02:53] :142 hours, 53 minutes, 14 secondsMy inventions have saved worlds. 30 seconds before you attack was my family.
+[02:53] :222 hours, 53 minutes, 22 secondsSo, I'm doing pretty in that big brain of yours right now. He's formulating hundreds of potential strategimms at the
+[02:53] :302 hours, 53 minutes, 30 secondsmoment. Oh, man. Great. Yeah. No, I just play whatever. How many alive at the end when it come when it comes when it comes to this? Play what you play and just
+[02:53] :392 hours, 53 minutes, 39 secondsdon't worry about it. I mean, I think a control koa uh stretchy man does a lot better than
+[02:53] :462 hours, 53 minutes, 46 secondssquirrel because squirl don't got the coverage and that's the [ __ ] truth.
+[02:53] :512 hours, 53 minutes, 51 secondsI've never been one for high society events, but this she had the coverage on a lot of maps and then she immediately got like she didn't get nerfed in any
+[02:53] :582 hours, 53 minutes, 58 secondsway. It's just she didn't become as capable.
+[02:54] :042 hours, 54 minutes, 4 secondsPeople are going to try to push her right here, of course. But because it's round, there's not a lot of bouncy points for her.
+[02:54] :162 hours, 54 minutes, 16 seconds[Music]
+[02:54] :182 hours, 54 minutes, 18 secondsOh, where are the people at? We're going to find the people.
+[02:54] :252 hours, 54 minutes, 25 secondsMission area is yours, bro. That that that green thing that you see on the controller shows I was
+[02:54] :332 hours, 54 minutes, 33 secondspressing that damn button. This is gonna hurt. Did not press the B button to cancel out fast enough.
+[02:54] :412 hours, 54 minutes, 41 secondsI don't know what these cancel animations are for these characters, but they're really shitty. I wish I wish there was less of them and you had more
+[02:54] :482 hours, 54 minutes, 48 secondswindows to be baller. Nerfing Spider-Man's uh thing was decent.
+[02:54] :572 hours, 54 minutes, 57 secondsUsing duck, bro. Bro, where did everyone go? Where did everyone go? Control lost.
+[02:55] :062 hours, 55 minutes, 6 secondsDon't step on lava. Where? Where did everyone go? Where? Where did everyone go?
+[02:55] :162 hours, 55 minutes, 16 secondsLiterally. It seems we have company. Where did they go? Where did they go?
+[02:55] :232 hours, 55 minutes, 23 secondsI've got you. I'm at the force. escape the world. This is real fire. Okay, just back up.
+[02:55] :322 hours, 55 minutes, 32 secondsThey've just popped both their support alts. Oh, okay.
+[02:55] :442 hours, 55 minutes, 44 secondsI'm thinking about I'm more resilient than you think.
+[02:55] :532 hours, 55 minutes, 53 secondsSpider mode. Co-op time.
+[02:56] :012 hours, 56 minutes, 1 secondTheir team's capture progress has passed the
+[02:56] :122 hours, 56 minutes, 12 secondshalfway down like a star. Trouble has arrived.
+[02:56] :202 hours, 56 minutes, 20 secondsIt's made enemies. Control.
+[02:56] :302 hours, 56 minutes, 30 secondsTwist them out a little bit. That's okay.
+[02:56] :392 hours, 56 minutes, 39 secondsJohnny, can we kill her? I'm swapping.
+[02:56] :472 hours, 56 minutes, 47 secondsYou captured more than half of the missionary. Keep going. Hello there.
+[02:56] :572 hours, 56 minutes, 57 secondsMy friends are here. I'm not ready to give up yet.
+[02:57] :082 hours, 57 minutes, 8 secondsControl lost, bro. Winter soldier becoming Spider-Man.
+[02:57] :162 hours, 57 minutes, 16 secondsagain.
+[02:57] :192 hours, 57 minutes, 19 secondsAgain. A futile attempt. We've almost got it.
+[02:57] :272 hours, 57 minutes, 27 secondsAgain, I'm more resilient.
+[02:57] :362 hours, 57 minutes, 36 secondsI don't know why you didn't. What? Now you're doing it, dude. Like, what the
+[02:57] :462 hours, 57 minutes, 46 secondsKeep playing until we have a winner.
+[02:57] :562 hours, 57 minutes, 56 secondsThis is real fire.
+[02:58] :072 hours, 58 minutes, 7 secondsMy back.
+[02:58] :142 hours, 58 minutes, 14 secondsTheir forces outnumber ours.
+[02:58] :202 hours, 58 minutes, 20 secondsOh, strange FYI. You poured us in earlier. We're good though.
+[02:58] :302 hours, 58 minutes, 30 seconds[Music]
+[02:58] :342 hours, 58 minutes, 34 secondsI've watched entire realities consumed by chaos. I won't let that happen again.
+[02:58] :422 hours, 58 minutes, 42 secondsthis [ __ ] I cut my damn hair off.
+[02:58] :482 hours, 58 minutes, 48 seconds30 seconds before you attack. Get ready.
+[02:58] :542 hours, 58 minutes, 54 secondsEven the astral realms are torn apart by the time stream entanglement. Who better to put them back together than you and me?
+[02:59] :032 hours, 59 minutes, 3 secondsI am honored in most reality. You don't have to be a witch to [ __ ] it. I'll go against my word and switch to squirrel.
+[02:59] :102 hours, 59 minutes, 10 secondsI do still kind of have a crush on. The battle starts in 5 4 3 2 1. All you need
+[02:59] :192 hours, 59 minutes, 19 secondsto do is capture the mission area. Got it.
+[02:59] :232 hours, 59 minutes, 23 secondsA shame my students aren't here to witness this lesson. Now it's showtime.
+[02:59] :322 hours, 59 minutes, 32 secondsOf course. Ah, here they are now.
+[02:59] :402 hours, 59 minutes, 40 secondsReally shine around
+[02:59] :542 hours, 59 minutes, 54 secondsnow. It's the grand
+[03:00] :103 hours, 10 secondsMy missionary is yours.
+[03:00] :393 hours, 39 secondsLook who's here. Time to go. A nice deep freeze. I see.
+[03:00] :473 hours, 47 secondsOh, I catch a feeling. Sorry. No escaping us.
+[03:01] :003 hours, 1 minuteNice. That one hurts. Sorry. Just embrace the light.
+[03:01] :083 hours, 1 minute, 8 secondsBucky top right. Bucky top right.
+[03:01] :173 hours, 1 minute, 17 secondsHello. Happy to chip in. Oh my god.
+[03:01] :213 hours, 1 minute, 21 seconds[Applause]
+[03:01] :233 hours, 1 minute, 23 secondslost. I'm not done with this fight yet.
+[03:01] :283 hours, 1 minute, 28 secondsAh, [ __ ] it. I'll switch back. Anyway, he has to his he did a little bit. Even in the face of Luna.
+[03:01] :383 hours, 1 minute, 38 secondsShe should be able to get it off me pushing. Luna should be able to get it off me just pushing him. I'll pop my off. Wait, no. Pop my first. We force one of the rolls. You only use ours.
+[03:01] :483 hours, 1 minute, 48 secondsOkay. I like the cold. It's time for my biggest hit.
+[03:01] :563 hours, 1 minute, 56 secondsThis is power. Break it. Break it. Break it.
+[03:02] :003 hours, 2 minutesBreak it. What? I don't They don't have a support.
+[03:02] :113 hours, 2 minutes, 11 secondsThey just use it. They use Please. They did use a rocket. Oh, he was right.
+[03:02] :213 hours, 2 minutes, 21 secondsSo, whatever the hell they're saying, they're not paying attention. Feel like I'm being
+[03:02] :343 hours, 2 minutes, 34 secondsI don't know why they're taking the long way around, but Luna Olson, it's the grand finale.
+[03:02] :563 hours, 2 minutes, 56 secondsThey've almost got it.
+[03:02] :593 hours, 2 minutes, 59 secondsThis has
+[03:03] :053 hours, 3 minutes, 5 seconds[Music]
+[03:03] :113 hours, 3 minutes, 11 secondsI am very I won't rest until this is solved.
+[03:03] :193 hours, 3 minutes, 19 secondsYou'll have to keep fighting until we have a winner.
+[03:03] :273 hours, 3 minutes, 27 secondsThis is real fire power. I still need your power. Fantastic.
+[03:03] :473 hours, 3 minutes, 47 secondsSupport alts on top of support alts. That's embarrassing.
+[03:03] :543 hours, 3 minutes, 54 seconds[Music]
+[03:03] :563 hours, 3 minutes, 56 seconds[Laughter]
+[03:04] :003 hours, 4 minutesWell, you can't expect to win them all.
+[03:04] :073 hours, 4 minutes, 7 secondsI just did bad breakfast. It's
+[04:20] though. It's not even 5 in the morning yet. Hey, where' the box go?
+[03:04] :333 hours, 4 minutes, 33 secondsThis is like
+[03:04] :393 hours, 4 minutes, 39 seconds[Music]
+[03:05] :013 hours, 5 minutes, 1 seconddrawing more stuff on the iPad.
+[03:05] :343 hours, 5 minutes, 34 secondsWe'll get different people this time.
+[03:05] :363 hours, 5 minutes, 36 secondsWhich hero do you think you want to be today?
+[03:05] :403 hours, 5 minutes, 40 seconds[Music]
+[03:05] :463 hours, 5 minutes, 46 secondsI've seen wonders out there in the cosmos. Few humans will ever be old.
+[03:05] :513 hours, 5 minutes, 51 secondsNow, who am I going to banish from this match?
+[03:05] :583 hours, 5 minutes, 58 seconds[Music]
+[03:06] :123 hours, 6 minutes, 12 secondsWhere'd that come from? That was not there. That wasn't there. That wasn't
+[03:06] :243 hours, 6 minutes, 24 secondsthere. I don't even know, dude.
+[03:06] :293 hours, 6 minutes, 29 seconds[Music]
+[03:06] :353 hours, 6 minutes, 35 secondsFine. We'll see what they push this time. What's with these last minute
+[03:06] :433 hours, 6 minutes, 43 seconds[ __ ] bands? Am I Am I going against a [ __ ] Discord party in my own team? Okay, I I guess. Pick your hero or
+[03:06] :533 hours, 6 minutes, 53 secondsvillain. I'm not judging. Eat nuts and kick butts.
+[03:07] :073 hours, 7 minutes, 7 secondsLast minute bands, man.
+[03:07] :113 hours, 7 minutes, 11 seconds[Music]
+[03:07] :273 hours, 7 minutes, 27 secondsUh, this is Tippyto and she has the powers of um just a a regular squirrel.
+[03:07] :363 hours, 7 minutes, 36 seconds30 seconds before you attack. Get ready.
+[03:07] :423 hours, 7 minutes, 42 secondsHey, uh, question. Ask, are there squirrels in your uh, Eat nuts and kick butt.
+[03:07] :533 hours, 7 minutes, 53 secondsI'm all I ever wanted to do was sing. Really?
+[03:07] :593 hours, 7 minutes, 59 secondsThe battle starts in 5 4 3 2 1. All you need to do is capture the mission area. Got it.
+[03:08] :103 hours, 8 minutes, 10 secondsOnce we get this timeline thing sorted out, I'm taking a long vacation somewhere with lots of stuff to steal.
+[03:08] :193 hours, 8 minutes, 19 secondsBe strong together.
+[03:08] :303 hours, 8 minutes, 30 secondsEven better than my mutant power.
+[03:08] :363 hours, 8 minutes, 36 secondsLooks like the mission area is yours to capture now. hurts when you're taking damage. Get me some healing. The mission
+[03:08] :433 hours, 8 minutes, 43 secondsarea is yours. I don't have to be settled together. Celebrating.
+[03:08] :503 hours, 8 minutes, 50 secondsThanks so much. We can't win here. Retreat.
+[03:09] :043 hours, 9 minutes, 4 secondsFollow the enemy. need help catch myself up.
+[03:09] :153 hours, 9 minutes, 15 secondsYou're welcome. Look behind you.
+[03:09] :273 hours, 9 minutes, 27 secondsEnemy perfect.
+[03:09] :293 hours, 9 minutes, 29 seconds[Music]
+[03:09] :303 hours, 9 minutes, 30 secondsBe strong together. I was fine. Thank you.
+[03:09] :393 hours, 9 minutes, 39 secondsI suck.
+[03:09] :423 hours, 9 minutes, 42 secondsWe're finding our captured more than half of the mission area. Keep going.
+[03:09] :583 hours, 9 minutes, 58 secondsI'm back in the fight. Control lost.
+[03:10] :113 hours, 10 minutes, 11 secondsFear best. I have encountered a real hydra in the deep. Whatever these trophies,
+[03:10] :223 hours, 10 minutes, 22 secondsI was worried.
+[03:10] :283 hours, 10 minutes, 28 secondsHere they are. is almost yours.
+[03:10] :343 hours, 10 minutes, 34 secondsCan't let myself get hit.
+[03:10] :493 hours, 10 minutes, 49 secondsEnemy defenders.
+[03:10] :543 hours, 10 minutes, 54 secondsYou'll have to keep fighting until we have a winner.
+[03:11] :143 hours, 11 minutes, 14 seconds[Music]
+[03:11] :183 hours, 11 minutes, 18 secondsIt's easier being a superhero when you have the fame part figured out.
+[03:11] :263 hours, 11 minutes, 26 secondsThis is a nice spot. 30 seconds before you attack. Get ready.
+[03:11] :383 hours, 11 minutes, 38 secondsI was honored to receive your invitation to the Hellfire Gala. Emma, remember it is a formal affair. Neymar, shall I
+[03:11] :473 hours, 11 minutes, 47 secondsassume you'll be wearing a shirt? If that is what is expected of me, of course. How disappointing.
+[03:11] :563 hours, 11 minutes, 56 secondsThe battle starts in 5 4 3 2 1. All you need to do is capture the mission area. Got it.
+[03:12] :073 hours, 12 minutes, 7 secondsThis fight's going to be over before it even gets started.
+[03:12] :153 hours, 12 minutes, 15 secondsThere it is. I like the spotted an enemy. Just like that. This is real fire power.
+[03:12] :243 hours, 12 minutes, 24 secondsReceive my command.
+[03:12] :303 hours, 12 minutes, 30 secondsI am ready to put on a show. The mission area is yours to capture now the world.
+[03:12] :483 hours, 12 minutes, 48 secondsDon't mess with the amazing. There they go.
+[03:12] :573 hours, 12 minutes, 57 secondsDouble KO the mission area.
+[03:13] :153 hours, 13 minutes, 15 secondsProtect your uninvited. I know these wretched creatures all too well.
+[03:13] :233 hours, 13 minutes, 23 secondsLet's do this. Someone scratch my back together.
+[03:13] :303 hours, 13 minutes, 30 secondsWe're finding our groove. Behold the god of thunder.
+[03:13] :423 hours, 13 minutes, 42 secondsEight legs versus six. I am.
+[03:13] :463 hours, 13 minutes, 46 secondsSomeone needs a snowball in the face here. Pay up.
+[03:13] :543 hours, 13 minutes, 54 secondsTheir team's capture progress has passed the halfway point. Nice.
+[03:14] :053 hours, 14 minutes, 5 secondsEven better than my mutant power. I'm making a comeback.
+[03:14] :143 hours, 14 minutes, 14 secondsHey team, enjoy the amplifier. The fools. A nice deep freeze.
+[03:14] :263 hours, 14 minutes, 26 secondsWe have done our part.
+[03:14] :373 hours, 14 minutes, 37 secondsThis deserves your attention.
+[03:14] :473 hours, 14 minutes, 47 secondsWhat terror have you called?
+[03:15] :063 hours, 15 minutes, 6 secondsI'm making a comeback. Power.
+[03:15] :133 hours, 15 minutes, 13 secondsControl lost. See them right there.
+[03:15] :233 hours, 15 minutes, 23 secondsThey've almost got it.
+[03:15] :313 hours, 15 minutes, 31 secondsI'll patch you up. I was worried. That's a good feeling.
+[03:15] :423 hours, 15 minutes, 42 secondsBehold the god of thunder has got to keep fighting until we have a winner.
+[03:15] :573 hours, 15 minutes, 57 seconds[Music]
+[03:16] :103 hours, 16 minutes, 10 seconds[Music]
+[03:16] :163 hours, 16 minutes, 16 secondsMusic makes people happy. Heroes make them safe. Maybe I can do both.
+[03:16] :253 hours, 16 minutes, 25 secondsI summon the seas. 30 seconds before you attack. Get ready.
+[03:16] :363 hours, 16 minutes, 36 secondsAh, Neymar. It is a joy to have a fellow monarch fighting by my side. A king is only as powerful as the army he
+[03:16] :443 hours, 16 minutes, 44 secondscommands. Mine is at the ready. Where is yours? Things god's warriors currently
+[03:16] :513 hours, 16 minutes, 51 secondsanswer to my brother Loki. The battle starts in five. 4 3 2 1.
+[03:17] :003 hours, 17 minutesAll you need to do is capture the mission area. Got it. Detected. My heart hurts for my brother, but that will not stop me from defending Asgard.
+[03:17] :163 hours, 17 minutes, 16 secondsSee them be strong together.
+[03:17] :263 hours, 17 minutes, 26 secondsI suck.
+[03:17] :303 hours, 17 minutes, 30 secondsLooks like the mission area is yours to capture now.
+[03:17] :343 hours, 17 minutes, 34 secondsNever like I am ready to put on a show.
+[03:17] :423 hours, 17 minutes, 42 secondsCan't sneak up on us, buff. Appreciate the boost.
+[03:17] :543 hours, 17 minutes, 54 secondsDo I throw at the floor? I like the cold. It's okay. You need me.
+[03:18] :063 hours, 18 minutes, 6 secondsBe strong together. The oceanic destroy.
+[03:18] :113 hours, 18 minutes, 11 secondsBehold the god of Here come our next
+[03:18] :223 hours, 18 minutes, 22 secondsmove. Out of sight. They captured the mission area.
+[03:18] :383 hours, 18 minutes, 38 secondsExquisite need help. So cold.
+[03:18] :573 hours, 18 minutes, 57 secondsLooks like ins my fists are all slimy.
+[03:19] :173 hours, 19 minutes, 17 secondsThere they are.
+[03:19] :283 hours, 19 minutes, 28 secondsYour team's capture progress has passed the halfway point. I'm making a comeback.
+[03:19] :403 hours, 19 minutes, 40 secondsCan use some up here against the world.
+[03:19] :563 hours, 19 minutes, 56 secondsA nice deep freeze. We're finding our
+[03:20] :023 hours, 20 minutes, 2 secondsWe've almost got it. Behold the god of thunder.
+[03:20] :183 hours, 20 minutes, 18 secondsControl these.
+[03:20] :233 hours, 20 minutes, 23 secondsYes. One down. Someone needs a snowball in the face.
+[03:20] :393 hours, 20 minutes, 39 seconds[Music]
+[03:20] :473 hours, 20 minutes, 47 secondsAll right, that feels better.
+[03:20] :523 hours, 20 minutes, 52 secondsCareful over here. Okay, this is real fire power. You belong to me.
+[03:21] :053 hours, 21 minutes, 5 secondsNot on your six.
+[03:21] :093 hours, 21 minutes, 9 secondsControl lost. Lights out. I've still got songs to sing.
+[03:21] :203 hours, 21 minutes, 20 secondsTP what? TP what? When?
+[03:21] :313 hours, 21 minutes, 31 secondsWell, you can't expect to win them all.
+[03:21] :343 hours, 21 minutes, 34 secondsOh lord. He is going down the the stupid perpetual energy rabbit hole. Coming out
+[03:21] :423 hours, 21 minutes, 42 secondswith incestuously gay wasn't enough. Kanye West
+[03:21] :493 hours, 21 minutes, 49 secondsis good lord hell of a D-rank.
+[03:22] :113 hours, 22 minutes, 11 seconds[Music]
+[03:22] :283 hours, 22 minutes, 28 seconds[Music]
+[03:22] :303 hours, 22 minutes, 30 secondsWhich hero do you think you want to be today?
+[03:22] :343 hours, 22 minutes, 34 secondsEat nuts. You don't have Eat nuts. You don't have Eat nuts. You don't have Eat nuts. You don't have Eat nuts. You don't
+[03:22] :413 hours, 22 minutes, 41 secondshave to eat nut. You don't eat nut. You don't have eat nut. You don't have to be a witch to find the magic in this world,
+[03:22] :493 hours, 22 minutes, 49 secondsbut it does help. Now, who won? Am I going to banish from this match?
+[03:22] :563 hours, 22 minutes, 56 secondsI don't understand the Wolverine ban. I do.
+[03:23] :063 hours, 23 minutes, 6 seconds[Applause]
+[03:23] :163 hours, 23 minutes, 16 secondsNo, never mind. I mean like I
+[03:23] :313 hours, 23 minutes, 31 seconds[Music]
+[03:23] :373 hours, 23 minutes, 37 seconds[Applause]
+[03:23] :463 hours, 23 minutes, 46 secondsYou'll need a top-notch team to win this one. Eat nuts and kick butts.
+[03:24] :013 hours, 24 minutes, 1 second[Music]
+[03:24] :083 hours, 24 minutes, 8 seconds[Applause]
+[03:24] :223 hours, 24 minutes, 22 secondsRound one. I know a lot of villains are just hurt and scared. It would be really nice to help them after I ping an acorn
+[03:24] :303 hours, 24 minutes, 30 secondsoff their forehead. 30 seconds before you attack. Get ready.
+[03:24] :353 hours, 24 minutes, 35 seconds[Music]
+[03:24] :383 hours, 24 minutes, 38 secondsOMG, aren't you the cutest little thing ever? Get over here. You should totally join my squad.
+[03:24] :473 hours, 24 minutes, 47 secondsWait, quick question. You don't eat squirrel, do you?
+[03:24] :513 hours, 24 minutes, 51 seconds[Music]
+[03:24] :543 hours, 24 minutes, 54 secondsThe battle starts in five, 4, 3, 2, 1.
+[03:25] :153 hours, 25 minutes, 15 secondsFirst, how do you think my best girl earned the name Tippy to help me?
+[03:25] :333 hours, 25 minutes, 33 secondsaim.
+[03:25] :403 hours, 25 minutes, 40 secondsThat's better. Clearly, you needed some help.
+[03:25] :543 hours, 25 minutes, 54 secondsChaos control.
+[03:25] :573 hours, 25 minutes, 57 secondsYou're halfway there. Keep going there.
+[03:26] :133 hours, 26 minutes, 13 secondsThis is real fire power.
+[03:26] :223 hours, 26 minutes, 22 secondsYou're not going anywhere.
+[03:26] :333 hours, 26 minutes, 33 secondsSomeone get on Hulk and this game is so easy.
+[03:26] :373 hours, 26 minutes, 37 secondsGet that vehicle moving again. A little help, please. Impervious.
+[03:26] :453 hours, 26 minutes, 45 secondsYou're not going anywhere.
+[03:26] :543 hours, 26 minutes, 54 secondsI got you covered.
+[03:27] :133 hours, 27 minutes, 13 secondsCome to me atcean. Almost there. Don't turn back now.
+[03:27] :223 hours, 27 minutes, 22 secondsagainst the world.
+[03:27] :293 hours, 27 minutes, 29 seconds[Music]
+[03:27] :353 hours, 27 minutes, 35 secondsNice blood shows her true colors. Magneto.
+[03:27] :493 hours, 27 minutes, 49 secondsDon't mess with the Amazing Spider-Man.
+[03:27] :523 hours, 27 minutes, 52 seconds[Music]
+[03:27] :533 hours, 27 minutes, 53 secondsMy fate isn't sealed yet. Only 60 seconds left.
+[03:28] :103 hours, 28 minutes, 10 secondsWe are now hold.
+[03:28] :173 hours, 28 minutes, 17 secondsKeep that up, Neymar.
+[03:28] :223 hours, 28 minutes, 22 secondsTremble before Spider-Man return.
+[03:28] :303 hours, 28 minutes, 30 secondsDown to 30 seconds.
+[03:28] :383 hours, 28 minutes, 38 secondsThis is real fire power.
+[03:28] :513 hours, 28 minutes, 51 secondsFinal 10 seconds.
+[03:29] :003 hours, 29 minutesInvisible. Then let's keep fighting until we have a winner. You're not going anywhere.
+[03:29] :113 hours, 29 minutes, 11 seconds[Music]
+[03:29] :173 hours, 29 minutes, 17 secondsagainst the world.
+[03:29] :313 hours, 29 minutes, 31 secondsWe are. The current score is That's pretty embarrassing. Zero two zero.
+[03:29] :383 hours, 29 minutes, 38 secondsTime to switch things up, including which side you're on.
+[03:29] :433 hours, 29 minutes, 43 seconds[Music]
+[03:29] :453 hours, 29 minutes, 45 secondsThe right heroes could make all the difference. You don't have to be a witch to find the magic in this world, but it does help. Same defense cuz this man wants a [ __ ] Hulk and he's Hulk.
+[03:30] :013 hours, 30 minutes, 1 secondHow's our Jeff? I think our Jeff was doing great.
+[03:30] :053 hours, 30 minutes, 5 seconds[Music]
+[03:30] :143 hours, 30 minutes, 14 secondsRound two. I may be powered by chaos, but I'm trying to bring a bit of order to the universe.
+[03:30] :253 hours, 30 minutes, 25 secondsO protect me. Yo, Grace, are you better at Hulk or some [ __ ] Or I could take uh Strange if you didn't want to play
+[03:30] :333 hours, 30 minutes, 33 secondshim. Could have had that strange the whole game. Storm. It's Richard's Neymar. These guys aren't willing to
+[03:30] :423 hours, 30 minutes, 42 secondsswallow their strategic pride when you flash two characters in front of them in the character picker. That's not enough
+[03:30] :493 hours, 30 minutes, 49 secondscommunication. You have to yell in their ears. And turn your mic on and be like, "Do this."
+[03:30] :563 hours, 30 minutes, 56 secondsYou want to You want to be diamond? You got to yell at people. I guess that's the that's the new meta.
+[03:31] :043 hours, 31 minutes, 4 secondsOnce I saved lives with done with the [ __ ] mess.
+[03:31] :093 hours, 31 minutes, 9 secondsYou need to stop in already. Anyone willing to
+[03:31] :243 hours, 31 minutes, 24 secondshelp that vehicle in here, y'all.
+[03:31] :363 hours, 31 minutes, 36 secondssneaking from. You know, I switched to the Wanda early this game. You got to just switch. Last guy walls up high where we're fighting.
+[03:31] :453 hours, 31 minutes, 45 secondsLast guy was complaining that I didn't switch to Wanda soon enough when the guy switched range. So, I should have been playing Wanda the whole game cuz I
+[03:31] :543 hours, 31 minutes, 54 secondsplayed Wanda the last game. I wanted to play Squirrel Girl, but Squirrego wasn't the answer. Shouldn't have played Squirrel Girl.
+[03:32] :043 hours, 32 minutes, 4 secondsI guess is not the not not the answer this you know what I will hit that button I will say yes and I will save my
+[03:32] :103 hours, 32 minutes, 10 seconds[ __ ] time you're not going anywhere you invisible
+[03:32] :233 hours, 32 minutes, 23 secondsoh he's literally twerking on you have a venom literally twerking on
+[03:32] :283 hours, 32 minutes, 28 secondsyou guys he's eight and zero in twerk Oh my gosh. I'm not saying we should
+[03:32] :393 hours, 32 minutes, 39 secondshave surrendered, but final score. We could have we could have saved ourselves a minute of our life. Just hit that button.
+[03:32] :513 hours, 32 minutes, 51 secondsAll right. So, I've been losing rank pretty much after I didn't like you know that little yellow thing that says
+[03:32] :583 hours, 32 minutes, 58 secondstry competitive. I have this little superstition where I don't want to play it if that little thing isn't up and I chose not to play it when the thing was
+[03:33] :063 hours, 33 minutes, 6 secondsup. And now I have danked. I could have
+[03:33] :163 hours, 33 minutes, 16 secondsstopped. Uh I actually want to get on at a different day. Two hours of streaming.
+[03:33] :213 hours, 33 minutes, 21 secondsI'm going to go try this at a different day. I'm going to try to rank back up when I have a lot more energy to put hours into it. and I haven't put four
+[03:33] :273 hours, 33 minutes, 27 secondsdays of coding into neural network nonsense because that's one hell of a thing to be dealing with and then go
+[03:33] :353 hours, 33 minutes, 35 secondsstraight into a video game. If I hit that, that's done. It's 5 in the morning. Hope you guys have a wonderful day and night thing, whatever.
+[03:33] :493 hours, 33 minutes, 49 seconds[Music]Sync to video time

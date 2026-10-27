@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+"""
+seymour-pre — Pre-Seymour Era query tool.
+
+Usage:
+  seymour-pre "search term" [--limit N] [--era ERA] [--source c11|whisper]
+  seymour-pre --random [--limit N]
+  seymour-pre --stats
+  seymour-pre --eras
+
+Examples:
+  seymour-pre "godot" --limit 5
+  seymour-pre "supercapacitor" --era 2026-absorption
+  seymour-pre --random --limit 3
+"""
+import json, sys, argparse, random
+from pathlib import Path
+
+INDEX_FILE = Path("/home/wubu/seymour-project/pre_seymour/index.json")
+
+def load_index():
+    return json.loads(INDEX_FILE.read_text())
+
+def search(query, limit=5, era=None, source=None):
+    index = load_index()
+    query = query.lower()
+    results = []
+    
+    for vid, entry in index.items():
+        # Filter by era
+        if era and not entry["upload_date"].startswith(era[:4]):
+            continue
+        # Filter by source
+        if source and entry["source"] != source:
+            continue
+        
+        # Search in title + transcript (we'd need transcript text)
+        # For now search title only - transcript search needs full text loaded
+        title = entry["title"].lower()
+        if query in title:
+            results.append(entry)
+    
+    # Also search in transcript text (lazy load)
+    for vid, entry in index.items():
+        if len(results) >= limit:
+            break
+        if entry in results:
+            continue
+        # Load transcript
+        if entry["source"] == "c11":
+            txt_path = Path(f"/home/wubu/seymour-project/absorption/data/transcripts/{vid}.txt")
+        else:
+            txt_path = Path(f"/home/wubu/seymour-project/whiteboard/seymour-pipe/whisper_transcripts/{vid}_whisper.txt")
+        
+        if txt_path.exists():
+            try:
+                txt = txt_path.read_text().lower()
+                if query in txt:
+                    results.append(entry)
+            except:
+                pass
+    
+    return results[:limit]
+
+def random_entries(limit=3):
+    index = load_index()
+    return random.sample(list(index.values()), min(limit, len(index)))
+
+def show_stats():
+    index = load_index()
+    total = len(index)
+    c11 = sum(1 for e in index.values() if e["source"] == "c11")
+    whisper = sum(1 for e in index.values() if e["source"] == "whisper")
+    words = sum(e["word_count"] for e in index.values())
+    dated = [e for e in index.values() if e["upload_date"] != "unknown"]
+    eras = {}
+    for e in dated:
+        year = e["upload_date"][:4]
+        eras[year] = eras.get(year, 0) + 1
+    
+    print(f"══ Pre-Seymour Stats ══")
+    print(f"  Total videos:     {total}")
+    print(f"  C11 (panel):      {c11}")
+    print(f"  Whisper (audio):  {whisper}")
+    print(f"  Total words:      {words:,}")
+    print(f"  Dated:            {len(dated)}")
+    print(f"  By year:          {dict(sorted(eras.items()))}")
+
+def show_eras():
+    index = load_index()
+    eras = {}
+    for e in index.values():
+        if e["upload_date"] != "unknown":
+            year = e["upload_date"][:4]
+            eras.setdefault(year, []).append(e)
+    
+    print("══ Eras ══")
+    for year in sorted(eras.keys()):
+        print(f"  {year}: {len(eras[year])} videos")
+
+def format_result(entry, show_snippet=True):
+    src = entry["source"]
+    date = entry["upload_date"]
+    dur = entry["duration_fmt"]
+    wc = f"{entry['word_count']:,}"
+    title = entry["title"][:70]
+    vid = entry["video_id"]
+    url = f"https://youtu.be/{vid}"
+    print(f"  [{src}] {date} | {dur} | {wc}w | {title}")
+    print(f"    {url}")
+
+def main():
+    parser = argparse.ArgumentParser(description="Pre-Seymour Era query tool")
+    parser.add_argument("query", nargs="?", help="Search term")
+    parser.add_argument("--limit", "-n", type=int, default=5, help="Max results")
+    parser.add_argument("--era", "-e", help="Filter by era (year or era name)")
+    parser.add_argument("--source", "-s", choices=["c11", "whisper"], help="Filter by source")
+    parser.add_argument("--random", "-r", action="store_true", help="Show random entries")
+    parser.add_argument("--stats", action="store_true", help="Show statistics")
+    parser.add_argument("--eras", action="store_true", help="List eras")
+    
+    args = parser.parse_args()
+    
+    if not INDEX_FILE.exists():
+        print("ERROR: Index not found. Run build_pre_seymour_index.py first.")
+        return 1
+    
+    if args.stats:
+        show_stats()
+        return 0
+    
+    if args.eras:
+        show_eras()
+        return 0
+    
+    if args.random:
+        for entry in random_entries(args.limit):
+            format_result(entry)
+        return 0
+    
+    if not args.query:
+        parser.print_help()
+        return 1
+    
+    results = search(args.query, args.limit, args.era, args.source)
+    
+    if not results:
+        print(f"No matches for \"{args.query}\"")
+        return 0
+    
+    print(f"══ Results for \"{args.query}\" ({len(results)} shown) ══")
+    for entry in results:
+        format_result(entry)
+    
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())

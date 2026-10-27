@@ -1,0 +1,441 @@
+# 0PdmfMX00ho
+# Source: c11_absorber
+# Quality: gold
+# Word count: 7232
+# Available sources: c11_absorber, engagement_panel
+
+[00:03] 3 seconds[Music]
+[00:23] 23 seconds[Music]
+[00:32] 32 secondsWoohoo!
+[00:35] 35 seconds[Music]
+[00:53] 53 secondsPeek!
+[01:07] 1 minute, 7 seconds[Music]
+[01:15] 1 minute, 15 secondsOh my god, it's Mario.
+[01:18] 1 minute, 18 secondsIt's Mario. You think they're going to put Mario on my PlayStation 5?
+[01:24] 1 minute, 24 secondsI'm waiting for the Mario to happen. I think Mario will eventually be on the PlayStation 5.
+[01:30] 1 minute, 30 secondsI had it in a dream. Shag Miiamoto, he went to the PlayStation and he thought about the five. I'm only seeing a lot of PlayStation fives in my dream.
+[01:42] 1 minute, 42 secondsYep. Yeah. No, no. We're good there, guys. Guys, today's a special day. I've been I've been learning a lot of things.
+[01:50] 1 minute, 50 secondsUm, I reinvented the wheel the hundth time already. I reinvented the wheel again.
+[01:57] 1 minute, 57 secondsI'm going to tell you what I did, guys.
+[02:00] 2 minutesLet me see. Is this here? Yeah, it's good. Good enough. Yes. Right. This is loading up and probably going to crash in an error because I'm trying to fix
+[02:08] 2 minutes, 8 secondssome optimizer state stuff. And checkpoint saving, checkpoint loading. I want to make them align and there's some things where I've been changing things
+[02:16] 2 minutes, 16 secondsand I don't want to have to redo a lot of sitting here bamboozle pre-chain because I want to make a robust uh saver
+[02:25] 2 minutes, 25 secondsloader system blah blah blah. This is phase three generative. I was working on phase one
+[02:31] 2 minutes, 31 secondsencoder today. I redid it a bunch. Is it that one? Oh,
+[02:39] 2 minutes, 39 secondsphase three phase. Oh. Oh, you have microphones over there if you want to talk. Oh, you're dancing.
+[02:45] 2 minutes, 45 secondsI forgot about this music. All right. Stevie Wonder. Stevie Wonder. All right.
+[02:52] 2 minutes, 52 secondsMy [__] [__] Leave me alone. I'll be there in a second.
+[02:55] 2 minutes, 55 secondsNo problem. No problem. In the in the uh reality sense of what I've been working on over here.
+[03:01] 3 minutes, 1 secondI I've been designing this. It's flashy. Watch your eyes. But uh there is there E.
+[03:11] 3 minutes, 11 secondsThat's a lot of E. It did not start as E. That's why this is pretty promising and I'm actually super happy. Um, this
+[03:18] 3 minutes, 18 secondsstarted as gibberish and now it's going to E. And if you know anything about pre-training an LLM, if I'm already at E, I'm I'm pretty fast. Um,
+[03:28] 3 minutes, 28 secondsthis is not text output. That is a diffusion box. It is text as a diffusion.
+[03:36] 3 minutes, 36 secondsBut pages it's a single character encoded array where every pixel is a single character
+[03:45] 3 minutes, 45 secondscoded guess between the the total limit of 256 like just like an image array. So I'm turning it into that and then to
+[03:53] 3 minutes, 53 secondsencode since images have physics but text does not I'm using very entropy entropy or also known as entropics
+[04:00] 4 minutesengine by xgr sampling technique to be the trainer not the sampler. So, uh, Shrek, uh, I put your magic juice inside
+[04:09] 4 minutes, 9 secondsthe machine and it pre-trains hella fast.
+[04:16] 4 minutes, 16 secondsUh, that number started at 10 maybe what
+[04:22] 4 minutes, 22 secondsthat rate an hour ago. Yeah, I started working on this late tonight. She wanted to play. Ah, damn it. That's what I was
+[04:29] 4 minutes, 29 secondslooking for. Enable numpy behavior. This is looking it's looking farther than than where I
+[04:36] 4 minutes, 36 secondswas here. Can I can I split screen the browsers? Yes, I can. I'll put that in. Let's get rid of that and close that.
+[04:45] 4 minutes, 45 secondsThere we go. Now we got a full full thing. So, yeah, PS5 today. We're going to be playing PS5 while we're trying to get pre-train
+[04:53] 4 minutes, 53 secondsgoing over here. I'm trying to get the pre-train started over here for generative image uh creation. And I already have encoding and once I encoded
+[05:01] 5 minutes, 1 secondimage space bees it was out the door. I encoded image space down to 14 megabytes. It was bees out the wait one
+[05:07] 5 minutes, 7 secondsof my new models actually 14 megabytes [__] me. No way.
+[05:20] 5 minutes, 20 secondsReally?
+[05:22] 5 minutes, 22 secondsI got I got a 64D. Okay. The latent space is no longer 128. The latent space is 96. But it's not 96. It's 64 with a
+[05:30] 5 minutes, 30 secondsfake up to 96 using what's called casted latent. And the latent space is 96. But because of how I do it, it does not down
+[05:37] 5 minutes, 37 secondssample from 64 up to 96. The 64 does know about the 96. Hidden sizes are beautiful when you layer them properly
+[05:44] 5 minutes, 44 secondsin transformer architecture and you rewrite the transformer architecture from your own ideas so that it's faster. Babushka.
+[05:53] 5 minutes, 53 secondsUh, what that means is if I turn this off I have model files
+[06:02] 6 minutes, 2 secondsthat are well that are down to there we go 8.5 megabytes.
+[06:13] 6 minutes, 13 secondsSo, not we're not at the 14. That was that was version two best old. That was that was as of 104 we were at
+[136:20] 6 minutes, 20 secondsmegabytes. And then I was I was [__] around a couple of days ago trying to cram more and it wasn't that good. And that was that was that was just
+[646:28] 6 minutes, 28 secondslatent space. This is a cast at 64 lat space to 96 with only a 1 megabyte upper array. Theoretically, I'm thinking we
+[06:35] 6 minutes, 35 secondscould do down to 32, up to 64, up to 96, up to 128, and try to get the casting lat sizes down to 16 and get these into
+[06:41] 6 minutes, 41 secondsthe kilobytes. What? Yeah, those of you watching right now, I did have that idea all the way back then. But I didn't I didn't implement it until later because
+[06:50] 6 minutes, 50 secondsif I did that would be the primary focus in implementation which is not fair to me or anyone else because I don't have compute
+[06:57] 6 minutes, 57 secondsand I'm and I'm not a network service provider ISP or person interested in uh video YouTube. I'm not a YouTube
+[07:06] 7 minutes, 6 secondsengineer. Right. Um on that note, I don't want to have her having a seizure.
+[07:12] 7 minutes, 12 secondsI want to invite her over there to be able to do whatever she need. Uh find this section convert blah to numpy.
+[07:22] 7 minutes, 22 secondsFind this section around 548 jitted train replace with jitted train.
+[07:33] 7 minutes, 33 secondsSo I need to do compi compilation complete starting training
+[07:39] 7 minutes, 39 secondsself console print compiling Jack's functions onetime cost really okay
+[07:49] 7 minutes, 49 secondsthat's fine by me I can do that okay and then we hit up start again
+[07:56] 7 minutes, 56 secondsgoodbye me and then run the PS5 now yes yes yes we have to hit filters
+[08:02] 8 minutes, 2 secondsfilters. No, wait. Uh, open source projector, new window. Then
+[08:09] 8 minutes, 9 secondswe have it over here where I can see it because I'm trying to do things.
+[08:19] 8 minutes, 19 secondsPut it in the middle.
+[08:32] 8 minutes, 32 secondsThere we go.
+[08:34] 8 minutes, 34 seconds[Music]
+[08:35] 8 minutes, 35 secondsThat's why I didn't want to use the screen snap function. Windows, why are you trying to be helpful if you're just going to undo it with your [__] No.
+[08:43] 8 minutes, 43 secondsScreen snap disabled. Screen snap disabled.
+[08:49] 8 minutes, 49 secondsNo. Stop trying to screen snap my [__] No. There you go. Oh, snappy.
+[08:56] 8 minutes, 56 secondsYeah, dude. Windows screen snappy. So helpful. My screen be snappy. Snapping. Snapping. Snappy. Snappy. Need a snappy. Slap.
+[09:05] 9 minutes, 5 secondsSlap. Slippy. The slap slap. The slap slap.
+[09:09] 9 minutes, 9 secondsLet me just make sure. We're live on Twitch. Lego. Movie the game. Yeah, looks like we're live on Twitch. Lego Movie the game. We're live on kick Lego Movie the game. Yeah, we're live on kick Lego Movie the game. Close all these other ones I don't really care about.
+[09:18] 9 minutes, 18 secondsAh. Huh? I'm as in. Oh, you're here to test. I was summoned. Yes.
+[09:26] 9 minutes, 26 secondsHi.
+[09:35] 9 minutes, 35 seconds[Music]
+[09:38] 9 minutes, 38 secondsI have my
+[09:45] 9 minutes, 45 seconds[Music]
+[09:46] 9 minutes, 46 secondsThose are three. Yeah, we the game starts here.
+[09:57] 9 minutes, 57 seconds[Music]
+[10:01] 10 minutes, 1 secondI hear it, but barely.
+[10:03] 10 minutes, 3 seconds[Music]
+[10:05] 10 minutes, 5 secondsHow loud do I need to [__] hear the
+[10:07] 10 minutes, 7 seconds[__]
+[10:10] 10 minutes, 10 secondsI hear it followed by prison. That's all good. Is that quieter?
+[10:18] 10 minutes, 18 secondsOh, yeah. I kind of I I love Animal Crossing. What do they do?
+[10:26] 10 minutes, 26 secondsFor those who know, Animal Crossing in October, every day in the shop, you'll get the fall like thingy for October
+[10:34] 10 minutes, 34 secondsthat you have to wait for the October to get. Yeah.
+[10:38] 10 minutes, 38 secondsI think the last day I actually did it was the 16th.
+[10:46] 10 minutes, 46 secondsOkay, I think so. This is We're on the 19th now. I am no longer going to try to [__] farm for these items because I'm
+[10:55] 10 minutes, 55 secondsso done. I don't care. We're almost done with the month. But if it's there, I don't know it because I haven't touched my island. Woo Island hasn't been
+[11:04] 11 minutes, 4 secondstouched in a minute. that is probably covered in weed and and everyone's sad because they haven't been there in a few days.
+[11:13] 11 minutes, 13 secondsOh no.
+[11:14] 11 minutes, 14 secondsYeah. Well, other than that, I don't care.
+[11:16] 11 minutes, 16 secondsBut I am still Are you happy on the inside?
+[11:19] 11 minutes, 19 secondsYes, because I still plan on doing a really cool thing for where one day I show your stream Woo Island, but I still
+[11:27] 11 minutes, 27 secondsgot to work on it. It It ain't done. It ain't even close. We if I were to give you a percentage, not gamewise, I'm pretty far in the
+[11:36] 11 minutes, 36 secondsgame, but for as far as my presentation for Woo Island, we are like 30% done.
+[11:43] 11 minutes, 43 seconds[Music]
+[11:45] 11 minutes, 45 seconds30% dedication though. It's It's dedication. Go to Woo Island.
+[11:50] 11 minutes, 50 secondsYou're going to have an island. You're going to show people. I'm going to show your stream one day. And you It's going to be surprise. Surprise.
+[11:59] 11 minutes, 59 secondsI just love that the AI is just like trying to output nothing but ease right now.
+[12:05] 12 minutes, 5 secondsMakes a lot of sense from the very entropy entropy patch standpoint if it's just going to see ease.
+[12:14] 12 minutes, 14 seconds[Music]
+[12:17] 12 minutes, 17 secondsYou know how that joke is wherever it's the first note of a black uh black parade and uh my romance where if you
+[12:27] 12 minutes, 27 secondsplay the everyone's like I know that song if you ever say e everyone always thinks e a sports game.
+[12:36] 12 minutes, 36 secondsIt's one of those things where if you just say E, people look around like a sports. Is there sports? Are they in the game?
+[12:45] 12 minutes, 45 secondsAre there sports in the game right now?
+[12:48] 12 minutes, 48 secondsMaybe I'm alone in that, but I've always thought that.
+[12:50] 12 minutes, 50 secondsI'm looking for the first A. I want to see an E and an A together. I want to see EA EA.
+[13:01] 13 minutes, 1 secondIt's in the game. Um, maybe I need to drink another water.
+[13:11] 13 minutes, 11 secondsI have one on the desk right behind. No, I mean like a carbonated.
+[13:17] 13 minutes, 17 secondsNo, I have a bottle right there right next to the Oh, I didn't see it. It was the Pepsi blocking it. See the illusion thing probably.
+[13:24] 13 minutes, 24 secondsYeah, it happens, man. Things be in front of things. You're just like, it doesn't exist.
+[13:29] 13 minutes, 29 secondsCalled the Batman illusion. Stand stand behind a [__] like closet and you don't exist.
+[13:35] 13 minutes, 35 secondsThey the corner digital did a whole video on it and they actually snuck around and [__]
+[13:55] 13 minutes, 55 seconds[Music]
+[14:05] 14 minutes, 5 secondsThere's an There it is. An entire bottle down the hatch.
+[14:13] 14 minutes, 13 secondsThere he goes.
+[14:31] 14 minutes, 31 secondsdance.
+[14:34] 14 minutes, 34 seconds[Music]
+[14:40] 14 minutes, 40 secondsFV.
+[14:41] 14 minutes, 41 secondsFind Huh?
+[14:59] 14 minutes, 59 secondsThis needs to be trained.
+[15:09] 15 minutes, 9 secondsOkay.
+[15:14] 15 minutes, 14 secondsAnd then what?
+[15:21] 15 minutes, 21 secondsWhat the [__] am I modifying? Am I modifying this function? The P state pass function.
+[15:30] 15 minutes, 30 secondsIt says finally and finally and finally.
+[15:33] 15 minutes, 33 secondsIt's literally like it's like jab baiting me into doing things. It's like, hey, do this and then do this and then do this and then do this and and I keep
+[15:41] 15 minutes, 41 secondsnot being able to click properly because one to the right. All right, great. Oh yeah, I need
+[15:47] 15 minutes, 47 secondswhat I was foretting
+[16:11] 16 minutes, 11 secondsthere. Does that fix it?
+[16:23] 16 minutes, 23 secondsThat magic in a world in a world where the AI Highrise Oh, could be on. Okay, this is not me
+[16:31] 16 minutes, 31 secondsreading anything. This is me head cannoning an idea.
+[16:35] 16 minutes, 35 secondsCould you see high-rise being on the [__] switch? That would be suck.
+[16:40] 16 minutes, 40 seconds[Music]
+[16:42] 16 minutes, 42 secondsI could see High-Rise being on the Switch. Hey, High-Rise, if you get on the Switch, can you can you give me at least like $20,000 so I can like pay
+[16:52] 16 minutes, 52 secondssome debts and um fix a car? Thanks.
+[17:00] 17 minutesIt's all I ask.
+[17:03] 17 minutes, 3 secondsThat's what I would do with $20,000, by the way. Help fix up your car in debt.
+[17:09] 17 minutes, 9 secondsI understand. And then the rest we'd go get a burger and be grateful for the fact that it's got $20,000.
+[17:19] 17 minutes, 19 secondsYep. I I hear you. Never really thought about it before. You haven't?
+[17:26] 17 minutes, 26 secondsNo. When people ask like all the time like we had that conversation before, but like when I actually think about it now,
+[17:33] 17 minutes, 33 secondsI never really actually thought about it. But I guess that'd be my answer.
+[17:40] 17 minutes, 40 secondsI love you that much that I'm not that greedy. Thank you. We live in a society.
+[17:48] 17 minutes, 48 secondsAll right. Oh, frown.
+[17:52] 17 minutes, 52 seconds[Music]
+[17:54] 17 minutes, 54 secondsUpset.
+[17:56] 17 minutes, 56 secondsThis is This is
+[17:59] 17 minutes, 59 seconds[Applause]
+[18:00] 18 minutesexistence.
+[18:15] 18 minutes, 15 secondsWhat? Anyway, um apparently whenever that thing pops up on screen, that gameplay recording is blocked and you wonder like why is there a random skip
+[18:24] 18 minutes, 24 secondsin the stream I'm watching and why why are they looking upset? It's because apparently every time a cutscene from
+[18:32] 18 minutes, 32 secondsthe game, it's not the movie, a cut scene from the game shows up. Warner Brothers has claimed every single cutscene in this game and has a
+[18:40] 18 minutes, 40 secondscopyright block worldwide for every cutscene in this game because I'm actually pretty sure I did a little research, but not a whole lot.
+[18:49] 18 minutes, 49 secondsThe cutscenes we see are from the movie.
+[18:52] 18 minutes, 52 secondsLike no, the the movie it is cut, copy paste movie. It really is copy paste movie.
+[19:00] 19 minutesWhy the copyright? It's just I don't remember movie. It's just I don't remember it. It's the movie.
+[19:05] 19 minutes, 5 secondsWell, apparently I cut all those out of part one. So, if you're wondering why there's random cuts, you don't get to see the movie.
+[19:10] 19 minutes, 10 secondsYou don't get to see the movie parts and I had to cut that out or else it was going to be blocked. Blocked worldwide, by the way. Not you can't monetize it.
+[19:18] 19 minutes, 18 secondsNot blocked in Russia. Not kind of blocked. No, blocked worldwide. They literally just said nope. This video has been blocked worldwide because of this.
+[19:27] 19 minutes, 27 secondsI'm like, are you [__] me? I'm not uploading a [__] movie.
+[19:30] 19 minutes, 30 secondsAnd I did look into it for real. For real. It is because it is scenes from the actual DVD on that came out in theater. Scenes from the movie.
+[19:42] 19 minutes, 42 secondsWell, whenever those come on screen, we're going to be frowning.
+[19:44] 19 minutes, 44 secondsYou are not the only streamer that has also had this complaint of I even had really good [__] to say during that
+[19:51] 19 minutes, 51 secondsmoment, but I couldn't put it on there because I got a copyright. And I think it's because it's during the same exact moment. I don't really care if I lost. It's Warner Brother.
+[20:00] 20 minutesYeah, it really is. It's It really I'm in here. It's Warner Brother,
+[20:08] 20 minutes, 8 secondswhich Warner Brother has given us some pretty good movies. They have given us some good movies.
+[20:15] 20 minutes, 15 secondsAnd now now we get what we get, which is Don't throw it.
+[20:21] 20 minutes, 21 secondsI love I love how copyright was just something that we made.
+[20:25] 20 minutes, 25 secondsCopyright doesn't even matter anymore in the way that they Oh, I drew a square. This other guy drew a square. I got to sue him. It's like a
+[20:32] 20 minutes, 32 seconds[__]
+[20:32] 20 minutes, 32 secondsYeah, that's what's going on.
+[20:33] 20 minutes, 33 secondsIt's a [__] square.
+[20:36] 20 minutes, 36 secondsWell, no, that's the thing. People are suing over ideas, not a material good.
+[20:41] 20 minutes, 41 secondsNo, no, it's also that, too. It's like, oh, I made a tree out of toilet paper.
+[20:44] 20 minutes, 44 secondsOh, I made a tree out of like metal pieces. And it's like, I'm going to sue you cuz you made a tree. Like, people just don't
+[20:55] 20 minutes, 55 secondsI we always run out of original ideas and we already are. We've constantly been digging at the bottom of a barrel.
+[21:06] 21 minutes, 6 secondsSo instead of copyrightiting everything, how about let us just do what we want so we can creatively rift off of that and
+[21:14] 21 minutes, 14 secondscome up with something new so we're not coming up with the same dog [__] What do you What do you want to come up with?
+[21:21] 21 minutes, 21 secondsI don't know. I can't tell because everything I want to do would probably be copyritten and I can't riff off of that and creatively move on from there.
+[21:30] 21 minutes, 30 secondsAnd instead, I got to wait and figure it out and take two steps back and plan out.
+[21:35] 21 minutes, 35 secondsEveryone just wants Superman. They want to make their own Superman. They want It's not Superman, it's Batman. Really?
+[21:41] 21 minutes, 41 secondsYou know, if you know damn well like more than me, you have one of two favorite superheroes. You're either a
+[21:48] 21 minutes, 48 secondsSuperman and if they don't like Superman then they like Batman and then those two people fight. I love it.
+[22:03] 22 minutes, 3 secondsOh, we're still in the Old West. Yes.
+[22:07] 22 minutes, 7 secondsAll right, we'll see what the next error that pops up within my AI is. I really wanted to We are not I'm trying to
+[22:15] 22 minutes, 15 secondsIs this Oh, dude. This game looks sick when you play it like one player, though.
+[22:24] 22 minutes, 24 secondsLook.
+[22:27] 22 minutes, 27 secondsLook at this. I can like run around and there's no [__]
+[22:35] 22 minutes, 35 secondsGood old fashioned compiling Jack's functions.
+[22:49] 22 minutes, 49 secondsAh, yes. Get all functions. There we go. Oh, the game looks exactly the same.
+[22:58] 22 minutes, 58 secondsWhat was What was I talking about? They just You know what? I think I think I was talking about the the levels. The levels do this [__] thing. The open world looks different.
+[23:08] 23 minutes, 8 secondsKeep back, folks. He's back. Do you want to share it with me?
+[23:15] 23 minutes, 15 secondsKeep away from that stallion. He'll kick in the next week. No way.
+[23:19] 23 minutes, 19 secondsI like to keep my head attached to my body.
+[23:26] 23 minutes, 26 secondsYou'd have to have less sense than a dung beetle to get near that horse. Go away. I'm going to be here a while.
+[23:34] 23 minutes, 34 secondsI'd stay back if I were you. That horse is plum loco.
+[23:38] 23 minutes, 38 secondsOup here. Hold your voice.
+[23:57] 23 minutes, 57 secondsThank you.
+[24:02] 24 minutes, 2 seconds[Music]
+[24:12] 24 minutes, 12 seconds[Music]
+[24:14] 24 minutes, 14 secondsI don't understand.
+[24:20] 24 minutes, 20 seconds[Music]
+[24:23] 24 minutes, 23 secondsShoot. That man is either the bravest or the Ilimate.
+[24:31] 24 minutes, 31 secondsNobody could be stupider than my brother. Constantly follow the green.
+[24:36] 24 minutes, 36 secondsAll right, I found one thing. I I did a thing.
+[24:51] 24 minutes, 51 secondsI bought Robo SWAT.
+[24:59] 24 minutes, 59 secondsLatent bug in the Q controller update.
+[25:07] 25 minutes, 7 secondsUm,
+[25:21] 25 minutes, 21 secondsso I need to go control F, find this line and then
+[25:34] 25 minutes, 34 secondsdo that instead.
+[25:37] 25 minutes, 37 secondsProv
+[26:00] 26 minutesis angular path param needs to be an am
+[26:08] 26 minutes, 8 seconds[Music]
+[26:12] 26 minutes, 12 secondswe need to correctly check something.
+[26:32] 26 minutes, 32 secondsUm Student train state
+[26:40] 26 minutes, 40 secondsneeds to remove the op state because there's too much going on.
+[26:47] 26 minutes, 47 secondsAll right. And five fishes and our code will run correctly.
+[26:52] 26 minutes, 52 secondsResuming a properly made checkpoint with the additions. Makes sense because I am trying to update trees.
+[27:07] 27 minutes, 7 secondsAll right, old man.
+[27:26] 27 minutes, 26 secondsSay goodbye to someone. Sheriff, not a robot.
+[27:36] 27 minutes, 36 secondsGold construction stage detector. Why would we need that?
+[27:45] 27 minutes, 45 secondsThat costs 200.
+[27:48] 27 minutes, 48 seconds[Music]
+[27:50] 27 minutes, 50 secondsI died.
+[27:57] 27 minutes, 57 secondsI don't know who this lady is, but she can jump. Go away. I'm going to be here a while. They were supposed to destroy.
+[28:05] 28 minutes, 5 secondsI don't know. I'm like I'm doing a thing up here.
+[28:14] 28 minutes, 14 secondsYou're going to need an astronaut. Hold your horses, Will. You need an astronaut.
+[28:22] 28 minutes, 22 secondsOh, I see. Hold on. [__] [__] ass.
+[28:31] 28 minutes, 31 secondsGo away. I'm going to be here a while.
+[28:34] 28 minutes, 34 secondsOh, you found more. Oh, you need me to do old man thing? I need old man. All right. All right. I'll old man you. I'll old man you. One sec.
+[28:42] 28 minutes, 42 secondsOld man. Go away. I'm going to be here a while. Go away. I'm going to be here a while.
+[28:54] 28 minutes, 54 secondsAll right. You got it done.
+[28:55] 28 minutes, 55 secondsYeah. Oh no, there's master builder parts over there, but I can't like use them until I have I got it. Boom.
+[29:06] 29 minutes, 6 secondsShe's master building right now on my game right in front of me.
+[29:11] 29 minutes, 11 secondsOh my god, dude. She is master building so hard right now. She just made my train go choo choo.
+[29:17] 29 minutes, 17 secondsDude, you master built so hard right now. My train is going choo choo. Fire. Oh god. Oh wait. Frown.
+[29:26] 29 minutes, 26 secondsOh god, I'm upset. Well done, Emit. Hey, I did it.
+[29:34] 29 minutes, 34 secondsWow, you actually did it.
+[29:38] 29 minutes, 38 seconds[Music]
+[29:45] 29 minutes, 45 secondsWe're alive. I'm no longer upset.
+[29:48] 29 minutes, 48 secondsNot out of danger yet because we don't have the [__] having to cut out all the cut scenes. It's got to like frown or something.
+[30:04] 30 minutes, 4 secondsThank you for the pizza. By the way, she's been budgeting like her little food card money she gets for her disab.
+[30:12] 30 minutes, 12 secondsShe's It's not disability, I guess, right now. It's Well, it is disability, but it's like before they give you disability, they're considering it and you got a food card instead.
+[30:21] 30 minutes, 21 secondsYeah. So like like joblessness and being unable to get a job because doctor's orders gives you a food card.
+[30:27] 30 minutes, 27 secondsAnd that is a uh I think I need to master fix.
+[30:37] 30 minutes, 37 secondsI'm master fixing. See I master fixed.
+[30:46] 30 minutes, 46 secondsNeed a master build.
+[30:47] 30 minutes, 47 secondsTrous. Oh, I know. I know. throw my right. I need to do this.
+[30:57] 30 minutes, 57 secondsOuch.
+[31:02] 31 minutes, 2 seconds[Music]
+[31:05] 31 minutes, 5 secondsWell, you did it. Did you end up building?
+[31:10] 31 minutes, 10 secondsUh, is it like a a trash lot that we made final destination?
+[31:21] 31 minutes, 21 secondsDoing that was the right thing. That feels more like the wrong, you know, people paid for whatever was on that train.
+[31:33] 31 minutes, 33 secondsWe just We're not the good guys if we destroy
+[31:40] 31 minutes, 40 secondsI'm just I'm just being real with you here. Yes.
+[31:47] 31 minutes, 47 secondsNo. Yes. Nope. Yeah. There you go. He He had to decide whether or not he was going to do it for a second.
+[31:53] 31 minutes, 53 secondsEither one of you know what to build with all these pieces.
+[31:57] 31 minutes, 57 secondsYeah. You got to be You got to build Oh yeah. Build like that. He made a bed
+[32:06] 32 minutes, 6 secondsfor us to build on. Let's build together. Bounce on this bed together all night long. Oh, why are you bounce with him?
+[32:15] 32 minutes, 15 secondsI
+[32:17] 32 minutes, 17 seconds[Music]
+[32:21] 32 minutes, 21 secondsblind man's over there stuck in the bed. The graphics seemed okay. Am I watching?
+[32:27] 32 minutes, 27 secondsDid that just the graphics kind of like glitch for a sec?
+[32:31] 32 minutes, 31 secondsThis is a PS5. It should not be glitching. Stop [__] punching me. Why? What happens when you die? Wait here. I've got this.
+[32:39] 32 minutes, 39 secondsHey, I have to wait here. You've got this. Use the crane to lower the platform.
+[32:49] 32 minutes, 49 secondsWhile you have to use the crane to lower the platform.
+[32:54] 32 minutes, 54 secondsWe need to swing the crane around. We need we need to move the crane arm. Yeah. Okay.
+[33:05] 33 minutes, 5 secondsCops.
+[33:05] 33 minutes, 5 secondsYou might have thought it's still fair, but you won't know it's incoming. Get down.
+[33:13] 33 minutes, 13 secondsBlowing up the train. Liam Niss just blew up our train.
+[33:18] 33 minutes, 18 secondsWait, now he's flying away. What the hell? He's He's being a menace.
+[33:25] 33 minutes, 25 secondsHe's not even like stopping us. He's just being a menace.
+[33:30] 33 minutes, 30 secondsTouch that. Yeah. Studs.
+[33:38] 33 minutes, 38 secondsBuild that thing.
+[33:44] 33 minutes, 44 secondsOnly characters with staff can do a staff socket. Only girls can do girl stuff.
+[33:53] 33 minutes, 53 secondsOkay.
+[33:56] 33 minutes, 56 secondsdoing girl stuff all the way over there. I got to fight that guy.
+[34:06] 34 minutes, 6 secondsI What? Yeah, I could fight these guys. You're right. I totally could.
+[34:13] 34 minutes, 13 secondsUh-huh. Yep. The game is panning over to you even though it's acting like it's panning over to me. Uh-huh. Yep. Oh, find another one of these guys. I know.
+[34:23] 34 minutes, 23 secondsI don't know what the hell you're doing cuz I can't get over there. So, I'm just over here fighting.
+[34:32] 34 minutes, 32 secondsAm I supposed to like be over here doing stuff?
+[34:34] 34 minutes, 34 secondsI think I'm going to fight these guys.
+[34:38] 34 minutes, 38 secondsHe's got a laser beam. Hit me with Dude, I can't robot.
+[34:45] 34 minutes, 45 secondsYou guys also tunes.
+[34:52] 34 minutes, 52 secondsHey, while you're doing that, I'm beating up you.
+[34:56] 34 minutes, 56 secondsThey keep coming. I think they endlessly spawn, but they're supposed to annoy me while you're supposed to do this platforming section.
+[35:04] 35 minutes, 4 secondsYeah, that I can't jump to because this is like Yep. Yep. letting me jump to it.
+[35:10] 35 minutes, 10 secondsWell, I have to keep fighting these guys.
+[35:14] 35 minutes, 14 secondsYou want to switch and you try jumping over here? Yeah. All right.
+[35:18] 35 minutes, 18 secondsHere, I'll switch to old man. You switch to man. All right. Now I'll switch to what lady. All right. Now I'm going to try to do this
+[35:26] 35 minutes, 26 seconds[__]
+[35:28] 35 minutes, 28 secondsAll right. So I'm over here on the the thingy because that's I got all the way across.
+[35:39] 35 minutes, 39 secondsGot up here.
+[35:42] 35 minutes, 42 secondsI don't know what that is, but I'm trying to hit it.
+[35:45] 35 minutes, 45 secondsAssuming I need a wheel. I need something. I need a wheel.
+[35:57] 35 minutes, 57 secondsOkay, these cops are not going to stop me. So, I'm going to just take this wheel and do it.
+[36:07] 36 minutes, 7 secondsI did that. Okay. Could I help? I don't know.
+[36:18] 36 minutes, 18 secondsover here now. Oh, sorry. I'm dead now.
+[36:29] 36 minutes, 29 secondsThese these guys are done finally, I think. Okay, now I can I can push a thing.
+[36:38] 36 minutes, 38 secondsI can push a thing. Sorry, it took took her a while to decide whether or not she could do that.
+[36:44] 36 minutes, 44 secondsMhm. This game, this game feels like it's held together with toothpicks, glue.
+[36:52] 36 minutes, 52 secondsLike usually I would say held together with Legos, but it does not feel like that.
+[36:59] 36 minutes, 59 secondsEverything is awesome.
+[37:01] 37 minutes, 1 secondEverything is awesome when you do the bare minimum.
+[37:08] 37 minutes, 8 secondsThis game is the very bare minimum. You doing anything?
+[37:16] 37 minutes, 16 secondsUh, let's go.
+[37:23] 37 minutes, 23 secondsWhoa. Watch where you step and try not to get blown up. Okay, sure. I'll do that.
+[37:30] 37 minutes, 30 secondsWo, that was close.
+[37:39] 37 minutes, 39 secondsIt's okay.
+[37:41] 37 minutes, 41 secondsYou want to want to be the girl again so you can see your pink hair and know where you are. Need instructions.
+[37:47] 37 minutes, 47 secondsNeed instructions. I got to do all this stuff. Oh well. Um I got instructions.
+[37:58] 37 minutes, 58 secondsWell, I need your go.
+[38:11] 38 minutes, 11 seconds[Music]
+[38:12] 38 minutes, 12 secondsYay.
+[38:28] 38 minutes, 28 secondsIt's all up to him. Never mind. You just have to have faith. I prefer a really wide bridge.
+[38:37] 38 minutes, 37 secondsOkay. Can you get up here? Okay. Now that you're up here, can you find it?
+[38:43] 38 minutes, 43 secondsOkay, now I can go.
+[38:48] 38 minutes, 48 secondsOkay, I'll find another way across. Yeah, I'll find another way across.
+[38:53] 38 minutes, 53 secondsGoodbye. It's me playing by myself forever now. Goodbye.
+[38:58] 38 minutes, 58 secondsSeriously though, I I I have nowhere to go, so I'm just doing this. It's a running section. Don't worry. I think I
+[39:05] 39 minutes, 5 secondsneed to do this there. Now that I built this potted plant thing, you'll be you'll be fine.
+[39:16] 39 minutes, 16 secondsYou'll be able to get across. That's how this works, right?
+[39:26] 39 minutes, 26 seconds[Music]
+[39:28] 39 minutes, 28 secondsYes. That's exactly how this works. Look, you can get across. It's fine.
+[39:32] 39 minutes, 32 secondsHurry up. They haven't finished building the track this train is on. It's going to derail. No.
+[39:39] 39 minutes, 39 secondsIt's going to fall off a cliff. Don't worry. I'm I'm doing the thing.
+[39:45] 39 minutes, 45 secondsI'm jumping over to the pink part and I'm going to start climbing on pink stuff. You jump over that.
+[39:50] 39 minutes, 50 secondsI'm going to climb on my pink. Am I go?
+[39:57] 39 minutes, 57 secondsWhat? What? Okay.
+[40:07] 40 minutes, 7 secondsWhat did this prove? The thing over here?
+[40:12] 40 minutes, 12 secondsYeah, that's an EMTT thing. Oh, I I kick a ladder.
+[40:20] 40 minutes, 20 secondsAre your toast after you? No. I saw you jump the ladder and then a cut scene of dying.
+[40:27] 40 minutes, 27 seconds[Music]
+[40:29] 40 minutes, 29 secondsQuickly jump on the ladder. Oops.
+[40:31] 40 minutes, 31 secondsKnow who's moving.
+[40:43] 40 minutes, 43 secondsAnd now I'm magically appearing. Okay.
+[40:57] 40 minutes, 57 secondsquestion.
+[40:59] 40 minutes, 59 secondsIf check, if
+[41:16] 41 minutes, 16 secondspoint loading in train method, not train step, train method.
+[41:31] 41 minutes, 31 secondsSelf checkpoint if path exists. End of the line.
+[41:41] 41 minutes, 41 secondsHe's going to run us over. Then we'd better stop him.
+[41:54] 41 minutes, 54 secondsEverybody off.
+[42:05] 42 minutes, 5 secondsOh no. What the heck? Rest in pieces.
+[42:13] 42 minutes, 13 secondsOh no. Wait. No. No. No.
+[42:22] 42 minutes, 22 secondsWhat the? Relax everybody. I'm here. Batman. What's up, babe?
+[42:29] 42 minutes, 29 secondsBabe, what?
+[42:30] 42 minutes, 30 secondsOh, sorry. Batman, this is EMTT. EMTT, this is my boyfriend, Batman. I'm Batman.
+[42:39] 42 minutes, 39 seconds[Music]
+[42:43] 42 minutes, 43 secondsI didn't know that Batman was her boyfriend. Batman's her boyfriend.
+[42:50] 42 minutes, 50 secondsEmma has a wheel head.
+[42:53] 42 minutes, 53 seconds[Music]
+[42:54] 42 minutes, 54 secondsAnd the mummy. Batman.
+[42:57] 42 minutes, 57 seconds[Music]
+[43:00] 43 minutesHank stacks. I'm hungry. Me, too.
+[43:08] 43 minutes, 8 secondsJust started playing a game. We'll do a beer B later. Yeah. For food.
+[43:15] 43 minutes, 15 secondsYeah. food now. Okay, we can do that.
+[43:24] 43 minutes, 24 secondsThe AI is doing ease.
+[43:30] 43 minutes, 30 secondsOh, the boss is going up and down cuz it's realizing it can't do all ease and starting to get upset.
+[43:37] 43 minutes, 37 secondsContinue. So, Batman is the boyfriend of the girl.
+[43:44] 43 minutes, 44 secondsI mean, that makes sense because it's like a child's brain, right? Batman.
+[43:52] 43 minutes, 52 secondsAt least Batman is [__] awesome.
+[44:02] 44 minutes, 2 secondsBatman grab
+[44:15] 44 minutes, 15 secondsOh, I didn't click that. I clicked circle. I clicked circle.
+[44:22] 44 minutes, 22 seconds[Music]
+[44:26] 44 minutes, 26 secondsI really did though.
+[44:28] 44 minutes, 28 secondsThese mechanical birds get pisses me off. Trivia, which way to cloud cuckoo land?
+[44:35] 44 minutes, 35 secondsHead for the big bright thing in the sky. Sorry.
+[44:42] 44 minutes, 42 secondsThat was good. This game I'm going to give it a three out of 10.
+[44:48] 44 minutes, 48 secondsYou can tell it was made it was made to sell video game.
+[44:57] 44 minutes, 57 secondsAll right. I I mean honestly the game we need to follow green Legos.
+[45:03] 45 minutes, 3 secondsGreen Legos. I follow green Legos on the ground. I follow green Legos.
+[45:17] 45 minutes, 17 secondsFollow the green Legos with Batman. I bet you I'm going to get ready to go. I am the Batman.
+[45:24] 45 minutes, 24 secondsFollow green Legos. I do Batman things. I am the Batman.
+[45:31] 45 minutes, 31 secondsI am the Batman and I do Batman things.
+[45:38] 45 minutes, 38 secondsThere's a rainbow over here. Think he needed the cat for this.
+[45:47] 45 minutes, 47 seconds[Music]
+[45:48] 45 minutes, 48 secondsOkay. Cloud cuckoo land.
+[45:52] 45 minutes, 52 secondsOh, wait. We got to stop cuz the cut scene. So cute.
+[45:58] 45 minutes, 58 secondsUh, is this cloud cuckoo land? I don't see any clouds or cuckoo. No, no, this is middle Zealand.
+[46:09] 46 minutes, 9 secondsOnce we arrive at Cloud Cuckoo Land, we'll raise an army of master builders.
+[46:12] 46 minutes, 12 secondsYeah. Anyway, you guys got to check out these new subwoofers I installed in the back. I called them the dogs. Listen to them bark.
+[46:19] 46 minutes, 19 secondsCan you turn that down a little bit? This is a song I wrote for Wild Style. It's about how I'm an orphan.
+[46:29] 46 minutes, 29 secondsThis is real music, Emtt. Batman's a true artist. Dark, brooding.
+[46:34] 46 minutes, 34 secondsI'm dark and brooding, too. Guys, look a rainbow. Also, you're going to drive up the curved part, take it all the way to
+[46:41] 46 minutes, 41 secondsthe top, and park the car.
+[46:45] 46 minutes, 45 seconds[Music]
+[46:48] 46 minutes, 48 secondsI like how I did it.
+[46:53] 46 minutes, 53 secondsThe way in is under that rainbow in the distance. More rainbows.
+[47:03] 47 minutes, 3 secondsOh, Batman. And I'm going to figure gun kite. Get grappled.
+[47:10] 47 minutes, 10 secondsHey babe, can you pull down that cloud? Sure, babe. I need to pull down a cloud. Where?
+[47:19] 47 minutes, 19 secondsSorry, I'm not bouncy enough. I'm I'm only Batman. I can pull down anything.
+[47:30] 47 minutes, 30 secondsI don't know, man. I'm trying trying to figure it out. It's asking like unicorn kitty on the rainbow thing.
+[47:36] 47 minutes, 36 secondsUnicorn kitty. I don't have unicorn kitty. I remember angry cat.
+[47:40] 47 minutes, 40 secondsYou have to be in free play world to angry cat. Cat.
+[47:46] 47 minutes, 46 secondsYou unlock her in a little bit. Probably resuming for checkpoint text show. I'm looking I'm looking for the Batman area.
+[47:55] 47 minutes, 55 secondsYou know it's a grapple hook. Where you is the target you or is it the old man?
+[48:06] 48 minutes, 6 secondson Batman.
+[48:08] 48 minutes, 8 secondsI'm not trying to be rude about it. I mean like there's you're supposed to stand and then a circle hovers above his head.
+[48:22] 48 minutes, 22 secondsI guess I could use my grapple hook to something like that. Batarang maybe.
+[48:34] 48 minutes, 34 secondsI'll look over here. Hey, the old man's thing to hit these. Oh. Oh. Oh.
+[48:42] 48 minutes, 42 secondsI was trying to show you. Hey.
+[48:44] 48 minutes, 44 secondsOh, I these things don't make sense cuz I can't target the ones up here.
+[48:49] 48 minutes, 49 secondsMaybe I'm supposed to pull these clouds down. There you go.
+[49:00] 49 minutesNow I can finally grapple hook.
+[49:03] 49 minutes, 3 secondsNow I can pull the cloud down. They Thanks, babe.
+[49:06] 49 minutes, 6 secondsSo, she said it before you actually did the thing that would let me do it. This game is jank as [__] dude.
+[49:14] 49 minutes, 14 secondsI hope when I play a game like Psychonauts 2, it's not this [__] jank. I'm hoping Psychonauts 2 will be fun.
+[49:21] 49 minutes, 21 secondsI miss the the destroy here.
+[49:24] 49 minutes, 24 secondsNice work making that cloud float down by standing on it. Thanks, babe. All right, I get it. He's your boy.
+[49:30] 49 minutes, 30 seconds[Music]
+[49:32] 49 minutes, 32 secondsThat's I always wondered where Watch this. Bam. Bam. Bam. Bam. End up first by my batang.
+[49:41] 49 minutes, 41 secondsBam. I'm Batman. Oh, we got to do that, too.
+[49:58] 49 minutes, 58 secondsI hate clouds.
+[50:01] 50 minutes, 1 secondWhich is why I'm going to destroy them with my Sepharoth gun.
+[50:12] 50 minutes, 12 secondsNeed a master builder.
+[50:14] 50 minutes, 14 secondsA hot air balloon.
+[50:16] 50 minutes, 16 secondsJust imagine flying through the sky in one of those. You're standing on a cloud, doofus. Oh, right.
+[50:31] 50 minutes, 31 secondsUh, shouldn't that sail be pointing? You know, the other boat. Leave it to me.
+[50:40] 50 minutes, 40 secondsWait, I think I need to hit it with my battery.
+[50:43] 50 minutes, 43 secondsWhoa, you [__] interception. I saw that. We turned a cloud into a boat.
+[50:53] 50 minutes, 53 secondsWow. So, we were on a boat. I'm on a boat.
+[50:58] 50 minutes, 58 secondsThe AI is telling me to do stuff, but I'm hoping if I like get ahead of you and I start doing stuff early that when I stop doing stuff, it's like I helped.
+[51:06] 51 minutes, 6 secondsBam. Bam. Bam. Bam. Look at me. I'm Batmaning over here. I'm eating up so much stuff.
+[51:11] 51 minutes, 11 seconds[Music]
+[51:16] 51 minutes, 16 secondsThere's no way up there. Maybe we could build a giant kite and fly up there. Or one of us could build some stairs. You
+[51:23] 51 minutes, 23 secondsknow, like sane people. I guess that could work, too. I built a snowman.
+[51:42] 51 minutes, 42 secondsBatman beat up EMTT. Doing up there, girly girl.
+[51:52] 51 minutes, 52 secondsSo, this level has like a couple of background things to do, but not much.
+[52:04] 52 minutes, 4 secondsI see you build a snowman, huh? You built three snowmen.
+[52:12] 52 minutes, 12 secondsHe grunts like every time. modify is angular to check for something
+[52:25] 52 minutes, 25 secondsthis and wrap gradient also. So is angular
+[52:33] 52 minutes, 33 secondsparam and wrap gradient return key need to be
+[52:49] 52 minutes, 49 secondsAll right.
+[52:50] 52 minutes, 50 seconds[Music]
+[52:53] 52 minutes, 53 secondsBecause we had a mismatch type error.

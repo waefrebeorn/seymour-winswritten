@@ -1,0 +1,5 @@
+# Seymour Ponderables - Clipart Vision Batch (daily at 2 AM)
+0 2 * * * /home/wubu/seymour-project/run_pipelines.py --clipart 20 >> /home/wubu/seymour-project/clipart_batch.log 2>&1
+
+# Seymour Ponderables - Whisper Health Check (every 30 min)
+*/30 * * * * /home/wubu/seymour-project/run_pipelines.py --whisper >> /home/wubu/seymour-project/whisper_health.log 2>&1

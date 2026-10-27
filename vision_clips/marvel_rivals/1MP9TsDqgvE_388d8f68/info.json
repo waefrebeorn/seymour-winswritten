@@ -1,0 +1,28 @@
+{
+  "video_id": "1MP9TsDqgvE",
+  "clip_id": "388d8f68",
+  "keyword": "Marvel",
+  "start_s": 1654.3,
+  "end_s": 1661.3,
+  "duration_s": 7.0,
+  "frame_times": [
+    0,
+    2.3,
+    4.6,
+    6.5
+  ],
+  "frames": [
+    "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_00_1654s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_01_1656s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_02_1658s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_03_1660s.webp"
+  ],
+  "frame_count": 4,
+  "vision_resolution": [
+    896,
+    896
+  ],
+  "frame_format": "webp",
+  "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68",
+  "status": "complete"
+}

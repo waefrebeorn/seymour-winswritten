@@ -1,0 +1,71 @@
+{
+  "policy": "PD/CC0/OFL-only. Commercial CD-ROM rips are BANNED (purged 2026-07-06).",
+  "sources": [
+    {
+      "name": "Openclipart",
+      "license": "CC0",
+      "type": "clipart",
+      "format": "SVG",
+      "url": "https://openclipart.org/",
+      "api": "https://openclipart.org/search/json/?query={q}&amount={n}",
+      "commercial": true
+    },
+    {
+      "name": "PDImageArchive",
+      "license": "Public Domain",
+      "type": "textures_images",
+      "url": "https://pdimagearchive.org/",
+      "commercial": true
+    },
+    {
+      "name": "NYPL Digital Collections",
+      "license": "Public Domain",
+      "type": "textures_images",
+      "url": "https://www.nypl.org/research/resources/public-domain-collections",
+      "commercial": true
+    },
+    {
+      "name": "Google Fonts",
+      "license": "SIL OFL",
+      "type": "fonts",
+      "url": "https://fonts.google.com/",
+      "commercial": true
+    },
+    {
+      "name": "Fontlibrary (OFL)",
+      "license": "SIL OFL",
+      "type": "fonts",
+      "url": "https://fontlibrary.org/",
+      "commercial": true
+    },
+    {
+      "name": "User First-Person History",
+      "license": "Author Copyright (own)",
+      "type": "content",
+      "url": "local: assets/firstperson/moments/",
+      "commercial": true
+    }
+  ],
+  "banned_sources": [
+    "ClickArt 200,000",
+    "Web Clipart 1",
+    "115,000 Clip Art Images",
+    "Corel WordPerfect 6.1 ClipArt",
+    "Power Photos 20: Paper Textures",
+    "Textures & Backgrounds (1995)",
+    "Uncle John's Bathroom Reader (content)"
+  ],
+  "categorization_taxonomy": [
+    "penny_motif",
+    "versa_commute",
+    "cuda_bytropix",
+    "gaming_history",
+    "internet_moments",
+    "meme_facts",
+    "90s_aesthetic",
+    "hatchet_paulsen",
+    "supercapacitor",
+    "borders_frames",
+    "backgrounds_textures"
+  ]
+}

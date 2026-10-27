@@ -1,0 +1,13 @@
+═══ TIMESTAMP INDEX SUMMARY ═══
+Generated: 2026-07-02 07:22
+
+GPU Whisper timestamped videos: 28 (8608 segments)
+C11 legacy videos:            94 (50818 segments)
+────────────────────────────────────
+Total indexed videos:         122
+Total segments:               59426
+Total words:                  938094
+
+Video duration range: 44s – 5160min
+
+Videos with chunked GPU whisper (long streams): 4

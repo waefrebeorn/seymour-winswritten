@@ -1,0 +1,338 @@
+# UyPMaKcKapo
+# Source: engagement_panel
+# Quality: good
+# Word count: 5250
+# Available sources: engagement_panel
+
+[00:06] 6 secondswhat we doing we don't need to do that right now we got to get into a speedrunning territory we getting into this so I've got some
+[00:15] 15 seconds[ __ ] all right man I got some crazy [ __ ] the crazy [ __ ] going on is someone on [ __ ] Wordle is easy as [ __ ] to
+[00:23] 23 secondsmake and I'm a [ __ ] awesome ass coder I make it in 15 [ __ ] minutes and then the someone else posted their agentic
+[00:30] 30 secondsworkflow talking like repet oh AI it took me 2 hours to make Wordle and I'm like 2 hours that's way way way too
+[00:39] 39 seconds[ __ ] long so I've made a challenge for myself I'm going to go over to x.com here because I was uh doing some awesome
+[00:47] 47 seconds[ __ ] posting so switching over here we've got the speedrun Zone set up uh the reply guy Nation I want to shout out
+[00:56] 56 secondsthe reply guy Nation right here they've got the startup millionaire himself he's going with the reply guys he doesn't
+[01:03] 1 minute, 3 secondsknow all of the history going on but you know he doesn't have to care he's uh some uh Cuban guy so we were streaming
+[01:13] 1 minute, 13 secondsand I said after we finish Amanda 2 which we just finished go check out that stream I was doing a code gen stream showing a code gen a workflow to make
+[01:22] 1 minute, 22 secondsWordle the goal is close to as 15 minutes as possible not counting research or our world works so 15-minute code application when the first code
+[01:30] 1 minute, 30 secondsoutputs I will start the timer it's pretty simple first code outputs I start the timer actually let me move that timer
+[01:38] 1 minute, 38 secondsall the way over here so it's really easy to get to this guy said two hours to implement worldle seems pretty bad this guy
+[01:47] 1 minute, 47 secondsreplied to him and he said I made it for my kid was annoyed as a daily thing 15 minutes no
+[01:54] 1 minute, 54 secondsllms wanted to show him when he's frustrated he should build guy's obviously skilled I'm not skilled have zero coding
+[02:02] 2 minutes, 2 secondsexpertise oh yeah you can hear me yeah I have zero coding expertise um and I I really I'm going to take a research period while we play some music where
+[02:11] 2 minutes, 11 secondswe're going to look up what Wordle is because I don't play it and I'm going to learn what whle is the criteria of a worldle game and I'm going to form my prompt I'm not going to count that as AI
+[02:20] 2 minutes, 20 secondsCod genen because I figure a conversation before you start your project is similar to just [ __ ] talking and smoking the breeze so let's get this
+[02:27] 2 minutes, 27 secondsgoing and let's try to get this uh moving I guess and for that we need some
+[02:34] 2 minutes, 34 secondsmusic and for that I made my own years ago all right so let's start uh with
+[02:41] 2 minutes, 41 secondsgrock since uh you are an expert in word
+[02:47] 2 minutes, 47 secondsgames and primary games I am having you
+[02:53] 2 minutes, 53 secondssummarize a game for me in incredulous uh d detail so I can make a
+[03:03] 3 minutes, 3 secondsproject guide for edu uh project guide for having a clone
+[03:14] 3 minutes, 14 secondsproject made and then let's go to
+[03:23] 3 minutes, 23 secondsWikipedia uh right uh with this let's type in or
+[03:32] 3 minutes, 32 secondsyeah I've already given you money uh let me go back to
+[03:39] 3 minutes, 39 secondsgrock Let's choose a smarter model because we want something that gives us a pretty good
+[03:52] 3 minutes, 52 secondsversatile I want to have the gaming aspects and rules of this game explained and
+[04:00] 4 minutesMass detail VAR BOS and let's hit submit thank you
+[04:11] 4 minutes, 11 secondsGro all right there we go now let's go to here go to chat GPT
+[04:17] 4 minutes, 17 seconds40 I want to make this in uh pip
+[04:26] 4 minutes, 26 secondsarcade in Python and and then let's copy paste that and then we'll take
+[04:33] 4 minutes, 33 secondsthat and we'll taste that into Sonet as well pasing that into Sonet will get
+[04:45] 4 minutes, 45 secondsuh give me a second it's uh it's pooping out code and because I'm streaming it'll take longer because the internet's
+[04:57] 4 minutes, 57 secondsslower if you notice it has has even been 15 minutes of streaming yet we've only been streaming for 5 minutes oh you know what the timer needs
+[05:06] 5 minutes, 6 secondsto start actually so uh start that timer because and add a minute to to [ __ ] me up can I
+[05:15] 5 minutes, 15 secondsincrement no you can't you can't add time you can only subtract time whatever all right so we're going to take this we're going to copy it and I'm
+[05:24] 5 minutes, 24 secondsbe like uh I had an idea to
+[05:30] 5 minutes, 30 secondsI want to uh make it as good as possible now to save myself time on
+[05:39] 5 minutes, 39 secondsrepository suppository um I'm actually going to go to one of my existing GitHub projects that I made and the reason I make these
+[05:47] 5 minutes, 47 secondsis because they help me and I'm going to actually go to my
+[05:55] 5 minutes, 55 secondsprofile and I'm going to go to blo because blco is a project that that already has everything I need ready to go so I'm going to go download the zip
+[06:03] 6 minutes, 3 secondsand by by what I need I have a run a setup a requirements a read and an executable to make a VNV that's just stuff I don't want to have to type it's
+[06:12] 6 minutes, 12 secondsnot um stuff that it needs to make it's just stuff to run a main uh Pi file that I'm creating very quickly and I already have a a project here so we're going to
+[06:20] 6 minutes, 20 secondsgo into um C projects here and bl I don't think block goes here yeah so because I
+[06:28] 6 minutes, 28 secondswas working on Egyptian G on this computer which totally old all right now let's go to uh setup
+[06:37] 6 minutes, 37 secondsand that'll get the environment set up so I don't have to work on that and then we'll just go to
+[06:45] 6 minutes, 45 secondsblco and open with py notepad all right now we're going to
+[06:54] 6 minutes, 54 secondsdelete that and have a main pile ready to go let's close these we got some dummy for my old project but they have nothing to do with this
+[07:04] 7 minutes, 4 secondsum the dude the requirements are going to take the longest amount of
+[07:19] 7 minutes, 19 secondstime more polished version that includes the features that I
+[07:26] 7 minutes, 26 secondswant 7 minutes I always do a basic output in a couple
+[07:35] 7 minutes, 35 secondsturn throughs before I start debugging because it's way faster
+[08:05] 8 minutes, 5 secondsMing stats
+[08:18] 8 minutes, 18 secondsapparently all right copy that I've made
+[08:25] 8 minutes, 25 secondsuh improvements here let's come up with
+[08:35] 8 minutes, 35 secondsbetter uh word list that loads from a
+[08:54] 8 minutes, 54 secondstxt github's word list wow there's a resource right there
+[09:09] 9 minutes, 9 secondsno no that's going to take forever all right well apparently we
+[09:17] 9 minutes, 17 secondshave a demo already here so let's see what the demo is and then for the instruction we're going to go to definition
+[09:25] 9 minutes, 25 secondsLo yeah
+[09:51] 9 minutes, 51 secondsah here it is and it did exist it was acting like it didn't hate when that happens there we go all right let's try
+[09:59] 9 minutes, 59 secondsthe demo no module named
+[10:05] 10 minutes, 5 secondsarcade wheels for pillow
+[10:15] 10 minutes, 15 secondshello arcade numpy all right I got you let's go
+[10:26] 10 minutes, 26 secondsto woooo wallpaper and let's copy this and let's open VNV
+[10:33] 10 minutes, 33 seconds[ __ ] it I'll just do it fast
+[10:43] 10 minutes, 43 secondspip don't know what the [ __ ] you got going
+[10:57] 10 minutes, 57 secondson we at 11 minutes by the way and most of the work was already done I'm just installing
+[11:05] 11 minutes, 5 secondsdependencies I don't know what takes people two [ __ ] hours with AI to make [ __ ] all right my stream's at 11 minutes
+[11:14] 11 minutes, 14 secondsby the way 6 minutes on the timer and I'm still I'm still installing [ __ ] I'm not I'm not even
+[11:56] 11 minutes, 56 secondswhat why do you need pillow I already have Pillow
+[12:25] 12 minutes, 25 secondswhat syres the Ws with a SP I don't want to
+[12:44] 12 minutes, 44 secondscall dude pet must be going crazy cuz that's not even what setting up your game environment
+[12:57] 12 minutes, 57 secondsyeah what have nothing to drink up here we have water where there's like two cases of it
+[13:29] 13 minutes, 29 secondsthan
+[14:10] 14 minutes, 10 secondsdiar my legs feel
+[14:55] 14 minutes, 55 secondsokay that's funny because arcade worked last time and it's like
+[15:05] 15 minutes, 5 secondseasy hello
+[15:25] 15 minutes, 25 seconds930 what the [ __ ] happened to Arcade in the last week
+[16:21] 16 minutes, 21 secondswhat the [ __ ] is is is happened to Arcade this isn't this isn't an AI problem this this is literally a
+[16:29] 16 minutes, 29 secondsdependency that I just used to use stopped working because because
+[16:40] 16 minutes, 40 secondsbecause wow one sec I might have a solution for
+[16:53] 16 minutes, 53 secondsthis here
+[17:07] 17 minutes, 7 secondsdata it's it's building why is it
+[17:18] 17 minutes, 18 secondsbuilding 3.
+[1217:31] 17 minutes, 31 secondsthat it does all right all
+[17:51] 17 minutes, 51 secondsright
+[1118:01] 18 minutes, 1 secondall right I got you me a bat that setups a
+[18:13] 18 minutes, 13 secondsVNV and uses python 3.10 C
+[18:29] 18 minutes, 29 secondsnice song
+[18:59] 18 minutes, 59 seconds[Music]
+[19:06] 19 minutes, 6 secondsall right well let's go back to the
+[19:25] 19 minutes, 25 secondssetup all right and it checks python on
+[20:17] 20 minutes, 17 secondsno way is that all I had to
+[20:26] 20 minutes, 26 secondsdo cool
+[20:34] 20 minutes, 34 secondsuh update this B to set 3.
+[1020:48] 20 minutes, 48 secondsEnV oh what the [ __ ] I don't
+[21:02] 21 minutes, 2 secondswhy are you trying to compile pillow
+[21:05] 21 minutes, 5 seconds[Music]
+[21:08] 21 minutes, 8 secondsdude wait a minute
+[21:18] 21 minutes, 18 seconds[Music]
+[21:25] 21 minutes, 25 secondsuh oh no [ __ ]
+[21:32] 21 minutes, 32 seconds[Music]
+[21:42] 21 minutes, 42 seconds[Music]
+[21:54] 21 minutes, 54 secondsall right
+[21:58] 21 minutes, 58 seconds[Music]
+[22:23] 22 minutes, 23 secondsI'm not trying to use Python 3.2 you know what
+[22:28] 22 minutes, 28 seconds[ __ ] it I will uninstall python 312 and I will not edit my system
+[22:38] 22 minutes, 38 secondspath this is not at all having to do with any yeah there's one two one two one
+[22:51] 22 minutes, 51 seconds[Music]
+[22:54] 22 minutes, 54 secondstwo I have so many versions of python installed and it's still acting like it's got to use
+[23:05] 23 minutes, 5 seconds[Music]
+[23:14] 23 minutes, 14 secondsthis so I spent approximately one minute coding and the rest of my time figuring out why the [ __ ] pillow won't install
+[23:23] 23 minutes, 23 secondsbecause because arcade requires a specific inversion of pillow and its requirements on web pool and if you try to install it manually without using pip
+[23:32] 23 minutes, 32 secondsit's broken but it didn't do that 2 weeks ago when I was building blco so that means someone went in and broke it within the last two
+[23:40] 23 minutes, 40 secondsweeks wasn't me why is this taking so long dude can
+[23:48] 23 minutes, 48 secondsyou close that I you close this
+[24:06] 24 minutes, 6 secondswe don't have python 32 installed anymore wish you luck wish you luck bullshitting me
+[24:23] 24 minutes, 23 secondsnow yeah yeah no it was literally I just had to uninstall the newest version of python because it doesn't support new version
+[24:30] 24 minutes, 30 secondsof python look oh look pillow this none of that had to do with yeah death is a [ __ ] Ringo none of that none of that
+[24:38] 24 minutes, 38 secondsof my 18 minutes of dealing with this had to do with to actually run the game let me try running the game
+[24:55] 24 minutes, 55 seconds[Music]
+[25:13] 25 minutes, 13 secondsH all right let's go
+[25:22] 25 minutes, 22 secondsback felet words.txt save
+[25:41] 25 minutes, 41 seconds[Music]
+[26:07] 26 minutes, 7 secondsm
+[26:33] 26 minutes, 33 secondsall right there's a list of five words let try that
+[26:44] 26 minutes, 44 secondsagain all right cool we got a functional demo that isn't doing the thing yet but now we can switch to stage two as I was
+[26:52] 26 minutes, 52 secondssaying stage two is where you take the file that you have and you describe the problem that you have and now that we have the
+[26:58] 26 minutes, 58 secondsproblem we're going to they're going to paste into
+[27:27] 27 minutes, 27 secondsboth e
+[28:09] 28 minutes, 9 secondson
+[28:31] 28 minutes, 31 secondsokay we'll see what that does Define update stats so [ __ ]
+[28:40] 28 minutes, 40 secondsit Define updating stats all right self St
+[28:49] 28 minutes, 49 secondsoh uh self stats Max streak self stats Max streak
+[36028:58] 28 minutes, 58 secondsfix the indent
+[29:08] 29 minutes, 8 secondsokay these classes better organization list part Focus butons constraints the organization R animation syst
+[29:14] 29 minutes, 14 secondsannotations equality okay cool now this and we go new conversation on
+[29:24] 29 minutes, 24 secondsthis let me go and then for this one we'll actually
+[29:31] 29 minutes, 31 secondsgive it a prompt um when I play the game I can type
+[29:38] 29 minutes, 38 secondsletters but it doesn't do anything once I type five
+[29:46] 29 minutes, 46 secondsletters why is it misspelling type because I because I'm I'm sausage figuring the keyboard it doesn't do anything once I
+[29:54] 29 minutes, 54 secondstype five letters it just sort of s it's
+[29:59] 29 minutes, 59 secondsthere also the other issue is
+[30:12] 30 minutes, 12 secondsthat yeah actually that's sort of
+[30:21] 30 minutes, 21 secondsit complete code
+[30:36] 30 minutes, 36 secondsoh I have to press enter
+[30:44] 30 minutes, 44 secondsokay
+[30:56] 30 minutes, 56 secondsokay e
+[31:35] 31 minutes, 35 secondsoh okay
+[31:44] 31 minutes, 44 seconds[Music]
+[32:16] 32 minutes, 16 secondssee indeed dead took it off
+[32:28] 32 minutes, 28 secondswould have vanished I guess off my desk
+[32:43] 32 minutes, 43 secondscool will you make me lose control
+[33:04] 33 minutes, 4 secondsthis is the fun part where you just tell 01 mini to Output the entire Pi file now and then it just does it I don't
+[33:13] 33 minutes, 13 secondsknow why people act like it doesn't but certainly here's the whole file
+[33:34] 33 minutes, 34 secondswe go and we go back to the
+[33:43] 33 minutes, 43 secondsgame today's word is
+[33:52] 33 minutes, 52 secondsboast oh I think I just made wle in less than 30 minutes
+[34:07] 34 minutes, 7 secondsokay let's do it
+[34:12] 34 minutes, 12 seconds[Music]
+[34:23] 34 minutes, 23 secondsagain all right cool we have three things to identify that we are already know all I got to do
+[34:33] 34 minutes, 33 secondsis paste that in go to okay that didn't save do it
+[34:53] 34 minutes, 53 secondsagain a few things it all always
+[35:00] 35 minutespicks post so needs to
+[35:05] 35 minutes, 5 secondsrandom then the um word did not
+[35:12] 35 minutes, 12 secondsvalidate her letter and light
+[35:24] 35 minutes, 24 secondsup and then we go back to the word of logic like
+[36:08] 36 minutes, 8 secondsoh wait the word Works wait this version already Works never mind well it doesn't work in the word validation we got to
+[36:15] 36 minutes, 15 secondsfix that but the reason it's boast is because that's a date it's a date integer it's picking a daily word it it implemented the daily word
+[36:26] 36 minutes, 26 secondslimit
+[36:56] 36 minutes, 56 secondsfor e
+[37:26] 37 minutes, 26 seconds[Music]
+[37:32] 37 minutes, 32 secondsoh it worked all right there's a [ __ ] dark mode with
+[37:41] 37 minutes, 41 secondsthe D
+[37:54] 37 minutes, 54 secondsbutton all right bing bing
+[38:23] 38 minutes, 23 secondsbong okay that didn't work I did that wrong
+[38:32] 38 minutes, 32 secondsno yes yeah
+[39:25] 39 minutes, 25 secondshe you remember
+[39:56] 39 minutes, 56 secondsfor e
+[40:39] 40 minutes, 39 secondsI found the battery I had the batteries right here that's what that's what's [ __ ] me
+[40:45] 40 minutes, 45 secondslike batter's here it's just
+[40:55] 40 minutes, 55 secondsthe like I have that stupid theme song from the [ __ ] game stuck in my
+[41:23] 41 minutes, 23 secondshead bet that just works
+[41:36] 41 minutes, 36 secondsall right that's what's up
+[42:16] 42 minutes, 16 secondson this side yeah I'm just going to go to the store and just go buy more that's always a solution more
+[42:24] 42 minutes, 24 secondsconsumerism right can't findy something replace it with another one that you buy for the same exact
+[42:44] 42 minutes, 44 secondsprice found it it was right there where you searched I it no you cleaned it up I
+[42:51] 42 minutes, 51 secondsmade me find it
+[43:15] 43 minutes, 15 secondsso much you want to clean is so much
+[43:43] 43 minutes, 43 secondsthat's
+[44:06] 44 minutes, 6 secondsoh you want to move it I'm still going for it
+[44:42] 44 minutes, 42 secondsokay so now is's what we do we go to here we go to four because they gave us a partial uh we do that and
+[44:51] 44 minutes, 51 secondsthen copy this whole thing here
+[45:10] 45 minutes, 10 secondsplease fix it all and make it better and then we go to 01 and we say
+[45:21] 45 minutes, 21 secondsthe magic words say the magic words output the output the entire pie file
+[45:30] 45 minutes, 30 secondsnow out put the entire P file now
+[45:47] 45 minutes, 47 secondsplease your 's about to fix all the problems make it better 01 Daddy
+[45:57] 45 minutes, 57 secondswhat's up you're all back you fixed it and I'm just going to put a local
+[46:07] 46 minutes, 7 secondsokay we'll just put that right back
+[46:18] 46 minutes, 18 secondsin jio I get some
+[46:25] 46 minutes, 25 secondsYouTube right
+[46:50] 46 minutes, 50 secondswhoa not your thing uh the game ah
+[46:58] 46 minutes, 58 secondsokay bam I don't really like using my
+[147:07] 47 minutes, 7 secondsminis up like this but I'm getting sick and tired of waiting for this time and I'm just going to go to bed anyway I don't got any work to do I did my stream
+[47:43] 47 minutes, 43 secondsah cool
+[48:04] 48 minutes, 4 secondsfor
+[48:20] 48 minutes, 20 seconds[Music]
+[48:29] 48 minutes, 29 seconds[Music]
+[48:54] 48 minutes, 54 secondsand then once the game has a basic demo you refresh the rules and just give it as an instruction I bet you it'll just
+[49:08] 49 minutes, 8 secondswork yeah I put the I put the note in it I know do you remember what it is oh yeah put it
+[49:20] 49 minutes, 20 secondsback I think that's worth that's so worth keeping in the safe that's the that's the turning your ashes into a butt plug
+[49:29] 49 minutes, 29 secondsagreement hell yeah I need to start a new conversation with 01 it's getting laggy that tells me
+[49:37] 49 minutes, 37 secondsit's chugging through my
+[49:44] 49 minutes, 44 secondstokens uh p i j i d
+[50:12] 50 minutes, 12 secondsso let's go back and take this in oh no take this in we'll paste it
+[50:36] 50 minutes, 36 secondsokay the game logic is not right stop it I'm trying to
+[50:47] 50 minutes, 47 secondspaste all right then you paste that we'll put that there and then we'll let
+[50:53] 50 minutes, 53 secondsit start its thing
+[51:07] 51 minutes, 7 secondsthere we
+[51:21] 51 minutes, 21 secondsgo yes yes feedback calculation hard mode
+[51:31] 51 minutes, 31 secondsimplementation yes yeah I make I do my homework yes well I [ __ ] post and listen to Minecraft
+[51:39] 51 minutes, 39 secondsmusic yes oh yeah I get to put this on GitHub right because I remade whle honey I get
+[51:46] 51 minutes, 46 secondsto put my own wle clone on GitHub ain't that wonderful
+[52:07] 52 minutes, 7 secondsoutput the entire P file
+[52:14] 52 minutes, 14 secondsnow 47 minutes and 6 seconds disappointing
+[52:30] 52 minutes, 30 seconds[ __ ] proud of y'all I think I just got hard mode fixed
+[52:37] 52 minutes, 37 secondsand uh validation might be fixed and restarting game might be fixed so yeah that looks like it I think in 47 minutes
+[52:45] 52 minutes, 45 secondsI have a complete functional World clone so I'm just going to type Pam
+[52:58] 52 minutes, 58 seconds[Music]
+[53:07] 53 minutes, 7 secondslet's just try a good old fashion yelling at it fix the game logic
+[54:11] 54 minutes, 11 secondsman that's an idiot right there an idiot and a half 01 is stupid I gotta
+[54:22] 54 minutes, 22 secondssay put back the four for
+[55:15] 55 minutes, 15 secondswhat you doing yeah thank you
+[55:46] 55 minutes, 46 secondsI'm going to put that
+[56:07] 56 minutes, 7 secondsoh the [ __ ] hamburger put hamburger back in his I hate the hamburger
+[56:25] 56 minutes, 25 secondscondoms e
+[57:23] 57 minutes, 23 secondsgot Burger you got the burger
+[57:46] 57 minutes, 46 secondscome in man it's hot in these ones now
+[58:03] 58 minutes, 3 secondsI'm still not on at an hour by the way 20 minutes of my hour was spent [ __ ] debugging one thing that wasn't my debug
+[58:12] 58 minutes, 12 secondsit was an installation error where I had a newer version of python installed so nothing worked so I had to
+[58:21] 58 minutes, 21 secondsdowngrade I'm upgrading room
+[58:29] 58 minutes, 29 seconds[Music]
+[58:36] 58 minutes, 36 secondsPebbles I do beautiful things out of your mouth
+[58:50] 58 minutes, 50 secondsyeah oh the word is irony
+[58:58] 58 minutes, 58 seconds[Music]
+[59:30] 59 minutes, 30 secondsAmanda the adventure one W you the love the kitten don't you help my
+[59:51] 59 minutes, 51 secondsKitt organic green t in a green box you guys drank it
+[01:00] :021 hour, 2 secondsbefore yeah my
+[01:00] :241 hour, 24 secondsgosh for
+[01:01] :251 hour, 1 minute, 25 secondsoh yeah me me too actually you want to open the windows yeah I'll get this one I'll get the other one I think it's cuz we're at the time
+[01:01] :451 hour, 1 minute, 45 secondsthing yeah my dead just have the heater room
+[01:01] :581 hour, 1 minute, 58 secondson my hands
+[01:02] :071 hour, 2 minutes, 7 seconds[Music]
+[01:02] :381 hour, 2 minutes, 38 secondsyou're amazing m
+[01:03] :071 hour, 3 minutes, 7 secondsyes okay probably ah
+[01:03] :551 hour, 3 minutes, 55 secondsyou
+[01:04] :531 hour, 4 minutes, 53 secondsI'm going to paste a JavaScript tutorial for
+[01:05] :451 hour, 5 minutes, 45 secondsI already had it functional I just want to see what happens when I put Java in it like the a list of a Java project of someone who cloned
+[01:05] :541 hour, 5 minutes, 54 secondswhle e
+[01:06] :501 hour, 6 minutes, 50 secondsoh we just need to go to on Mouse press okay
+[01:07] :161 hour, 7 minutes, 16 seconds462 and
+[01:07] :541 hour, 7 minutes, 54 secondsfor
+[01:08] :241 hour, 8 minutes, 24 secondsfor for
+[01:09] :171 hour, 9 minutes, 17 secondsyeah and it's one we have i' I've been
+[01:09] :401 hour, 9 minutes, 40 secondsum
+[01:10] :391 hour, 10 minutes, 39 secondsH yeah
+[01:11] :241 hour, 11 minutes, 24 secondsoh okay calulate feedback
+[01:11] :351 hour, 11 minutes, 35 secondshuh where's calculate feedback a here it is
+[01:11] :441 hour, 11 minutes, 44 seconds369 seems a lot
+[01:11] :541 hour, 11 minutes, 54 secondssimpler for
+[01:13] :061 hour, 13 minutes, 6 secondsokay love that I'm just getting tired of this
+[01:13] :171 hour, 13 minutes, 17 secondshonestly it's the four hours of stream in that [ __ ] Amanda game
+[01:13] :441 hour, 13 minutes, 44 secondsI mean I did the basic word logic and I did the graphic but the the big issue is that I'm really [ __ ] burked out on
+[01:13] :531 hour, 13 minutes, 53 secondsthat goddamn Amanda game I swear to God I all my stupid brain
+[01:14] :001 hour, 14 minutespower I want to solve those [ __ ]
+[01:14] :111 hour, 14 minutes, 11 secondspuzzles I'm was going to try a last ditch thing I would normally do
+[01:14] :391 hour, 14 minutes, 39 secondsthere you go just me being
+[01:14] :521 hour, 14 minutes, 52 secondsangry I'm [ __ ] Minecraft don't you know I'm placing
+[01:14] :591 hour, 14 minutes, 59 secondsblocks and [ __ ] in [ __ ] Minecraft oh my
+[01:15] :081 hour, 15 minutes, 8 secondsGod is that Fring
+[01:15] :151 hour, 15 minutes, 15 secondsPig I can't
+[01:15] :221 hour, 15 minutes, 22 secondsdown my diamond me strong
+[01:15] :301 hour, 15 minutes, 30 seconds[Laughter]
+[01:15] :341 hour, 15 minutes, 34 secondsMinecraft I can't
+[01:15] :531 hour, 15 minutes, 53 secondsman oh
+[01:15] :561 hour, 15 minutes, 56 seconds[Music]
+[01:16] :021 hour, 16 minutes, 2 secondsI'm still surprised 20 minutes of this was fixing someone else's problem anytime you make something oh
+[01:16] :101 hour, 16 minutes, 10 secondsyeah the wrong version of python I have two new oh yeah no more swab well we might
+[01:16] :181 hour, 16 minutes, 18 secondsdo like one winner one you're like no makes
+[01:16] :281 hour, 16 minutes, 28 secondssense light I think I just made
+[01:16] :461 hour, 16 minutes, 46 secondsWordle all right hey wait wait wait pause the timer pause the timer we did it
+[01:16] :561 hour, 16 minutes, 56 secondshow do I stop it is that
+[01:17] :031 hour, 17 minutes, 3 secondsit okay whatever I think that's it all right at 1 hour 11 minutes and 44 seconds and most of the problem was
+[01:17] :111 hour, 17 minutes, 11 secondsfixed by me just dropping it in and saying I don't need a valid guest list just check a GU solution cuz I realized why the [ __ ] was it doing a guest list
+[01:17] :191 hour, 17 minutes, 19 secondsit just hallucinated needing to do a guest list I don't know but uh as of as of
+[01:17] :281 hour, 17 minutes, 28 secondsuh yeah all right uh yep dance
+[01:17] :411 hour, 17 minutes, 41 seconds[Music]
+[01:17] :451 hour, 17 minutes, 45 secondsdance yeah I get that I need something a little more not selected dance again uh
+[01:18] :011 hour, 18 minutes, 1 seconda yep I validated every use case a Wordle yes this program is finished and 20 minutes of that was fixing a python
+[01:18] :101 hour, 18 minutes, 10 secondsdependency so it really took me
+[401:18] :121 hour, 18 minutes, 12 seconds[ __ ]
+[01:18] :131 hour, 18 minutes, 13 secondsminutes I'm this is a victory victory
+[01:18] :231 hour, 18 minutes, 23 secondsSC yeah but I'm not actually going to play the whole thing I just want to play
+[01:18] :321 hour, 18 minutes, 32 secondsthat I did
+[01:18] :431 hour, 18 minutes, 43 secondsit this [ __ ] just built wle using Ai and you don't and you don't know I gotta go I got to go Glo on
+[01:18] :521 hour, 18 minutes, 52 secondsTwitter I gotta go glow on Twitter
+[01:18] :571 hour, 18 minutes, 57 seconds[Music]
+[01:19] :081 hour, 19 minutes, 8 seconds[Music]
+[01:19] :241 hour, 19 minutes, 24 seconds[Music]
+[01:19] :501 hour, 19 minutes, 50 seconds[Music]
+[01:20] :051 hour, 20 minutes, 5 seconds[Music]
+[01:20] :131 hour, 20 minutes, 13 seconds[Music]
+[01:20] :221 hour, 20 minutes, 22 secondshow does this look
+[01:20] :231 hour, 20 minutes, 23 seconds[Music]
+[01:20] :261 hour, 20 minutes, 26 secondsamazing and guess what we have worldle and I made my Victory P right
+[01:20] :361 hour, 20 minutes, 36 secondsnow really wind
+[01:20] :431 hour, 20 minutes, 43 seconds[Music]
+[01:20] :511 hour, 20 minutes, 51 seconds[Music]
+[01:21] :321 hour, 21 minutes, 32 secondsoh yeah we done yeah I don't I don't need that we're done like I I finished the stream goodbye follow me on Twitter
+[01:21] :411 hour, 21 minutes, 41 secondsand uh uh go [ __ ] go [ __ ] yourself hey wait wait I got a video for this got a video for
+[01:21] :491 hour, 21 minutes, 49 secondsthis I got a video for this
+[01:21] :591 hour, 21 minutes, 59 secondsgo [ __ ] yourself go [ __ ] yourself go
+[01:22] :021 hour, 22 minutes, 2 seconds[ __ ] yourself go [ __ ] yourself go [ __ ]
+[01:22] :051 hour, 22 minutes, 5 secondsyourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ]
+[01:22] :121 hour, 22 minutes, 12 secondsyourself go [ __ ]
+[01:22] :221 hour, 22 minutes, 22 secondsyourself that's out pretty much yeah one more go [ __ ] yourself go [ __ ]
+[01:22] :331 hour, 22 minutes, 33 secondsyourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ] yourself go [ __ ]
+[01:22] :401 hour, 22 minutes, 40 secondsyourself go [ __ ] yourself go [ __ ] yourself don't [ __ ] yourself go [ __ ] yourself
+[01:23] :021 hour, 23 minutes, 2 secondsdon't [ __ ] go [ __ ] yourself go [ __ ] go
+[01:23] :061 hour, 23 minutes, 6 seconds[ __ ] go [ __ ] go [ __ ] go [ __ ]Sync to video time

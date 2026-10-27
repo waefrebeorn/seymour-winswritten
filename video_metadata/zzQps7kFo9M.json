@@ -1,0 +1,417 @@
+{
+  "id": "zzQps7kFo9M",
+  "title": "WuBu - Poppy Playtime 5 (Part 2)",
+  "formats": [
+    {
+      "format_id": "18",
+      "ext": "mp4",
+      "resolution": "640x360",
+      "fps": 30,
+      "vcodec": "avc1.42001E",
+      "acodec": "mp4a.40.2",
+      "filesize": 911545349,
+      "tbr": 457.928,
+      "protocol": "https",
+      "url": "https://rr3---sn-vgqsknd7.googlevideo.com/videoplayback?expire=1783269618&ei=kjRKavD-DfiFmdgPq7a0kQI..."
+    }
+  ],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/3.jpg",
+      "preference": -37,
+      "id": "0"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/3.webp",
+      "preference": -36,
+      "id": "1"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/2.jpg",
+      "preference": -35,
+      "id": "2"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/2.webp",
+      "preference": -34,
+      "id": "3"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/1.jpg",
+      "preference": -33,
+      "id": "4"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/1.webp",
+      "preference": -32,
+      "id": "5"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/mq3.jpg",
+      "preference": -31,
+      "id": "6"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/mq3.webp",
+      "preference": -30,
+      "id": "7"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/mq2.jpg",
+      "preference": -29,
+      "id": "8"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/mq2.webp",
+      "preference": -28,
+      "id": "9"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/mq1.jpg",
+      "preference": -27,
+      "id": "10"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/mq1.webp",
+      "preference": -26,
+      "id": "11"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hq3.jpg",
+      "preference": -25,
+      "id": "12"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/hq3.webp",
+      "preference": -24,
+      "id": "13"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hq2.jpg",
+      "preference": -23,
+      "id": "14"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/hq2.webp",
+      "preference": -22,
+      "id": "15"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hq1.jpg",
+      "preference": -21,
+      "id": "16"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/hq1.webp",
+      "preference": -20,
+      "id": "17"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/sd3.jpg",
+      "preference": -19,
+      "id": "18"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/sd3.webp",
+      "preference": -18,
+      "id": "19"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/sd2.jpg",
+      "preference": -17,
+      "id": "20"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/sd2.webp",
+      "preference": -16,
+      "id": "21"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/sd1.jpg",
+      "preference": -15,
+      "id": "22"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/sd1.webp",
+      "preference": -14,
+      "id": "23"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/default.jpg",
+      "preference": -13,
+      "id": "24"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARhyIEgoPTAP&rs=AOn4CLD4_xmXukALj-LSM3pvGX4w7KBlcw",
+      "height": 90,
+      "width": 120,
+      "preference": -13,
+      "id": "25",
+      "resolution": "120x90"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/default.webp",
+      "preference": -12,
+      "id": "26"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/mqdefault.jpg",
+      "preference": -11,
+      "id": "27"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSCg9MA8=&rs=AOn4CLDoNVZjiRdO-2BVsEQAcaAZX46qew",
+      "height": 180,
+      "width": 320,
+      "preference": -11,
+      "id": "28",
+      "resolution": "320x180"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/mqdefault.webp",
+      "preference": -10,
+      "id": "29"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/0.jpg",
+      "preference": -9,
+      "id": "30"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/0.webp",
+      "preference": -8,
+      "id": "31"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg",
+      "preference": -7,
+      "id": "32"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEgoPTAP&rs=AOn4CLAe-4Ue1z2bDpc7RWvxndkZaIyS4g",
+      "height": 94,
+      "width": 168,
+      "preference": -7,
+      "id": "33",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEgoPTAP&rs=AOn4CLBbfrrn4LUJAv32C5qV43AufQcUHA",
+      "height": 110,
+      "width": 196,
+      "preference": -7,
+      "id": "34",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBIKD0wDw==&rs=AOn4CLDzQjdaPaajDFcvj1tt1gYeAekSaA",
+      "height": 138,
+      "width": 246,
+      "preference": -7,
+      "id": "35",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBIKD0wDw==&rs=AOn4CLCXC5PnZI97QmeKETLhp_8Ar0bciw",
+      "height": 188,
+      "width": 336,
+      "preference": -7,
+      "id": "36",
+      "resolution": "336x188"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSCg9MA8=&rs=AOn4CLC0riP2RQ1cxlb2vWCTPElmqVSvAQ",
+      "height": 360,
+      "width": 480,
+      "preference": -7,
+      "id": "37",
+      "resolution": "480x360"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/hqdefault.webp",
+      "preference": -6,
+      "id": "38"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/sddefault.jpg",
+      "preference": -5,
+      "id": "39"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSCg9MA8=&rs=AOn4CLC3QzQwgi5XIutUsWUjbzD4lLVYTw",
+      "height": 480,
+      "width": 640,
+      "preference": -5,
+      "id": "40",
+      "resolution": "640x480"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/sddefault.webp",
+      "preference": -4,
+      "id": "41"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/hq720.jpg",
+      "preference": -3,
+      "id": "42"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/hq720.webp",
+      "preference": -2,
+      "id": "43"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSCg9MA8=&rs=AOn4CLBuzkPiYO3p9lo2D7ptj0J0_l5OUA",
+      "preference": -1,
+      "id": "44"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zzQps7kFo9M/maxresdefault.jpg",
+      "height": 1080,
+      "width": 1920,
+      "preference": -1,
+      "id": "45",
+      "resolution": "1920x1080"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/zzQps7kFo9M/maxresdefault.webp",
+      "preference": 0,
+      "id": "46"
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/zzQps7kFo9M/maxresdefault.jpg",
+  "description": "\u200b @WaefreBeorn  is streaming live on Youtube for you and on all platforms! check out all the WuBu!",
+  "channel_id": "UC_n_kZL8RZP7_jZ1Ow9gHBw",
+  "duration": 15925,
+  "view_count": 78,
+  "age_limit": 0,
+  "webpage_url": "https://www.youtube.com/watch?v=zzQps7kFo9M",
+  "categories": [
+    "Gaming"
+  ],
+  "tags": [],
+  "live_status": "was_live",
+  "automatic_captions": {
+    "en-orig": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=json3",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv1",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv1",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv2",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv2",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv3",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv3",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "ttml",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=ttml",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srt",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srt",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "vtt",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=vtt",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      }
+    ],
+    "en": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=json3",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv1",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv1",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv2",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv2",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv3",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srv3",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "ttml",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=ttml",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srt",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=srt",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "vtt",
+        "url": "https://www.youtube.com/api/timedtext?v=zzQps7kFo9M&ei=kjRKavD-DfiFmdgPq7a0kQI&caps=asr&opi=112496729&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273218&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=8AA295E197DB3D5AC1887816B09469713043233D.DDC786506B8822996B02C584576B34480A668DC2&key=yt8&kind=asr&lang=en&fmt=vtt",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      }
+    ]
+  },
+  "subtitles": {
+    "live_chat": [
+      {
+        "url": "https://www.youtube.com/watch?v=zzQps7kFo9M&bpctr=9999999999&has_verified=1",
+        "video_id": "zzQps7kFo9M",
+        "ext": "json",
+        "protocol": "youtube_live_chat_replay"
+      }
+    ]
+  },
+  "comment_count": null,
+  "chapters": null,
+  "heatmap": null,
+  "like_count": 4,
+  "uploader": "WaefreBeorn Uncut: Full WuBu Streams",
+  "uploader_id": "@WuBuStreams",
+  "upload_date": "20260304",
+  "duration_string": "4:25:25",
+  "is_live": false
+}

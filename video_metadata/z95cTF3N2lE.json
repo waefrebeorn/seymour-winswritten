@@ -1,0 +1,417 @@
+{
+  "id": "z95cTF3N2lE",
+  "title": "I take a chjp and I EAT IT!: The Wastelander's Story",
+  "formats": [
+    {
+      "format_id": "18",
+      "ext": "mp4",
+      "resolution": "640x360",
+      "fps": 30,
+      "vcodec": "avc1.42001E",
+      "acodec": "mp4a.40.2",
+      "filesize": null,
+      "tbr": 587.664,
+      "protocol": "https",
+      "url": "https://rr5---sn-vgqskn6k.googlevideo.com/videoplayback?expire=1783269614&ei=jjRKapj6Gsagir4P8fDpmA4..."
+    }
+  ],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/3.jpg",
+      "preference": -37,
+      "id": "0"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/3.webp",
+      "preference": -36,
+      "id": "1"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/2.jpg",
+      "preference": -35,
+      "id": "2"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/2.webp",
+      "preference": -34,
+      "id": "3"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/1.jpg",
+      "preference": -33,
+      "id": "4"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/1.webp",
+      "preference": -32,
+      "id": "5"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/mq3.jpg",
+      "preference": -31,
+      "id": "6"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/mq3.webp",
+      "preference": -30,
+      "id": "7"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/mq2.jpg",
+      "preference": -29,
+      "id": "8"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/mq2.webp",
+      "preference": -28,
+      "id": "9"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/mq1.jpg",
+      "preference": -27,
+      "id": "10"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/mq1.webp",
+      "preference": -26,
+      "id": "11"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hq3.jpg",
+      "preference": -25,
+      "id": "12"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/hq3.webp",
+      "preference": -24,
+      "id": "13"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hq2.jpg",
+      "preference": -23,
+      "id": "14"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/hq2.webp",
+      "preference": -22,
+      "id": "15"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hq1.jpg",
+      "preference": -21,
+      "id": "16"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/hq1.webp",
+      "preference": -20,
+      "id": "17"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/sd3.jpg",
+      "preference": -19,
+      "id": "18"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/sd3.webp",
+      "preference": -18,
+      "id": "19"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/sd2.jpg",
+      "preference": -17,
+      "id": "20"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/sd2.webp",
+      "preference": -16,
+      "id": "21"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/sd1.jpg",
+      "preference": -15,
+      "id": "22"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/sd1.webp",
+      "preference": -14,
+      "id": "23"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/default.jpg",
+      "preference": -13,
+      "id": "24"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARhYIGUoMzAP&rs=AOn4CLBwgF5u1dq2TnjiyP3n9ltg434cgQ",
+      "height": 90,
+      "width": 120,
+      "preference": -13,
+      "id": "25",
+      "resolution": "120x90"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/default.webp",
+      "preference": -12,
+      "id": "26"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/mqdefault.jpg",
+      "preference": -11,
+      "id": "27"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggZSgzMA8=&rs=AOn4CLATZcwA9iyBTUbW6dOm2uA8Ji1j5g",
+      "height": 180,
+      "width": 320,
+      "preference": -11,
+      "id": "28",
+      "resolution": "320x180"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/mqdefault.webp",
+      "preference": -10,
+      "id": "29"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/0.jpg",
+      "preference": -9,
+      "id": "30"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/0.webp",
+      "preference": -8,
+      "id": "31"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg",
+      "preference": -7,
+      "id": "32"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhYIGUoMzAP&rs=AOn4CLDQNQx4fzpygVhIJxQYVi5mxmBb4w",
+      "height": 94,
+      "width": 168,
+      "preference": -7,
+      "id": "33",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhYIGUoMzAP&rs=AOn4CLBpI-GmIBEy02rodqaEsniFA8OnkA",
+      "height": 110,
+      "width": 196,
+      "preference": -7,
+      "id": "34",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWCBlKDMwDw==&rs=AOn4CLAnVrXx1eF20UrAjK2eWOEZZVw9xg",
+      "height": 138,
+      "width": 246,
+      "preference": -7,
+      "id": "35",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWCBlKDMwDw==&rs=AOn4CLDyGvEevuOejbk-0UP4AKUhhBKQ8w",
+      "height": 188,
+      "width": 336,
+      "preference": -7,
+      "id": "36",
+      "resolution": "336x188"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggZSgzMA8=&rs=AOn4CLDHcgiy3rURTIY34lDn5EHhFK5fmQ",
+      "height": 360,
+      "width": 480,
+      "preference": -7,
+      "id": "37",
+      "resolution": "480x360"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/hqdefault.webp",
+      "preference": -6,
+      "id": "38"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/sddefault.jpg",
+      "preference": -5,
+      "id": "39"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggZSgzMA8=&rs=AOn4CLCBMBNP9bH6tYigcl3DJd6bYA-Gtw",
+      "height": 480,
+      "width": 640,
+      "preference": -5,
+      "id": "40",
+      "resolution": "640x480"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/sddefault.webp",
+      "preference": -4,
+      "id": "41"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/hq720.jpg",
+      "preference": -3,
+      "id": "42"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/hq720.webp",
+      "preference": -2,
+      "id": "43"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggZSgzMA8=&rs=AOn4CLBkl6OPOYtnIqahO-A1avoKQKz5ng",
+      "preference": -1,
+      "id": "44"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/z95cTF3N2lE/maxresdefault.jpg",
+      "height": 1080,
+      "width": 1920,
+      "preference": -1,
+      "id": "45",
+      "resolution": "1920x1080"
+    },
+    {
+      "url": "https://i.ytimg.com/vi_webp/z95cTF3N2lE/maxresdefault.webp",
+      "preference": 0,
+      "id": "46"
+    }
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/z95cTF3N2lE/maxresdefault.jpg",
+  "description": "Powered by Restream https://restream.io\n\nPlaying Wasted: A Post Apocalyptic Pub Crawler\r\nmerch available now on the channel store\r\nhttps://www.youtube.com/@WaefreBeorn/store",
+  "channel_id": "UC_n_kZL8RZP7_jZ1Ow9gHBw",
+  "duration": 25196,
+  "view_count": 5,
+  "age_limit": 0,
+  "webpage_url": "https://www.youtube.com/watch?v=z95cTF3N2lE",
+  "categories": [
+    "Gaming"
+  ],
+  "tags": [],
+  "live_status": "was_live",
+  "automatic_captions": {
+    "en-orig": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=json3",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv1",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv1",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv2",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv2",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv3",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv3",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "ttml",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=ttml",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srt",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srt",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "vtt",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=vtt",
+        "name": "English (Original)",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      }
+    ],
+    "en": [
+      {
+        "ext": "json3",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=json3",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv1",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv1",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv2",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv2",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srv3",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srv3",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "ttml",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=ttml",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "srt",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=srt",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      },
+      {
+        "ext": "vtt",
+        "url": "https://www.youtube.com/api/timedtext?v=z95cTF3N2lE&ei=jjRKapj6Gsagir4P8fDpmA4&caps=asr&opi=112496729&xoaf=4&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1783273214&sparams=ip%2Cipbits%2Cexpire%2Cv%2Cei%2Ccaps%2Copi%2Cxoaf&signature=1E4FE029FA10778081DFE088F49F5219AFBECE9C.7E70E5DBCC38BF539FB0A383B4F5EC229D3F6BD2&key=yt8&kind=asr&lang=en&fmt=vtt",
+        "name": "English",
+        "impersonate": true,
+        "__yt_dlp_client": "android_vr"
+      }
+    ]
+  },
+  "subtitles": {
+    "live_chat": [
+      {
+        "url": "https://www.youtube.com/watch?v=z95cTF3N2lE&bpctr=9999999999&has_verified=1",
+        "video_id": "z95cTF3N2lE",
+        "ext": "json",
+        "protocol": "youtube_live_chat_replay"
+      }
+    ]
+  },
+  "comment_count": null,
+  "chapters": null,
+  "heatmap": null,
+  "like_count": null,
+  "uploader": "WaefreBeorn Uncut: Full WuBu Streams",
+  "uploader_id": "@WuBuStreams",
+  "upload_date": "20230701",
+  "duration_string": "6:59:56",
+  "is_live": false
+}

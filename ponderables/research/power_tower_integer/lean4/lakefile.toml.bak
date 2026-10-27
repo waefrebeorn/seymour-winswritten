@@ -1,0 +1,18 @@
+name = "power_tower_proof"
+version = "0.1.0"
+packagesDir = ".lake/packages"
+
+[dependencies]
+mathlib = { path = ".lake/packages/mathlib" }
+
+[[lean_lib]]
+name = "PowerTowerProof"
+srcDir = "src"
+
+[[lean_exe]]
+name = "power_tower_check"
+srcDir = "src"
+root = "Main"
+
+[default_target]
+name = "power_tower_check"

@@ -1,0 +1,3366 @@
+[
+  {
+    "video_id": "-ejqY9BmvKs",
+    "clip_id": "ab317246",
+    "keyword": "Marvel",
+    "start_s": 925.1,
+    "end_s": 933.1,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_ab317246/frame_00_925s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_ab317246/frame_01_927s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_ab317246/frame_02_930s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_ab317246/frame_03_932s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_ab317246",
+    "status": "complete"
+  },
+  {
+    "video_id": "-ejqY9BmvKs",
+    "clip_id": "6a807546",
+    "keyword": "Marvel",
+    "start_s": 940.1,
+    "end_s": 949.1,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_6a807546/frame_00_940s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_6a807546/frame_01_943s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_6a807546/frame_02_946s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_6a807546/frame_03_948s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-ejqY9BmvKs_6a807546",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "a1f59412",
+    "keyword": "Marvel",
+    "start_s": 23.2,
+    "end_s": 53.2,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_a1f59412/frame_00_23s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_a1f59412/frame_01_33s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_a1f59412/frame_02_43s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_a1f59412/frame_03_52s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_a1f59412",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "c123a8ba",
+    "keyword": "Marvel",
+    "start_s": 757.1,
+    "end_s": 766.1,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_c123a8ba/frame_00_757s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_c123a8ba/frame_01_760s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_c123a8ba/frame_02_763s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_c123a8ba/frame_03_765s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_c123a8ba",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "482d0bfd",
+    "keyword": "Marvel",
+    "start_s": 2799.5,
+    "end_s": 2809.5,
+    "duration_s": 10.0,
+    "frame_times": [
+      0,
+      3.3,
+      6.6,
+      9.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_482d0bfd/frame_00_2799s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_482d0bfd/frame_01_2802s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_482d0bfd/frame_02_2806s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_482d0bfd/frame_03_2808s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_482d0bfd",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "4365884c",
+    "keyword": "Marvel",
+    "start_s": 3192.5,
+    "end_s": 3200.5,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4365884c/frame_00_3192s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4365884c/frame_01_3195s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4365884c/frame_02_3197s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4365884c/frame_03_3200s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4365884c",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "39d74439",
+    "keyword": "Marvel",
+    "start_s": 4113,
+    "end_s": 4121,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_39d74439/frame_00_4113s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_39d74439/frame_01_4115s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_39d74439/frame_02_4118s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_39d74439/frame_03_4120s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_39d74439",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "42bdba7c",
+    "keyword": "Marvel",
+    "start_s": 4121,
+    "end_s": 4129,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_42bdba7c/frame_00_4121s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_42bdba7c/frame_01_4123s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_42bdba7c/frame_02_4126s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_42bdba7c/frame_03_4128s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_42bdba7c",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "54da871d",
+    "keyword": "Marvel",
+    "start_s": 4129,
+    "end_s": 4138,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_54da871d/frame_00_4129s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_54da871d/frame_01_4131s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_54da871d/frame_02_4134s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_54da871d/frame_03_4137s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_54da871d",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "0fc0a735",
+    "keyword": "Marvel",
+    "start_s": 4138,
+    "end_s": 4145,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_0fc0a735/frame_00_4138s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_0fc0a735/frame_01_4140s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_0fc0a735/frame_02_4142s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_0fc0a735/frame_03_4144s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_0fc0a735",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "68577cbd",
+    "keyword": "Marvel",
+    "start_s": 7860,
+    "end_s": 7867,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_68577cbd/frame_00_7860s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_68577cbd/frame_01_7862s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_68577cbd/frame_02_7864s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_68577cbd/frame_03_7866s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_68577cbd",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "4cff09ad",
+    "keyword": "Marvel",
+    "start_s": 7867,
+    "end_s": 7875,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4cff09ad/frame_00_7867s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4cff09ad/frame_01_7869s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4cff09ad/frame_02_7872s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4cff09ad/frame_03_7874s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_4cff09ad",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "f1f41ac7",
+    "keyword": "Marvel",
+    "start_s": 10999,
+    "end_s": 11015,
+    "duration_s": 16,
+    "frame_times": [
+      0,
+      5.3,
+      10.6,
+      15.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_f1f41ac7/frame_00_10999s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_f1f41ac7/frame_01_11004s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_f1f41ac7/frame_02_11009s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_f1f41ac7/frame_03_11014s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_f1f41ac7",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "1551aaea",
+    "keyword": "Marvel",
+    "start_s": 11015,
+    "end_s": 11024,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_1551aaea/frame_00_11015s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_1551aaea/frame_01_11017s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_1551aaea/frame_02_11020s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_1551aaea/frame_03_11023s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_1551aaea",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "7c097f4b",
+    "keyword": "Marvel",
+    "start_s": 11639,
+    "end_s": 11647,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_7c097f4b/frame_00_11639s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_7c097f4b/frame_01_11641s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_7c097f4b/frame_02_11644s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_7c097f4b/frame_03_11646s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_7c097f4b",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "67378795",
+    "keyword": "Marvel",
+    "start_s": 11679,
+    "end_s": 11688,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_67378795/frame_00_11679s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_67378795/frame_01_11681s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_67378795/frame_02_11684s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_67378795/frame_03_11687s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_67378795",
+    "status": "complete"
+  },
+  {
+    "video_id": "-oWdyhoJMmg",
+    "clip_id": "eac9afff",
+    "keyword": "Marvel",
+    "start_s": 11713,
+    "end_s": 11721,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_eac9afff/frame_00_11713s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_eac9afff/frame_01_11715s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_eac9afff/frame_02_11718s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_eac9afff/frame_03_11720s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/-oWdyhoJMmg_eac9afff",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "7beddafb",
+    "keyword": "Marvel",
+    "start_s": 5704,
+    "end_s": 5712,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_7beddafb/frame_00_5704s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_7beddafb/frame_01_5706s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_7beddafb/frame_02_5709s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_7beddafb/frame_03_5711s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_7beddafb",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "511a9472",
+    "keyword": "Marvel",
+    "start_s": 5734,
+    "end_s": 5744,
+    "duration_s": 10,
+    "frame_times": [
+      0,
+      3.3,
+      6.6,
+      9.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_511a9472/frame_00_5734s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_511a9472/frame_01_5737s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_511a9472/frame_02_5740s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_511a9472/frame_03_5743s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_511a9472",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "c98837f4",
+    "keyword": "Marvel",
+    "start_s": 7004,
+    "end_s": 7018,
+    "duration_s": 14,
+    "frame_times": [
+      0,
+      4.6,
+      9.2,
+      13.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_c98837f4/frame_00_7004s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_c98837f4/frame_01_7008s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_c98837f4/frame_02_7013s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_c98837f4/frame_03_7017s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_c98837f4",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "ee58e5ae",
+    "keyword": "Marvel",
+    "start_s": 7025,
+    "end_s": 7034,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_ee58e5ae/frame_00_7025s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_ee58e5ae/frame_01_7027s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_ee58e5ae/frame_02_7030s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_ee58e5ae/frame_03_7033s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_ee58e5ae",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "49e3978e",
+    "keyword": "Marvel",
+    "start_s": 7044,
+    "end_s": 7050,
+    "duration_s": 6,
+    "frame_times": [
+      0,
+      2.0,
+      4.0,
+      5.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_49e3978e/frame_00_7044s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_49e3978e/frame_01_7045s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_49e3978e/frame_02_7047s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_49e3978e/frame_03_7049s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_49e3978e",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "45c6143a",
+    "keyword": "Marvel",
+    "start_s": 7050,
+    "end_s": 7059,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_45c6143a/frame_00_7050s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_45c6143a/frame_01_7052s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_45c6143a/frame_02_7055s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_45c6143a/frame_03_7058s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_45c6143a",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "d95aa753",
+    "keyword": "Marvel",
+    "start_s": 7182,
+    "end_s": 7194,
+    "duration_s": 12,
+    "frame_times": [
+      0,
+      4.0,
+      7.9,
+      11.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_d95aa753/frame_00_7182s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_d95aa753/frame_01_7185s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_d95aa753/frame_02_7189s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_d95aa753/frame_03_7193s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_d95aa753",
+    "status": "complete"
+  },
+  {
+    "video_id": "08srZuIqJm8",
+    "clip_id": "72d0a5e4",
+    "keyword": "Marvel",
+    "start_s": 7271,
+    "end_s": 7278,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_72d0a5e4/frame_00_7271s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_72d0a5e4/frame_01_7273s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_72d0a5e4/frame_02_7275s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_72d0a5e4/frame_03_7277s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/08srZuIqJm8_72d0a5e4",
+    "status": "complete"
+  },
+  {
+    "video_id": "0LsLdaY0ieg",
+    "clip_id": "7a42a51e",
+    "keyword": "Marvel",
+    "start_s": 51.5,
+    "end_s": 81.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_7a42a51e/frame_00_51s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_7a42a51e/frame_01_61s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_7a42a51e/frame_02_71s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_7a42a51e/frame_03_81s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_7a42a51e",
+    "status": "complete"
+  },
+  {
+    "video_id": "0LsLdaY0ieg",
+    "clip_id": "6bf6c586",
+    "keyword": "Marvel",
+    "start_s": 3013.5,
+    "end_s": 3021.5,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_6bf6c586/frame_00_3013s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_6bf6c586/frame_01_3016s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_6bf6c586/frame_02_3018s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_6bf6c586/frame_03_3021s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/0LsLdaY0ieg_6bf6c586",
+    "status": "complete"
+  },
+  {
+    "video_id": "0NxG-k6YhCk",
+    "clip_id": "2a686485",
+    "keyword": "Marvel",
+    "start_s": 971.2,
+    "end_s": 979.2,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_2a686485/frame_00_971s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_2a686485/frame_01_973s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_2a686485/frame_02_976s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_2a686485/frame_03_978s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_2a686485",
+    "status": "complete"
+  },
+  {
+    "video_id": "0NxG-k6YhCk",
+    "clip_id": "a829e471",
+    "keyword": "Marvel",
+    "start_s": 979.2,
+    "end_s": 987.2,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_a829e471/frame_00_979s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_a829e471/frame_01_981s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_a829e471/frame_02_984s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_a829e471/frame_03_986s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_a829e471",
+    "status": "complete"
+  },
+  {
+    "video_id": "0NxG-k6YhCk",
+    "clip_id": "6184a23c",
+    "keyword": "Marvel",
+    "start_s": 11419,
+    "end_s": 11427,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_6184a23c/frame_00_11419s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_6184a23c/frame_01_11421s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_6184a23c/frame_02_11424s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_6184a23c/frame_03_11426s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/0NxG-k6YhCk_6184a23c",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "74673d41",
+    "keyword": "Marvel",
+    "start_s": 1568.3,
+    "end_s": 1576.3,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_74673d41/frame_00_1568s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_74673d41/frame_01_1570s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_74673d41/frame_02_1573s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_74673d41/frame_03_1575s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_74673d41",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "a7e02f0d",
+    "keyword": "Marvel",
+    "start_s": 1645.3,
+    "end_s": 1654.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_a7e02f0d/frame_00_1645s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_a7e02f0d/frame_01_1648s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_a7e02f0d/frame_02_1651s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_a7e02f0d/frame_03_1653s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_a7e02f0d",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "388d8f68",
+    "keyword": "Marvel",
+    "start_s": 1654.3,
+    "end_s": 1661.3,
+    "duration_s": 7.0,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_00_1654s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_01_1656s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_02_1658s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68/frame_03_1660s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_388d8f68",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "6531fe2a",
+    "keyword": "Marvel",
+    "start_s": 1693.3,
+    "end_s": 1702.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_6531fe2a/frame_00_1693s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_6531fe2a/frame_01_1696s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_6531fe2a/frame_02_1699s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_6531fe2a/frame_03_1701s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_6531fe2a",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "354830ae",
+    "keyword": "Marvel",
+    "start_s": 1730.3,
+    "end_s": 1739.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_354830ae/frame_00_1730s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_354830ae/frame_01_1733s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_354830ae/frame_02_1736s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_354830ae/frame_03_1738s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_354830ae",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "99f40f1b",
+    "keyword": "Marvel",
+    "start_s": 2096.3,
+    "end_s": 2104.3,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_99f40f1b/frame_00_2096s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_99f40f1b/frame_01_2098s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_99f40f1b/frame_02_2101s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_99f40f1b/frame_03_2103s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_99f40f1b",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "461b1729",
+    "keyword": "Marvel",
+    "start_s": 2352.4,
+    "end_s": 2360.4,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_461b1729/frame_00_2352s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_461b1729/frame_01_2355s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_461b1729/frame_02_2357s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_461b1729/frame_03_2359s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_461b1729",
+    "status": "complete"
+  },
+  {
+    "video_id": "1MP9TsDqgvE",
+    "clip_id": "acada5bc",
+    "keyword": "Marvel",
+    "start_s": 2507.4,
+    "end_s": 2520.4,
+    "duration_s": 13.0,
+    "frame_times": [
+      0,
+      4.3,
+      8.6,
+      12.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_acada5bc/frame_00_2507s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_acada5bc/frame_01_2511s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_acada5bc/frame_02_2515s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_acada5bc/frame_03_2519s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1MP9TsDqgvE_acada5bc",
+    "status": "complete"
+  },
+  {
+    "video_id": "1PNaKih3ejU",
+    "clip_id": "d55a2bf4",
+    "keyword": "Marvel",
+    "start_s": 50.5,
+    "end_s": 65.5,
+    "duration_s": 15.0,
+    "frame_times": [
+      0,
+      5.0,
+      9.9,
+      14.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1PNaKih3ejU_d55a2bf4",
+    "status": "failed"
+  },
+  {
+    "video_id": "1T5wBQz4guo",
+    "clip_id": "be81671a",
+    "keyword": "Marvel",
+    "start_s": 44.4,
+    "end_s": 59.4,
+    "duration_s": 15.0,
+    "frame_times": [
+      0,
+      5.0,
+      9.9,
+      14.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1T5wBQz4guo_be81671a/frame_00_44s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1T5wBQz4guo_be81671a/frame_01_49s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1T5wBQz4guo_be81671a/frame_02_54s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/1T5wBQz4guo_be81671a/frame_03_58s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/1T5wBQz4guo_be81671a",
+    "status": "complete"
+  },
+  {
+    "video_id": "2r-5xjs8tgk",
+    "clip_id": "45995812",
+    "keyword": "Marvel",
+    "start_s": 52.5,
+    "end_s": 82.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/2r-5xjs8tgk_45995812",
+    "status": "failed"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "d86496ba",
+    "keyword": "Marvel",
+    "start_s": 54.5,
+    "end_s": 84.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_d86496ba/frame_00_54s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_d86496ba/frame_01_64s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_d86496ba/frame_02_74s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_d86496ba/frame_03_84s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_d86496ba",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "f9186601",
+    "keyword": "Marvel",
+    "start_s": 2202.4,
+    "end_s": 2210.4,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_f9186601/frame_00_2202s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_f9186601/frame_01_2205s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_f9186601/frame_02_2207s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_f9186601/frame_03_2209s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_f9186601",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "dc5ecb10",
+    "keyword": "Marvel",
+    "start_s": 2210.4,
+    "end_s": 2218.4,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_dc5ecb10/frame_00_2210s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_dc5ecb10/frame_01_2213s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_dc5ecb10/frame_02_2215s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_dc5ecb10/frame_03_2217s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_dc5ecb10",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "a25d5877",
+    "keyword": "Marvel",
+    "start_s": 2748.4,
+    "end_s": 2758.4,
+    "duration_s": 10.0,
+    "frame_times": [
+      0,
+      3.3,
+      6.6,
+      9.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_a25d5877/frame_00_2748s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_a25d5877/frame_01_2751s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_a25d5877/frame_02_2755s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_a25d5877/frame_03_2757s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_a25d5877",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "6a3733ae",
+    "keyword": "Marvel",
+    "start_s": 4509,
+    "end_s": 4518,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_6a3733ae/frame_00_4509s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_6a3733ae/frame_01_4511s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_6a3733ae/frame_02_4514s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_6a3733ae/frame_03_4517s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_6a3733ae",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "06fc5936",
+    "keyword": "Marvel",
+    "start_s": 5919,
+    "end_s": 5926,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_06fc5936/frame_00_5919s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_06fc5936/frame_01_5921s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_06fc5936/frame_02_5923s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_06fc5936/frame_03_5925s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_06fc5936",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "1d6912aa",
+    "keyword": "Marvel",
+    "start_s": 6736,
+    "end_s": 6745,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_1d6912aa/frame_00_6736s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_1d6912aa/frame_01_6738s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_1d6912aa/frame_02_6741s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_1d6912aa/frame_03_6744s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_1d6912aa",
+    "status": "complete"
+  },
+  {
+    "video_id": "3QocHXqzoP8",
+    "clip_id": "7b5a3f3c",
+    "keyword": "Marvel",
+    "start_s": 7962,
+    "end_s": 7971,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_7b5a3f3c/frame_00_7962s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_7b5a3f3c/frame_01_7964s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_7b5a3f3c/frame_02_7967s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_7b5a3f3c/frame_03_7970s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3QocHXqzoP8_7b5a3f3c",
+    "status": "complete"
+  },
+  {
+    "video_id": "3_qqUd-Umhk",
+    "clip_id": "d08afcb9",
+    "keyword": "Marvel",
+    "start_s": 37.4,
+    "end_s": 67.4,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3_qqUd-Umhk_d08afcb9/frame_00_37s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3_qqUd-Umhk_d08afcb9/frame_01_47s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3_qqUd-Umhk_d08afcb9/frame_02_57s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/3_qqUd-Umhk_d08afcb9/frame_03_66s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/3_qqUd-Umhk_d08afcb9",
+    "status": "complete"
+  },
+  {
+    "video_id": "4I1vJ7mNIY4",
+    "clip_id": "049f8647",
+    "keyword": "Marvel",
+    "start_s": 56.6,
+    "end_s": 86.6,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/4I1vJ7mNIY4_049f8647/frame_00_56s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/4I1vJ7mNIY4_049f8647/frame_01_66s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/4I1vJ7mNIY4_049f8647/frame_02_76s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/4I1vJ7mNIY4_049f8647/frame_03_86s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/4I1vJ7mNIY4_049f8647",
+    "status": "complete"
+  },
+  {
+    "video_id": "4x5NjnzOU10",
+    "clip_id": "166983ed",
+    "keyword": "Marvel",
+    "start_s": 54.5,
+    "end_s": 84.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/4x5NjnzOU10_166983ed",
+    "status": "failed"
+  },
+  {
+    "video_id": "573Pr2WmVd8",
+    "clip_id": "8608250f",
+    "keyword": "Marvel",
+    "start_s": 47.5,
+    "end_s": 77.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/573Pr2WmVd8_8608250f/frame_00_47s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/573Pr2WmVd8_8608250f/frame_01_57s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/573Pr2WmVd8_8608250f/frame_02_67s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/573Pr2WmVd8_8608250f/frame_03_76s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/573Pr2WmVd8_8608250f",
+    "status": "complete"
+  },
+  {
+    "video_id": "6FZcSuaZmvc",
+    "clip_id": "ed08139b",
+    "keyword": "Marvel",
+    "start_s": 56.6,
+    "end_s": 86.6,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6FZcSuaZmvc_ed08139b/frame_00_56s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6FZcSuaZmvc_ed08139b/frame_01_66s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6FZcSuaZmvc_ed08139b/frame_02_76s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6FZcSuaZmvc_ed08139b/frame_03_86s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/6FZcSuaZmvc_ed08139b",
+    "status": "complete"
+  },
+  {
+    "video_id": "6UI4FhNEmCw",
+    "clip_id": "39a8d93b",
+    "keyword": "Marvel",
+    "start_s": 32.3,
+    "end_s": 62.3,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6UI4FhNEmCw_39a8d93b/frame_00_32s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6UI4FhNEmCw_39a8d93b/frame_01_42s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6UI4FhNEmCw_39a8d93b/frame_02_52s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/6UI4FhNEmCw_39a8d93b/frame_03_61s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/6UI4FhNEmCw_39a8d93b",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "3c418645",
+    "keyword": "Marvel",
+    "start_s": 1650.3,
+    "end_s": 1659.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_3c418645/frame_00_1650s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_3c418645/frame_01_1653s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_3c418645/frame_02_1656s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_3c418645/frame_03_1658s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_3c418645",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "516c0d1e",
+    "keyword": "Marvel",
+    "start_s": 1935.3,
+    "end_s": 1944.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_516c0d1e/frame_00_1935s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_516c0d1e/frame_01_1938s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_516c0d1e/frame_02_1941s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_516c0d1e/frame_03_1943s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_516c0d1e",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "813adf55",
+    "keyword": "Marvel",
+    "start_s": 1952.3,
+    "end_s": 1959.3,
+    "duration_s": 7.0,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_813adf55/frame_00_1952s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_813adf55/frame_01_1954s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_813adf55/frame_02_1956s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_813adf55/frame_03_1958s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_813adf55",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "46df01fe",
+    "keyword": "Marvel",
+    "start_s": 1959.3,
+    "end_s": 1968.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_46df01fe/frame_00_1959s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_46df01fe/frame_01_1962s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_46df01fe/frame_02_1965s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_46df01fe/frame_03_1967s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_46df01fe",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "92359bd2",
+    "keyword": "Marvel",
+    "start_s": 2100.3,
+    "end_s": 2109.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_92359bd2/frame_00_2100s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_92359bd2/frame_01_2103s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_92359bd2/frame_02_2106s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_92359bd2/frame_03_2108s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_92359bd2",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "1c32db7d",
+    "keyword": "Marvel",
+    "start_s": 2211.4,
+    "end_s": 2218.4,
+    "duration_s": 7.0,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_1c32db7d/frame_00_2211s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_1c32db7d/frame_01_2213s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_1c32db7d/frame_02_2215s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_1c32db7d/frame_03_2217s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_1c32db7d",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "94d12edc",
+    "keyword": "Marvel",
+    "start_s": 4400,
+    "end_s": 4408,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_94d12edc/frame_00_4400s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_94d12edc/frame_01_4402s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_94d12edc/frame_02_4405s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_94d12edc/frame_03_4407s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_94d12edc",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "36bb65c8",
+    "keyword": "Marvel",
+    "start_s": 4463,
+    "end_s": 4475,
+    "duration_s": 12,
+    "frame_times": [
+      0,
+      4.0,
+      7.9,
+      11.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_36bb65c8/frame_00_4463s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_36bb65c8/frame_01_4466s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_36bb65c8/frame_02_4470s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_36bb65c8/frame_03_4474s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_36bb65c8",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "b80f84f1",
+    "keyword": "Marvel",
+    "start_s": 6377,
+    "end_s": 6386,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_b80f84f1/frame_00_6377s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_b80f84f1/frame_01_6379s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_b80f84f1/frame_02_6382s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_b80f84f1/frame_03_6385s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_b80f84f1",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "4717b366",
+    "keyword": "Marvel",
+    "start_s": 15756,
+    "end_s": 15764,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_4717b366/frame_00_15756s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_4717b366/frame_01_15758s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_4717b366/frame_02_15761s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_4717b366/frame_03_15763s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_4717b366",
+    "status": "complete"
+  },
+  {
+    "video_id": "7FHqy-5pYbM",
+    "clip_id": "036bce0e",
+    "keyword": "Marvel",
+    "start_s": 20902,
+    "end_s": 20909,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_036bce0e/frame_00_20902s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_036bce0e/frame_01_20904s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_036bce0e/frame_02_20906s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_036bce0e/frame_03_20908s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/7FHqy-5pYbM_036bce0e",
+    "status": "complete"
+  },
+  {
+    "video_id": "8lOvmKrxs7A",
+    "clip_id": "78099fc8",
+    "keyword": "Marvel",
+    "start_s": 45.4,
+    "end_s": 75.4,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/8lOvmKrxs7A_78099fc8/frame_00_45s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/8lOvmKrxs7A_78099fc8/frame_01_55s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/8lOvmKrxs7A_78099fc8/frame_02_65s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/8lOvmKrxs7A_78099fc8/frame_03_74s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/8lOvmKrxs7A_78099fc8",
+    "status": "complete"
+  },
+  {
+    "video_id": "CJhvuOyEtqc",
+    "clip_id": "1f9400b5",
+    "keyword": "Marvel",
+    "start_s": 234.9,
+    "end_s": 264.9,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_1f9400b5/frame_00_234s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_1f9400b5/frame_01_244s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_1f9400b5/frame_02_254s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_1f9400b5/frame_03_264s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_1f9400b5",
+    "status": "complete"
+  },
+  {
+    "video_id": "CJhvuOyEtqc",
+    "clip_id": "750b1af1",
+    "keyword": "Marvel",
+    "start_s": 1805.0,
+    "end_s": 1835.0,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_750b1af1/frame_00_1805s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_750b1af1/frame_01_1814s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_750b1af1/frame_02_1824s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_750b1af1/frame_03_1834s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/CJhvuOyEtqc_750b1af1",
+    "status": "complete"
+  },
+  {
+    "video_id": "D8i56fu4mEs",
+    "clip_id": "574edfb3",
+    "keyword": "Marvel",
+    "start_s": 39.4,
+    "end_s": 69.4,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/D8i56fu4mEs_574edfb3/frame_00_39s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/D8i56fu4mEs_574edfb3/frame_01_49s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/D8i56fu4mEs_574edfb3/frame_02_59s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/D8i56fu4mEs_574edfb3/frame_03_68s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/D8i56fu4mEs_574edfb3",
+    "status": "complete"
+  },
+  {
+    "video_id": "DEz4xR6fPTg",
+    "clip_id": "bc6bfe66",
+    "keyword": "Marvel",
+    "start_s": 139.5,
+    "end_s": 169.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/DEz4xR6fPTg_bc6bfe66/frame_00_139s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/DEz4xR6fPTg_bc6bfe66/frame_01_149s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/DEz4xR6fPTg_bc6bfe66/frame_02_159s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/DEz4xR6fPTg_bc6bfe66/frame_03_168s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/DEz4xR6fPTg_bc6bfe66",
+    "status": "complete"
+  },
+  {
+    "video_id": "GVvEyRJfsrY",
+    "clip_id": "7b5a6648",
+    "keyword": "Marvel",
+    "start_s": 809.7,
+    "end_s": 839.7,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_7b5a6648/frame_00_809s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_7b5a6648/frame_01_819s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_7b5a6648/frame_02_829s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_7b5a6648/frame_03_839s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_7b5a6648",
+    "status": "complete"
+  },
+  {
+    "video_id": "GVvEyRJfsrY",
+    "clip_id": "bbf3ea52",
+    "keyword": "Marvel",
+    "start_s": 2283.4,
+    "end_s": 2313.4,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_bbf3ea52/frame_00_2283s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_bbf3ea52/frame_01_2293s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_bbf3ea52/frame_02_2303s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_bbf3ea52/frame_03_2312s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/GVvEyRJfsrY_bbf3ea52",
+    "status": "complete"
+  },
+  {
+    "video_id": "Mq-NIZ59UZI",
+    "clip_id": "1376f6e6",
+    "keyword": "Marvel",
+    "start_s": 1616.3,
+    "end_s": 1624.3,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/Mq-NIZ59UZI_1376f6e6",
+    "status": "failed"
+  },
+  {
+    "video_id": "Mq-NIZ59UZI",
+    "clip_id": "4703ea86",
+    "keyword": "Marvel",
+    "start_s": 1633.3,
+    "end_s": 1642.3,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/Mq-NIZ59UZI_4703ea86",
+    "status": "failed"
+  },
+  {
+    "video_id": "Mq-NIZ59UZI",
+    "clip_id": "688636a3",
+    "keyword": "Marvel",
+    "start_s": 1747.3,
+    "end_s": 1755.3,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/Mq-NIZ59UZI_688636a3",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "dbc83c04",
+    "keyword": "Marvel",
+    "start_s": 4289,
+    "end_s": 4293,
+    "duration_s": 4,
+    "frame_times": [
+      0,
+      2.0,
+      4
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_dbc83c04",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "4c7ea4ea",
+    "keyword": "Marvel",
+    "start_s": 4322,
+    "end_s": 4329,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_4c7ea4ea",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "24885502",
+    "keyword": "Marvel",
+    "start_s": 8818,
+    "end_s": 8827,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_24885502",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "9e98336f",
+    "keyword": "Marvel",
+    "start_s": 17675,
+    "end_s": 17682,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_9e98336f",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "b2299085",
+    "keyword": "Marvel",
+    "start_s": 17682,
+    "end_s": 17689,
+    "duration_s": 7,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_b2299085",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "8ed4781a",
+    "keyword": "Marvel",
+    "start_s": 19776,
+    "end_s": 19786,
+    "duration_s": 10,
+    "frame_times": [
+      0,
+      3.3,
+      6.6,
+      9.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_8ed4781a",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "69f302c8",
+    "keyword": "Marvel",
+    "start_s": 20899,
+    "end_s": 20907,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_69f302c8",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "be727299",
+    "keyword": "Marvel",
+    "start_s": 20907,
+    "end_s": 20916,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_be727299",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "c96da7a8",
+    "keyword": "Marvel",
+    "start_s": 20916,
+    "end_s": 20924,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_c96da7a8",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "c0538429",
+    "keyword": "Marvel",
+    "start_s": 20924,
+    "end_s": 20932,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_c0538429",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "6cd5bef5",
+    "keyword": "Marvel",
+    "start_s": 20932,
+    "end_s": 20940,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_6cd5bef5",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "2ac9ef14",
+    "keyword": "Marvel",
+    "start_s": 24117,
+    "end_s": 24129,
+    "duration_s": 12,
+    "frame_times": [
+      0,
+      4.0,
+      7.9,
+      11.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_2ac9ef14",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "1a058ea6",
+    "keyword": "Marvel",
+    "start_s": 24589,
+    "end_s": 24597,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_1a058ea6",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "2e726d30",
+    "keyword": "Marvel",
+    "start_s": 26135,
+    "end_s": 26143,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_2e726d30",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "9d27e8d1",
+    "keyword": "Marvel",
+    "start_s": 26972,
+    "end_s": 26980,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_9d27e8d1",
+    "status": "failed"
+  },
+  {
+    "video_id": "P9qfRFa8sd4",
+    "clip_id": "563c8b99",
+    "keyword": "Marvel",
+    "start_s": 29462,
+    "end_s": 29470,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/P9qfRFa8sd4_563c8b99",
+    "status": "failed"
+  },
+  {
+    "video_id": "Th_G3VxnXwE",
+    "clip_id": "86f67f08",
+    "keyword": "Marvel",
+    "start_s": 48.2,
+    "end_s": 78.2,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_86f67f08/frame_00_48s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_86f67f08/frame_01_58s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_86f67f08/frame_02_68s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_86f67f08/frame_03_77s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_86f67f08",
+    "status": "complete"
+  },
+  {
+    "video_id": "Th_G3VxnXwE",
+    "clip_id": "da70251f",
+    "keyword": "Marvel",
+    "start_s": 1366.0,
+    "end_s": 1396.0,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_da70251f/frame_00_1365s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_da70251f/frame_01_1375s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_da70251f/frame_02_1385s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_da70251f/frame_03_1395s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/Th_G3VxnXwE_da70251f",
+    "status": "complete"
+  },
+  {
+    "video_id": "TxpihDmN310",
+    "clip_id": "97456dea",
+    "keyword": "Marvel",
+    "start_s": 0.0,
+    "end_s": 30.0,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/TxpihDmN310_97456dea/frame_00_0s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/TxpihDmN310_97456dea/frame_01_9s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/TxpihDmN310_97456dea/frame_02_19s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/TxpihDmN310_97456dea/frame_03_29s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/TxpihDmN310_97456dea",
+    "status": "complete"
+  },
+  {
+    "video_id": "VfFzJb6uaQY",
+    "clip_id": "3b8bf125",
+    "keyword": "Marvel",
+    "start_s": 79.6,
+    "end_s": 87.6,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_3b8bf125/frame_00_79s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_3b8bf125/frame_01_82s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_3b8bf125/frame_02_84s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_3b8bf125/frame_03_87s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_3b8bf125",
+    "status": "complete"
+  },
+  {
+    "video_id": "VfFzJb6uaQY",
+    "clip_id": "789c4120",
+    "keyword": "Marvel",
+    "start_s": 291.6,
+    "end_s": 295.6,
+    "duration_s": 4.0,
+    "frame_times": [
+      0,
+      2.0,
+      4.0
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_789c4120/frame_00_291s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_789c4120/frame_01_293s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_789c4120/frame_02_295s.webp"
+    ],
+    "frame_count": 3,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_789c4120",
+    "status": "complete"
+  },
+  {
+    "video_id": "VfFzJb6uaQY",
+    "clip_id": "8de0803f",
+    "keyword": "Marvel",
+    "start_s": 810.0,
+    "end_s": 818.0,
+    "duration_s": 8.0,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_8de0803f/frame_00_810s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_8de0803f/frame_01_812s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_8de0803f/frame_02_815s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_8de0803f/frame_03_817s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_8de0803f",
+    "status": "complete"
+  },
+  {
+    "video_id": "VfFzJb6uaQY",
+    "clip_id": "a4109993",
+    "keyword": "Marvel",
+    "start_s": 1082.1,
+    "end_s": 1091.1,
+    "duration_s": 9.0,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_a4109993/frame_00_1082s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_a4109993/frame_01_1085s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_a4109993/frame_02_1088s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_a4109993/frame_03_1090s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_a4109993",
+    "status": "complete"
+  },
+  {
+    "video_id": "VfFzJb6uaQY",
+    "clip_id": "71b0c665",
+    "keyword": "Marvel",
+    "start_s": 1194.1,
+    "end_s": 1199.1,
+    "duration_s": 5.0,
+    "frame_times": [
+      0,
+      2.5,
+      5.0
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_71b0c665/frame_00_1194s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_71b0c665/frame_01_1196s.webp"
+    ],
+    "frame_count": 2,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VfFzJb6uaQY_71b0c665",
+    "status": "complete"
+  },
+  {
+    "video_id": "VkbXPDaB66g",
+    "clip_id": "816bd2b0",
+    "keyword": "Marvel",
+    "start_s": 0.0,
+    "end_s": 30.0,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VkbXPDaB66g_816bd2b0/frame_00_0s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VkbXPDaB66g_816bd2b0/frame_01_9s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VkbXPDaB66g_816bd2b0/frame_02_19s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/VkbXPDaB66g_816bd2b0/frame_03_29s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/VkbXPDaB66g_816bd2b0",
+    "status": "complete"
+  },
+  {
+    "video_id": "WdwMn0lab8s",
+    "clip_id": "aa7bc085",
+    "keyword": "Marvel",
+    "start_s": 1651.8,
+    "end_s": 1654.8,
+    "duration_s": 3.0,
+    "frame_times": [
+      0,
+      1.5,
+      3.0
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/WdwMn0lab8s_aa7bc085/frame_00_1651s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/WdwMn0lab8s_aa7bc085/frame_01_1653s.webp"
+    ],
+    "frame_count": 2,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/WdwMn0lab8s_aa7bc085",
+    "status": "complete"
+  },
+  {
+    "video_id": "ZBNkDlkwBuU",
+    "clip_id": "1f66396d",
+    "keyword": "Marvel",
+    "start_s": 62.0,
+    "end_s": 92.0,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/ZBNkDlkwBuU_1f66396d/frame_00_62s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/ZBNkDlkwBuU_1f66396d/frame_01_71s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/ZBNkDlkwBuU_1f66396d/frame_02_81s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/ZBNkDlkwBuU_1f66396d/frame_03_91s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/ZBNkDlkwBuU_1f66396d",
+    "status": "complete"
+  },
+  {
+    "video_id": "i8LJURnii1E",
+    "clip_id": "3cce499a",
+    "keyword": "Marvel",
+    "start_s": 12114,
+    "end_s": 12123,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/i8LJURnii1E_3cce499a/frame_00_12114s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/i8LJURnii1E_3cce499a/frame_01_12116s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/i8LJURnii1E_3cce499a/frame_02_12119s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/i8LJURnii1E_3cce499a/frame_03_12122s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/i8LJURnii1E_3cce499a",
+    "status": "complete"
+  },
+  {
+    "video_id": "p988k3SZsOY",
+    "clip_id": "8e63301e",
+    "keyword": "Marvel",
+    "start_s": 502.3,
+    "end_s": 505.3,
+    "duration_s": 3.0,
+    "frame_times": [
+      0,
+      1.5,
+      3.0
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/p988k3SZsOY_8e63301e",
+    "status": "failed"
+  },
+  {
+    "video_id": "p988k3SZsOY",
+    "clip_id": "d264ed0d",
+    "keyword": "Marvel",
+    "start_s": 519.3,
+    "end_s": 526.2,
+    "duration_s": 6.9,
+    "frame_times": [
+      0,
+      2.3,
+      4.6,
+      6.4
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/p988k3SZsOY_d264ed0d",
+    "status": "failed"
+  },
+  {
+    "video_id": "p988k3SZsOY",
+    "clip_id": "6d22ae6c",
+    "keyword": "Marvel",
+    "start_s": 684.9,
+    "end_s": 695.5,
+    "duration_s": 10.5,
+    "frame_times": [
+      0,
+      3.5,
+      7.0,
+      10.0
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/p988k3SZsOY_6d22ae6c",
+    "status": "failed"
+  },
+  {
+    "video_id": "p988k3SZsOY",
+    "clip_id": "af73f0e2",
+    "keyword": "Marvel",
+    "start_s": 3298.2,
+    "end_s": 3301.2,
+    "duration_s": 3.0,
+    "frame_times": [
+      0,
+      1.5,
+      3.0
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/p988k3SZsOY_af73f0e2",
+    "status": "failed"
+  },
+  {
+    "video_id": "p_xqMpCbuzQ",
+    "clip_id": "c0a4a56e",
+    "keyword": "Marvel",
+    "start_s": 1906.8,
+    "end_s": 1912.6,
+    "duration_s": 5.8,
+    "frame_times": [
+      0,
+      1.9,
+      3.8,
+      5.3
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/p_xqMpCbuzQ_c0a4a56e/frame_00_1906s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/p_xqMpCbuzQ_c0a4a56e/frame_01_1908s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/p_xqMpCbuzQ_c0a4a56e/frame_02_1910s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/p_xqMpCbuzQ_c0a4a56e/frame_03_1912s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/p_xqMpCbuzQ_c0a4a56e",
+    "status": "complete"
+  },
+  {
+    "video_id": "pijS0C_oCxw",
+    "clip_id": "3c65f11a",
+    "keyword": "Marvel",
+    "start_s": 5502.0,
+    "end_s": 5504.0,
+    "duration_s": 2.0,
+    "frame_times": [
+      0,
+      1.0,
+      2.0
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/pijS0C_oCxw_3c65f11a",
+    "status": "failed"
+  },
+  {
+    "video_id": "pijS0C_oCxw",
+    "clip_id": "ff48fe5d",
+    "keyword": "Marvel",
+    "start_s": 10879.4,
+    "end_s": 10882.1,
+    "duration_s": 2.6,
+    "frame_times": [
+      0,
+      1.3,
+      2.6
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/pijS0C_oCxw_ff48fe5d",
+    "status": "failed"
+  },
+  {
+    "video_id": "pijS0C_oCxw",
+    "clip_id": "fe010ddc",
+    "keyword": "Marvel",
+    "start_s": 10993.4,
+    "end_s": 10997.2,
+    "duration_s": 3.8,
+    "frame_times": [
+      0,
+      1.9,
+      3.8
+    ],
+    "frames": [],
+    "frame_count": 0,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/pijS0C_oCxw_fe010ddc",
+    "status": "failed"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "9296f4b9",
+    "keyword": "Marvel",
+    "start_s": 1188.1,
+    "end_s": 1194.2,
+    "duration_s": 6.1,
+    "frame_times": [
+      0,
+      2.0,
+      4.0,
+      5.6
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_9296f4b9/frame_00_1188s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_9296f4b9/frame_01_1190s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_9296f4b9/frame_02_1192s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_9296f4b9/frame_03_1193s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_9296f4b9",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "0bf61c75",
+    "keyword": "Marvel",
+    "start_s": 2820.2,
+    "end_s": 2825.2,
+    "duration_s": 5.0,
+    "frame_times": [
+      0,
+      2.5,
+      5.0
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_0bf61c75/frame_00_2820s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_0bf61c75/frame_01_2822s.webp"
+    ],
+    "frame_count": 2,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_0bf61c75",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "6121f3e6",
+    "keyword": "Marvel",
+    "start_s": 2840.2,
+    "end_s": 2845.9,
+    "duration_s": 5.7,
+    "frame_times": [
+      0,
+      1.9,
+      3.7,
+      5.2
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_6121f3e6/frame_00_2840s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_6121f3e6/frame_01_2842s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_6121f3e6/frame_02_2843s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_6121f3e6/frame_03_2845s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_6121f3e6",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "094596f1",
+    "keyword": "Marvel",
+    "start_s": 2857.7,
+    "end_s": 2864.1,
+    "duration_s": 6.3,
+    "frame_times": [
+      0,
+      2.1,
+      4.2,
+      5.8
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_094596f1/frame_00_2857s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_094596f1/frame_01_2859s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_094596f1/frame_02_2861s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_094596f1/frame_03_2863s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_094596f1",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "70c4af7e",
+    "keyword": "Marvel",
+    "start_s": 2865.7,
+    "end_s": 2871.6,
+    "duration_s": 5.8,
+    "frame_times": [
+      0,
+      1.9,
+      3.9,
+      5.3
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_70c4af7e/frame_00_2865s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_70c4af7e/frame_01_2867s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_70c4af7e/frame_02_2869s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_70c4af7e/frame_03_2871s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_70c4af7e",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "d0d6de9e",
+    "keyword": "Marvel",
+    "start_s": 4025.1,
+    "end_s": 4031.3,
+    "duration_s": 6.2,
+    "frame_times": [
+      0,
+      2.0,
+      4.1,
+      5.7
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_d0d6de9e/frame_00_4025s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_d0d6de9e/frame_01_4027s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_d0d6de9e/frame_02_4029s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_d0d6de9e/frame_03_4030s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_d0d6de9e",
+    "status": "complete"
+  },
+  {
+    "video_id": "poWFWp2aj5k",
+    "clip_id": "45628d7d",
+    "keyword": "Marvel",
+    "start_s": 11705.8,
+    "end_s": 11707.8,
+    "duration_s": 2.0,
+    "frame_times": [
+      0,
+      1.0,
+      2.0
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_45628d7d/frame_00_11705s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_45628d7d/frame_01_11706s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_45628d7d/frame_02_11707s.webp"
+    ],
+    "frame_count": 3,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/poWFWp2aj5k_45628d7d",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "9f3e46d7",
+    "keyword": "Marvel",
+    "start_s": 45.5,
+    "end_s": 75.5,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_9f3e46d7/frame_00_45s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_9f3e46d7/frame_01_55s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_9f3e46d7/frame_02_65s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_9f3e46d7/frame_03_74s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_9f3e46d7",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "fe45709f",
+    "keyword": "Marvel",
+    "start_s": 4554,
+    "end_s": 4563,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fe45709f/frame_00_4554s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fe45709f/frame_01_4556s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fe45709f/frame_02_4559s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fe45709f/frame_03_4562s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fe45709f",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "0d1541ce",
+    "keyword": "Marvel",
+    "start_s": 5956,
+    "end_s": 5964,
+    "duration_s": 8,
+    "frame_times": [
+      0,
+      2.6,
+      5.3,
+      7.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_0d1541ce/frame_00_5956s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_0d1541ce/frame_01_5958s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_0d1541ce/frame_02_5961s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_0d1541ce/frame_03_5963s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_0d1541ce",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "f51e70e8",
+    "keyword": "Marvel",
+    "start_s": 6666,
+    "end_s": 6675,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_f51e70e8/frame_00_6666s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_f51e70e8/frame_01_6668s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_f51e70e8/frame_02_6671s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_f51e70e8/frame_03_6674s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_f51e70e8",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "fb4c8d1b",
+    "keyword": "Marvel",
+    "start_s": 9232,
+    "end_s": 9258,
+    "duration_s": 26,
+    "frame_times": [
+      0,
+      8.6,
+      17.2,
+      25.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fb4c8d1b/frame_00_9232s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fb4c8d1b/frame_01_9240s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fb4c8d1b/frame_02_9249s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fb4c8d1b/frame_03_9257s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_fb4c8d1b",
+    "status": "complete"
+  },
+  {
+    "video_id": "vajxaBAhe8E",
+    "clip_id": "7cff48f9",
+    "keyword": "Marvel",
+    "start_s": 9804,
+    "end_s": 9813,
+    "duration_s": 9,
+    "frame_times": [
+      0,
+      3.0,
+      5.9,
+      8.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_7cff48f9/frame_00_9804s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_7cff48f9/frame_01_9806s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_7cff48f9/frame_02_9809s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_7cff48f9/frame_03_9812s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vajxaBAhe8E_7cff48f9",
+    "status": "complete"
+  },
+  {
+    "video_id": "vnl74zz3XLc",
+    "clip_id": "50a74d12",
+    "keyword": "Marvel",
+    "start_s": 39.4,
+    "end_s": 69.4,
+    "duration_s": 30,
+    "frame_times": [
+      0,
+      9.9,
+      19.8,
+      29.5
+    ],
+    "frames": [
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vnl74zz3XLc_50a74d12/frame_00_39s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vnl74zz3XLc_50a74d12/frame_01_49s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vnl74zz3XLc_50a74d12/frame_02_59s.webp",
+      "/home/wubu/seymour-project/vision_clips/marvel_rivals/vnl74zz3XLc_50a74d12/frame_03_68s.webp"
+    ],
+    "frame_count": 4,
+    "vision_resolution": [
+      896,
+      896
+    ],
+    "frame_format": "webp",
+    "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_rivals/vnl74zz3XLc_50a74d12",
+    "status": "complete"
+  }
+]

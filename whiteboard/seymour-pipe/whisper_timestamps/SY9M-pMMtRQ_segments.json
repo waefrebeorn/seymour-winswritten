@@ -1,0 +1,63 @@
+{
+  "video_id": "SY9M-pMMtRQ",
+  "duration_s": 64.9,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hi there, Daniel. My name is Boris, and I'm from Mariupoli, Ukraine."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "We haven't been bombed in a mile, and that's good, so life is good around here."
+    },
+    {
+      "start": 10.0,
+      "end": 19.81,
+      "text": "Say something in Russian."
+    },
+    {
+      "start": 19.81,
+      "end": 23.81,
+      "text": "That was kind of close, actually."
+    },
+    {
+      "start": 23.81,
+      "end": 24.81,
+      "text": "Close call."
+    },
+    {
+      "start": 24.81,
+      "end": 30.42,
+      "text": "They were starting bombing again."
+    },
+    {
+      "start": 31.42,
+      "end": 34.42,
+      "text": "Hold on, Daniel. Someone's knocking on the door."
+    },
+    {
+      "start": 38.42,
+      "end": 40.42,
+      "text": "Refuge inside the shell."
+    },
+    {
+      "start": 41.42,
+      "end": 49.35,
+      "text": "Refuge inside the shell."
+    },
+    {
+      "start": 56.63,
+      "end": 57.63,
+      "text": "Hello?"
+    },
+    {
+      "start": 57.63,
+      "end": 60.63,
+      "text": "Yeah, he used to be on the shell. Now you're on the shell."
+    }
+  ],
+  "total_words": 75
+}

@@ -1,0 +1,278 @@
+{
+  "generated": "2026-07-06",
+  "corpus_files": 592,
+  "method": "regex motif scan on cleaned transcripts (timestamps/music stripped)",
+  "total_themes_scanned": 30,
+  "candidates": [
+    {
+      "rank": 1,
+      "theme": "religion_god",
+      "file_count": 485,
+      "total_mentions": 29494,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 2,
+      "theme": "job_work",
+      "file_count": 437,
+      "total_mentions": 12777,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 3,
+      "theme": "food_eating",
+      "file_count": 423,
+      "total_mentions": 17733,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 4,
+      "theme": "car_commute",
+      "file_count": 422,
+      "total_mentions": 15132,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 5,
+      "theme": "health",
+      "file_count": 418,
+      "total_mentions": 9042,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 6,
+      "theme": "book_reading",
+      "file_count": 413,
+      "total_mentions": 8187,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 7,
+      "theme": "internet_culture",
+      "file_count": 411,
+      "total_mentions": 10530,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 8,
+      "theme": "dog_pet",
+      "file_count": 379,
+      "total_mentions": 8979,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 9,
+      "theme": "postal_mail",
+      "file_count": 372,
+      "total_mentions": 5790,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 10,
+      "theme": "mom_story",
+      "file_count": 348,
+      "total_mentions": 4908,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 11,
+      "theme": "music_making",
+      "file_count": 343,
+      "total_mentions": 5277,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 12,
+      "theme": "real_estate",
+      "file_count": 341,
+      "total_mentions": 5709,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 13,
+      "theme": "war_politics",
+      "file_count": 339,
+      "total_mentions": 5049,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 14,
+      "theme": "water_ocean",
+      "file_count": 322,
+      "total_mentions": 6114,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 15,
+      "theme": "smoking_vaping",
+      "file_count": 305,
+      "total_mentions": 4839,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 16,
+      "theme": "penny_coin",
+      "file_count": 302,
+      "total_mentions": 4128,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 17,
+      "theme": "garden_growing",
+      "file_count": 257,
+      "total_mentions": 2721,
+      "tier": "A (high density)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 18,
+      "theme": "ai_tech",
+      "file_count": 164,
+      "total_mentions": 1777,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 19,
+      "theme": "sports",
+      "file_count": 134,
+      "total_mentions": 1218,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 20,
+      "theme": "childhood",
+      "file_count": 133,
+      "total_mentions": 837,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 21,
+      "theme": "alcohol_bar",
+      "file_count": 126,
+      "total_mentions": 900,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 22,
+      "theme": "grandma_story",
+      "file_count": 114,
+      "total_mentions": 867,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 23,
+      "theme": "neighbor_drama",
+      "file_count": 108,
+      "total_mentions": 648,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 24,
+      "theme": "coffee_ritual",
+      "file_count": 107,
+      "total_mentions": 1050,
+      "tier": "B (solid)",
+      "slop_risk": "LOW",
+      "bathroom_ready": true
+    },
+    {
+      "rank": 25,
+      "theme": "mcdonalds",
+      "file_count": 86,
+      "total_mentions": 774,
+      "tier": "C (niche)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    },
+    {
+      "rank": 26,
+      "theme": "prepper_survival",
+      "file_count": 80,
+      "total_mentions": 429,
+      "tier": "C (niche)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    },
+    {
+      "rank": 27,
+      "theme": "crypto",
+      "file_count": 76,
+      "total_mentions": 615,
+      "tier": "C (niche)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    },
+    {
+      "rank": 28,
+      "theme": "old_tech",
+      "file_count": 53,
+      "total_mentions": 324,
+      "tier": "C (niche)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    },
+    {
+      "rank": 29,
+      "theme": "taco_bell",
+      "file_count": 38,
+      "total_mentions": 186,
+      "tier": "D (sparse)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    },
+    {
+      "rank": 30,
+      "theme": "conspiracy",
+      "file_count": 36,
+      "total_mentions": 198,
+      "tier": "D (sparse)",
+      "slop_risk": "MEDIUM",
+      "bathroom_ready": false
+    }
+  ]
+}

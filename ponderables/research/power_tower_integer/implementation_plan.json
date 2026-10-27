@@ -1,0 +1,91 @@
+{
+  "project": "power-tower-integer",
+  "wu_bu_mapping": {
+    "hamilton_encoder": "Maps tower iteration to Hamilton quaternions -> nested Poincar\u00e9 spheres",
+    "wubu_nesting": "Right-associative iteration = nesting depth 4 in WuBu hierarchy",
+    "poincare_spheres": "E/H spheres at each level correspond to \u03c0, \u03c0^\u03c0, \u03c0^\u03c0^\u03c0, \u03c0^\u03c0^\u03c0^\u03c0",
+    "topological_charge": "Radii parametrized by \u2113 = 1,2,3,4 -> Chern numbers give integer invariants",
+    "hopf_fibration": "S\u00b3 \u2192 S\u00b2 for structured point cloud sampling on each sphere",
+    "mlp_v_encoder": "Retrain for tower-specific log-space mapping: ln(\u03c0), \u03c0 ln \u03c0, etc.",
+    "bytropix_dual_head": "Head 1: geometric map (sphere params), Head 2: invariant (intersection number)"
+  },
+  "implementation_steps": [
+    {
+      "step": 1,
+      "title": "Tower-to-Manifold Map",
+      "details": "Implement f: [\u03c0, \u03c0^\u03c0, \u03c0^\u03c0^\u03c0, \u03c0^\u03c0^\u03c0^\u03c0] -> M where M = iterated S\u00b2 bundle. Use exponential map on su(2): \u03c0 -> S\u00b2(\u03c0), then iterate.",
+      "code_paths": [
+        "/home/wubu/bytropix/wubu_model.c",
+        "/home/wubu/bytropix/gpu_gemma4_forward.cu"
+      ],
+      "new_files": [
+        "tower_manifold.c",
+        "tower_manifold.h"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Poincar\u00e9 Sphere Sampling (Hopf)",
+      "details": "Sample points on S\u00b2 via Hopf fibration: S\u00b3 \u2192 S\u00b2. Use quaternion representation for structured sampling. Preserve topological charge \u2113.",
+      "code_paths": [
+        "/home/wubu/bytropix/poincare_sampling.c"
+      ],
+      "new_files": [
+        "hopf_sampler.c",
+        "hopf_sampler.h"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Integer Invariant Definition",
+      "details": "Define intersection number I = \u222b_M \u03c9_1 \u2227 \u03c9_2 \u2227 \u03c9_3 \u2227 \u03c9_4 where \u03c9_i are curvature forms on each sphere. Chern number gives integer invariant. If I = 0 -> N not integer.",
+      "code_paths": [
+        "/home/wubu/bytropix/invariant.c"
+      ],
+      "new_files": [
+        "invariant.c",
+        "invariant.h"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Point-Cloud Fractional Part Estimator",
+      "details": "Monte Carlo integration of fractional part {log N} = {log log log log N}. Sample point clouds on spheres, compute invariant statistics. Cluster near integer -> N integer.",
+      "code_paths": [
+        "/home/wubu/bytropix/fractional_estimator.c"
+      ],
+      "new_files": [
+        "fractional_estimator.c",
+        "fractional_estimator.h"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "RTX 4050 Monte Carlo Run",
+      "details": "Run 10^6 samples on RTX 4050 (6GB VRAM, -ngl 20). Use int8 precision. Batch size 256. Expected ~30 min.",
+      "code_paths": [
+        "/home/wubu/bytropix/run_monte_carlo.py"
+      ],
+      "new_files": [
+        "run_monte_carlo.py"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Seymour Ponderable Entry",
+      "details": "Format results as Ponderable: allegory = tower ascent, clipart = nested spheres, commentary = invariant calculation.",
+      "code_paths": [
+        "/home/wubu/seymour-project/ponderables/wiki/volumes/"
+      ],
+      "new_files": [
+        "ponderable_power_tower.md"
+      ]
+    }
+  ],
+  "precision_strategy": {
+    "log_space": "Work in log space: ln(\u03c0) ~ 1.1447, \u03c0 ln \u03c0 ~ 3.5966, etc. Avoid direct exponentiation.",
+    "int8_quantization": "Use bytropix int8 quantization for curvature forms and sampling.",
+    "kahan_summation": "For Monte Carlo accumulation to reduce floating error.",
+    "mpfr_validation": "Cross-check key values with MPFR arbitrary precision for calibration."
+  }
+}

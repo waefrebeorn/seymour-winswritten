@@ -1,0 +1,473 @@
+{
+  "video_id": "9MfWl6C4izQ",
+  "duration_s": 767.8,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 175.34,
+      "end": 179.18,
+      "text": "Okay, okay, now I'm doing it."
+    },
+    {
+      "start": 179.18,
+      "end": 180.98,
+      "text": "Okay, okay, okay, now I'm doing it."
+    },
+    {
+      "start": 182.16,
+      "end": 186.48,
+      "text": "We're testing to see if we're getting lag over time."
+    },
+    {
+      "start": 186.48,
+      "end": 187.82,
+      "text": "We're testing to see,"
+    },
+    {
+      "start": 189.46,
+      "end": 193.54,
+      "text": "so basically we're gonna goof off for a little bit."
+    },
+    {
+      "start": 193.54,
+      "end": 196.48,
+      "text": "I'm gonna look at some breakfast items"
+    },
+    {
+      "start": 196.48,
+      "end": 200.18,
+      "text": "and we're seeing if the changes that I made"
+    },
+    {
+      "start": 200.18,
+      "end": 203.9,
+      "text": "fix the network's instability and lag"
+    },
+    {
+      "start": 204.5,
+      "end": 207.98,
+      "text": "um, stats."
+    },
+    {
+      "start": 207.98,
+      "end": 211.68,
+      "text": "Because what I had before was an unstable connection."
+    },
+    {
+      "start": 213.38,
+      "end": 218.38,
+      "text": "Now we're getting a solid 6,000 kilobytes a second"
+    },
+    {
+      "start": 218.5,
+      "end": 222.58,
+      "text": "with no lag, kilobytes a second with no lag."
+    },
+    {
+      "start": 222.58,
+      "end": 226.18,
+      "text": "We changed some configuration and deployment options."
+    },
+    {
+      "start": 226.18,
+      "end": 228.42,
+      "text": "We changed some security updates"
+    },
+    {
+      "start": 228.42,
+      "end": 231.06,
+      "text": "and uh, things options."
+    },
+    {
+      "start": 231.06,
+      "end": 234.1,
+      "text": "We just did a run over, things options."
+    },
+    {
+      "start": 234.1,
+      "end": 236.46,
+      "text": "We just did a run over."
+    },
+    {
+      "start": 236.46,
+      "end": 239.54,
+      "text": "I'm just gonna contribute."
+    },
+    {
+      "start": 239.54,
+      "end": 266.94,
+      "text": "I'm just gonna pull request, pull, uh, pull request."
+    },
+    {
+      "start": 267.06,
+      "end": 268.5,
+      "text": "And here's how we'll do it."
+    },
+    {
+      "start": 270.18,
+      "end": 273.34,
+      "text": "We're actually gonna, and here's how we'll do it."
+    },
+    {
+      "start": 274.34,
+      "end": 287.83,
+      "text": "And then we'll remove PNG, summary changes."
+    },
+    {
+      "start": 288.03,
+      "end": 293.03,
+      "text": "Here is the OG, the, and I am the four,"
+    },
+    {
+      "start": 296.71,
+      "end": 318.6,
+      "text": "making the pull and I am, oh yeah, I need to do that here."
+    },
+    {
+      "start": 320.88,
+      "end": 329.13,
+      "text": "Bam, I need to do that here."
+    },
+    {
+      "start": 329.13,
+      "end": 331.29,
+      "text": "Oh yeah, I can mute that though."
+    },
+    {
+      "start": 331.29,
+      "end": 334.85,
+      "text": "We're really just seeing if we fixed the lag."
+    },
+    {
+      "start": 334.85,
+      "end": 336.69,
+      "text": "We're just seeing if we fixed the stability,"
+    },
+    {
+      "start": 336.69,
+      "end": 338.25,
+      "text": "we fixed the lag."
+    },
+    {
+      "start": 338.29,
+      "end": 343.25,
+      "text": "I'm uh, making a pull request update to the original NIMEO."
+    },
+    {
+      "start": 343.25,
+      "end": 348.6,
+      "text": "Oh my God, what's up NIMEO?"
+    },
+    {
+      "start": 348.6,
+      "end": 387.22,
+      "text": "What's up NIMEO, we're fixing the lag."
+    },
+    {
+      "start": 387.22,
+      "end": 388.62,
+      "text": "Thanks for following."
+    },
+    {
+      "start": 389.74,
+      "end": 393.1,
+      "text": "We're doing stuff and we're being busy boys,"
+    },
+    {
+      "start": 393.1,
+      "end": 405.49,
+      "text": "but I've got stuff on the screen I don't wanna show."
+    },
+    {
+      "start": 405.49,
+      "end": 406.49,
+      "text": "NIMEO."
+    },
+    {
+      "start": 406.49,
+      "end": 407.33,
+      "text": "Nucky!"
+    },
+    {
+      "start": 407.33,
+      "end": 446.32,
+      "text": "Thanks for following."
+    },
+    {
+      "start": 446.32,
+      "end": 447.96,
+      "text": "Thanks for the follow."
+    },
+    {
+      "start": 448.8,
+      "end": 452.28,
+      "text": "I just pushed changes to Prism"
+    },
+    {
+      "start": 452.28,
+      "end": 457.54,
+      "text": "and I made a pull request."
+    },
+    {
+      "start": 457.54,
+      "end": 517.45,
+      "text": "General update, there we go."
+    },
+    {
+      "start": 517.45,
+      "end": 527.61,
+      "text": "The irony is I used to host a draw pile server"
+    },
+    {
+      "start": 528.77,
+      "end": 531.81,
+      "text": "and these guys are right here,"
+    },
+    {
+      "start": 531.81,
+      "end": 533.81,
+      "text": "I'm working on their freaking program."
+    },
+    {
+      "start": 533.81,
+      "end": 535.49,
+      "text": "I was main gamer."
+    },
+    {
+      "start": 535.49,
+      "end": 537.85,
+      "text": "I hosted the main gamer draw pile"
+    },
+    {
+      "start": 537.85,
+      "end": 540.85,
+      "text": "where that fucking screaming Valkyrie,"
+    },
+    {
+      "start": 540.85,
+      "end": 543.53,
+      "text": "that furry person that draws the,"
+    },
+    {
+      "start": 545.52,
+      "end": 549.4,
+      "text": "they drew like bugs fucking and shit, man."
+    },
+    {
+      "start": 549.4,
+      "end": 552.68,
+      "text": "They also drew non feral,"
+    },
+    {
+      "start": 552.68,
+      "end": 555.0,
+      "text": "but they drew furry ported shit."
+    },
+    {
+      "start": 556.64,
+      "end": 565.28,
+      "text": "I think we refracted the logic."
+    },
+    {
+      "start": 565.28,
+      "end": 566.84,
+      "text": "All right, now it's time to test."
+    },
+    {
+      "start": 566.84,
+      "end": 569.44,
+      "text": "Let's see the logic."
+    },
+    {
+      "start": 569.44,
+      "end": 570.8,
+      "text": "All right, now it's time."
+    },
+    {
+      "start": 570.8,
+      "end": 572.4,
+      "text": "All right, that should be good."
+    },
+    {
+      "start": 572.4,
+      "end": 574.08,
+      "text": "Now what's going on here?"
+    },
+    {
+      "start": 574.08,
+      "end": 575.44,
+      "text": "The logic."
+    },
+    {
+      "start": 575.44,
+      "end": 577.0,
+      "text": "All right, it's time to test."
+    },
+    {
+      "start": 577.0,
+      "end": 579.8,
+      "text": "Let's see."
+    },
+    {
+      "start": 579.8,
+      "end": 581.32,
+      "text": "All right, let's hit refresh on that."
+    },
+    {
+      "start": 581.4,
+      "end": 588.59,
+      "text": "Let me see if that has anything."
+    },
+    {
+      "start": 588.59,
+      "end": 590.03,
+      "text": "All right, it's refresh on that."
+    },
+    {
+      "start": 590.03,
+      "end": 592.83,
+      "text": "Let me see if that has anything."
+    },
+    {
+      "start": 592.83,
+      "end": 594.91,
+      "text": "That seems like no lag."
+    },
+    {
+      "start": 594.91,
+      "end": 597.39,
+      "text": "It seems like we've hit,"
+    },
+    {
+      "start": 597.39,
+      "end": 600.95,
+      "text": "we've hit the latency that we're supposed to have."
+    },
+    {
+      "start": 600.95,
+      "end": 603.27,
+      "text": "We're heading the latency template."
+    },
+    {
+      "start": 603.27,
+      "end": 609.01,
+      "text": "We're supposed to have."
+    },
+    {
+      "start": 609.01,
+      "end": 614.43,
+      "text": "The real question is whether or not,"
+    },
+    {
+      "start": 614.43,
+      "end": 659.5,
+      "text": "let's CBR, we're checking that."
+    },
+    {
+      "start": 661.26,
+      "end": 662.98,
+      "text": "We're checking that, checking that,"
+    },
+    {
+      "start": 663.98,
+      "end": 670.82,
+      "text": "we're checking that."
+    },
+    {
+      "start": 670.82,
+      "end": 677.88,
+      "text": "I don't see anything wrong here."
+    },
+    {
+      "start": 677.88,
+      "end": 682.73,
+      "text": "It's free, zero followers."
+    },
+    {
+      "start": 682.73,
+      "end": 690.96,
+      "text": "There's only a subscribe button."
+    },
+    {
+      "start": 690.96,
+      "end": 698.2,
+      "text": "That's old."
+    },
+    {
+      "start": 698.2,
+      "end": 700.16,
+      "text": "How do I have 15 viewers?"
+    },
+    {
+      "start": 701.36,
+      "end": 703.32,
+      "text": "That feels like they're lying."
+    },
+    {
+      "start": 703.32,
+      "end": 706.0,
+      "text": "Like they're just straight up lying."
+    },
+    {
+      "start": 706.0,
+      "end": 708.88,
+      "text": "Deal, I'm just trying to say I have 15 viewers."
+    },
+    {
+      "start": 708.88,
+      "end": 710.64,
+      "text": "I don't believe that."
+    },
+    {
+      "start": 710.64,
+      "end": 713.08,
+      "text": "There's no one talking in the chat."
+    },
+    {
+      "start": 713.08,
+      "end": 715.36,
+      "text": "So that's a fake number."
+    },
+    {
+      "start": 715.36,
+      "end": 716.96,
+      "text": "Yeah, those people are gone."
+    },
+    {
+      "start": 719.48,
+      "end": 722.0,
+      "text": "I said that and that number vanished."
+    },
+    {
+      "start": 722.0,
+      "end": 723.44,
+      "text": "Good."
+    },
+    {
+      "start": 723.44,
+      "end": 726.68,
+      "text": "Yeah, all 15 people left at once."
+    },
+    {
+      "start": 726.68,
+      "end": 738.19,
+      "text": "That's, I pissed them all off at the same time."
+    },
+    {
+      "start": 738.19,
+      "end": 746.94,
+      "text": "Bitrate, too bad it's congestion."
+    },
+    {
+      "start": 746.94,
+      "end": 755.21,
+      "text": "I actually do think we fixed the problem though."
+    },
+    {
+      "start": 755.21,
+      "end": 758.29,
+      "text": "The video being 60 frames a second was never the issue."
+    }
+  ],
+  "total_words": 581
+}

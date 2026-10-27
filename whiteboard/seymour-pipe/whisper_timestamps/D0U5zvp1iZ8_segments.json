@@ -1,0 +1,88 @@
+{
+  "video_id": "D0U5zvp1iZ8",
+  "duration_s": 286.0,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 11.92,
+      "end": 18.84,
+      "text": "All right, I'm talking and there should be a connection lag if we're here on the connection"
+    },
+    {
+      "start": 20.32,
+      "end": 22.32,
+      "text": "All right, I'm talking and"
+    },
+    {
+      "start": 23.84,
+      "end": 34.78,
+      "text": "Actually we're here I'm not seeing lag yet"
+    },
+    {
+      "start": 34.78,
+      "end": 43.66,
+      "text": "What about this one?"
+    },
+    {
+      "start": 43.66,
+      "end": 57.11,
+      "text": "There should be a connection lag if we're here on the connection"
+    },
+    {
+      "start": 57.11,
+      "end": 59.11,
+      "text": "Tube is not receiving enough data"
+    },
+    {
+      "start": 59.71,
+      "end": 62.98,
+      "text": "being enough data"
+    },
+    {
+      "start": 62.98,
+      "end": 76.96,
+      "text": "We have to be being proddled seeing lag yet"
+    },
+    {
+      "start": 76.96,
+      "end": 133.32,
+      "text": "Tube is not receiving enough data being enough data"
+    },
+    {
+      "start": 133.92,
+      "end": 156.44,
+      "text": "We have to be being proddled"
+    },
+    {
+      "start": 156.44,
+      "end": 161.32,
+      "text": "I'm going to have to enter this"
+    },
+    {
+      "start": 161.32,
+      "end": 163.32,
+      "text": "I'm not seeing lag yet"
+    },
+    {
+      "start": 163.32,
+      "end": 169.32,
+      "text": "I'm not saying that the router is by me that I'm not using it"
+    },
+    {
+      "start": 169.32,
+      "end": 182.77,
+      "text": "Not the bad way"
+    },
+    {
+      "start": 182.77,
+      "end": 184.77,
+      "text": "Anyways, is that good?"
+    },
+    {
+      "start": 184.77,
+      "end": 186.77,
+      "text": "Yeah, like your download is working"
+    }
+  ],
+  "total_words": 119
+}

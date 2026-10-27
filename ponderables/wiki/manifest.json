@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "generated": "2026-07-08",
+  "stats": {
+    "total_videos": 460,
+    "videos_with_transcripts": 297,
+    "clipart_cataloged": 262,
+    "categories": 1,
+    "ponderable_candidates": 297,
+    "volumes_created": 2,
+    "total_ponderables": 24
+  },
+  "structure": {
+    "clipart": "clipart/*.json",
+    "ponderables": "ponderables/*.json",
+    "volumes": "volumes/*.json",
+    "indices": "indices/*.json"
+  }
+}

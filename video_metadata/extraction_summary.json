@@ -1,0 +1,7 @@
+{
+  "total_processed": 311,
+  "successful": 402,
+  "failed": 9,
+  "success_rate": "97.8%",
+  "output_dir": "/home/wubu/seymour-project/video_metadata"
+}

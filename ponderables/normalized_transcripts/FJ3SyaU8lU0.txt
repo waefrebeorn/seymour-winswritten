@@ -1,0 +1,8 @@
+# FJ3SyaU8lU0
+# Source: whisper_fallback
+# Quality: low
+# Word count: 4
+# Flags: too_short:4_words, too_few_chars:22
+# Available sources: whisper_fallback
+
+[00:00] It's fake news

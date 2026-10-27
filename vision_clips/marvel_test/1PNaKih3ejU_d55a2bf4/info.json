@@ -1,0 +1,23 @@
+{
+  "video_id": "1PNaKih3ejU",
+  "clip_id": "d55a2bf4",
+  "keyword": "Marvel",
+  "start_s": 50.5,
+  "end_s": 65.5,
+  "duration_s": 15.0,
+  "frame_times": [
+    0,
+    5.0,
+    9.9,
+    14.5
+  ],
+  "frames": [],
+  "frame_count": 0,
+  "vision_resolution": [
+    896,
+    896
+  ],
+  "frame_format": "webp",
+  "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_test/1PNaKih3ejU_d55a2bf4",
+  "status": "failed"
+}

@@ -1,0 +1,3557 @@
+{
+  "bytropix": [
+    [
+      "2026-06-22",
+      "ba779d8",
+      "gpu_gemma4: WSL2 weight upload fix using file-based staging buffer"
+    ],
+    [
+      "2026-06-22",
+      "4a8b26c",
+      "Tandem SSD\u2192RAM\u2192VRAM pipeline + GPU-native Q4_K dequant"
+    ],
+    [
+      "2026-06-22",
+      "498ed17",
+      "Gemma 4 GPU build + tied output fix for large vocab models"
+    ],
+    [
+      "2026-06-14",
+      "817899b",
+      "fix: DGemma LARGE layer V-projection sharing and output dim detection"
+    ],
+    [
+      "2026-06-14",
+      "b9817f5",
+      "fix: per-layer head_dim for DiffusionGemma heterogeneous GQA layers"
+    ],
+    [
+      "2026-06-14",
+      "c0df6ae",
+      "chore: remove accidentally tracked binary infer_vision_gpu"
+    ],
+    [
+      "2026-06-14",
+      "4003f06",
+      "fix: resolve all build and linker errors from multi-model adapter"
+    ],
+    [
+      "2026-06-14",
+      "ab4c04b",
+      "gitignore: add build artifacts, patch files, llama.cpp, binaries"
+    ],
+    [
+      "2026-06-14",
+      "180c274",
+      "Clean release: multi-model headers, GPU kernels, Gemma4 engine, tools"
+    ],
+    [
+      "2026-06-14",
+      "5729e5a",
+      "Multi-model adapter: DiffusionGemma-26B + Gemma4-12B + Qwen3.6-35B"
+    ],
+    [
+      "2026-06-05",
+      "297303d",
+      "docs: rewrite README \u2014 accurate scope, MIT license, current features, clean stru"
+    ],
+    [
+      "2026-05-21",
+      "94c21c8",
+      "feat(debug): DUMP_EMBEDDING_DIR + root cause found \u2014 token embedding broken"
+    ],
+    [
+      "2026-05-21",
+      "4ebe712",
+      "feat(debug): DUMP_GQA_DEBUG_DIR + per-layer divergence audit"
+    ],
+    [
+      "2026-05-21",
+      "ec58b72",
+      "docs: Phase 29a state \u2014 IQ1_M + Q4_K GPU kernels"
+    ],
+    [
+      "2026-05-21",
+      "c0254c0",
+      "feat(gpu): IQ1_M + Q4_K quant matmul kernels, CPU IQ1_M fallback"
+    ],
+    [
+      "2026-05-21",
+      "e3023d0",
+      "docs: end-of-session \u2014 Phase 28u IQ1_M model generated"
+    ],
+    [
+      "2026-05-21",
+      "332bed6",
+      "docs: end-of-session \u2014 Phase 28t all P2 items complete"
+    ],
+    [
+      "2026-05-21",
+      "2a58777",
+      "docs: end-of-session \u2014 Phase 28s NSA sparse attention done"
+    ],
+    [
+      "2026-05-21",
+      "0129f1a",
+      "feat(gqa): NSA-style sparse attention (DeepSeek-V3.2 DSA pattern)"
+    ],
+    [
+      "2026-05-21",
+      "e6210e2",
+      "docs: end-of-session \u2014 Phase 28r chunked SSM wired + documented"
+    ],
+    [
+      "2026-05-21",
+      "501518f",
+      "fix(ssm): cyclic repeat mapping, cur_nt bounds, wire chunked into forward pass"
+    ],
+    [
+      "2026-05-21",
+      "a2a6dfc",
+      "docs: update mind-palace for P2.3 chunked SSM fix (c5475af)"
+    ],
+    [
+      "2026-05-21",
+      "c5475af",
+      "fix(ssm): chunked recurrence data layout \u2014 token-interleaved heads"
+    ],
+    [
+      "2026-05-21",
+      "af9af32",
+      "docs: end-of-session handoff \u2014 overnight-map + prestige_prompt update for Phase "
+    ],
+    [
+      "2026-05-21",
+      "48dcf5e",
+      "docs: update overnight-map + plan.md for P2.4 RoPE completion"
+    ],
+    [
+      "2026-05-21",
+      "9b98098",
+      "feat(rope): RoPE extrapolation 4x via ROPE_SCALE_FACTOR env var"
+    ],
+    [
+      "2026-05-21",
+      "473f2b2",
+      "feat(docs): Triple DA run \u2014 update 7 stale files, fix gen_text_cpu build, docume"
+    ],
+    [
+      "2026-05-21",
+      "f97b483",
+      "feat(gpu): GPU MMProj via cuBLAS SGEMM, total vision pipeline 15.7s (was 44s)"
+    ],
+    [
+      "2026-05-21",
+      "3464940",
+      "fix(gpu): GPU vision encoder residual bug, 0.52s vs 63.7s CPU (122x)"
+    ],
+    [
+      "2026-05-21",
+      "9a170fb",
+      "feat(gpu): batched quant matmul kernels Q5_K/Q6_K, wire into SSM hybrid + GQA pr"
+    ],
+    [
+      "2026-05-21",
+      "58f0a07",
+      "fix(gpu): batch GQA prefill C=N, add chunk_sz helper, fix cuda_vision scores arr"
+    ],
+    [
+      "2026-05-21",
+      "695fda5",
+      "feat(docs): DA v13 complete, P1 MTP working, CUDA sm_120 bugs documented"
+    ],
+    [
+      "2026-05-21",
+      "12ad638",
+      "feat(gpu): Q8_K input quantization for MoE kernel (v5)"
+    ],
+    [
+      "2026-05-21",
+      "855da96",
+      "fix(gpu): May20 fixes \u2014 MoE compile, F16 denormals, FORCE_CPU_SSM, test methodol"
+    ],
+    [
+      "2026-05-20",
+      "8ef1ba3",
+      "fix(build): add gen_text_cpu target (CPU-only, no GPU_SUPPORT)"
+    ],
+    [
+      "2026-05-20",
+      "2d396f7",
+      "feat: add API server + educational disclaimer"
+    ],
+    [
+      "2026-05-20",
+      "9093c61",
+      "fix(gpu-moe): add IQ3_XXS dequant support for down weights"
+    ],
+    [
+      "2026-05-20",
+      "cdccde2",
+      "fix(gpu): GQA Q/gate extraction from fused weight is interleaved per-head"
+    ],
+    [
+      "2026-05-20",
+      "bf573b8",
+      "fix(gpu): Q5_K quant matmul flushes F16 denormals to zero"
+    ],
+    [
+      "2026-05-20",
+      "59ada37",
+      "fix(gpu): fix Q5_K quant matmul investigation + state docs update"
+    ],
+    [
+      "2026-05-20",
+      "08f5f23",
+      "fix(gpu): fix SSM state sync + output projection layout"
+    ],
+    [
+      "2026-05-20",
+      "555370a",
+      "chore(cleanup): untrack binary artifacts, vault PDFs, and runtime data from git"
+    ],
+    [
+      "2026-05-20",
+      "bc447fa",
+      "fix(gpu): cleanup CUDA error checks, add DUMP_LOGITS env var, fix model path"
+    ],
+    [
+      "2026-05-20",
+      "c606303",
+      "docs(mind-palace): Phase 28e Triple DA sweep \u2014 correct document drift + feature "
+    ],
+    [
+      "2026-05-20",
+      "501232f",
+      "fix(gpu): correct Q6_K dequant offset in quant_matmul_q6_k_kernel"
+    ],
+    [
+      "2026-05-20",
+      "296e9b0",
+      "fix(gpu): CORRECT weight layout for quant matmul \u2014 use column-major kernel"
+    ],
+    [
+      "2026-05-20",
+      "4ad046a",
+      "fix(gpu): fix catastrophic SSM small F32 weight init bug (all layers NULL)"
+    ],
+    [
+      "2026-05-20",
+      "267c924",
+      "fix(gpu): remove F32 dequant waste, fix ssm_project fallback, add CUDA error che"
+    ],
+    [
+      "2026-05-20",
+      "2b6db45",
+      "Phase 28b DA essay + honest SVG diagrams"
+    ],
+    [
+      "2026-05-20",
+      "a0ecc9d",
+      "Phase 28b DA: GPU_SUPPORT live, 5 DA issues found"
+    ],
+    [
+      "2026-05-20",
+      "dfc919f",
+      "MADE_AGENTICALLY_BY_HERMES.md v23 + honest SVG diagrams"
+    ],
+    [
+      "2026-05-20",
+      "23afd91",
+      "Phase 25-26: fused quant matmul + SSM decode kernels + DA docs cleanup"
+    ],
+    [
+      "2026-05-20",
+      "db457f4",
+      "Repo structure cleanup Part 2: data/README.md, updated .hermes/tools/DIAGRAMS RE"
+    ],
+    [
+      "2026-05-20",
+      "43cd805",
+      "DA audit v22a: stale GPU speed claims fixed, root directory READMEs added, 1:1 p"
+    ],
+    [
+      "2026-05-20",
+      "9ba38e2",
+      "Add KV cache compression resources: TurboQuant+, RotorQuant, Hamilton encoder"
+    ],
+    [
+      "2026-05-20",
+      "9f56957",
+      "Repo structure cleanup: READMEs for src/include/tools/vault/DIAGRAMS + HTML badg"
+    ],
+    [
+      "2026-05-20",
+      "d3cb6a6",
+      "MADE_AGENTICALLY_BY_HERMES.md v22: comprehensive agentic essay + DA audit + hone"
+    ],
+    [
+      "2026-05-20",
+      "2791fc6",
+      "Legacy documentation sweep: triple-extended roadmap + DA audit + arch correction"
+    ],
+    [
+      "2026-05-20",
+      "24bd538",
+      "Phase 22: Q4_0 KV cache compression + DUMP_INTERMEDIATE_DIR + architecture disco"
+    ],
+    [
+      "2026-05-20",
+      "78d528d",
+      "Phase 21: Sliding window attention for 256k GQA"
+    ],
+    [
+      "2026-05-20",
+      "a785cbe",
+      "Phase 20: MoE expert cache on GPU"
+    ],
+    [
+      "2026-05-20",
+      "746d96c",
+      "Phase 19: Batched prefill via parallel scan (18.6 tok/s, +59%)"
+    ],
+    [
+      "2026-05-20",
+      "8735a65",
+      "Phase 18c: GPU conv_state + GPU K-head repeat"
+    ],
+    [
+      "2026-05-20",
+      "7a18c00",
+      "Phase 18b: FP16 chunked attention GPU softmax + MoE d_x pre-alloc"
+    ],
+    [
+      "2026-05-20",
+      "d737347",
+      "Phase 18: GPU SSM Full Forward Pipeline"
+    ],
+    [
+      "2026-05-20",
+      "46208f1",
+      "docs: triple-extended roadmap, vault archive, milestone documentation"
+    ],
+    [
+      "2026-05-19",
+      "cd045e6",
+      "perf(ssm): GPU recurrence for all decode (N>=1), matmuls GPU for prefill (N>1)"
+    ],
+    [
+      "2026-05-19",
+      "6c060b5",
+      "perf(gpu): ATTEN_TILE 16384 \u2014 256k context hits 7.8 tok/s"
+    ],
+    [
+      "2026-05-19",
+      "3da1831",
+      "feat(gpu): FP16 KV cache \u2014 halves VRAM, enables 256k context on 8GB"
+    ],
+    [
+      "2026-05-19",
+      "0c17055",
+      "feat(gpu): growable KV cache, strided-batched attention, smart GPU gating"
+    ],
+    [
+      "2026-05-19",
+      "81adfc1",
+      "feat(ssm): GPU SSM recurrence kernel (cos-sim=1.0, 2.4x decode speedup)"
+    ],
+    [
+      "2026-05-19",
+      "4f9890e",
+      "perf(moe): pre-allocate GPU MoE buffers, batched kernel, avoid per-expert malloc"
+    ],
+    [
+      "2026-05-19",
+      "2553cb2",
+      "feat(moe): wire GPU MoE expert kernel into forward pass"
+    ],
+    [
+      "2026-05-19",
+      "409f578",
+      "feat(moe): add GPU MoE expert kernel (IQ2_XXS) with constant-memory grid lookup"
+    ],
+    [
+      "2026-05-19",
+      "469f0af",
+      "perf(ssm): pre-allocate GPU SSM output buffers, reduce syncs from 6 to 2"
+    ],
+    [
+      "2026-05-19",
+      "d2c8cca",
+      "feat(ssm): wire GPU quantized matmul kernels into SSM forward pass"
+    ],
+    [
+      "2026-05-19",
+      "4b8e0eb",
+      "feat(gpu): Phase 16 infrastructure \u2014 quantized Q5_K/Q6_K GPU matmul kernels"
+    ],
+    [
+      "2026-05-19",
+      "5b81f39",
+      "feat(gpu): Phase 15 \u2014 wire GPU GQA attention into wubu_model_t"
+    ],
+    [
+      "2026-05-19",
+      "dd0d1b4",
+      "Legacy documentation: triple-extended GPU roadmap + vault legacy dump + final st"
+    ],
+    [
+      "2026-05-19",
+      "01c803a",
+      "GPU GQA attention + MTP logit correction EMA + GPU roadmap"
+    ],
+    [
+      "2026-05-19",
+      "1e17dcb",
+      "MTP: online logit correction EMA for quantization bias compensation"
+    ],
+    [
+      "2026-05-19",
+      "afc88cc",
+      "v5 Made Agentically essay: comprehensive Phase 14 update with DA verification, A"
+    ],
+    [
+      "2026-05-19",
+      "8b17bb1",
+      "Phase 14: SSM AVX2 + fused Q8_K + GPU quantized + tiled GQA attention"
+    ],
+    [
+      "2026-05-19",
+      "2a6aeaf",
+      "docs: v4 retrospective, honest SVG status diagrams, Q6_K bug post-mortem"
+    ],
+    [
+      "2026-05-19",
+      "10d1937",
+      "Phase 9.5: Q6_K vec_dot bug fix + KV cache 256k F16"
+    ],
+    [
+      "2026-05-19",
+      "6baa9b9",
+      "docs: v3 retrospective, honest README, updated SVG, Phase 8 docs"
+    ],
+    [
+      "2026-05-19",
+      "71d4b3f",
+      "feat(perf): expert prefetch full-stride L3 + output proj OMP outer loop"
+    ],
+    [
+      "2026-05-19",
+      "d1fdc9e",
+      "docs: update state/goal with cos-sim audit + MTP verification"
+    ],
+    [
+      "2026-05-19",
+      "afb120c",
+      "perf(moe): AVX2 IQ2_XXS vec_dot + OpenMP task dispatch \u2192 8.0 tok/s"
+    ],
+    [
+      "2026-05-19",
+      "f211469",
+      "docs: massive README overhaul \u2014 current Phase 7, DA-verified metrics"
+    ],
+    [
+      "2026-05-19",
+      "2e55e9a",
+      "docs: agentic essay v2, honest SVG, Triple DA sweep"
+    ],
+    [
+      "2026-05-19",
+      "58ec2f7",
+      "docs: Triple DA audit \u2014 7 claims verified, 2 stale, cold gaps ranked"
+    ],
+    [
+      "2026-05-19",
+      "c6ff5ba",
+      "chore: kill llama deps, add NV64 RDRAM ring buffer design"
+    ],
+    [
+      "2026-05-19",
+      "a396c6e",
+      "perf: Phase 7 HW saturation \u2014 AVX2 vec_dot, GQA AVX2, prefetch"
+    ],
+    [
+      "2026-05-19",
+      "568649b",
+      "feat(mtp): fix cur=prompt_embd, add ref_dumper_mtp cross-ref tool"
+    ],
+    [
+      "2026-05-19",
+      "f93cf6f",
+      "fix(mtp): correct concat order [e_norm|h_norm], clean gen_text_mtp for non-MTP d"
+    ],
+    [
+      "2026-05-19",
+      "23ff501",
+      "feat(mtp): SSM state checkpoint/rollback, nextn_hnorm fix, MTP spec-decode + fre"
+    ],
+    [
+      "2026-05-19",
+      "e4ff285",
+      "feat(quant): add Q2_K/Q3_K/Q8_0/IQ2_S/BF16 support + save_last_hidden + MTP infr"
+    ],
+    [
+      "2026-05-18",
+      "228e0ae",
+      "docs(mind-palace): Phase 5-7 roadmap + ARCHITECTURE legacy doc"
+    ],
+    [
+      "2026-05-18",
+      "f1197a1",
+      "docs: final state update - all phases complete, engine works"
+    ]
+  ],
+  "slermes": [
+    [
+      "2026-07-03",
+      "cd07dec",
+      "v534: Fix 5 port files with compile errors + wrong JSON API signatures"
+    ],
+    [
+      "2026-07-02",
+      "2f82a4a",
+      "v533: Fix undefined json_string_value calls across 3 port files"
+    ],
+    [
+      "2026-07-02",
+      "f1bdc31",
+      "v532: Add missing generated wayland header xdg-shell-client-protocol.h"
+    ],
+    [
+      "2026-07-02",
+      "ec7d102",
+      "v531: Fix GHA build \u2014 wayland detection, window stubs, cross-compile fallback"
+    ],
+    [
+      "2026-07-02",
+      "bf2fc6e",
+      "v530: Fix build \u2014 hermes_config.h missing, port compile errors, ci-build.sh for "
+    ],
+    [
+      "2026-07-02",
+      "43cbec3",
+      "v529: CI build \u2014 compile all .c files directly with gcc (no make)"
+    ],
+    [
+      "2026-07-02",
+      "85f436d",
+      "v528: Fix grep -oP \u2192 -ohP (no filename prefixes in output)"
+    ],
+    [
+      "2026-07-02",
+      "61378f0",
+      "v527: Fix CI build \u2014 grep all .o refs from Makefiles for explicit targets"
+    ],
+    [
+      "2026-07-02",
+      "bac2529",
+      "v526: Build on CI via explicit target list + manual link"
+    ],
+    [
+      "2026-07-02",
+      "a72351b",
+      "v525: Bypass default target \u2014 build objects via explicit target list"
+    ],
+    [
+      "2026-07-02",
+      "8e53b4b",
+      "v524: Debug \u2014 test single-target pattern rule vs default target"
+    ],
+    [
+      "2026-07-02",
+      "e9e103f",
+      "v523: Debug \u2014 explicit compile + make -r (no built-in rules)"
+    ],
+    [
+      "2026-07-02",
+      "a2df45a",
+      "v522: Fix Make pattern rule \u2014 remove hermes.h dependency"
+    ],
+    [
+      "2026-07-02",
+      "42ef2e9",
+      "v521: Debug CI \u2014 ls files, make -d single target"
+    ],
+    [
+      "2026-07-02",
+      "daceb11",
+      "v520: Debug CI \u2014 test single compile + make -f Makefile"
+    ],
+    [
+      "2026-07-02",
+      "874eccf",
+      "v519: Debug CI \u2014 check exit code and file listing after build"
+    ],
+    [
+      "2026-07-02",
+      "3cf93fb",
+      "v518: Debug CI \u2014 check make version and default target"
+    ],
+    [
+      "2026-07-02",
+      "e3c124a",
+      "v517: Fix apt package names on Ubuntu 24.04 \u2014 libncurses-dev not libncursesw6-de"
+    ],
+    [
+      "2026-07-02",
+      "04b5d1b",
+      "v516: Debug CI Linux build \u2014 add build info tracing"
+    ],
+    [
+      "2026-07-02",
+      "509114a",
+      "v515: Fix CI \u2014 force CC=gcc, add fcntl.h for musl, wayland-dev for Alpine"
+    ],
+    [
+      "2026-07-02",
+      "c693353",
+      "v514: Fix CI \u2014 macOS strcasestr, Alpine zlib, ARMv7+fp, graceful cross-compiles"
+    ],
+    [
+      "2026-07-02",
+      "7f4b7c4",
+      "v513: Fix CI build failures \u2014 musl time_t, macOS tail truncation, SDL2 noise"
+    ],
+    [
+      "2026-07-02",
+      "57699f0",
+      "v512: Fix release workflow + packaging for first release"
+    ],
+    [
+      "2026-07-02",
+      "a021b0a",
+      "v511c: Devil's advocate \u2014 fix PET_OBJ gap, sqlite3 fetch, .PHONY, CI"
+    ],
+    [
+      "2026-07-02",
+      "39788f1",
+      "v511b: Devil's advocate fixes \u2014 dead refs, .PHONY gaps, CI cleanup"
+    ],
+    [
+      "2026-07-02",
+      "b5c47c5",
+      "v511: Modular Makefile \u2014 1535-line monolith split into build/*.mk (12 files)"
+    ],
+    [
+      "2026-07-02",
+      "6cee89a",
+      "test: fix test suite builds, Dockerfiles, release pipeline"
+    ],
+    [
+      "2026-07-02",
+      "537fcf7",
+      "docs: restructure into organized hierarchy, update README"
+    ],
+    [
+      "2026-07-02",
+      "3979d95",
+      "cleanup: remove migration tools, test artifacts, old media, stale docs"
+    ],
+    [
+      "2026-07-02",
+      "e1d1124",
+      "v510: full parity achieved \u2014 0 REAL_GAP, 0 PARTIAL across all 9,731 features"
+    ],
+    [
+      "2026-07-02",
+      "7561f37",
+      "feat(ci): multi-platform CI + GitHub Release workflow + ROADMAP"
+    ],
+    [
+      "2026-07-02",
+      "e87a8c0",
+      "v508b: CI/CD workflow lineup \u2014 GitHub Actions, Docker, upstream sync"
+    ],
+    [
+      "2026-07-02",
+      "1bff416",
+      "Merge remote-tracking branch 'upstream/main'"
+    ],
+    [
+      "2026-07-02",
+      "543d305",
+      "feat(moa): add reference_max_tokens to cap advisor output and cut turn latency ("
+    ],
+    [
+      "2026-07-02",
+      "11bb973",
+      "v508: fix setup, build, and upstream sync workflow"
+    ],
+    [
+      "2026-07-02",
+      "9be39de",
+      "fix(auth): make HERMES_PORTAL_BASE_URL/NOUS_PORTAL_BASE_URL bypass the Portal ho"
+    ],
+    [
+      "2026-07-02",
+      "0624720",
+      "gitignore: ignore test build artifacts"
+    ],
+    [
+      "2026-07-02",
+      "2c8e123",
+      "gitignore: add build artifacts to ignore list"
+    ],
+    [
+      "2026-07-02",
+      "88d1d62",
+      "fix(streaming): handle completed responses with empty/None choices (#55933) (#56"
+    ],
+    [
+      "2026-07-02",
+      "76be770",
+      "test(moa): assert aux cap against model resolver, not frozen literal"
+    ],
+    [
+      "2026-07-01",
+      "7951250",
+      "fix(moa): lift hidden Anthropic aux output cap"
+    ],
+    [
+      "2026-07-02",
+      "4d5d9ff",
+      "Merge pull request #56582 from srojk34/fix/vertex-credentials-env-leak"
+    ],
+    [
+      "2026-07-01",
+      "7f64cce",
+      "security(vertex): route credential/project/region resolution through the profile"
+    ],
+    [
+      "2026-07-01",
+      "2f7c51a",
+      "Merge pull request #56605 from simpolism/codex/discord-inline-bot-mentions"
+    ],
+    [
+      "2026-07-01",
+      "8308603",
+      "Guard browser CDP on private pages"
+    ],
+    [
+      "2026-07-01",
+      "676236b",
+      "fix(agent): honor custom CA certs on aux client + harden TLS resolution"
+    ],
+    [
+      "2026-07-01",
+      "3a2ba95",
+      "fix(agent): honor custom CA certs for custom_providers HTTPS endpoints"
+    ],
+    [
+      "2026-07-01",
+      "7e957cb",
+      "feat(agent): add resolve_httpx_verify for custom CA bundle TLS"
+    ],
+    [
+      "2026-07-01",
+      "e78ae1f",
+      "cleanup test"
+    ],
+    [
+      "2026-07-01",
+      "7c57950",
+      "slermes: test commit"
+    ],
+    [
+      "2026-07-01",
+      "b3bc302",
+      "Merge pull request #56641 from NousResearch/bb/journey-cli-robustness"
+    ],
+    [
+      "2026-07-01",
+      "89cf65a",
+      "fix(tui_gateway): strip ANSI from slash-worker output for desktop chat"
+    ],
+    [
+      "2026-07-01",
+      "428b9a0",
+      "fix(cli): render /journey color instead of leaking raw ANSI"
+    ],
+    [
+      "2026-07-01",
+      "ec319e4",
+      "fix(learning_graph): guard non-dict metadata so /journey can't crash"
+    ],
+    [
+      "2026-07-01",
+      "76a468e",
+      "feat(models): add claude-fable-5, claude-sonnet-5, fugu-ultra to curated OpenRou"
+    ],
+    [
+      "2026-07-01",
+      "7c1a029",
+      "chore: release v0.18.0 (2026.7.1) (#56611)"
+    ],
+    [
+      "2026-07-01",
+      "e9bceb5",
+      "fix(discord): ignore reply-ping-only mentions for bot-authored messages"
+    ],
+    [
+      "2026-07-01",
+      "1a0d787",
+      "security(terminal): strip VERTEX_CREDENTIALS_PATH/GOOGLE_APPLICATION_CREDENTIALS"
+    ],
+    [
+      "2026-07-01",
+      "60b1f6c",
+      "Merge pull request #56526 from srojk34/fix/browser-back-private-network-guard"
+    ],
+    [
+      "2026-07-01",
+      "b225b30",
+      "fix(kanban): route notifier wake via profile chokepoint; harden review findings"
+    ],
+    [
+      "2026-06-29",
+      "3545d74",
+      "fix(kanban): i18n wake messages \u2014 address review feedback on #54872"
+    ],
+    [
+      "2026-06-29",
+      "c696430",
+      "feat(kanban): route notifications via owning profile + wake creator agent"
+    ],
+    [
+      "2026-07-01",
+      "7322da4",
+      "refactor(codex-runtime): tidy reapply-migration control flow"
+    ],
+    [
+      "2026-05-15",
+      "35eb93c",
+      "fix(codex-runtime): re-running /codex-runtime codex_app_server when already enab"
+    ],
+    [
+      "2026-07-01",
+      "118febb",
+      "Merge pull request #56530 from kshitijk4poor/chore-authormap-54872"
+    ],
+    [
+      "2026-07-01",
+      "b23e1c3",
+      "refactor(approval): extract is_approval_bypass_active(); use frozen-env bypass i"
+    ],
+    [
+      "2026-07-01",
+      "0b8e819",
+      "fix(codex-app-server): honor approvals.mode/yolo for gateway-context approval ro"
+    ],
+    [
+      "2026-07-01",
+      "148674e",
+      "chore: add AUTHOR_MAP entry for zmlgit (PR #54872 salvage)"
+    ],
+    [
+      "2026-07-01",
+      "4612ee9",
+      "security(browser): re-check private-network guard after browser_back navigation"
+    ],
+    [
+      "2026-07-01",
+      "9be292f",
+      "fix(desktop): make MoA preset selection persistent, not one-shot (#54670) (#5641"
+    ],
+    [
+      "2026-07-01",
+      "5eaccf5",
+      "fix(gateway): queue interrupts during in-flight context compression"
+    ],
+    [
+      "2026-07-01",
+      "1641441",
+      "fix(desktop): don't false-timeout long prompt.submit turns (MoA, deep reasoning)"
+    ],
+    [
+      "2026-07-01",
+      "eae3700",
+      "fix(moa): raise aux timeouts to 900s and give the Codex aux path a stable prompt"
+    ],
+    [
+      "2026-07-01",
+      "aa605b6",
+      "fix(moa): price aggregator turn at its real model so session cost isn't advisor-"
+    ],
+    [
+      "2026-07-01",
+      "b795a45",
+      "fix(compaction): detect and strip merge-into-tail summaries past the delimiter"
+    ],
+    [
+      "2026-07-01",
+      "a1a8a96",
+      "fix(compaction): place END MARKER last in merge-into-tail summaries"
+    ],
+    [
+      "2026-07-01",
+      "d007626",
+      "fix(i18n): add gateway.resume.blocked_not_owner to all locales"
+    ],
+    [
+      "2026-07-01",
+      "5b3f064",
+      "security(gateway): fail closed on persisted /resume when caller keys on user_id_"
+    ],
+    [
+      "2026-06-30",
+      "f1e58d8",
+      "security(gateway): allow shared-group resume in persisted /resume fallback"
+    ],
+    [
+      "2026-06-29",
+      "599a639",
+      "security(gateway): fail closed on no-provenance persisted /resume for non-DM cal"
+    ],
+    [
+      "2026-06-29",
+      "5248877",
+      "security(gateway): prove chat/thread origin for persisted /resume; tighten DM sc"
+    ],
+    [
+      "2026-06-28",
+      "33a5090",
+      "security(gateway): fail closed on persisted /resume for identity-less callers"
+    ],
+    [
+      "2026-06-28",
+      "bb6e216",
+      "security(gateway): scope Matrix /resume by thread, not just room"
+    ],
+    [
+      "2026-06-27",
+      "a0018ca",
+      "security(gateway): fail closed on blank-source rows in /resume scoping"
+    ],
+    [
+      "2026-06-25",
+      "c4f278c",
+      "security(gateway): scope /resume and /sessions to the caller's origin (IDOR)"
+    ],
+    [
+      "2026-07-01",
+      "5d613a5",
+      "fix(terminal): route init_session bootstrap cd through Windows path conversion"
+    ],
+    [
+      "2026-05-31",
+      "9ed7252",
+      "fix terminal cwd handling on windows"
+    ],
+    [
+      "2026-06-15",
+      "ad5f334",
+      "fix(terminal): prefer Git for Windows bash over Linux bash on Windows"
+    ],
+    [
+      "2026-07-01",
+      "ba0bc01",
+      "feat(delegate): remove model-facing toolsets arg \u2014 subagents always inherit pare"
+    ],
+    [
+      "2026-07-01",
+      "1bfe081",
+      "fix(gateway): pairing is a grant that syncs to the allowlist (#23778) (#56381)"
+    ],
+    [
+      "2026-07-01",
+      "04b4310",
+      "test(moa): loosen parallel-fan-out timing threshold to tolerate CI jitter (#5637"
+    ],
+    [
+      "2026-07-01",
+      "d68d271",
+      "fix(tui): use shared harden_import_path guard in slash_worker"
+    ],
+    [
+      "2026-06-23",
+      "8dcbc91",
+      "fix(tui): guard slash_worker sys.path against local package shadowing"
+    ],
+    [
+      "2026-07-01",
+      "7b45a22",
+      "Merge pull request #56382 from kshitijk4poor/chore/authormap-gromykoss-56372"
+    ],
+    [
+      "2026-07-01",
+      "3f6c6bd",
+      "fix(vertex): surface Vertex on the desktop Keys tab for provider parity"
+    ],
+    [
+      "2026-07-01",
+      "c73e743",
+      "feat(vertex): add Google Vertex AI provider for Gemini (OAuth2)"
+    ],
+    [
+      "2026-06-28",
+      "a4af257",
+      "fix(browser): extend private-network guard to browser_console"
+    ],
+    [
+      "2026-07-01",
+      "0ebbfbc",
+      "chore: add Gromykoss to AUTHOR_MAP for PR #56372 salvage"
+    ],
+    [
+      "2026-07-01",
+      "65a6a36",
+      "fix(patch): preserve file Unicode when unicode_normalized strategy matches"
+    ],
+    [
+      "2026-07-01",
+      "2f167a2",
+      "fix: comment accuracy + AUTHOR_MAP for salvaged PR #50204"
+    ]
+  ],
+  "WuBu": [
+    [
+      "2026-05-25",
+      "5ae344f",
+      "docs: update mind palace + goal mantra + goal paste for 123/400 battleship"
+    ],
+    [
+      "2026-05-25",
+      "5d9fc5b",
+      "add goal paste + entropy bridge docs"
+    ],
+    [
+      "2026-05-25",
+      "7d626cf",
+      "Overtake: WuBu \u2192 P2P Distributed Inference Network"
+    ],
+    [
+      "2025-06-26",
+      "f403f51",
+      "Merge pull request #71 from waefrebeorn/fix/repetitive-noise-and-cfg-scale"
+    ],
+    [
+      "2025-06-26",
+      "8b24ef7",
+      "Feat: Add Zonos GUI controls and fix max_new_tokens"
+    ],
+    [
+      "2025-06-26",
+      "e99530d",
+      "Merge pull request #70 from waefrebeorn/fix/repetitive-noise-and-cfg-scale"
+    ],
+    [
+      "2025-06-26",
+      "79b0045",
+      "Fix: Adjust repetition penalty and Gradio CFG scale"
+    ],
+    [
+      "2025-06-26",
+      "2990cc8",
+      "Merge pull request #69 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "e57f330",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "65b9f24",
+      "Debug: Reduce max_new_tokens to ~1s for TTS audio diagnosis"
+    ],
+    [
+      "2025-06-26",
+      "3d0edf6",
+      "Update autoencoder.py"
+    ],
+    [
+      "2025-06-26",
+      "19b1e98",
+      "Merge pull request #68 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "de7dd6a",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "85bf149",
+      "Fix: Implement chunked decoding in DACAutoencoder"
+    ],
+    [
+      "2025-06-26",
+      "af573dd",
+      "Merge pull request #67 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "a421a19",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "b8c9b0a",
+      "Fix: Clone input to F.embedding in vendored DAC"
+    ],
+    [
+      "2025-06-26",
+      "f966e1c",
+      "Merge pull request #66 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-26",
+      "dfa823c",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "06ae65a",
+      "Feat: Fully vendor Descript Audio Codec (DAC)"
+    ],
+    [
+      "2025-06-25",
+      "eb24753",
+      "Merge pull request #65 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "2e89d9d",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "e236ee8",
+      "Fix: Correct indentation in vendored dac_codec.model.base.py"
+    ],
+    [
+      "2025-06-25",
+      "f703e39",
+      "Merge pull request #64 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "fbb055a",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "180a2b9",
+      "Feat: Vendor Descript Audio Codec (DAC)"
+    ],
+    [
+      "2025-06-25",
+      "20fbaa9",
+      "Merge pull request #63 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "7ea23fa",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "b707877",
+      "Fix: Use trust_remote_code=True for DAC model loading"
+    ],
+    [
+      "2025-06-25",
+      "ad588b8",
+      "Merge pull request #62 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "de8cbe8",
+      "Fix: Use AutoModel for DAC and refine preprocessing"
+    ],
+    [
+      "2025-06-25",
+      "b741a29",
+      "Merge pull request #61 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "dd02454",
+      "Fix: Align speaking_rate scale with conditioning expectation"
+    ],
+    [
+      "2025-06-25",
+      "e45357a",
+      "Merge pull request #60 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "ac5539f",
+      "Fix: Correct input shape for ResNet in speaker embedding"
+    ],
+    [
+      "2025-06-25",
+      "acc8e8d",
+      "Merge pull request #59 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "1084ebc",
+      "Fix: Correct audio channel handling in speaker embedding"
+    ],
+    [
+      "2025-06-25",
+      "c0d777f",
+      "Merge pull request #58 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "82c7f55",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "986b2d7",
+      "Debug: Check loaded audio length for speaker embedding"
+    ],
+    [
+      "2025-06-25",
+      "ca2d27e",
+      "Merge pull request #57 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "afbaa85",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "4c3f97d",
+      "Refactor: Align model.py and sampling.py with user-provided version"
+    ],
+    [
+      "2025-06-25",
+      "075a6e4",
+      "Merge pull request #56 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "e6c1774",
+      "Merge branch 'master' into fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "cf38282",
+      "Fix: Combine win-fork conditioning.py, relative imports, and dtype fix"
+    ],
+    [
+      "2025-06-25",
+      "e382808",
+      "Merge pull request #55 from waefrebeorn/fix/dtype-mismatch-conditioning"
+    ],
+    [
+      "2025-06-25",
+      "fbf1ab1",
+      "Fix: Cast conditioning tensor to model dtype"
+    ],
+    [
+      "2025-06-25",
+      "ad7564c",
+      "req"
+    ],
+    [
+      "2025-06-25",
+      "1689415",
+      "req"
+    ],
+    [
+      "2025-06-25",
+      "38a54e8",
+      "Merge pull request #54 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "e1feb2a",
+      "Merge branch 'master' into fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "4cca741",
+      "Align zonos_local_lib with reference and apply fixes"
+    ],
+    [
+      "2025-06-25",
+      "cdd3827",
+      "Refactor delayed_codes update in Zonos.generate"
+    ],
+    [
+      "2025-06-25",
+      "b3f39dd",
+      "Merge pull request #53 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "93d15d8",
+      "Ensure out_proj input matches weight dtype in Attention"
+    ],
+    [
+      "2025-06-25",
+      "842fa0f",
+      "Merge pull request #52 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "8f515be",
+      "Repeat K/V heads for GQA in TorchZonosBackbone Attention"
+    ],
+    [
+      "2025-06-25",
+      "0f669a5",
+      "Merge pull request #51 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "cd3a64f",
+      "Merge branch 'master' into fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "af90a0f",
+      "Fix dtype mismatch for scaled_dot_product_attention inputs"
+    ],
+    [
+      "2025-06-25",
+      "c1123f4",
+      "req"
+    ],
+    [
+      "2025-06-25",
+      "84f4883",
+      "Merge pull request #50 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "0dc0818",
+      "Remove enable_gqa from scaled_dot_product_attention"
+    ],
+    [
+      "2025-06-25",
+      "87b8d9f",
+      "Merge pull request #49 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "9684c0f",
+      "Merge branch 'master' into fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "5b39a3d",
+      "Fix RoPE freqs_cis calculation and usage in TorchZonosBackbone"
+    ],
+    [
+      "2025-06-25",
+      "cd8637d",
+      "Merge pull request #48 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "712721c",
+      "Fix device placement for RoPE freqs_cis in TorchZonosBackbone"
+    ],
+    [
+      "2025-06-25",
+      "b3377f7",
+      "Merge pull request #47 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "47af47d",
+      "Merge branch 'master' into fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "241ec4b",
+      "Make Mamba backbone optional for Zonos import"
+    ],
+    [
+      "2025-06-25",
+      "919422e",
+      "req"
+    ],
+    [
+      "2025-06-25",
+      "0c293d9",
+      "Merge pull request #46 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "1f6248d",
+      "Import MambaSSMZonosBackbone in model.py"
+    ],
+    [
+      "2025-06-25",
+      "8c55280",
+      "Merge pull request #45 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "82c841d",
+      "Fix NameError for cfg_active in ZonosLocalVoice"
+    ],
+    [
+      "2025-06-25",
+      "3f90a67",
+      "Merge pull request #44 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "cf165b1",
+      "Fix CFG conditioning batch size in ZonosLocalVoice"
+    ],
+    [
+      "2025-06-25",
+      "9eb227a",
+      "Merge pull request #43 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-25",
+      "98cd197",
+      "Fix UI check for speaker embedding"
+    ],
+    [
+      "2025-06-24",
+      "a92ea53",
+      "Merge pull request #42 from waefrebeorn/fix-zonos-embedding-shape"
+    ],
+    [
+      "2025-06-24",
+      "c5079a3",
+      "Fix ResNet input shape for speaker embedding"
+    ],
+    [
+      "2025-06-24",
+      "a9eecd1",
+      "Merge pull request #41 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "d2d46d2",
+      "Debug: Add shape logging in ResNet293_based.forward"
+    ],
+    [
+      "2025-06-24",
+      "def9245",
+      "Merge pull request #40 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "2f3a1cd",
+      "Fix: Resolve IndexError in logFbankCal and remaining speaker model weight mismat"
+    ],
+    [
+      "2025-06-24",
+      "890f8b1",
+      "Merge pull request #39 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "72b3135",
+      "Fix: Resolve errors in speaker embedding generation"
+    ],
+    [
+      "2025-06-24",
+      "ed3140d",
+      "Merge pull request #38 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "19af21a",
+      "Fix: Add missing 'import os' in speaker_cloning.py"
+    ],
+    [
+      "2025-06-24",
+      "6dd8c70",
+      "Merge pull request #37 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "99072e9",
+      "Fix: Resolve Zonos model loading and dashboard fallback issues"
+    ],
+    [
+      "2025-06-24",
+      "f2638c5",
+      "Merge pull request #36 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "e8370b2",
+      "Fix: Use ZONOS_LOCAL_ENGINE_ID in core and ui modules"
+    ],
+    [
+      "2025-06-24",
+      "a5e47a5",
+      "Merge pull request #35 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "81535cc",
+      "Fix: Correct relative import in speaker_cloning.py"
+    ],
+    [
+      "2025-06-24",
+      "1f58531",
+      "Merge pull request #34 from waefrebeorn/debug/isolate-conditioning-import-error"
+    ],
+    [
+      "2025-06-24",
+      "2eb596f",
+      "Debug: Add print statements to trace imports in conditioning.py"
+    ],
+    [
+      "2025-06-24",
+      "b7deb2c",
+      "Merge pull request #33 from waefrebeorn/fix/import-and-script-execution"
+    ]
+  ],
+  "WuBuMath": [
+    [
+      "2026-06-28",
+      "6c63c1f",
+      "v1: clean repo \u2014 faithful VHF engine + training (no mp4 history)"
+    ]
+  ],
+  "WuBuOS": [
+    [
+      "2026-07-01",
+      "4b80e52",
+      "feat: VSL Vulkan/GPU layer integration"
+    ],
+    [
+      "2026-07-01",
+      "fe7e38f",
+      "media: refresh screenshot and demo video"
+    ],
+    [
+      "2026-07-01",
+      "ac015b4",
+      "chore: remove dead media files and old paint module"
+    ],
+    [
+      "2026-07-01",
+      "4866c18",
+      "docs: update README with phase-based test commands and screenshot docs"
+    ],
+    [
+      "2026-07-01",
+      "3328f1d",
+      "fix: phase-based test structure, updated screenshots + demo video"
+    ],
+    [
+      "2026-06-30",
+      "bb5d79a",
+      "Fix all missing symbols for hosted build + screenshot capture"
+    ],
+    [
+      "2026-06-22",
+      "5b1ea60",
+      "Update README: 747+ tests passing, 412 gaps, accurate stats"
+    ],
+    [
+      "2026-06-22",
+      "472df58",
+      "Fix wubu_math.c test leakage; all 747+ tests passing"
+    ],
+    [
+      "2026-06-17",
+      "408aac7",
+      "Phase 4 Item 3: OS Design Bible Document (OS_BIBLE.md)"
+    ],
+    [
+      "2026-06-17",
+      "b568292",
+      "Phase 4 Item 2: Package Manager + .wubu App Store"
+    ],
+    [
+      "2026-06-17",
+      "9125fd0",
+      "Phase 4 Item 1: Multi-Target Deployment - Bare metal initramfs, WSL2, OCI, macOS"
+    ],
+    [
+      "2026-06-17",
+      "8d0b1df",
+      "Phase 3 Item 2: Steam Game Library UI (Start menu integration for Proton games)"
+    ],
+    [
+      "2026-06-17",
+      "e70e8e8",
+      "Phase 3 Item 1: Proton/Wine Integration (Wine prefix management, Steam detection"
+    ],
+    [
+      "2026-06-17",
+      "60e2a78",
+      "Phase 2 Item 7: Trash Implementation (~/.local/share/Trash, restore/empty, size "
+    ],
+    [
+      "2026-06-16",
+      "10b1490",
+      "Phase 2 Item 6: MIME System (.desktop parsing, file associations, default apps)"
+    ],
+    [
+      "2026-06-16",
+      "6e22096",
+      "Phase 2 Item 5: Screenshot Tool (PrintScr, Alt+PrintScr, Shift+PrintScr)"
+    ],
+    [
+      "2026-06-16",
+      "f949692",
+      "Phase 2: Clipboard Manager (Settings Category 4/7)"
+    ],
+    [
+      "2026-06-16",
+      "8433b8a",
+      "Phase 2: Notification Daemon (Settings Category 3/7)"
+    ],
+    [
+      "2026-06-16",
+      "81499b3",
+      "Phase 2: Session Manager (Settings Category 2/7)"
+    ],
+    [
+      "2026-06-16",
+      "9f6176c",
+      "Phase 2: Settings Daemon (Settings Category 1/7)"
+    ],
+    [
+      "2026-06-16",
+      "7f0b1c4",
+      "Phase 1 GUI fixes: VBE theme leakage, icon theming, startup shutdown, theme colo"
+    ],
+    [
+      "2026-06-16",
+      "669e178",
+      "Complete Desktop Features (Cells 400-412) \u2014 100% Design Bible"
+    ],
+    [
+      "2026-06-16",
+      "d9a44c6",
+      "Win98\u2192XP Classic GUI rework (Cells 400-402)"
+    ],
+    [
+      "2026-06-15",
+      "268ff4f",
+      "DosGui Desktop Push: Cells 400-412"
+    ],
+    [
+      "2026-06-10",
+      "68e2aa7",
+      "feat: interrupt.c Cells 302/303 \u2014 full APIC, TSS/IST, SYSCALL/SYSRET"
+    ],
+    [
+      "2026-06-10",
+      "a7bfcf2",
+      "feat: Cells 388, 389, 391 \u2014 Direct DRM ioctls + Custom GBM (no libdrm/libgbm)"
+    ],
+    [
+      "2026-06-10",
+      "554b39c",
+      "feat: Cells 414, 415 \u2014 per-container Styx 9P server + setrlimit enforcement"
+    ],
+    [
+      "2026-06-10",
+      "6584ee6",
+      "feat(canvas): layer merge, flatten, flood fill, filters, GIF, load (cells 460-46"
+    ],
+    [
+      "2026-06-10",
+      "a00c6cf",
+      "feat(editor): code folding, macros, sessions (cells 470, 472, 473)"
+    ],
+    [
+      "2026-06-10",
+      "80ede59",
+      "feat(editor): cut/copy/paste with clipboard (cell 468)"
+    ],
+    [
+      "2026-06-10",
+      "6e19566",
+      "feat(editor): undo/redo, find/replace, bookmarks (cells 467, 469, 471)"
+    ],
+    [
+      "2026-06-10",
+      "3ecb11a",
+      "feat(styxfs): implement walk/read/stat/open/clunk callbacks (cell 576)"
+    ],
+    [
+      "2026-06-10",
+      "34a1582",
+      "feat(fat32): O(1) dir entry update on close (cell 304)"
+    ],
+    [
+      "2026-06-10",
+      "94332c5",
+      "feat(vsl): signal handling + futex host delegation (cells 382, 386)"
+    ],
+    [
+      "2026-06-10",
+      "574dde8",
+      "feat(vsl,parity): ioctl host delegation + 100% ZealOS name parity (cells 305, 36"
+    ],
+    [
+      "2026-06-10",
+      "652619d",
+      "feat(vsl): implement host delegation syscalls batch 2 (cells 367-378)"
+    ],
+    [
+      "2026-06-10",
+      "8f168f6",
+      "feat(vsl): implement host delegation syscalls (cells 360-366, 370)"
+    ],
+    [
+      "2026-06-10",
+      "96a552d",
+      "fix: NaN-free training with analytical PPO gradients"
+    ],
+    [
+      "2026-06-10",
+      "e104324",
+      "fix: reduce network size, add ES-style weight update"
+    ],
+    [
+      "2026-06-10",
+      "e900762",
+      "fix: resolve NaN in bear RL training init + separate value network"
+    ],
+    [
+      "2026-06-10",
+      "97a1c1b",
+      "fix: RL training infrastructure - 8 bugs fixed, 1 remaining NaN issue"
+    ],
+    [
+      "2026-06-09",
+      "590b847",
+      "Cells 400+401+402+403: Metal boot + Audio engine + Screenshot/Snipping tool + De"
+    ],
+    [
+      "2026-06-09",
+      "844d76d",
+      "Cell 400 + 401: Metal boot + WSL2 abstraction + Audio engine (Ardour+Furnace+SF2"
+    ],
+    [
+      "2026-06-08",
+      "6e53830",
+      "Cell 400/401: Metal boot + WSL2 GUI + Audio Engine architecture"
+    ],
+    [
+      "2026-06-08",
+      "1bd6e6b",
+      "Cell 399: Proton container + GPU passthrough + HID/USB + controller support"
+    ],
+    [
+      "2026-06-08",
+      "e0819d2",
+      "Cell 396/397/398: Code Editor + Image Canvas + FFmpeg Codec"
+    ],
+    [
+      "2026-06-08",
+      "0d19413",
+      "Cell 394/395: Theme engine + Full WM + Virtual desktops + GAAD snap"
+    ],
+    [
+      "2026-06-08",
+      "7860bfd",
+      "Cell 393: GAAD \u2014 Golden Aspect Adaptive Decomposition"
+    ],
+    [
+      "2026-06-08",
+      "8b59cc8",
+      "Cell 390/391/392: Arch bootstrap + FreeDoom launcher + RAM/SSD root mount"
+    ],
+    [
+      "2026-06-08",
+      "7add2e5",
+      "Add Doom engine + Photoshop Paint clone + input_key_pressed"
+    ],
+    [
+      "2026-06-08",
+      "6a6f171",
+      "gitignore: add src/hosted/wubu (build artifact)"
+    ],
+    [
+      "2026-06-08",
+      "c608e6e",
+      "Full doc sweep + barnacle hunt + name parity v2"
+    ],
+    [
+      "2026-06-08",
+      "2210a17",
+      "Fix: zealos_parity.h cleanup + notepad.c WmWindow type fix"
+    ],
+    [
+      "2026-06-08",
+      "c5c72f0",
+      "Cell 390: macOS deployment via Apple Virtualization.framework"
+    ],
+    [
+      "2026-06-08",
+      "45cc180",
+      "Triple DA: Arch-as-driver + WSL hook + Cell 380/383"
+    ],
+    [
+      "2026-06-08",
+      "099fdae",
+      "Cell 310: HolyC codegen ternary/AND/OR/IF/WHILE/FOR + demo distribution + USB in"
+    ],
+    [
+      "2026-06-08",
+      "98529aa",
+      "Triple DA v5: name parity audit + third-party roadmap + C replacements"
+    ],
+    [
+      "2026-06-08",
+      "5bf0287",
+      "Battleship v4: 28 gap cells from full stub+form hunt"
+    ],
+    [
+      "2026-06-08",
+      "8c6a8e3",
+      "Cell 200\u2705 Cell 203\u2705: kernel in-process + Win98 GUI shell + fork+exec containers"
+    ],
+    [
+      "2026-06-08",
+      "ff9d894",
+      "Super update: all vault documents synchronized post hard-dive"
+    ],
+    [
+      "2026-06-08",
+      "e518e10",
+      "Super update: README + architecture rewritten with hard-dive truth"
+    ],
+    [
+      "2026-06-08",
+      "619cf37",
+      "Hard dive + Triple DA: architectural reality reset"
+    ],
+    [
+      "2026-06-08",
+      "56fcf35",
+      "Cells 107-110: Package manager, VSL app launcher, Proton apps, compilers"
+    ],
+    [
+      "2026-06-08",
+      "afd6858",
+      "Cell 106: StyxFS namespace for .wubu containers (11/11 tests)"
+    ],
+    [
+      "2026-06-08",
+      "f951f8e",
+      "Cells 102-104: WM test suite, DOS flip bridge, Start menu"
+    ],
+    [
+      "2026-06-07",
+      "3d6af97",
+      "README with Win98 screenshot + hosted binary"
+    ],
+    [
+      "2026-06-07",
+      "6d7c832",
+      "Update vault: full mind palace sync \u2014 README, risk_register, counts"
+    ],
+    [
+      "2026-06-07",
+      "f7e7622",
+      "Update vault: Cell 105 WuBuOS hosted binary (31\u2705, 8\u2b1c)"
+    ],
+    [
+      "2026-06-07",
+      "0b4ff91",
+      "Cell 105: WuBuOS hosted mode \u2014 Inferno emu-style launcher"
+    ],
+    [
+      "2026-06-07",
+      "5f8ea89",
+      "Update vault docs: Phase 3 expansion with Styx/9P2000"
+    ],
+    [
+      "2026-06-07",
+      "bdb5d77",
+      "Phase 3: Cell 101 \u2014 Styx/9P2000 protocol implementation"
+    ],
+    [
+      "2026-06-07",
+      "f8ced48",
+      "Add .gitignore, prepare for GitHub"
+    ],
+    [
+      "2026-06-07",
+      "08d6c1c",
+      "Vault update: Cell 101 Double-buffered GUI \u2705, 339/339 tests, 109 files, 29,849 L"
+    ],
+    [
+      "2026-06-07",
+      "aad47c3",
+      "Cell 101: Double-buffered GUI renderer (P2-1 resolved)"
+    ],
+    [
+      "2026-06-07",
+      "08d2830",
+      "Vault update: Cell 100 Transactional FS \u2705, 322/322 tests, 106 files, 29,235 LOC"
+    ],
+    [
+      "2026-06-07",
+      "3585495",
+      "Cell 100: Transactional FS (journal-based atomic ops)"
+    ],
+    [
+      "2026-06-07",
+      "ddcd1c2",
+      "\ud83c\udfc6 BATTLESHIP COMPLETE: 26 \u2705 | 0 \u2b1c | 0 \ud83d\udd34"
+    ],
+    [
+      "2026-06-07",
+      "a311d88",
+      "Cell 051: Moondream3 vision weight verification"
+    ],
+    [
+      "2026-06-07",
+      "24a2418",
+      "Vault update: Cell 060 Bootable ISO \u2705, 297/297 tests, 100 files, 28,097 LOC"
+    ],
+    [
+      "2026-06-07",
+      "13299dc",
+      "Cell 060: Bootable ISO (ISO 9660 + El Torito)"
+    ],
+    [
+      "2026-06-07",
+      "4184646",
+      "Vault update: Cell 072 AHCI \u2705, 277/277 tests, 97 files, 27,220 LOC"
+    ],
+    [
+      "2026-06-07",
+      "4db3262",
+      "Cell 072: AHCI (SATA) disk driver"
+    ],
+    [
+      "2026-06-07",
+      "ae195da",
+      "Vault update: Cell 092 Proton \u2705, 261/261 tests, 94 files, 26,515 LOC"
+    ],
+    [
+      "2026-06-07",
+      "dab9f3e",
+      "Cell 092: Proton (Windows compatibility layer) + Cell 070 vault fix"
+    ],
+    [
+      "2026-06-07",
+      "164b1d6",
+      "Vault update: Cell 070 \u2705, 237/237 tests, 91 files, 25,503 LOC"
+    ],
+    [
+      "2026-06-07",
+      "50a5a70",
+      "Cell 070: VBE\u2194WorldSim render bridge"
+    ],
+    [
+      "2026-06-07",
+      "78af9a4",
+      "feat(vsl): Cell 091 \u2014 VSL Virtualization Substrate Layer (46/46 tests)"
+    ],
+    [
+      "2026-06-07",
+      "540cecf",
+      "chore: rename My Seed OS \u2192 WuBuOS across all vault documents"
+    ],
+    [
+      "2026-06-07",
+      "482c70c",
+      "feat(runtime): Cell 090 \u2014 WuBuOS .wubu container + universal exec (38/38 tests)"
+    ],
+    [
+      "2026-06-07",
+      "198dacb",
+      "feat(compiler): Cell 080 \u2014 HolyC compiler in C (41/41 tests)"
+    ],
+    [
+      "2026-06-07",
+      "00f214c",
+      "feat(kernel): Cell 071 \u2014 FAT32 filesystem (20/20 tests)"
+    ],
+    [
+      "2026-06-07",
+      "57fc9ba",
+      "docs: update all markdowns \u2014 README, risk register, architecture"
+    ],
+    [
+      "2026-06-07",
+      "805bc96",
+      "feat(worldsim): integrate WorldSim engine into My Seed"
+    ],
+    [
+      "2026-06-07",
+      "c9d4d7e",
+      "Phase 1c-25: All 25 items complete \u2014 full My Seed scaffold builds"
+    ],
+    [
+      "2026-06-07",
+      "f0689af",
+      "Phase 1b: Kernel memory subsystem (ZealOS design, C11 impl) \u2014 14/14 tests pass"
+    ],
+    [
+      "2026-06-07",
+      "b6d4bf1",
+      "Phase 1a: JIT runtime API + mmap backend (20/20 tests pass)"
+    ],
+    [
+      "2026-06-07",
+      "2fec6ec",
+      "My Seed Phase 0: Project scaffold + JIT stub + VBE sketch + architecture lock"
+    ]
+  ],
+  "WuBuRouter": [
+    [
+      "2026-06-20",
+      "9cdb817",
+      "ChangeLog"
+    ],
+    [
+      "2026-06-20",
+      "584cf66",
+      "fix(test): use POST /v1/messages to validate anthropic-compatible connections"
+    ],
+    [
+      "2026-06-20",
+      "6c10edf",
+      "fix(cli-tools): tolerate JSONC configs in CLI tool settings routes"
+    ],
+    [
+      "2026-06-20",
+      "f6c2f7c",
+      "fix(gemini): preserve 'pattern' in antigravity tool schema translation"
+    ],
+    [
+      "2026-06-20",
+      "86162ee",
+      "fix(combo/fusion): flatten Anthropic-style tool messages in panel calls"
+    ],
+    [
+      "2026-06-19",
+      "707a915",
+      "fix(models): store provider custom models by provider scope"
+    ],
+    [
+      "2026-06-20",
+      "8efacc1",
+      "feat(opencode-go): align Go models with official endpoints"
+    ],
+    [
+      "2026-06-20",
+      "637dd7a",
+      "feat(ponytail): introduce \"Ponytail\" feature for minimalistic code generation"
+    ],
+    [
+      "2026-06-20",
+      "25e8723",
+      "enhance API key management UI and improve watcher configuration."
+    ],
+    [
+      "2026-06-20",
+      "090886c",
+      "feat(validate): implement SSRF guard for remote requests and protect sensitive s"
+    ],
+    [
+      "2026-06-20",
+      "b55cf36",
+      "feat(headroom): add proxy lifecycle management + dashboard UI"
+    ],
+    [
+      "2026-06-19",
+      "efd20be",
+      "feat(provider): add CodeBuddy CN provider (copilot.tencent.com)"
+    ],
+    [
+      "2026-06-19",
+      "db4499d",
+      "fix(perplexity): use /v1/models endpoint for key validation"
+    ],
+    [
+      "2026-06-19",
+      "126aa24",
+      "fix(kiro): validate region to prevent SSRF (GHSA-6mwv-4mrm-5p3m)"
+    ],
+    [
+      "2026-06-18",
+      "f2a7ae2",
+      "# v0.5.4 (2026-06-18)"
+    ],
+    [
+      "2026-06-18",
+      "7354c5e",
+      "# v0.5.3 (2026-06-18)"
+    ],
+    [
+      "2026-06-18",
+      "2ff1124",
+      "fix(kiro): honor thinking effort budgets"
+    ],
+    [
+      "2026-06-18",
+      "3f9382d",
+      "Fix AG, Kiro, Xiaomi Provider"
+    ],
+    [
+      "2026-06-18",
+      "9ab14e7",
+      "fix(combo/fusion): flatten tool history in panel calls to prevent 503"
+    ],
+    [
+      "2026-06-18",
+      "5e5e78d",
+      "fix: show custom vision models in LLM selector and model list"
+    ],
+    [
+      "2026-06-18",
+      "047fdc8",
+      "fix(image): prevent compatible nodes from shadowing provider aliases"
+    ],
+    [
+      "2026-06-17",
+      "5da508a",
+      "# v0.5.2 (2026-06-17)"
+    ],
+    [
+      "2026-06-17",
+      "79df34c",
+      "fix: gi\u1ea3m spam 429 t\u1eeb Claude OAuth usage endpoint"
+    ],
+    [
+      "2026-06-17",
+      "da66783",
+      "fix(security): don't trust loopback socket as local when request arrives via rev"
+    ],
+    [
+      "2026-06-17",
+      "2a61965",
+      "update maskKey function to enhance key visibility handling"
+    ],
+    [
+      "2026-06-17",
+      "c7d0744",
+      "fix(image): pin DNS-resolved IP to prevent SSRF via DNS rebinding (GHSA-cmhj-wh2"
+    ],
+    [
+      "2026-06-17",
+      "7ae9fff",
+      "fix(executors): strip params unsupported by provider/model"
+    ],
+    [
+      "2026-06-17",
+      "87e5c1c",
+      "feat(combo): add Fusion strategy \u2014 parallel panel + judge synthesis"
+    ],
+    [
+      "2026-06-17",
+      "37bfcc3",
+      "open-sse agents.md"
+    ],
+    [
+      "2026-06-17",
+      "df37bb3",
+      "fix(usage): show edited connection names consistently across views"
+    ],
+    [
+      "2026-06-17",
+      "4078f36",
+      "fix(usage): add missing await on getAdapter() in getRecentLogs"
+    ],
+    [
+      "2026-06-17",
+      "706e651",
+      "feat(kiro): headless API-key auth + direct Claude/Kiro route"
+    ],
+    [
+      "2026-06-17",
+      "3de6ce1",
+      "docs: add Indonesian video tutorial for Hugging Face deploy"
+    ],
+    [
+      "2026-06-17",
+      "db9ec3a",
+      "fix(antigravity): strip optional from tool schemas before Gemini"
+    ],
+    [
+      "2026-06-17",
+      "411a589",
+      "fix(claude-to-openai): handle OpenAI-format responses in non-streaming path"
+    ],
+    [
+      "2026-06-17",
+      "740093d",
+      "feat: Claude auto-ping to warm 5h window after reset"
+    ],
+    [
+      "2026-06-16",
+      "d03f9fb",
+      "Enhance configuration and model capabilities"
+    ],
+    [
+      "2026-06-15",
+      "b282f05",
+      "Refactor"
+    ],
+    [
+      "2026-06-15",
+      "8ab5af0",
+      "test(real): add capability survey (vision/audio) over all DB creds"
+    ],
+    [
+      "2026-06-15",
+      "aba4c45",
+      "fix(translator): ESM-safe registry + tool-id pairing + responses max_tokens; add"
+    ],
+    [
+      "2026-06-14",
+      "24a2d19",
+      "refactor(app): RISKY pass R1-R3 \u2014 config-driven modal, cursor frame dedup, chunk"
+    ],
+    [
+      "2026-06-14",
+      "fbf973f",
+      "refactor(app): DRY pass \u2014 split large files, extract shared utils"
+    ],
+    [
+      "2026-06-14",
+      "d3f61aa",
+      "refactor(open-sse): translator DRY + schema enums, bug fixes, dead code cleanup"
+    ],
+    [
+      "2026-06-14",
+      "c5c9061",
+      "fix: m.type \u2192 m.kind||m.type in remaining consumers (ModelSelectModal, providers"
+    ],
+    [
+      "2026-06-14",
+      "dd1e0f9",
+      "refactor(registry): B2 migrate to LiteLLM-style schema \u2014 unified models[] with k"
+    ],
+    [
+      "2026-06-14",
+      "e53ce79",
+      "refactor(open-sse): B1 consolidate media endpoint URLs into registry"
+    ],
+    [
+      "2026-06-14",
+      "bb9e9aa",
+      "refactor(open-sse): registry consolidation + DRY media/oauth/adhoc cleanup"
+    ],
+    [
+      "2026-06-13",
+      "9105dd0",
+      "refactor(open-sse): #11 \u2014 dedupe client-facing SSE_HEADERS_CORS"
+    ],
+    [
+      "2026-06-13",
+      "4da1d6d",
+      "refactor(open-sse): D1c \u2014 forceStream hardcode \u2192 PROVIDERS schema (#5)"
+    ],
+    [
+      "2026-06-13",
+      "ad2a3e5",
+      "refactor(open-sse): D1a/D1b \u2014 URL quirks \u2192 schema urlSuffix + clean debug logs"
+    ],
+    [
+      "2026-06-13",
+      "72ce515",
+      "refactor(open-sse): dedupe Google OAuth client credentials (#4)"
+    ],
+    [
+      "2026-06-13",
+      "d4b9538",
+      "refactor(open-sse): usage.js dispatcher switch \u2192 USAGE_HANDLERS registry"
+    ],
+    [
+      "2026-06-13",
+      "6ee4555",
+      "refactor(open-sse): DRY SSE primitives into utils/sseConstants.js"
+    ],
+    [
+      "2026-06-13",
+      "0a8d92a",
+      "refactor(open-sse): #8 unify token refresh dispatch \u2014 2 switch \u2192 1 registry"
+    ],
+    [
+      "2026-06-13",
+      "633b66d",
+      "refactor(translator): P4 concern #5 buildUsage \u2014 apply to kiro/ollama/commandcod"
+    ],
+    [
+      "2026-06-13",
+      "252bf56",
+      "refactor(translator): P4 concern #2 encodeDataUri \u2014 dedupe base64 data-uri build"
+    ],
+    [
+      "2026-06-13",
+      "4cc6672",
+      "refactor(translator): P4 concern #6 finishReasonMap \u2014 switch-by-format, default "
+    ],
+    [
+      "2026-06-13",
+      "d2b0960",
+      "refactor(open-sse): P3\u00a77 model defaults schema \u2014 centralize type/quotaFamily/str"
+    ],
+    [
+      "2026-06-13",
+      "5a04284",
+      "refactor(open-sse): P3 provider registry \u2014 split into providers/registry/{id}.js"
+    ],
+    [
+      "2026-06-13",
+      "7134dd7",
+      "refactor(open-sse): P2 alias single-source \u2014 derive OAuth alias\u2192id from OAUTH_AL"
+    ],
+    [
+      "2026-06-13",
+      "1432ac6",
+      "fix(open-sse): remove dead duplicate opencode provider entry"
+    ],
+    [
+      "2026-06-13",
+      "bb597cb",
+      "refactor(open-sse): source mimo-free/opencode base URL from PROVIDERS"
+    ],
+    [
+      "2026-06-13",
+      "64182c0",
+      "refactor(open-sse): merge beta-url case + single-source refresh URLs (D)"
+    ],
+    [
+      "2026-06-13",
+      "22f6c42",
+      "refactor(open-sse): single-source OAuth token URLs via PROVIDERS (C2)"
+    ],
+    [
+      "2026-06-13",
+      "6597b81",
+      "refactor(open-sse): add reasoningDelta helper, dedup thinking deltas (B4)"
+    ],
+    [
+      "2026-06-13",
+      "997860a",
+      "refactor(open-sse): dedup fallback tool_call id helper (B3)"
+    ],
+    [
+      "2026-06-13",
+      "f4c3904",
+      "refactor(open-sse): dedup format default in PROVIDERS via resolver (C1)"
+    ],
+    [
+      "2026-06-13",
+      "3a26d5f",
+      "refactor(open-sse): remove dead buildProviderUrl/Headers path (A1)"
+    ],
+    [
+      "2026-06-13",
+      "cc1f4f6",
+      "test(open-sse): golden lock provider.js translate-path (A1-prep)"
+    ],
+    [
+      "2026-06-13",
+      "39278e9",
+      "refactor(open-sse): extract buildUsage helper, dedup token-details (B2)"
+    ],
+    [
+      "2026-06-13",
+      "34ea763",
+      "refactor(open-sse): add provider/model schema skeleton (C-prep)"
+    ],
+    [
+      "2026-06-13",
+      "17202f7",
+      "refactor(open-sse): extract chunkBuilder, dedup chat.completion.chunk (B1)"
+    ],
+    [
+      "2026-06-13",
+      "0e34358",
+      "test(open-sse): extend golden response stream to kiro/ollama (T0.5)"
+    ],
+    [
+      "2026-06-13",
+      "b87cf0c",
+      "refactor(open-sse): extract safeParseJSON util, dedup tryParseJSON (B5)"
+    ],
+    [
+      "2026-06-13",
+      "87fe069",
+      "refactor(open-sse): remove reverse coupling open-sse -> src (E2)"
+    ],
+    [
+      "2026-06-13",
+      "8f0a9ff",
+      "test(open-sse): add P0 golden tests (url/header, response stream, request body)"
+    ],
+    [
+      "2026-06-13",
+      "9532ec8",
+      "chore(refactor): snapshot test baseline + no-regression gate truoc refactor open"
+    ],
+    [
+      "2026-06-13",
+      "23da7b1",
+      "Update ChangeLog"
+    ],
+    [
+      "2026-06-13",
+      "515e2cc",
+      "v0.4.77 (2026-06-13)"
+    ],
+    [
+      "2026-06-13",
+      "05e483c",
+      "fix(provider-topology): update label assignment to include nodeName"
+    ],
+    [
+      "2026-06-13",
+      "d652300",
+      "fix(cerebras,mistral): strip unsupported client_metadata from downstream request"
+    ],
+    [
+      "2026-06-13",
+      "0c7c9de",
+      "fix(security): re-auth on DB export/import + SSRF guard on web fetch"
+    ],
+    [
+      "2026-06-13",
+      "e6bac77",
+      "fix(siliconflow): update baseUrl .cn -> .com + curate verified model list"
+    ],
+    [
+      "2026-06-13",
+      "b33cbb0",
+      "feat(vercel-ai-gateway): support embeddings, images and credit usage"
+    ],
+    [
+      "2026-06-13",
+      "d9b0300",
+      "fix(gemini-to-openai): route unsigned thought parts to reasoning_content"
+    ],
+    [
+      "2026-06-13",
+      "564f2ec",
+      "fix(usage-stats): avoid partial stats on initial SSE race"
+    ],
+    [
+      "2026-06-13",
+      "b40e96d",
+      "feat(provider): add MiMo Free no-auth provider"
+    ],
+    [
+      "2026-06-13",
+      "0aaa5ab",
+      "fix(claude-to-openai): strip Anthropic billing header from system prompt"
+    ],
+    [
+      "2026-06-13",
+      "bbc204b",
+      "fix: use export default in proxy.js for Next.js 16 middleware detection"
+    ],
+    [
+      "2026-06-13",
+      "9406bd1",
+      "feat(vertex): support ADC authorized_user credential"
+    ],
+    [
+      "2026-06-13",
+      "b977bf7",
+      "fix(anthropic-compatible): send Bearer auth for third-party gateways"
+    ],
+    [
+      "2026-06-13",
+      "b309261",
+      "enhance Kiro profile ARN resolution"
+    ],
+    [
+      "2026-06-08",
+      "4443903",
+      "fix: add normalization for Claude passthrough bodies"
+    ],
+    [
+      "2026-06-08",
+      "f8b73fa",
+      "feat(cowork): re-enable Claude Cowork with preset-only stdio MCP"
+    ],
+    [
+      "2026-06-08",
+      "7648c34",
+      "fix(auth): real client IP rate-limiting + remote default-password guard"
+    ],
+    [
+      "2026-06-08",
+      "c572c68",
+      "fix(github): proactively refresh missing/expired Copilot token on models discove"
+    ],
+    [
+      "2026-06-08",
+      "24a4f08",
+      "fix(tunnel): detect system-installed Tailscale via dual-socket probe"
+    ],
+    [
+      "2026-06-08",
+      "8e31b5f",
+      "docs(readme): add Indonesian 9Router tutorial video"
+    ],
+    [
+      "2026-06-08",
+      "8962e46",
+      "feat(providers/codex): bulk add accounts via JSON"
+    ],
+    [
+      "2026-06-08",
+      "b2aa08a",
+      "fix(copilot): add mappable gpt-5-mini/gpt-5.4-nano slots for Copilot MITM"
+    ]
+  ],
+  "money-room": [
+    [
+      "2026-06-22",
+      "5565f89",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "72b47c6",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c73b62a",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "35c5acb",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "bdf2f5c",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "0e0a000",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "3922d4e",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "9a32f61",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "b32aebf",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "3533283",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "5fa17f2",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "36607b9",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "a82d199",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "e3da539",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "45948d5",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "40877ad",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "8e27ab1",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "eb42ce6",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "e1d046e",
+      "auth: key updates"
+    ],
+    [
+      "2026-06-22",
+      "d8e8848",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "9d8f40b",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "79e8360",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "ba185e5",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "fe2d2f4",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c31296d",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "54b1641",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c7f8e64",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "69545a3",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "b00445b",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "96afe36",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "acad1db",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "9a1275d",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "5beb841",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "33315a5",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "7eb8ff8",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "86e7784",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "5a92258",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "5482275",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "b69678f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "a94e647",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "6f9cf84",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "d57f4a4",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "98b859e",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "499bb1b",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "d3a6ab6",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "0e29477",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "fd6ddd5",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c5fb064",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "dc5aa3a",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "faeeca0",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "d02e6f7",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "27ef823",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "15025f9",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "5b7a07b",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "01b3aef",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "d9e276f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "985fd9f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "f012b46",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "76a506e",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "8230481",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "67206ae",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "4224514",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "12978b7",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "74780bd",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "927e769",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "e4caefd",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "2a00d13",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "a3c8ca5",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "54864c7",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "feff9e4",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c0d7fa6",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "fa23162",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "a7566d2",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "401bf7e",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "7285522",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "62a9e50",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "c7bb746",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "fefcb3a",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "7ea871b",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "4c2cc76",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "dfb7ddd",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "497ead6",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "3dc1423",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "f53a7d1",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "cb47b31",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "bcdf06a",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "baccdae",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "2da7576",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "cafa920",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "159f307",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "8611f8f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "e9b7058",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "1fd086f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "a6ceb36",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "b8efa6f",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "8e76d00",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-22",
+      "2d1ff07",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-12",
+      "5e6a666",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-12",
+      "7ce3381",
+      "data: update live stats/prices/agents"
+    ],
+    [
+      "2026-06-12",
+      "a926115",
+      "data: update live stats/prices/agents"
+    ]
+  ],
+  "seymour-winswritten": [
+    [
+      "2026-06-22",
+      "b757795",
+      "Gemma 4 household: remove all Gemma 3 references and model files"
+    ],
+    [
+      "2026-06-22",
+      "68bf538",
+      "Initial commit: Seymour Ponderables project structure"
+    ]
+  ],
+  "Godot-MCP": [
+    [
+      "2025-03-26",
+      "0e2d8af",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-26",
+      "b06931f",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-26",
+      "3e52f7b",
+      "Remove server folder from repository"
+    ],
+    [
+      "2025-03-26",
+      "7ec2324",
+      "Remove server folder from repository"
+    ],
+    [
+      "2025-03-26",
+      "c6da716",
+      "Remove server folder from repository"
+    ],
+    [
+      "2025-03-26",
+      "8e92534",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-26",
+      "d9fc877",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "16877ac",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "1ce9be5",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "b0cf289",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "af3d773",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "aa4f59f",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "ab3c36b",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "305b8b3",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-25",
+      "f71993a",
+      "feat: Add enhanced MCP features for better Godot AI assistance"
+    ],
+    [
+      "2025-03-19",
+      "b7d08eb",
+      "Merge pull request #3 from shiena/feature/add-project-path"
+    ],
+    [
+      "2025-03-18",
+      "fba0110",
+      "Add project path to get_project_info command"
+    ],
+    [
+      "2025-03-18",
+      "e91176c",
+      "Merge pull request #1 from ee0pdt/fast-mcp"
+    ],
+    [
+      "2025-03-18",
+      "20b34d4",
+      "Cleanup"
+    ],
+    [
+      "2025-03-18",
+      "ecb14e8",
+      "Fixed script execution"
+    ],
+    [
+      "2025-03-17",
+      "0994d87",
+      "WIp debugging"
+    ],
+    [
+      "2025-03-16",
+      "b90757c",
+      "Fix for tabs"
+    ],
+    [
+      "2025-03-16",
+      "9b11964",
+      "Fixed"
+    ],
+    [
+      "2025-03-16",
+      "cca7962",
+      "Minor fix for print"
+    ],
+    [
+      "2025-03-16",
+      "090f553",
+      "Fixing up gd"
+    ],
+    [
+      "2025-03-16",
+      "6efedc0",
+      "Replace print functions"
+    ],
+    [
+      "2025-03-16",
+      "2f4dae4",
+      "WIP implementing code execute"
+    ],
+    [
+      "2025-03-16",
+      "fa727eb",
+      "WIP planning"
+    ],
+    [
+      "2025-03-16",
+      "345df40",
+      "remove test files"
+    ],
+    [
+      "2025-03-16",
+      "03fcb85",
+      "Add create scene tool"
+    ],
+    [
+      "2025-03-16",
+      "3742b38",
+      "Merge pull request #2 from ee0pdt/fast-mcp-refactor-command-handler"
+    ],
+    [
+      "2025-03-16",
+      "9d5c5d6",
+      "Remove node_modules directory from git tracking"
+    ],
+    [
+      "2025-03-16",
+      "a174fea",
+      "Updated readme"
+    ],
+    [
+      "2025-03-16",
+      "104a796",
+      "Removed old method"
+    ],
+    [
+      "2025-03-16",
+      "3acd2be",
+      "Added .uids"
+    ],
+    [
+      "2025-03-16",
+      "680cf2a",
+      "WIP refactoring"
+    ],
+    [
+      "2025-03-16",
+      "8a4386c",
+      "Added support for resources"
+    ],
+    [
+      "2025-03-15",
+      "facbb4e",
+      "Adding types"
+    ],
+    [
+      "2025-03-15",
+      "e11f0dc",
+      "WIP fixing fastmcp functions"
+    ],
+    [
+      "2025-03-15",
+      "2265151",
+      "WIp adding resources"
+    ],
+    [
+      "2025-03-15",
+      "93979b6",
+      "Cleanup"
+    ],
+    [
+      "2025-03-15",
+      "0a530db",
+      "Fixed parsing"
+    ],
+    [
+      "2025-03-15",
+      "5bd1130",
+      "Fix"
+    ],
+    [
+      "2025-03-14",
+      "bd4c5ce",
+      "Fixed some create method"
+    ],
+    [
+      "2025-03-14",
+      "45a5a58",
+      "Added test scene"
+    ],
+    [
+      "2025-03-14",
+      "59ffbcb",
+      "Cleanup old files"
+    ],
+    [
+      "2025-03-14",
+      "faa7ee8",
+      "New working mcp plugin"
+    ],
+    [
+      "2025-03-14",
+      "a8e74a2",
+      "Remove console logs"
+    ],
+    [
+      "2025-03-14",
+      "a17e28c",
+      "Fixes for node build"
+    ],
+    [
+      "2025-03-14",
+      "c1a7ce3",
+      "Moving to ESM modules"
+    ],
+    [
+      "2025-03-14",
+      "c2fa8c4",
+      "server working but mcp not building cos of ESM issues"
+    ],
+    [
+      "2025-03-14",
+      "4f5f858",
+      "WIP more attempts to fix"
+    ],
+    [
+      "2025-03-14",
+      "9789652",
+      "WIP iterating on server"
+    ],
+    [
+      "2025-03-14",
+      "f3c99cf",
+      "Added claude code config"
+    ],
+    [
+      "2025-03-14",
+      "0311248",
+      "Fixes for resource script"
+    ],
+    [
+      "2025-03-14",
+      "c76f80d",
+      "Added retries"
+    ],
+    [
+      "2025-03-14",
+      "7b2e44a",
+      "WIP fixing Godot scripts"
+    ],
+    [
+      "2025-03-13",
+      "9e43896",
+      "Added missing types"
+    ],
+    [
+      "2025-03-13",
+      "391f9f3",
+      "WIP remaking MCP"
+    ],
+    [
+      "2025-03-13",
+      "860df70",
+      "Planning"
+    ],
+    [
+      "2025-03-13",
+      "2135702",
+      "Update readme"
+    ],
+    [
+      "2025-02-27",
+      "373c521",
+      "Cleanup"
+    ],
+    [
+      "2025-02-27",
+      "b16c2c9",
+      "Update README to include license information"
+    ],
+    [
+      "2025-02-27",
+      "2600858",
+      "Add MIT license"
+    ],
+    [
+      "2025-02-27",
+      "dd75f3b",
+      "Add gitignore for Godot and Node.js project"
+    ],
+    [
+      "2025-02-27",
+      "9dffa03",
+      "Basic implementation working"
+    ],
+    [
+      "2025-02-27",
+      "a5df67b",
+      "Fixing types"
+    ],
+    [
+      "2025-02-27",
+      "136200c",
+      "Initial commit"
+    ]
+  ],
+  "gradretentionnet": [
+    [
+      "2024-11-09",
+      "ac6c3f0",
+      "Actually fixing the code to match the equaiton idea"
+    ],
+    [
+      "2024-11-09",
+      "d87c684",
+      "Actually fixing the code to match the equaiton idea"
+    ],
+    [
+      "2024-11-09",
+      "bba81ed",
+      "Actually fixing the code to match the equaiton idea"
+    ],
+    [
+      "2024-11-09",
+      "ca177b9",
+      "KITCHEN SINK TESTING Choose from 'MNIST', 'CIFAR10', 'IMDB', 'AG_NEWS', 'VOC'"
+    ],
+    [
+      "2024-11-08",
+      "48a95f5",
+      "KITCHEN SINK TESTING Choose from 'MNIST', 'CIFAR10', 'IMDB', 'AG_NEWS', 'VOC'"
+    ],
+    [
+      "2024-11-08",
+      "ab6f485",
+      "KITCHEN SINK TESTING Choose from 'MNIST', 'CIFAR10', 'IMDB', 'AG_NEWS', 'VOC'"
+    ],
+    [
+      "2024-11-08",
+      "8b0bf8d",
+      "KITCHEN SINK TESTING Choose from 'MNIST', 'CIFAR10', 'IMDB', 'AG_NEWS', 'VOC'"
+    ],
+    [
+      "2024-11-08",
+      "c7ef8e6",
+      "adding cifar10 test"
+    ],
+    [
+      "2024-11-08",
+      "45d0813",
+      "adding cifar10 test"
+    ],
+    [
+      "2024-11-08",
+      "056c3c1",
+      "adding cifar10 test"
+    ],
+    [
+      "2024-11-08",
+      "097b343",
+      "BEATING ADAMW"
+    ],
+    [
+      "2024-11-08",
+      "d14fa6a",
+      "added soap and reworking new version"
+    ],
+    [
+      "2024-11-08",
+      "ff6206c",
+      "added soap and reworking new version"
+    ],
+    [
+      "2024-10-16",
+      "4f71096",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "0b3ef63",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "a8b7a8b",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "a732e0d",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "0f96f7b",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "a884acf",
+      "fixing the testing env"
+    ],
+    [
+      "2024-10-16",
+      "e1f6b45",
+      "fixing console output to be more informative and trying to fairly compare optimi"
+    ],
+    [
+      "2024-10-15",
+      "9fc9145",
+      "fixing console output to be more informative and trying to fairly compare optimi"
+    ],
+    [
+      "2024-10-15",
+      "b6216fd",
+      "fixing readme and reran tests and gave optimal numbers, SGD gets more cred by av"
+    ],
+    [
+      "2024-10-15",
+      "47fcbed",
+      "fixing readme and reran tests and gave optimal numbers, SGD gets more cred by av"
+    ],
+    [
+      "2024-10-15",
+      "f044a97",
+      "fixing readme and reran tests and gave optimal numbers, SGD gets more cred by av"
+    ],
+    [
+      "2024-10-15",
+      "3c7831c",
+      "fixing readme and naming"
+    ],
+    [
+      "2024-10-15",
+      "72e7f1a",
+      "fixing readme and naming"
+    ],
+    [
+      "2024-10-15",
+      "9fd3037",
+      "fixing readme and naming"
+    ],
+    [
+      "2024-10-15",
+      "33fd254",
+      "fixing readme and naming"
+    ],
+    [
+      "2024-10-15",
+      "35b067f",
+      "fixing readme and naming"
+    ],
+    [
+      "2024-10-15",
+      "84e267f",
+      "fixing ephemeral sgd to add kaloz ideas"
+    ],
+    [
+      "2024-10-15",
+      "4007175",
+      "fixing ephemeral sgd to add kaloz ideas"
+    ],
+    [
+      "2024-10-15",
+      "0a95716",
+      "fixing ephemeral sgd to add kaloz ideas"
+    ],
+    [
+      "2024-10-15",
+      "4d83a32",
+      "fixing ephemeral sgd to add kaloz ideas"
+    ],
+    [
+      "2024-10-15",
+      "00b2850",
+      "fixing ephemeral sgd to add kaloz ideas"
+    ],
+    [
+      "2024-10-15",
+      "e472d5f",
+      "fixing SGD"
+    ],
+    [
+      "2024-10-06",
+      "0ccd9fb",
+      "ephemeral gradient updates."
+    ],
+    [
+      "2024-10-06",
+      "94d6700",
+      "ephemeral gradient updates."
+    ],
+    [
+      "2024-10-06",
+      "a0db0b3",
+      "Initial commit: Adding GradRetentionNet project files"
+    ],
+    [
+      "2024-10-06",
+      "0aee415",
+      "Initial commit: Adding GradRetentionNet project files"
+    ]
+  ]
+}

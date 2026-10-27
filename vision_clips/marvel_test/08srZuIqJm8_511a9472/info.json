@@ -1,0 +1,28 @@
+{
+  "video_id": "08srZuIqJm8",
+  "clip_id": "511a9472",
+  "keyword": "Marvel",
+  "start_s": 5734,
+  "end_s": 5744,
+  "duration_s": 10,
+  "frame_times": [
+    0,
+    3.3,
+    6.6,
+    9.5
+  ],
+  "frames": [
+    "/home/wubu/seymour-project/vision_clips/marvel_test/08srZuIqJm8_511a9472/frame_00_5734s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_test/08srZuIqJm8_511a9472/frame_01_5737s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_test/08srZuIqJm8_511a9472/frame_02_5740s.webp",
+    "/home/wubu/seymour-project/vision_clips/marvel_test/08srZuIqJm8_511a9472/frame_03_5743s.webp"
+  ],
+  "frame_count": 4,
+  "vision_resolution": [
+    896,
+    896
+  ],
+  "frame_format": "webp",
+  "clip_dir": "/home/wubu/seymour-project/vision_clips/marvel_test/08srZuIqJm8_511a9472",
+  "status": "complete"
+}

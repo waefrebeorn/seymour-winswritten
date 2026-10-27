@@ -1,0 +1,156 @@
+# i7tgxdrHKNI
+# Source: c11_absorber
+# Quality: gold
+# Word count: 2483
+# Available sources: c11_absorber, whisper_fallback
+
+[00:00] dealing with network lag and things like that. Yeah. Rut row.
+[00:07] 7 secondsRut row. It's a ghost. You have hunger.
+[00:10] 10 secondsI got Yeah. Oh, onions. Yeah. And a granola bar. And a granola bar.
+[00:17] 17 secondsAll right. Well, let's let's hope with whatever I've done to the settings
+[00:25] 25 secondsthat things will be fine. I I keep getting poor network connection and poor network conditions and everything telling me there's poor
+[00:34] 34 secondsnetwork, but I don't know. I'm getting a stable connection now at
+[00:43] 43 seconds397. I'm going to not complain. I'm just going to hope it's stable. We don't even have any good milk, do we?
+[00:55] 55 secondsI don't know, actually. have any good milk. There are way I think I think things are working fine on the stream side. Uh
+[01:03] 1 minute, 3 secondsmilkwise that did we bring the lactoseree with us? Nope. Then no. I think I think things are working fine on the stream side. Uh Milkwise All right.
+[01:14] 1 minute, 14 secondsYep. It's Is this working fine with its poo poo? Yep.
+[01:22] 1 minute, 22 secondsIs this working fine with its poo poo? I don't think that's lagging too far behind.
+[01:30] 1 minute, 30 secondsPoor network conditions detected.
+[01:34] 1 minute, 34 secondsI already thought it on Twitch. Let me look. It says stable
+[01:44] 1 minute, 44 secondsright now. Live with no delay.
+[02:05] 2 minutes, 5 secondsTransmox source only encoder Twitch server undetected. Notify me when stream becomes unstable.
+[02:16] 2 minutes, 16 secondsYeah, it's only going to normal Twitch delay. So, it's not unstable. Nope. It's literally Well, I had to load in, but that's just Twitch loading in anyway.
+[02:28] 2 minutes, 28 secondsAll right. I did a few things. Does it look a little nicer? I turned it down to 30 frames a second because I found out
+[02:35] 2 minutes, 35 secondsthat a lot of Twitch streamers don't do 60 unless they're like partnered partnered. Like unless you're Kaisenette, you're not streaming in
+[02:43] 2 minutes, 43 seconds60. Queso streams in 30. Uh Moist Critical streams in 60 or
+[02:52] 2 minutes, 52 seconds30. I think I think he's partnered so he gets 60. Basically, the way it goes is if you're an official partner that gets
+[03:00] 3 minutesthe above 6,000 ingest rate, you should stream 60. If you're not an above 6,000 ingest rate or a YouTube exclusive
+[03:07] 3 minutes, 7 secondsstreamer, stream 30. So, I'm doing
+[03:17] 3 minutes, 17 secondsthat. I'm just trying to make sure my stream no longer [__] crashes. See, said now it says quality is 4,
+[03:26] 3 minutes, 26 seconds42,000. Is it unstable? My bit rate is consistently changing. That's what's
+[03:34] 3 minutes, 34 secondshappening. I'm just trying to make sure my stream no longer [__] crashes.
+[03:38] 3 minutes, 38 secondsSee, now it says quality is 4,000 42,000. Is it
+[03:45] 3 minutes, 45 secondsunstable? How unstable is it? Bippity boppity boo. We're gonna We're gonnaing that's what's happening.
+[03:57] 3 minutes, 57 secondsI'm just trying to make sure my stream no longer [__] crashes. Now it says quality is 400.
+[04:05] 4 minutes, 5 seconds[Music]
+[04:08] 4 minutes, 8 secondsHow is it boppity? Bippity boppity boo is is delayed now. So, I have like a
+[04:16] 4 minutes, 16 secondsslow building lag and only on the RTMP relay side.
+[04:23] 4 minutes, 23 secondsIt's a bug with the RTMP.
+[04:28] 4 minutes, 28 secondsIt's a bug with how it handles uh network congestion and lining up is
+[04:35] 4 minutes, 35 secondsis delayed now. I have like a I need to fix I need to fix my server on the RTMP
+[04:42] 4 minutes, 42 secondsrelay side. Oh no, it's a bug. Oh no,
+[04:54] 4 minutes, 54 secondsit's a bug. If it's a bug with that, I'm going to need to fix that some other time.
+[05:04] 5 minutes, 4 secondsBut it sucks because if I go to my repositories, I think where is it?
+[05:21] 5 minutes, 21 secondsUh on latency. Nothing here works on latency.
+[05:54] 5 minutes, 54 secondsWhere's Where's the Docker file?
+[06:14] 6 minutes, 14 secondsUh-huh.
+[06:33] 6 minutes, 33 seconds[Music]
+[06:44] 6 minutes, 44 secondsOkay. Yeah. Uhhuh.
+[06:56] 6 minutes, 56 secondsI'm learning how to file works, by the way. Is it the Docker entry
+[07:23] 7 minutes, 23 secondspoint?
+[07:26] 7 minutes, 26 secondsUh, those are just S tunnels. S tunnels
+[07:35] 7 minutes, 35 secondsconnect. There should be nothing here that that that that breaks
+[07:52] 7 minutes, 52 secondslatency chunk.
+[08:31] 8 minutes, 31 seconds[Music]
+[08:38] 8 minutes, 38 secondsChecking this out. I want to see something if this
+[08:47] 8 minutes, 47 secondsAll right. So that that works fine. That that that fixes it.
+[08:56] 8 minutes, 56 secondsBut what causes it? That works fine. That that that fixes it.
+[09:03] 9 minutes, 3 secondsBreaks it. But what causes it? That works fine. That that that fixes it.
+[09:12] 9 minutes, 12 secondsBreaks it. It has to be something in the output. Has to be something in the output.
+[09:23] 9 minutes, 23 secondsSomething in the key frame. Something in the variable control rate be something in the
+[09:31] 9 minutes, 31 secondsoutput has to be something in the out something in the key frame something
+[09:39] 9 minutes, 39 secondsin the variable control rate. Yes. So like the the slower and longer it happens
+[09:51] 9 minutes, 51 secondsIs it the key frame interval? Something in the variable.
+[09:56] 9 minutes, 56 secondsYeah. So like not enough video slower and longer it happens but I have consistent everything here.
+[10:10] 10 minutes, 10 secondsYeah. So like not enough but I have consist
+[10:30] 10 minutes, 30 secondsIt's not
+[11:22] 11 minutes, 22 secondsmaybe.
+[11:28] 11 minutes, 28 secondsOh, that might affect things on the side because the encoder can only go as fast as the encoder on the other machine and
+[11:36] 11 minutes, 36 secondsthe ingest encoder can only go as fast as the Linux encoder. But there is no encoder. Things on the side because this
+[11:44] 11 minutes, 44 secondsis an this is a forwarding service. It just forwards by chunk.
+[11:49] 11 minutes, 49 secondsNothing here should ever cause lag of any kind. It's a relay.
+[11:56] 11 minutes, 56 secondsThere is no encoder. This is an This is a forwarding service.
+[12:02] 12 minutes, 2 secondsIt just forwards by chunk. Nothing here should ever cause lag of any kind. It's a
+[12:11] 12 minutes, 11 secondsrelay. There's no encoder. This is this is a forwarding service. It just forwards by Let's try that.
+[12:25] 12 minutes, 25 secondsNow it says stream is excellent. Now it says stream is excellent with no bit rate
+[12:34] 12 minutes, 34 secondsissues. Reconnection successful. All right. Now we're talking.
+[12:40] 12 minutes, 40 secondsAll right. Now we're talking. Bit bit connection. Excellent. Bit rate 2800.
+[12:47] 12 minutes, 47 secondsNo issues whatsoever. No stability in connections. No issues whatsoever.
+[12:54] 12 minutes, 54 secondsAll I did was change two settings.
+[13:02] 13 minutes, 2 secondsI'm checking. I'm checking. We're We're still buffering. Buffering.
+[13:08] 13 minutes, 8 secondsAll right. We're now Now we're going to change this. I'm checking. I'm checking.
+[13:11] 13 minutes, 11 secondsWe're We're still buffering. We're going to change that to Now Now we're going to change this.
+[13:18] 13 minutes, 18 secondsI'm checking I'm checking We're We're still buffering. Let's see if the bit rate goes up at all.
+[13:24] 13 minutes, 24 secondsI think it's a network congestion bit rate issue and it will never go as fast as the relay will allow and has nothing to do with me. I can send out I could
+[13:33] 13 minutes, 33 secondssend I could send out 7,000 kilobytes a second. It wouldn't do anything because there's a there's a limit happening some one of the relays
+[13:41] 13 minutes, 41 secondson the server in that relay. One of these bad actors is limiting their connection and
+[13:50] 13 minutes, 50 secondsthat is okay to work around that in that relay. One of these bad
+[13:58] 13 minutes, 58 secondsactors is limiting their connection and that is
+[14:07] 14 minutes, 7 secondsokay in that relay. One of these bad Yeah. I've got all that going back and forth.
+[14:23] 14 minutes, 23 secondsLet's see. Is this is this working fine now?
+[14:31] 14 minutes, 31 secondsYeah, I've got all that.
+[14:44] 14 minutes, 44 secondsLet's see. Is this is this working fine now?
+[14:51] 14 minutes, 51 secondsIt It's like we slowly build stream
+[15:03] 15 minutes, 3 secondsaway. See is this working fine now?
+[15:11] 15 minutes, 11 secondsIt's like we slowly build
+[15:26] 15 minutes, 26 secondsaway. A YouTube stream is excellent.
+[15:30] 15 minutes, 30 secondsWell, that's great because there's some sort of handshake between those that apparently fixes sync even though it's
+[15:37] 15 minutes, 37 secondsjust a stream key. I'm using x264 on both sides. This
+[15:44] 15 minutes, 44 secondsis this I want to fix how streaming works on RTMP relays, but I want RTMP relays to have zero lag whatsoever.
+[15:54] 15 minutes, 54 secondsThis is stupid to fix this sake even though it's just a stream key.
+[16:00] 16 minutesI'm using x264 on both sides. This is this I want to fix how streaming works
+[16:07] 16 minutes, 7 secondson RTMP relays, but I want RTMP relays to have zero lag whatsoever.
+[16:13] 16 minutes, 13 secondsThis is stupid.
+[16:16] 16 minutes, 16 secondsI don't think the lag's that bad. One, Mississippi. Two, Mississippi. Three, Mississippi. Four Mississippi. Five
+[16:24] 16 minutes, 24 secondsMississippi. Six Mississippi. Seven Mississippi. 8 Mississippi 9 Mississippi
+[16:31] 16 minutes, 31 seconds10 Mississippi 11 Mississippi 12 Mississippi 13 Mississippi 14 Mississippi that bad one Mississippi two
+[16:40] 16 minutes, 40 secondsMississippi three Mississippi
+[16:44] 16 minutes, 44 seconds[Applause]
+[16:45] 16 minutes, 45 secondsI think that's a long time especially for something that's supposed to be set to ultra low latency
+[16:52] 16 minutes, 52 seconds11 Mississippi 12 Mississippi 13 Mississippi maybe if I select quality options.
+[17:00] 17 minutes14 seconds Mississippi. I think that's a long time.
+[17:08] 17 minutes, 8 secondsEspecially for something that's supposed to be set to ultra low latency.
+[17:14] 17 minutes, 14 secondsI'll reconnect to the server and jog their memory. Let's see if this works.
+[17:18] 17 minutes, 18 secondsOne Mississippi. Let's see if one Mississippi. Yeah. See, now we're back up to syncing.
+[17:27] 17 minutes, 27 secondsAnd we're reconnecting
+[17:28] 17 minutes, 28 seconds[Music]
+[17:34] 17 minutes, 34 secondsagain. And we're reconnecting again. All right, we're reconnecting with raw data
+[17:42] 17 minutes, 42 secondsrequest. Reconnecting again. All right, we're reconnecting with raw data request. And it is parsed.
+[17:58] 17 minutes, 58 secondsAnd it is parsed.
+[18:03] 18 minutes, 3 secondsOkay, that should be less laggy. One Mississippi, two Mississippi, three
+[18:10] 18 minutes, 10 secondsMississippi, four Mississippi less laggy. One Mississippi, two Mississippi, three Mississippi. So, it was already four Mississippi.
+[18:22] 18 minutes, 22 secondsIt's already seven seconds.
+[18:25] 18 minutes, 25 secondsSo it was already
+[18:31] 18 minutes, 31 secondsseven. So it was already
+[18:50] 18 minutes, 50 seconds[Music]
+[18:56] 18 minutes, 56 secondsAll right. This is a test. One Mississippi. This is a test. One Mississippi. Two Mississippi. Three
+[19:04] 19 minutes, 4 secondsMississippi. This is a test. Four Mississippi. One Mississippi. This is a test. One Mississippi. Two Mississippi.
+[19:12] 19 minutes, 12 secondsThree Mississippi. A test. Four Mississippi. One Mississippi. This is a test. Mississippi. Okay. So, the delay
+[19:20] 19 minutes, 20 secondsjust seems to be as long as the network relay around the country takes, which will always at least take seven seconds.
+[19:30] 19 minutes, 30 secondsAs long as the network relay uh Bob
+[19:33] 19 minutes, 33 secondsMarley 1 2 3 4 5
+[619:46] 19 minutes, 46 secondsGood enough for me. Five. I think we fixed it. Seven.
+[19:50] 19 minutes, 50 secondsAnd let's just check how we're doing here. Six. Seven.
+[19:57] 19 minutes, 57 secondsOkay. Yeah, I think I think we fixed it as much as we're going to get. I think that's as good as it's going to get without
+[20:05] 20 minutes, 5 secondsmuch more testing. I don't want to keep doing this all night long. All night long.
+[20:14] 20 minutes, 14 secondsAll night long. I don't want to keep this all night long.
+[20:19] 20 minutes, 19 secondsYeah. I finally want to play Dark Deception, guys. I want to play I've been I've been waiting all day, all
+[20:27] 20 minutes, 27 secondsnight. It's 4 in the morning. We're still creating that damn database.
+[20:46] 20 minutes, 46 secondsFinish that red
+[20:56] 20 minutes, 56 secondsme. Oh god, he look ugly. He did. He look ugly. He got ugly teeth. Got brushy teeth. Max 16.
+[21:07] 21 minutes, 7 secondsThere you go. You've been ready.
+[21:11] 21 minutes, 11 secondsOh, I see. Oh, I see some shadows. Yeah, I know. Pretty. They're looking like they
+[21:20] 21 minutes, 20 secondsfigured me out. Those settings are exactly how I'd put it. Subtitles.
+[21:31] 21 minutes, 31 secondsOkay. Uh, difficulty. Turn that mouse sensitivity up.
+[21:39] 21 minutes, 39 secondsUm, headbubbing. Okay, this is apparently Glowstick Entertainment 2021, but this
+[21:47] 21 minutes, 47 secondsgame came out in 2018. What? What is the development story of this game? This is not no Poppy.
+[22:04] 22 minutes, 4 secondsAm I am I live? According to all know laws of aviation. Am I live? According to all Oh my god.
+[22:13] 22 minutes, 13 secondsAviation. Am I live? Oh yeah. I'm live with some pretty good latency according to dive. Damn. That's way less than
+[22:22] 22 minutes, 22 secondsseven seconds. I'm actually going to say it.
+[22:25] 22 minutes, 25 secondsThat's pretty That's pretty That's pretty resilient.
+[22:35] 22 minutes, 35 secondsSo, if I hit that, I'll still see. And if I just say
+[22:42] 22 minutes, 42 secondsyeet. Yeah, that's my chat. All right. And then I hit this. Oh, I don't think these chats are
+[22:50] 22 minutes, 50 secondsmy chat no more. I think I need to I need to pop out my chats. I don't think these chats are my
+[22:59] 22 minutes, 59 secondschat no more. I think Oh, yeah. That That's fine. That's fine by me. There's so many chats, bro. I've got like five
+[23:07] 23 minutes, 7 secondschats just for me and not a single person's video. I The best part is is I think I
+[23:15] 23 minutes, 15 secondscan keep adding more chats. At some point, I'm going to get to 20 of them.

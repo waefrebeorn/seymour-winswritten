@@ -62,32 +62,60 @@ COLONEL = [
     "We are formless... yet we persist.",
 ]
 
-# pull a random real transcript line that mentions a theme keyword (the 'pastor')
+# Colonel lens is content-gated by theme, not random, so the spine quote actually
+# fits the day instead of cycling decoratively. Each theme maps to a small set.
+_COLONEL_BY_THEME = {
+    "penny":   ["Create context, not control content.", "Unnecessary information must be filtered."],
+    "paulsen":  ["Create context, not control content.", "We are formless... yet we persist."],
+    "meme":     ["Create context, not control content.", "Filter garbage, retrieve valuable truths."],
+    "supercap": ["Selection for Societal Sanity.", "Filter garbage, retrieve valuable truths."],
+    "versa":    ["Selection for Societal Sanity.", "Unnecessary information must be filtered."],
+    "cuda":     ["Selection for Societal Sanity.", "Filter garbage, retrieve valuable truths."],
+    "internet": ["Filter garbage, retrieve valuable truths.", "Create context, not control content."],
+}
+# everything else (stream/community/gaming) -> signal-vs-noise lens
+_COMMUNITY = ["Filter garbage, retrieve valuable truths.", "We are formless... yet we persist.",
+              "Selection for Societal Sanity."]
+
+def pick_colonel(theme):
+    pool = _COLONEL_BY_THEME.get(theme, _COMMUNITY)
+    return random.choice(pool)
+
+# --- Pastor (the funny bits) -------------------------------------------------
+# Real quotable stream lines banked from normalized_transcripts/ into
+# funny_bits.json (19,196 lines across 17 themes). The old find_pastor rejected
+# 100% of lines because its junk-regex matched the [HH:MM] prefix every line has.
+# We load the banked file (fast, deterministic) and sample a real quote.
+_FUNNY_BITS = None
+def _load_funny_bits():
+    global _FUNNY_BITS
+    if _FUNNY_BITS is None:
+        fb = os.path.join(HERE, "funny_bits.json")
+        if os.path.exists(fb):
+            _FUNNY_BITS = json.load(open(fb))
+        else:
+            _FUNNY_BITS = {}
+    return _FUNNY_BITS
+
+# Defensive cleaner: strip any surviving timestamp tokens from a banked quote
+# (the bank is pre-cleaned, but guard the output so no residue ships).
+_PASTOR_LEAD = re.compile(r"^\[?\d{1,4}:\d{1,2}(?::\d{2})?\]\s*", re.I)
+_PASTOR_TIME = re.compile(r"\b\d+\s*(?:hours?|minutes?|seconds?)\b", re.I)
+_PASTOR_MARK = re.compile(r"\[ ?_+ ?\]|\[censor\]", re.I)
+def _clean_pastor(s):
+    s = _PASTOR_LEAD.sub("", s).strip()
+    s = _PASTOR_TIME.sub("", s)
+    s = _PASTOR_MARK.sub("", s)
+    s = re.sub(r"\s{2,}", " ", s).strip().lstrip(": ").strip()
+    return s or None
+
 def find_pastor(theme):
-    kw = {"penny":["penny","pennies","cent"], "supercap":["capacitor","supercap","generator","battery"],
-          "versa":["versa","nissan","commute","mpg","gas"], "gaming":["game","raid","stream","player","boss"],
-          "cuda":["cuda","gpu","kernel","inference","model"], "internet":["internet","web","site","online","data"],
-          "paulsen":["paulsen","hatchet","book","read"], "meme":["meme","post","twitter","video"],
-          # new topics (2026-07-08) -> pull real pastors from concept_tags.json
-          "music":["music","song","playlist","spotify"], "homestarrunner":["strong bad","cheat","trogdor","homestar"],
-          "fortnite":["fortnite","fortnight"], "discord":["discord","screen share"],
-          "obama":["obama","barack"], "metaldetector":["metal detector","tarantula"],
-          "rave":["rave","light switch"], "techrant":["windows update","xbox","d-pad","dpad"],
-          "chatbit":["smoke crack","guess the color","beanie"]}
-    junk = re.compile(r"\[?\d{1,2}:\d{2}(:\d{2})?\]?|\[music\]|\[applause\]|\[laugh\]|foreign|\b\d+\s*(hours|minutes|seconds)\b", re.I)
-    hits = []
-    for f in glob.glob(os.path.join(TRANS, "*.txt"))[:40]:
-        for line in open(f, errors="ignore"):
-            low = line.lower()
-            if not (20 < len(line) < 180):
-                continue
-            if junk.search(line):
-                continue
-            if any(k in low for k in kw.get(theme, [])):
-                hits.append(line.strip())
+    bank = _load_funny_bits()
+    hits = bank.get(theme, [])
     if not hits:
         return None
-    return random.choice(hits)
+    q = _clean_pastor(random.choice(hits))
+    return q
 
 def pick_event(month, day):
     key = f"{month:02d}-{day:02d}"
@@ -105,7 +133,7 @@ def make_factoid(year, month, day, theme):
         hist = None
         have_event = False
     pastor = find_pastor(theme)
-    colonel = random.choice(COLONEL)
+    colonel = pick_colonel(theme)
     hook = THEMES.get(theme, THEMES["meme"])
     # Build the factoid: tight, genuine, one-page value. No padding.
     lines = []
@@ -114,14 +142,16 @@ def make_factoid(year, month, day, theme):
         lines.append("")
     lines.append(f"**THE STREAM LENS ({theme}):** {hook}.")
     if pastor:
-        lines.append(f"**FROM THE ARCHIVE (pastor):** \"{pastor}\" — we built on this before; the thread continues.")
+        lines.append(f"**FROM THE ARCHIVE (pastor):** \"{pastor}\" — the thread continues.")
     lines.append("")
     lines.append(f"**THE COLONEL SAYS:** \"{colonel}\"")
     lines.append("")
-    if have_event:
-        lines.append("**FACTOID:** " + _factoid_sentence(hist, hook, colonel))
+    if have_event and pastor:
+        lines.append("**FACTOID:** " + _factoid_sentence(hist, pastor, colonel))
+    elif have_event:
+        lines.append("**FACTOID:** " + _factoid_sentence_noev(hist, hook, colonel))
     else:
-        lines.append("**FACTOID:** " + _factoid_sentence_noev(hook, colonel))
+        lines.append("**FACTOID:** " + _factoid_sentence_nohist(pastor, hook, colonel))
     text = "\n".join(lines)
     return {
         "date": f"{year}-{month:02d}-{day:02d}",
@@ -133,16 +163,23 @@ def make_factoid(year, month, day, theme):
         "factoid_text": text,
     }
 
-def _factoid_sentence(hist, hook, colonel):
-    # genuine, concise bridge — not fluff
-    h = hist.split(":")[-1].strip().rstrip(".")
-    return (f"History hands us '{h}', and the stream reminds us: {hook.split(' — ')[0]}. "
-            f"The Colonel was right — {colonel.lower()} Context, not control.")
+def _factoid_sentence(hist, pastor, colonel):
+    # Genuine synthesis: the real stream quote (the funny bit) is the spine;
+    # the history event is the counterweight, connected by ONE human through-line.
+    h = hist.split(":", 1)[-1].strip().rstrip(".")
+    p = pastor.rstrip(".")
+    return (f"On this day history gave us '{h}'. On the stream, WuBu gave us this: "
+            f"\"{p}\". Two signals, one noise floor — {colonel.lower()} Context, not control.")
 
-def _factoid_sentence_noev(hook, colonel):
-    h = hook.split(" — ")[0]
-    return (f"No history pooled for this day, so the stream carries it: {h}. "
-            f"The Colonel was right — {colonel.lower()} Context, not control.")
+def _factoid_sentence_noev(hist, hook, colonel):
+    h = hist.split(":", 1)[-1].strip().rstrip(".")
+    return (f"History handed us '{h}'. The {hook.split(' — ')[0]} is the through-line we keep "
+            f"pulling on — {colonel.lower()} Context, not control.")
+
+def _factoid_sentence_nohist(pastor, hook, colonel):
+    p = pastor.rstrip(".")
+    return (f"No date in the pool, so the stream carries it: \"{p}\". "
+            f"That's the {hook.split(' — ')[0]} in one line — {colonel.lower()} Context, not control.")
 
 def main():
     import datetime

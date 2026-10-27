@@ -1,0 +1,8 @@
+# jemTAWOidMg
+# Source: whisper_fallback
+# Quality: low
+# Word count: 14
+# Flags: too_short:14_words, too_few_chars:79
+# Available sources: whisper_fallback
+
+[00:00] Are you playing raw bits? He's playing raw bits. He's playing raw bits.

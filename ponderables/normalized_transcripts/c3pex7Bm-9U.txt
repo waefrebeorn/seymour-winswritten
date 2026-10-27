@@ -1,0 +1,65 @@
+# c3pex7Bm-9U
+# Source: engagement_panel
+# Quality: good
+# Word count: 926
+# Available sources: engagement_panel
+
+[00:04] 4 seconds[Music]
+[00:35] 35 seconds[Music]
+[00:48] 48 secondsHey, hey,
+[00:51] 51 seconds[Music]
+[00:53] 53 secondshey. Hey, hey, hey.
+[00:55] 55 seconds[Music]
+[02:49] 2 minutes, 49 seconds[Music]
+[02:55] 2 minutes, 55 secondsOkay. Okay. Now I'm doing it. Okay. Okay. Okay. Now I'm doing it.
+[03:01] 3 minutes, 1 secondWe're we're we're testing to see if we're getting lag over time. We're we're testing to see. So basically, we're going to goof
+[03:11] 3 minutes, 11 secondsoff for a little bit. I'm going to look at some breakfast items and we're seeing if the changes that I made fix the
+[03:21] 3 minutes, 21 secondsnetwork's instability and lag um stats because what I had before was
+[03:29] 3 minutes, 29 secondsan unstable connection. Now we're getting a solid 6,000 kilobytes a second with no lag.
+[03:40] 3 minutes, 40 secondsKilobytes a second with no lag. We changed some configuration and deployment options. We changed some security updates and uh things options.
+[03:50] 3 minutes, 50 secondsWe just did a run over things options.
+[03:53] 3 minutes, 53 secondsWe just did a run over. I'm just going to um contribute. I'm just gonna pull request.
+[04:08] 4 minutes, 8 secondsAll right.
+[04:10] 4 minutes, 10 secondsUh, give me a pull. Give me a pull
+[04:17] 4 minutes, 17 secondsrequest. Uh, pull request request. And
+[04:25] 4 minutes, 25 secondsthen, and here's how we'll do it. We're actually gonna And here's how we'll do it. And then we'll remove PNG.
+[04:36] 4 minutes, 36 secondsAnd here's how we'll do it.
+[04:38] 4 minutes, 38 secondsAnd then we'll remove the summary
+[04:48] 4 minutes, 48 secondschanges. Here is the
+[04:52] 4 minutes, 52 secondsOG. And I am the for making the And I am
+[04:59] 4 minutes, 59 secondsthe force making the P. I am the
+[05:09] 5 minutes, 9 secondsOh, yeah. Oh, yeah. All right. I need to do that here.
+[05:21] 5 minutes, 21 secondsBam. I need to do that here.
+[05:26] 5 minutes, 26 secondsBam. I need to do that here. Oh, yeah. I can I can mute that, though. We're really just seeing if if we fixed the
+[05:33] 5 minutes, 33 secondslag. We're just seeing if we fixed the stability. We fixed the lag. I'm uh making a pull request update to the original.
+[05:42] 5 minutes, 42 seconds[Music]
+[05:44] 5 minutes, 44 secondsWhat's up, Mia? What's up, Nimeo? We're fixing the lag.
+[06:26] 6 minutes, 26 secondsThanks for following. We're we're we're doing we're doing stuff and we're being busy, boys.
+[06:32] 6 minutes, 32 secondsBut I'm I've got I've got stuff on the screen I don't want to show.
+[06:45] 6 minutes, 45 secondsNume, thanks for following.
+[07:24] 7 minutes, 24 secondsThanks for the follow. Thanks for the follow. I just I just pushed changes to Prism and I made a pull request.
+[07:37] 7 minutes, 37 secondsGeneral update.
+[08:36] 8 minutes, 36 secondsThere we go. The irony is I used to host a draw
+[08:46] 8 minutes, 46 secondspile server and and these guys are right here. I'm working on their freaking
+[08:53] 8 minutes, 53 secondsprogram. I was main gamer. I hosted the man gamer draw pile where that [ __ ] uh screaming Valkyrie, that furry person
+[09:01] 9 minutes, 1 secondthat draws the Oh, what is it? They draw they drew like bugs [ __ ] and [ __ ] man. They
+[09:08] 9 minutes, 8 secondsdrew They also drew uh nonferal, but they drew like furry port and [ __ ] I think that was [ __ ] up.
+[09:22] 9 minutes, 22 secondsWe refactor the logic. All right, now it's time to test. Let's see the logic.
+[09:29] 9 minutes, 29 secondsAll right, now it's time. All right, that should be good. Now, now what's going on here? Logic. All right, it's
+[09:35] 9 minutes, 35 secondstime to test. Let's see logic. All right, let's hit refresh on that. Let me see if that has
+[09:47] 9 minutes, 47 secondsanything. All right, let's refresh on that. Let me see if that has any. That seems like no lag. It seems like we've
+[09:56] 9 minutes, 56 secondshit we've hit the latency that we're supposed to have. We're hitting the latency template we're supposed to
+[10:07] 10 minutes, 7 secondshave. The real question is whether or not CBR
+[10:22] 10 minutes, 22 secondsWait and
+[10:41] 10 minutes, 41 secondssee. You see
+[10:57] 10 minutes, 57 secondsUh, we're checking that. We're checking that. Checking that chicken
+[11:04] 11 minutes, 4 secondswing. Uh, we're checking that. That's I don't I don't see anything wrong here.
+[11:17] 11 minutes, 17 secondsIt's free. Zero followers. There's only a subscribe
+[11:29] 11 minutes, 29 secondsbutton. That's old, huh? How do I have 15 viewers? That feels like they're lying.
+[11:43] 11 minutes, 43 secondsLike they're just straight up lying. Dive is trying to say I have 15 viewers.
+[11:48] 11 minutes, 48 secondsI don't believe that. There's no one talking in the chat. So that that that's a that's a fake number. Yeah, those
+[11:55] 11 minutes, 55 secondspeople are gone. I said that and that number vanished.
+[12:02] 12 minutes, 2 secondsGood. Yeah. All 15 people left at once.
+[12:06] 12 minutes, 6 secondsThat's you. I pissed them all off at the same time.
+[12:17] 12 minutes, 17 secondsOkay. Bit rate to manage congestion. I actually do think we fixed
+[12:28] 12 minutes, 28 secondsthe problem though. So the video being 60 frames a second was never the issue.Sync to video time

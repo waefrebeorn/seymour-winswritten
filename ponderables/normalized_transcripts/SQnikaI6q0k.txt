@@ -1,0 +1,1398 @@
+# SQnikaI6q0k
+# Source: engagement_panel
+# Quality: good
+# Word count: 32608
+# Available sources: engagement_panel
+
+[00:01] 1 second[Music]
+[00:18] 18 seconds[Music]
+[00:33] 33 secondsHeat. Heat. Heat. Heat.
+[00:39] 39 seconds[Music]
+[00:57] 57 secondsN. Heat. Heat.
+[01:01] 1 minute, 1 second[Applause]
+[01:03] 1 minute, 3 seconds[Music]
+[01:40] 1 minute, 40 secondsHeat. Heat.
+[01:45] 1 minute, 45 seconds[Music]
+[02:05] 2 minutes, 5 secondsOh, heat.
+[02:11] 2 minutes, 11 seconds[Music]
+[02:20] 2 minutes, 20 secondsOh man, it just gives me gives me the vibes of Pizza Tower.
+[02:25] 2 minutes, 25 seconds[Applause]
+[02:42] 2 minutes, 42 seconds[Music]
+[02:58] 2 minutes, 58 seconds[Music]
+[03:00] 3 minutesis a
+[03:03] 3 minutes, 3 seconds[Music]
+[03:09] 3 minutes, 9 secondsThere we go. How brain rock can we get though? I
+[03:17] 3 minutes, 17 secondswant like more brain rock. I want like an always on top
+[03:25] 3 minutes, 25 seconds[Music]
+[03:27] 3 minutes, 27 secondswindow. Do I have power tools installed? Not on this computer. Damn it. used to be able to pin whatever
+[03:35] 3 minutes, 35 secondswindow I wanted. So I be like just be [ __ ] brain rot. I
+[03:45] 3 minutes, 45 secondscould All right, guys. Hear me out. Hear me out, guys.
+[04:00] 4 minutes[Music]
+[04:15] 4 minutes, 15 seconds[Music]
+[04:23] 4 minutes, 23 seconds[Music]
+[04:25] 4 minutes, 25 secondsHey,
+[04:26] 4 minutes, 26 seconds[Music]
+[04:28] 4 minutes, 28 secondsthen do it like that. And then and then and then and then the brain rot.
+[04:45] 4 minutes, 45 seconds[Music]
+[04:52] 4 minutes, 52 secondsWe'll put the brain rot like over there for for the for you guys. And then
+[05:03] 5 minutes, 3 secondsfor you guys, we'll put it like right there. I want to watch some brain rot while I play this game. And I don't care about your guys's viewer experience
+[05:10] 5 minutes, 10 secondsbecause I have learned uh from the fact that uh bad software experiences that
+[05:18] 5 minutes, 18 secondspeople will still persevere through bad software experiences like Adobe. So because of that, you're going to have a bad viewer experience and uh software
+[05:27] 5 minutes, 27 secondssecurity systems and I'm going to watch that while I play. So this is here's the Wii and PlayStation 3 after the embarrassment that was the original
+[05:35] 5 minutes, 35 secondsplaying schedule because step up for it successor because you guys have bad viewership despite a few missteps. I'm going to just watch what I want in the
+[05:43] 5 minutes, 43 secondscorner and have another monitor over here watching YouTube videos which thrived on the original Xbox has remained inclusive
+[05:51] 5 minutes, 51 secondswithout direct modification of the Oh yeah. Yeah, totally. is until late 2024 when all of a sudden a new 360 Xbox trim
+[05:58] 5 minutes, 58 secondsand harvest this [ __ ] doomer. And while it's no replacement for an honest to god hard mod, it does crack the door open ever so slightly to 360 modding for those with no ability or will to solder.
+[06:09] 6 minutes, 9 secondsProving that no matter how secure something may be, there's always room for improvement. How did this happen?
+[06:14] 6 minutes, 14 secondsHow does the 360 security work? And what did he do? Yeah, what what did we defeat? We'll be covering all that after a message from our sponsor. If you're in need of a website and don't want to mess
+[06:23] 6 minutes, 23 secondsaround with writing code or having to set up and maintain a server, then Squarespace is one of the easiest ways to do it. They have over a 100 templates to choose from. Whether you need a
+[06:31] 6 minutes, 31 secondswebsite for an online store, portfolio, business, or blog, Squarespace has you covered and will get you up and running in no time. And if you need to make any
+[06:38] 6 minutes, 38 secondscustomizations, their site editor is a breeze to use, so you can really give your website the personal touch it needs. I used Squarespace for my online
+[06:46] 6 minutes, 46 secondsstore and loved just how easy it was to get a greatl looking result. It integrated immediately with everything that I needed it to. And it gave me peace of mind to know that my store was
+[06:53] 6 minutes, 53 secondsin good hands. So, if you want a great-look website with no fuss, head over to squarespace.com/mattces to save 10% off your first purchase of a website or domain. But now, back to the Xbox 360.
+[07:04] 7 minutes, 4 secondsThe Xbox 360 pioneered what is now a triedand-rue paradigm for console security. All user software runs on top of a hypervisor, kind of like a
+[07:12] 7 minutes, 12 secondslightweight virtual machine. The hypervisor is the almighty gatekeeper making sure that no code runs without explicit approval from Microsoft really
+[07:20] 7 minutes, 20 secondsevery piece of code must be digitally the code must be coded signature
+[07:28] 7 minutes, 28 secondsincor runs that Microsoft has there was like some but unlike a conventional virtual machine games runs the packaging
+[07:36] 7 minutes, 36 secondsalmost all of the hardware on the system and can for the most part do whatever they want they can even overwrite the flash and break the system if they want to. But they can't load additional code
+[07:44] 7 minutes, 44 secondsor write to executable memory. Only the hypervisor can do that and it stops homebrew dead in its tracks. Naturally, the hypervisor was very protected. Games
+[07:53] 7 minutes, 53 secondscan call into it for certain low-level tasks. But it's very diligent about validating all of the data it receives so that nothing can be used to compromise it. Games have direct access
+[08:01] 8 minutes, 1 secondwas undoubtedly performance, but was also funnier layer of security. Keeping the hypervisor away less opportunities
+[08:08] 8 minutes, 8 secondsto exploit, isn't it? You know how at one point the PS3 could be exploited merely by inserting a USB jailbreak device? That couldn't happen with the
+[08:16] 8 minutes, 16 seconds360. Whatever damage could be done would only affect the game, not the hypervisor. There's obviously a lot more to it than that, but all in all, the hypervisor was a masterclass of console
+[08:25] 8 minutes, 25 secondssecurity. Grimdoo calls the hypervisor one of the most secure pieces of code Microsoft has ever written, and the proof is in the pudding. But even so, no
+[08:33] 8 minutes, 33 secondssoftware is truly perfect. And the Hypervisor has been subject to one bug discovery early in the 360's lifespan in 2006. The King Kong exploit, or more
+[08:42] 8 minutes, 42 secondsaccurately, the 4548 system call handler bug was actually introduced to the Xbox 360's hypervisor via an update in
+[08:49] 8 minutes, 49 secondsOctober 2006. Bear with me here because it's impossible to explain this without looking at the Power PC assembly code, which is probably why it was able to
+[08:56] 8 minutes, 56 secondssneak under Microsoft's radar in the first place. As I mentioned, games can accomplish a handful of low-level tasks by calling into the hypervisor. As I also mentioned, the hypervisor does a lot of checks on any incoming request.
+[09:06] 9 minutes, 6 secondsHere, you can see it ensures the requested call number is between zero and hex 60 because that's how many calls there are. It then uses a lookup table to know what code to jump to based on
+[09:15] 9 minutes, 15 secondsthe requested call. Despite being a 64-bit CPU, the designers knew there was only ever going to be 512 megabytes of memory. So the memory addresses on the
+[09:22] 9 minutes, 22 seconds360 are only 30 bits long with the remaining bits reserved for kind of metadata about the address. The table contains just raw addresses pointing to
+[09:31] 9 minutes, 31 secondsthe code for each system call. Each one is stored in 32-bit or 4 by entries. So to find the right one, all the hypervisor has to do is multiply the
+[09:39] 9 minutes, 39 secondscall number by four. Except it actually just shifts the number two bits to the left because that happens to be the fastest way to multiply a number by four in binary. They're using the 32-bit
+[09:48] 9 minutes, 48 secondsversion of this bit shifting instruction, which also has the side effect of clearing out the upper 32 bits of the value. The lookup table is also protected using both encryption and a
+[09:55] 9 minutes, 55 secondsCRC check sum to ensure that no one has tampered with it and pointed an entry to custom code. Except there is a flag in that address metadata I mentioned that
+[10:04] 10 minutes, 4 secondsbasically tells the hypervisor to not worry about encryption or check something. It's called, and again bear with me here, the HR bypass bit. The HRM
+[10:13] 10 minutes, 13 secondsor hypervisor real mode offset register is a register set during early initialization that forces all addresses to use the encrypted and check summed
+[10:20] 10 minutes, 20 secondspathway unless the bypass bit is set which means it can set its own pathway.
+[10:25] 10 minutes, 25 secondsOrdinarily, there's no way to set this bit since it's in the upper 32 bits of the address which get cleared out. That is until kernel version 4532 where the
+[10:33] 10 minutes, 33 secondsinstruction was inexplicably replaced with the 64-bit version of the instruction that does not clear out the upper 32 bits. Meanwhile, all the other instructions that checked that the
+[10:41] 10 minutes, 41 secondssystem call was valid still only checked the lower 32 bits as they did before.
+[10:46] 10 minutes, 46 secondsEffectively, this makes it possible to sneak data into the uppermost 30 bits of an address, including the HRM bypass bit. And what that means is if we
+[10:55] 10 minutes, 55 secondsoverwrite an address in the system call table with one that's unencrypted and would normally break the CC integrity check, the hypervisor will use it
+[11:02] 11 minutes, 2 secondsanyway. We can still only point to somewhere in the hypervisor segment. But that doesn't matter because if we find a versatile instruction like jump to whatever address is in register R4, then
+[11:11] 11 minutes, 11 secondswe just have to point register R4 to some code we want to run in hypervisor mode. And suddenly we have full control of the system. Most famously, this was
+[11:19] 11 minutes, 19 secondstriggered via a game exploit discovered in the 2005 King Kong movie tie-in games shader loading code. Really, any game exploit could have been used, and many
+[11:27] 11 minutes, 27 secondsexploitable games have been discovered since, or this one happened to be the best one. Here we go. Modifying the shader required using a secondary
+[11:34] 11 minutes, 34 secondsexploit where early modif win the universe official disc. This could be used to enable piracy.
+[11:42] 11 minutes, 42 secondsDon't worry, we have anti-brain rot protection going. We're learning instead of brain hypervisor on they're bagging
+[11:50] 11 minutes, 50 secondsthe weed work. Of course, Microsoft patched the hypervisor bug shortly after it was discovered. And since it was so early in the 360's lifespan, it's extremely rare to find a unit that
+[11:58] 11 minutes, 58 secondshasn't been updated well past this version. Of course, Microsoft also made it impossible to downgrade the 3602. You may be wondering how Microsoft let such
+[12:06] 12 minutes, 6 secondsa simple mistake slip through when they were otherwise so careful about the 360 security. Grim Duma suspects it might have actually been a bug in Microsoft's
+[12:13] 12 minutes, 13 secondsPower PC compiler. Apparently, if you diff the various versions of the 360 OS, you can see several instances of instructions getting swapped out with equivalent or similar ones for no
+[12:22] 12 minutes, 22 secondsapparent reason. Microsoft presumably continued to tweak the code generated by the compiler throughout the What's up? I am Aisha
+[12:31] 12 minutes, 31 secondsinstruction unlikely that someone would replace this name. Their name is little dick dick and Iisha bro. I Aisha 24 and
+[12:39] 12 minutes, 39 secondsthe little dick dick release of insider information. We'll likely never know exactly. Don't worry, we're going to learn the the bottom corner down there
+[12:47] 12 minutes, 47 seconds2006 and that was teach you guys find a bug in the hype visor until 18 years later when someone finally found
+[12:55] 12 minutes, 55 secondsanother. It all started when Grim Duma discovered an exploit in Tony Hawk's American Wasteland that could be used for arbitrary code execution. On its own, this didn't really change much
+[13:03] 13 minutes, 3 secondsabout the 360 scene. It was a lot easier to trigger than the King Kong exploit, only needing a modified save file from a USB stick rather than having to modify
+[13:10] 13 minutes, 10 secondsshaders on the disc. But once again, the hypervisor prevented any further compromising of the system. Without another hypervisor bug, the Tony Hawk hack didn't really accomplish much on the 360. But Grim Doomer was persistent.
+[13:21] 13 minutes, 21 secondsA hypervisor bug had long been a hacking bucket list item for him. He had looked at the 360 code some 15 years earlier to no avail. But after several years of
+[13:29] 13 minutes, 29 secondsexperience as a professional security engineer, he figured if there was any time to try doing it, this seemed to be the time. His approach was simple. No fuzzer, no emulation environment. just
+[13:38] 13 minutes, 38 secondsload up the compiled code in IDA and look at it. Initially, he searched for lowhanging fruit like out of bounds memory accesses, overflows or
+[13:45] 13 minutes, 45 secondsunderflows, race conditions, lack of parameter validation, things that can be exploited without much complexity.
+[13:51] 13 minutes, 51 secondsPredictably, he didn't find anything, and he would have been disappointed if he had. So, it was time to dig a little deeper into what the calls actually did.
+[13:58] 13 minutes, 58 secondsOne of them looked extremely interesting. HVX keys execute a hypervisor function that takes a small piece of executable code signed by
+[14:06] 14 minutes, 6 secondsMicrosoft of course and runs it in hypervisor mode. Its main use is for simple one time. Oh man, I already prepaid these guys check. Oh, thank you
+[14:14] 14 minutes, 14 secondsfor the follow. That scared me from an exploit standpoint because All right, so I guess we just got to go sleep specifically to do non-standard weed in
+[14:22] 14 minutes, 22 secondshypervisor mode which increases the likelihood of one of them. Thanks for the following around 25.
+[14:32] 14 minutes, 32 secondsOh no, I a [ __ ] bas unusual behavior that I don't like banning people
+[14:41] 14 minutes, 41 secondsencrypted memory which no one had ever successfully mod. You mentioned protected memory earlier. That's ban this person. Ban them check summed for
+[14:50] 14 minutes, 50 secondsintegrity. But there's also just memory that's encrypted without the CRC check.
+[14:54] 14 minutes, 54 secondsEncrypted memory can be changed without the hypervisor knowing, but of course it has to be encrypted. Wait a minute. Now that I've talked to these guys and produced my money in the
+[15:02] 15 minutes, 2 secondsprocess, this is a lot easier said than done because the 360's memory encryption keys are different per boot, per address, and per page allocation. That
+[15:12] 15 minutes, 12 secondsmeans we can't just grab a different piece of encrypted memory and the encryption is different. The stream squad only the hypervisor. We got the stream squad part of memory.
+[15:23] 15 minutes, 23 secondsmillions of bots.
+[15:25] 15 minutes, 25 secondsIt's more bots, isn't it? It's more bots. And as such, the hypervisor never Give me some like Viagra, bro. Give me
+[15:33] 15 minutes, 33 seconds20 Viagra. Only writing to it to give me 20 20 of these reading back and operating on it, except for that one update payload from earlier that seemed
+[15:41] 15 minutes, 41 secondsto do exactly that. It ran a decompression function in hypervisor mode and used a list of data and function pointers that were all encrypted, but not protected. Pick my
+[15:51] 15 minutes, 51 secondsnose. Picking my nose. Could end up severely compromising hypervisor mode.
+[15:55] 15 minutes, 55 secondsBut how could you possibly put custom data into encrypted memory? Well, strap in because this is about to get complicated. There we go. It is actually
+[16:03] 16 minutes, 3 secondspossible to just encrypt memory on the 360. There are official hypervisor APIs that can be used to do so. They even let us choose a location so we can encrypt
+[16:11] 16 minutes, 11 secondsat exactly the right address for the memory we're trying to replace. Hey, that's nice of them. In fact, it's not entirely clear why Microsoft provided these APIs. In some ways, they almost
+[16:19] 16 minutes, 19 secondsdefeat the purpose of encrypting the memory at all. Presumably, they thought game developers might want it for something, but it's hard to imagine what kind of game data would need that much
+[16:28] 16 minutes, 28 secondsprotection. But for our purposes, we can be very glad they did. But of course, we can't allocate over memory that's already there. And this is where it gets
+[16:36] 16 minutes, 36 secondscomplicated. Remember, another key is also randomly generated every time a page is allocated. So even encrypting on the same boot at the same location still
+[16:44] 16 minutes, 44 secondswon't get us exactly the same encryption. Grim Duma called this page allocation key the whitening value.
+[16:49] 16 minutes, 49 secondsSadly, there's no bots trying to join the stream and then like say they love my content. It's none of our business.
+[16:56] 16 minutes, 56 secondsAnd then the names were like the stream squad, which I believe the stream squad might be real, but the name. So, while the probability is low,
+[17:06] 17 minutes, 6 secondsit is possible. Well, there's there's 0110age over and over. But know you got the right whitening value when there's
+[17:14] 17 minutes, 14 secondsno way to see what it is. Well, this is what Grim Duna did. He would get a small excerpt from the data he was trying to replace. It didn't matter where. Yeah.
+[17:21] 17 minutes, 21 secondsYeah. But their name isn't the stream whitening value. He called this excerpt oracle data and they don't like use the hypervisor API to encrypt both the
+[17:28] 17 minutes, 28 secondsOracle data and the data he wanted to graft at their respective locations again within the same page allocation.
+[17:33] 17 minutes, 33 secondsSo they both had the same whitening value. Then he would run a loop constantly loading and unloading the original data. Each time the hypervisor would give it a different whitening
+[17:41] 17 minutes, 41 secondsvalue, but at some point hopefully the encrypted oracle data will match the data in memory, meaning it must have gotten the same one. So we don't
+[17:49] 17 minutes, 49 secondsactually have to know what the whitening value was or is we know it's the same.
+[17:53] 17 minutes, 53 secondsWe can safely graftively still have weed. You're good to go. What do I put in here? Oh yeah.
+[18:00] 18 minutesYeah. I'm going to eventually like memory. How can we mix weed in here or something? I don't know. Oh yeah, that update. Maybe I make meths in the hotel
+[18:07] 18 minutes, 7 secondsroom. Uses a context strct that contains a lot of making meth in the hotel room on my own would be pretty cool.
+[18:12] 18 minutes, 12 secondsFunctions and a pointer to where the decompressed data should go. Stuff that could be quite exploitable. And all of this stuff is just in encrypted memory.
+[18:20] 18 minutes, 20 secondsNo CRC checks to ensure it hasn't been tampered with. I mean, as we can see, overriding read only encrypted memory was no easy task. But why didn't
+[18:27] 18 minutes, 27 secondsMicrosoft enforce all of the protections it had here? Well, it seems like the payload contains a handful of data segments, and they're moved to either protected or encrypted memory depending
+[18:36] 18 minutes, 36 secondson their size. Protected pages are 64 kilobytes in size, and while it would have been possible to stretch one segment of multiple protected pages, they would have had to program
+[18:44] 18 minutes, 44 secondsspecifically for that, making the code significantly more complex. So, it seems they decided larger than that in just encrypted memory instead. The
+[18:53] 18 minutes, 53 secondsdecompression context is in the same segment as the scratch buffer, which is defined as two times the compressed data block size, which is 32 kilobytes. This
+[19:00] 19 minutescomes out to 64 kilob plus a little extra because of the context. It just barely missed being able to fit in
+[19:08] 19 minutes, 8 secondsprotected memory. And had it been, none of this exploit would have been possible. By far the most interesting thing in that decompression context is
+[19:15] 19 minutes, 15 secondsthe pointers to custom maloc and free functions. If those could be hijacked, we'd get arbitrary code execution in hypervisor mode. more free. Oh, really?
+[19:23] 19 minutes, 23 secondsIn practice though, the malo function gets used too early. In the time it takes to check the whitening value and overwrite the memory if it matches, it's
+[19:30] 19 minutes, 30 secondsalready been used the one time it does, and it's too late to change it to something else. And sadly, and somewhat worryingly, the free function doesn't get called at all. So, both of these
+[19:39] 19 minutes, 39 secondsended up being non-starters. But another interesting pointer is the data output pointer. This is where the decompressed data gets written to. And if we
+[19:46] 19 minutes, 46 secondsoverwrote that, we might be able to get the hypervisor to overwrite itself in a way that's useful to us. Unlike the Malakan free function pointers, this
+[19:54] 19 minutes, 54 secondsactually ended up being viable. The decompressor did end up overwriting hypervisor code, but it was far from an ideal exploit. The payload has to be
+[20:03] 20 minutes, 3 secondssigned, so we have no control over what data it produces, and it writes a whole 32 kilob of it at a time. Unfortunately, all we're able to control with this is where that 32 kilobytes gets written.
+[20:13] 20 minutes, 13 secondsGrimmer's first thought was to look through the hypervisor's data segment for things that might be useful to overwrite like pointers to other code or data. But this ultimately proved to be
+[20:22] 20 minutes, 22 secondsinfeasible. The hypervisor's data segment is a mind that would completely crash the system if overwritten, which is a problem when you're forced to write
+[20:29] 20 minutes, 29 secondsa whole 32 kilob at a time. Trying to override anything even remotely interesting would end up overwriting something else that needed to be left alone. Despite this, Grimda knew it was
+[20:38] 20 minutes, 38 secondslikely the closest thing he'd find to something that could override hypervisor memory. So he accepted the challenge and decided he had to find a way to make it
+[20:45] 20 minutes, 45 secondswork. After thinking about it more, he realized that the decompressed data was bootloadader code, meaning valid instructions for the 360 CPU. So maybe
+[20:54] 20 minutes, 54 secondsif he positioned the data in just the right place, he could replace a hypervisor system call with something a lot more useful. Helpfully, he found
+[21:02] 21 minutes, 2 secondsjust the kind of thing he was looking for. an instruction in the decompressed bootloadader code that would store a bite held in register R4 to an address held in register R six followed
+[21:11] 21 minutes, 11 secondsimmediately by a return instruction. If positioned just right, this could essentially become an arbitrary write function to any location in memory,
+[21:19] 21 minutes, 19 secondsincluding crucially code and data in the hypervisor segments. Okay, so here's how we make this work. First, use an
+[21:27] 21 minutes, 27 secondsexploitable game to get some arbitrary code execution. Grim Doom used Tony Hawk, but any similar exploit will work.
+[21:33] 21 minutes, 33 secondsThen encrypt the address you want to force the payload to decompress to somewhere that will cause the right instructions to end up replacing one of the hypervisor's system calls. Then
+[21:40] 21 minutes, 40 secondscreate two threads. One that just runs the payload over and over and over and another that constantly checks it whether its whitening value was the same one we got when we encrypted our data.
+[21:49] 21 minutes, 49 secondsOnce we have that, start hammering that new address into the strct. The payload will be updating the output buffer pointer at the same time. So we're effectively in a race to modify the
+[21:58] 21 minutes, 58 secondsaddress just at the right time to get our data into the right place. If we win the race condition, this will replace one of the hypervisor's system calls with an arbitrary write function, giving
+[22:07] 22 minutes, 7 secondsus the ability to directly modify the hypervisor. From here, it's fairly straightforward. We can modify another system call to jump to code that we made
+[22:14] 22 minutes, 14 secondsourselves. And just like that, we have arbitrary code execution in hypervisor mode. Full control of the system purely
+[22:22] 22 minutes, 22 secondsfrom software. But as you can tell, there's nothing about this process that's easy. Relying on both a brute force of the whitening value and a race
+[22:30] 22 minutes, 30 secondscondition of the output buffer is like building a house on sand and on stilts.
+[22:34] 22 minutes, 34 secondsNot only could it take a long time for both of those to happen at all, but additionally exploiting a race condition is inherently unsafe and could end up
+[22:42] 22 minutes, 42 secondscrashing the console completely. Grim Duma was able to do some things to improve it. For example, reducing the effective size of the L2 cache helped to
+[22:49] 22 minutes, 49 secondsmake it significantly more likely the CPU would pick up the replace point from memory, greatly improving the speed from 10 to 15 minutes down to as low as 2 to
+[22:56] 22 minutes, 56 seconds3 minutes. But while he speculates it may be possible to further improve reliability and speed, he doesn't expect it to ever be an immediate hack. There's
+[23:04] 23 minutes, 4 secondsjust too much volatility inherent in the process to ever reach a high level of reliability. Also, attacking the hypervisor without attacking the boot
+[23:11] 23 minutes, 11 secondsprocess produces an inherently temporary result. This may enable homebrew as long as the 360 stays on, but as soon as it powers off, it's back to stock
+[23:19] 23 minutes, 19 secondsconfiguration, and you'll have to redo the entire process again. But still, Grim Doom approved once and for all that anyone who said the 360 was unhackable
+[23:27] 23 minutes, 27 secondswas wrong. It may not be a perfect hack, but it is a hack, and that's something.
+[23:32] 23 minutes, 32 secondsAfter bad update was released, the community rallied around to make the user experience somewhat more bearable.
+[23:38] 23 minutes, 38 secondsFirst order of business was replacing Tony Hawk American Wasteland, which had already started to hike up in price, with something a little freer, like the XBA trial of Rockband Blitz. Fellow
+[23:47] 23 minutes, 47 secondsmodders in Voxy Play Games and I Hate Compare discovered a scripting engine bug in the game that could also be used to trigger a bad update. Not only is the trial free, but Microsoft specifically
+[23:55] 23 minutes, 55 secondsallowed free XBA demos to be installed from USB or even a burned DVD, which makes the exploit chain totally accessible to anyone. Second was to
+[24:04] 24 minutes, 4 secondscreate a modded environment as close to LGH as possible. This came in the form of additional payloads such as in Voxyplay games free my Z and BM90s Z
+[24:12] 24 minutes, 12 secondsunshackled. With these, a 360 exploited in this way functions largely the same as one modded with RGH, but again only
+[24:19] 24 minutes, 19 secondstemporarily. And with the low reliability rates, you'll need a lot more patience than you'd need with a proper hard mod. But for those with a lot of patience and not a lot of
+[24:27] 24 minutes, 27 secondssoldering ability, there is now at least an option. This was a somewhat general overview of how the bad update exploit works. But if you're interested in even
+[24:35] 24 minutes, 35 secondsmore technical information, I'll put a link in the description to Grimdoomer's blog, which has a series of in-depth articles that describe in more detail his process of figuring all of this
+[24:43] 24 minutes, 43 secondsstuff out and the various hurdles involved. Personally, I'm fascinated by stories of people conquering enormous puzzles like this. I hope you enjoyed the story, too, and I'll see you all in the next one. Bye, guys.
+[25:05] 25 minutes, 5 seconds[Music]
+[25:24] 25 minutes, 24 secondsThat infamous quote was made by Chris for the Xbox Advanced Technology Group. We're not I'm not adding you on Discord.
+[25:32] 25 minutes, 32 secondsIn part one of this series, we covered the Xbox 360 and how the DVD drive as much as you want code that exploited the drive to run backup games.
+[25:41] 25 minutes, 41 secondsbeing an annoying bum somewhere else proved to be very popular. It did not open up the system for homebrew, which is what thrived on the original Xbox for
+[25:49] 25 minutes, 49 secondsmany years before. The DVD exploits, as clever as they were, only allowed for piracy, which Linux
+[25:57] 25 minutes, 57 secondscommunity of the system. If we compare the Sony and not the Xbox 360, both share similar specifications, but the
+[26:06] 26 minutes, 6 secondsPlayStation 3 came out of the box with a Linux distribution, a sandbox for the development of homebrew called Other OS.
+[26:13] 26 minutes, 13 secondsThe Xbox 360, on the other hand, had nothing for the bedroom coder to play around in. Microsoft had promised the homebrew community to open up the Xbox
+[26:21] 26 minutes, 21 seconds360 to allow for the development of homebrew, but this ended up in the form of XNA Game Studio Express. In 2006 at the launch, Peter Moore, then vice
+[26:30] 26 minutes, 30 secondspresident of Xbox, said, "XNA Game Studio Express is our first step of creating a YouTube for video games. It will give you everything you need to
+[26:38] 26 minutes, 38 secondsbring your games to life on the Xbox 360." XNA Game Studio Express was a welcome addition to the Xbox 360, but it
+[26:46] 26 minutes, 46 secondswasn't what the Homebrew community was looking for. It's essentially a framework of portable libraries that require car.net net that allowed you to
+[26:54] 26 minutes, 54 secondsbuild games on Windows and run them on the Xbox 360 or Windows phones. It only allowed restricted access to the hardware. And while there was some
+[27:01] 27 minutes, 1 secondreally cool games developed for it, some of which have become successful, such as Bastion and Dust, the Elysian, it also required a
+[27:09] 27 minutes, 9 seconds90p and it certainly would not. I'm sneezing like crazy. I fired the guy who was working for me. 3 came with the console and said, "Fuck that guy." The
+[27:18] 27 minutes, 18 secondsXbox 360 was several times more powerful than the original Xbox and came with eight times the amount of RAM. This meant that it should make for a
+[27:26] 27 minutes, 26 secondssignificantly better homebrew device for media players, emulation, and homebrew games. Many of us from the OG Xbox days,
+[27:33] 27 minutes, 33 secondsif you were around in those days, wanted to see homebrew on the Xbox 360 as the natural progression of things. But it was clear that Microsoft had invested so
+[27:41] 27 minutes, 41 secondsmuch time and money into the security system of the Xbox 360 that it wasn't going to be easy. And we found out very
+[27:49] 27 minutes, 49 secondsquickly that things were going to take a lot longer than anticipated. Given this, the motivation to exploit the Xbox 360 was high. There
+[27:58] 27 minutes, 58 secondsmust have been a way. But Microsoft had spent millions securing the hardware.
+[28:02] 28 minutes, 2 secondsHere's a quick summary. The boot process of the Xbox 360 has a secure chain of trust. And this time, all of it is
+[28:09] 28 minutes, 9 secondscontained inside the physical CPU itself, unlike the original Xbox where it was possible to snoop data along the bus. Nothing is sent over the bus at
+[28:18] 28 minutes, 18 secondsall. Furthermore, the Zenon CPU contains a unique key that's tied to the console itself, as well as efuses, which would
+[28:25] 28 minutes, 25 secondsenforce updates by blowing a fuse, and this meant that you could never downgrade back to a previous version.
+[28:31] 28 minutes, 31 secondsThe Xbox 360 hypervisor sits in RAM, and it's only 128 kilob in size. it will only ever allow for sign code
+[28:39] 28 minutes, 39 secondsexecutables to run signed that is with Microsoft's private key. All runtime memory is encrypted and there's no way
+[28:46] 28 minutes, 46 secondsto alter RAM and there's certainly no way to execute it. But if you can somehow get access to the hypervisor, you can have full control of the
+[28:54] 28 minutes, 54 secondsmachine. With current gen gaming, it's hard to believe anymore, but the Xbox 360 had 18 games at launch. Some were crossgen titles with the original Xbox.
+[29:04] 29 minutes, 4 secondsOthers were sequels to popular franchises, and some were new IP. One game in the launch lineup that was popular was Peter Jackson's King Kong.
+[29:13] 29 minutes, 13 secondsIt was a fun firsterson adventure title and easy achievement points. Okay. Is there anything else for
+[29:19] 29 minutes, 19 secondsus to learn about? Ooh. Yeah, that's what we're going to learn about. What? I didn't hit that. Yeah. Super Mario
+[29:27] 29 minutes, 27 secondsBrothers Wonder is Yeah, we're going to learn about Super Mario Brothers Wonder full game. It is truly a masterpiece of surprise, a smorggish board of new
+[29:36] 29 minutes, 36 secondsideas. What other game features friendly talking flowers whose sole purpose is to tell you they're proud of the person that you've
+[29:43] 29 minutes, 43 secondsbecome? This was the 2D Mario game that all of us needed. And when I say all of us, I'm including the developers, too.
+[29:50] 29 minutes, 50 secondsThis game gave the dev team the perfect opportunity to break free from the past and show the world that Nintendo hadn't
+[29:57] 29 minutes, 57 secondsrun out of ideas at all. But how did it all come together? Well, get ready because this video is going to explain everything. Where the talking flowers
+[30:06] 30 minutes, 6 secondscame from, the inspiration behind the game's expressive visuals, and why on earth there's an elephant here. I've also got plenty of scrapped wonders and
+[30:14] 30 minutes, 14 secondsprototype footage for us to watch as we learn about the complete developmental history of Super Mario Brothers Wonder.
+[30:22] 30 minutes, 22 secondsAnd now, a word from our sponsor. Do you feel like Nintendo of Japan makes all of the best merch items like these cute little Pikmin plushies? Actual Salmon
+[30:31] 30 minutes, 31 secondsRun gear that you can wear? Or what about things from Club Nintendo's past like the Wii remote TV remote? Well, you can still find all that for purchase on
+[30:40] 30 minutes, 40 secondsbuy, you know, buy the amazing proxy service that lets you buy anything from Japan. Dang it, Molly. to figures,
+[30:47] 30 minutes, 47 secondsphysical media, and so is the place to look for Japan's exclusive Nintendo merch, like this Bullboard purse that
+[30:55] 30 minutes, 55 secondsyou can shove your hand cream into. Hold on to your hat because BY is offering a huge coupon for 2,000 yen off your first
+[31:04] 31 minutes, 4 secondspurchase. Scan this QR code or click the link in the description to get that coupon for 2,000 yen off your first
+[31:11] 31 minutes, 11 secondspurchase. Or if that's not cool enough for you, how about this? Buy is also giving away for free a talking flower
+[31:19] 31 minutes, 19 secondsplushy that actually talks. You pay nothing for the item. Shipping is completely covered and you get the greatest gift you could ever receive.
+[31:27] 31 minutes, 27 secondsJust click the giveaway link in the description. Enter within the next I need to buy stuff. Now it's about time we learn about the development of Super
+[31:35] 31 minutes, 35 secondsMario Brothers Wonder. I need 20 of these. Let's get to know the 20 of these. Super Mario Brothers Wonder.
+[31:42] 31 minutes, 42 secondsStarting with 20 of these. This game marked the 39th year he's been involved in the development of Mario games. He
+[31:49] 31 minutes, 49 secondsstarted all the way back in 1985 as the assistant director and game designer of the original Super Mario Brothers. And now he's the producer of Mario Wonder.
+[31:59] 31 minutes, 59 secondsNext is Shiro Mori, who is the programming director of New Super Mario Brothers U and then served as the full-fledged director of New Super Mario
+[32:08] 32 minutes, 8 secondsBrothers U Deluxe. For Mario Wonder, he once again served as director. Now, we can't forget about Masanobu Sato. His
+[32:16] 32 minutes, 16 secondsfirst time working on a 2D Mario game was New Super Mario Brothers Wii, where he was credited with giving the Koopalings life through animation. We're
+[32:25] 32 minutes, 25 secondsgetting weed made. See, the lead of design now serves as the art director. Not even going to worry about it.
+[32:32] 32 minutes, 32 secondswas involved on Wonders development, including every single person involved in developing the original Super Mario Brothers on the NES. But it wasn't just
+[32:41] 32 minutes, 41 secondsdevelopment veterans of the Mario series. There were a lot of newcomers, too. After all, Super Mario Brothers Wonder was the first new sidescrolling
+[32:49] 32 minutes, 49 secondsMario game in roughly 11 years. So, yeah, there was bound to be developers involved who had never even touched a Mario game like this before. Now, of
+[32:57] 32 minutes, 57 secondscourse, during those 11 years, there were ports like New Super Mario Brothers U Deluxe, and there were reimaginings of classic games like Super Mario Maker,
+[33:05] 33 minutes, 5 secondsbut the last 2D Mario platformer that was actually brand new was New Super Mario Brothers U for the Wii U in 2012.
+[33:14] 33 minutes, 14 secondsSo, what was going on? Why the 11-year hiatus? Were they really working on Mario Wonder for that long? No. No, definitely not. Tesica had his hands
+[33:22] 33 minutes, 22 secondsfull during that time working on Super Mario Run for mobile devices as well as Super Mario Maker 1 and 2. But what really caused the hiatus was simple.
+[33:31] 33 minutes, 31 secondsTime just kind of flew by. And one day, Tesica was like, "Oh crap, we got to make a new 2D Mario game." And that is how it all began. Oh, really? During the
+[33:40] 33 minutes, 40 secondsdevelopment of Super Mario Maker 2, Tesica began to think about what was next for 2D Mario games. But as you'd
+[33:47] 33 minutes, 47 secondsexpect, he was busy working on Super Mario Maker 2. He couldn't really do much other than think about potential
+[33:54] 33 minutes, 54 secondsideas for the future. It wasn't until this game was complete before he could move on to his next project. Now, Modi was in a similar situation. He had to
+[34:03] 34 minutes, 3 secondswait until New Super Mario Brothers U Deluxe finished development since that was taking up all of his time, too. It wasn't until both of these games got
+[34:12] 34 minutes, 12 secondsdone that development of Super Mario Brothers Wonder could actually begin in early 2019. But before we get to Mario
+[34:20] 34 minutes, 20 secondsWonder, we got to talk about Super Mario Maker. Now, there's a game series that's caused quite a bit of a stir over the
+[34:28] 34 minutes, 28 secondsyears. Before development on Mario Wonder began, Tesica had noticed a similar story making its way through the internet. That Super Mario Maker had
+[34:37] 34 minutes, 37 secondskilled 2D Mario games. That the tools in the game were so expansive that it eliminated any need for Nintendo to make
+[34:44] 34 minutes, 44 secondsanother sidescrolling Mario game. After all, people could practically create anything in Super Mario Maker. But news outlets failed to take one thing into
+[34:52] 34 minutes, 52 secondsaccount. Players could create a lot of things, but they couldn't create something out of nothing. It all had to
+[34:59] 34 minutes, 59 secondsbe based on what was included in Mario Maker. That's where Nintendo had the edge. They could create something completely new. And Tesica had gotten to
+[35:07] 35 minutes, 7 secondsthinking how they could use that edge to its full potential. They were going to do more than ever before. Something completely different than anything
+[35:14] 35 minutes, 14 secondspreviously seen in 2D Mario games. But even though Tesica was confident that they could pull this off, a lot of people on the team were really worried.
+[35:23] 35 minutes, 23 secondsWhat if what the journalist said was true? People have already made fantastic levels in Super Mario Maker. Can we really do anything new that hasn't been
+[35:31] 35 minutes, 31 secondsmade already? But Tesica, always the optimist, was like, "Nah, it'll be fine.
+[35:35] 35 minutes, 35 secondsWe got this." Well, if we're going to make something completely different, it can't just look different. It has to feel different on a fundamental level.
+[35:44] 35 minutes, 44 secondsAt least that's what Moldy thought during the early stages of development.
+[35:47] 35 minutes, 47 secondsHe recommended that they create an entirely new game engine for Mario Wonder completely severing ties with the New Super Mario Brothers series. So that
+[35:55] 35 minutes, 55 secondsway the team would be able to create a new foundation for the future of 2D Mario games. That's going to take a lot
+[36:02] 36 minutes, 2 secondsof work, huh? On top of that, Tesa also wanted Wonder to not just look and feel different, but offer more to the player
+[36:09] 36 minutes, 9 secondsthan ever before. He wanted the game to be chalk full of hidden surprises. See, back in 1985 when Super Mario Brothers
+[36:17] 36 minutes, 17 secondscame out on the NES, it was seen as a game full of hidden surprises. You hit a block. Whoa, there are coins in there.
+[36:24] 36 minutes, 24 secondsIs that a mushroom? What? What? Wa!
+[36:26] 36 minutes, 26 secondsMario's big now. This game's crazy. Or at least it used to be. The stuff that made Super Mario Brothers feel extraordinary has now become ordinary.
+[36:35] 36 minutes, 35 secondsAnd not just for players, but for the developers, too. Tesica wanted sidescrolling Mario games to feel extraordinary again. full of special
+[36:44] 36 minutes, 44 secondsmoments so that even if someone has played Mario for decades, they would still be surprised by what they find and have a smile on their face. And to make
+[36:53] 36 minutes, 53 secondssure that was able to happen, the team did something extraordinary themselves.
+[36:58] 36 minutes, 58 secondsThey made a video game without a deadline. So yeah, that's a pretty big deal. Instead of nailing down a schedule
+[37:05] 37 minutes, 5 secondsearly in development, determining how long it should take to finish developing the game, this time for Mario Wonder,
+[37:12] 37 minutes, 12 secondsthey decided to skip past all that. No deadlines. Very out of the ordinary, but Tesica found it was necessary. In order
+[37:20] 37 minutes, 20 secondsto create a game that was truly wonderful, the team was just told to take their time. And with an ample budget being dedicated to the project,
+[37:29] 37 minutes, 29 secondsthey wouldn't need to worry about time or money, and they could just spend their days crafting every small detail
+[37:36] 37 minutes, 36 secondsto their heart's content. Speaking of small, at the beginning of development, there were only a handful of people working on Mario Wonder. And because the
+[37:44] 37 minutes, 44 secondsinitial size of the team was so small, it was not going to be easy to narrow down what they actually wanted to achieve. In other words, they needed to
+[37:52] 37 minutes, 52 secondsdetermine what the core of the game would actually be about and get everyone on the same page. The core of past 2D Mario games was to focus on creating
+[38:01] 38 minutes, 1 secondfantastic courses. Designed to slowly ramp up the difficulty over time. But Mario Wonder didn't share that same core
+[38:08] 38 minutes, 8 secondsdesign. This time, their focus was on creating as many surprises as they could fit in the game. Moldi wanted there to be at least one surprise per course that would put a smile on the player's face.
+[38:18] 38 minutes, 18 secondsBut making that many surprises was gonna be tough. Now, wasn't there like a Mario game released on the Switch that was already full of quirky surprises? That's right, Mario Odyssey.
+[38:30] 38 minutes, 30 secondsWhy don't we ask someone who was on that development team to help out over here?
+[38:34] 38 minutes, 34 secondsAnd that's how Koichi Hayashida became a designer on Mario Wonder. In fact, this was the first sides scrolling Mario game that he had ever worked on. Previously,
+[38:43] 38 minutes, 43 secondshe's been known as being the main programmer of Super Mario Sunshine, the level designer for Super Mario Galaxy,
+[38:49] 38 minutes, 49 secondsdirector of 3D World, and recently a producer on the Super Mario Odyssey team. Hayashida got involved in Mario
+[38:56] 38 minutes, 56 secondsWonder in order to provide valuable insight from his time developing 3D Mario games, which are often considered the more out there Mario titles, full of
+[39:05] 39 minutes, 5 secondsnew ideas like water jetpacks or walking around balls in space. And the Mario Wonder team was extremely grateful for
+[39:12] 39 minutes, 12 secondsthe help. After all, they were going through what they called a crisis. Because Nintendo went 11 years
+[39:22] 39 minutes, 22 secondswithout a new sidescrolling Mario game, it's not far-fetched to think that Super Mario Brothers Wonder is going to be a lot of people's first 2D Mario
+[39:30] 39 minutes, 30 secondsplatformer. So, the developers wanted to appeal to those beginners. But to do that, they're going to need some fresh insight. How would someone who had never
+[39:40] 39 minutes, 40 secondsplayed a 2D Mario game play one in this day and age? And they were able to get that insight thanks to Tesica's first
+[39:47] 39 minutes, 47 secondsever mobile game that he served as director, Super Mario Run. Now, I know Super Mario Run is an autoscroller. It's
+[39:54] 39 minutes, 54 secondsnot exactly the same as a sidescrolling Mario game, but it was close enough in gameplay style. And a big bonus is that a lot of beginner players from around
+[40:02] 40 minutes, 2 secondsthe world just decided to download the game on their phone because it had that cute Mario guy in it. They weren't advanced Mario players, but instead of
+[40:11] 40 minutes, 11 secondsgoing all the way around the world asking beginner players what they thought of the game, they actually just had to ask one. A developer of Super Mario Run had the insight that the team
+[40:20] 40 minutes, 20 secondsneeded already. This developer was a complete beginner at 2D Mario games and told Tesica that they were disappointed
+[40:28] 40 minutes, 28 secondsplaying Mario Run because they couldn't get past the mushrooms in world 1-3.
+[40:33] 40 minutes, 33 secondsThis meant they were effectively locked out of the entire rest of the game because you have to beat every course in order to progress. So, if you can't beat one, tough luck. No more game for you.
+[40:43] 40 minutes, 43 secondsTesco was caught off guard by this comment. He didn't even realized that this course in Borrow Run was even that hard to begin with. It was only the first world. And he also didn't realized
+[40:51] 40 minutes, 51 secondsthat having every level required to be beaten in order to beat the game had effectively blocked that player from enjoying any more of the game unless
+[40:59] 40 minutes, 59 secondsthey got good. So, while developing Mario Wonder, the team decided that they didn't want to design a 2D Mario game like that anymore. They wanted all
+[41:08] 41 minutes, 8 secondsplayers of all skill levels to be able to progress through the game to the very end. And how would they do that? By doing things just like Super Mario
+[41:17] 41 minutes, 17 secondsOdyssey did, giving players the freedom to pick and choose what they wanted to do in the order of their choosing.
+[41:23] 41 minutes, 23 secondsOdyssey accomplished this by allowing players to choose which moons they wanted to grab and kept them moving through the story line by not requiring them to collect all the moons in a
+[41:31] 41 minutes, 31 secondskingdom in order to progress. This is another reason why Hayashida was such a valuable member of the Mario Wonder team since 3D Mario games have always been
+[41:40] 41 minutes, 40 secondsspecifically designed to get every player regardless of skill level to the end of the game. So instead of having players complete courses in order with
+[41:48] 41 minutes, 48 secondsmaybe an alternate path here and there, that's a lot to learn. Going to give them way more freedom in Mario Wonder.
+[41:54] 41 minutes, 54 secondsSo now getting into a castle just requires you to collect wonder seeds, which you can collect however you like.
+[42:01] 42 minutes, 1 secondWant to play on the easiest courses and completely skip the hard ones? Go for it. Here, let me even show you the difficulty level and a photo of the
+[42:08] 42 minutes, 8 secondscourse before you start it, just to see if that's the one you want to play.
+[42:12] 42 minutes, 12 secondsmissing just one more seed to progress and you don't want to go out and find it? Just buy one from the shop instead of searching for it. With these
+[42:19] 42 minutes, 19 secondsfundamental changes, you are now able to complete a 2D Mario game your way.
+[42:25] 42 minutes, 25 secondsSomething that really only existed in 3D Mario titles, and the Mario Wonder team was so proud of this design choice. And
+[42:32] 42 minutes, 32 secondsyou know what? Since we're already making changes to the fundamental formula of the game, do we really need lives or a timer? They evaluated
+[42:41] 42 minutes, 41 secondseverything in this early stage of development. They didn't remove everything. Lives, for instance, didn't get scrapped, but they weren't afraid to
+[42:49] 42 minutes, 49 secondsthrow away even major staples of the series, like the timer, which was only saved for specific levels in the final
+[42:56] 42 minutes, 56 secondsgame. And with that, they now had a foundation ready to be built upon. It was time to finally bring 2D Mario games
+[43:03] 43 minutes, 3 secondsinto the modern age. And the team was extremely proud of what they had built so far.
+[43:10] 43 minutes, 10 secondsAlrighty, they got that foundation ready and that's so great. But you know what we don't have yet? Any surprises. The
+[43:18] 43 minutes, 18 secondsteam wanted to add tons of them to the game. So, it's about time we start thinking up some ideas. But at this
+[43:25] 43 minutes, 25 secondspoint in development, the idea of wonder flowers and wonder effects. Yeah, none of that had been thought of yet.
+[43:32] 43 minutes, 32 secondsInstead, focus was on making a surprising power up. It's kind of a tradition in 2D Mario games to have the game come with a new powerup. Like Super
+[43:41] 43 minutes, 41 secondsMario Brothers 3 had the Tanuki suit and New Super Mario Brothers Wii had the propeller mushroom. So, what would this new game
+[43:49] 43 minutes, 49 secondsfeature? Elephants. It was an obvious choice to add elephants into Mario Wonder. And I'm not joking. It really
+[43:56] 43 minutes, 56 secondswas. Let me explain. See, early on in development, the team was discussing what kind of interesting game mechanics
+[44:04] 44 minutes, 4 secondsthey wanted to add into this new Mario game. Someone on the team suggested having a powerup that would make the player's body bigger, which in turn
+[44:11] 44 minutes, 11 secondswould make stomping enemies, hitting blocks, and collecting coins easier.
+[44:15] 44 minutes, 15 secondsAround that same time, there were also two other separate ideas being thrown around, too. One was giving the player the ability to destroy blocks from the
+[44:23] 44 minutes, 23 secondsside, and the other idea was the ability to spray water. That way you can help withered flowers bloom. Now, what kind
+[44:31] 44 minutes, 31 secondsof powerup would give Mario a bigger body, the ability to break blocks from the side, and allow him to spray water?
+[44:39] 44 minutes, 39 secondsThe team thought up various power-ups that would fulfill one or two of these ideas. But Modi was hit with
+[44:45] 44 minutes, 45 secondsinspiration. One powerup to fulfill all the ideas. An elephant. But those three abilities weren't all elephant Mario
+[44:54] 44 minutes, 54 secondscould originally do. There was also another idea that ended up getting scrapped. One that allowed players to blow up shells with their trunk in order
+[45:03] 45 minutes, 3 secondsto make them bigger. We even have development footage of this idea in action. There was a lot of deliberation between team members on whether or not
+[45:10] 45 minutes, 10 secondsthis would actually make the game more interesting. And in the end, yeah, they decided that it wouldn't and scrapped it. But even if it didn't end up getting
+[45:18] 45 minutes, 18 secondsin, there are still big shells in the final game that elephant Mario can grab and throw. You just can't make shells big yourself. And fun fact, because
+[45:27] 45 minutes, 27 secondsElephant Mario is so big, the team was forced to take a long hard look at another staple of the 2D Mario series,
+[45:35] 45 minutes, 35 secondsone that pretty much everyone hates, bumping into each other in multiplayer.
+[45:40] 45 minutes, 40 secondsThey had planned to include collisions between players just like in New Super Mario Brothers Wii. But after seeing how much stress it would cause players who
+[45:49] 45 minutes, 49 secondswere just trying to jump on a tiny platform with three other giant elephants in the way, they took a leap of faith and removed it. And you know
+[45:57] 45 minutes, 57 secondswhat? It was the right call and they never looked back. As I mentioned before, the idea of the elephant powerup
+[46:05] 46 minutes, 5 secondscame into the picture early on before they had come up with the concept of wonder effects. But Elephant Mario did
+[46:12] 46 minutes, 12 secondssteer them in the direction of wonders thanks to a little help from the world famous musical genius of the Mario
+[46:20] 46 minutes, 20 secondsseries, Cooji Condo. While they were experimenting with elephant the genius water spraying ability, Condo had an
+[46:28] 46 minutes, 28 secondsidea. Wouldn't it be cool if we put Mario in a giant rainstorm? Like transform the entire screen into a wet
+[46:37] 46 minutes, 37 secondswonderland? And if you've played Mario Wonder, you'll remember that this idea did make it into the final game. But more importantly, this was the first
+[46:46] 46 minutes, 46 secondstime someone had mentioned the idea of dramatically transforming what's on screen midway through a level. That's
+[46:54] 46 minutes, 54 secondswhat Wonder Effects are all about. But since Condo presented this rainstorm idea before Wonder Effects had been thought up, it was just treated as an
+[47:03] 47 minutes, 3 secondsinteresting idea and put on the back burner. So when did wonder effects get thought up then? The idea of having a
+[47:10] 47 minutes, 10 secondswonderflower transformed the entire course in front of your very eyes? Well, first it was Sato who brought up the idea of creating wonder flowers. Well,
+[47:19] 47 minutes, 19 secondsit wasn't actually a wonderflower back then. It was a mushroom originally, which you can see in this concept art.
+[47:25] 47 minutes, 25 secondsBut not only did it not look like a wonderflower, it didn't quite act like one either. Instead of transforming the course, causing things to go wacky and
+[47:34] 47 minutes, 34 secondswild, you would just transport you to a new world. I'm imagining something like the potion doors in Super Mario Brothers 2 sending you into subspace. Or maybe
+[47:43] 47 minutes, 43 secondsinstead of that, it sent you somewhere entirely different. But either way, after showing Tesica a prototype of this idea, you notice something. This is
+[47:52] 47 minutes, 52 secondspretty much exactly the same as just going down a pipe and warping somewhere else. This isn't different enough from the status quo. Here's an idea. What if instead of
+[48:01] 48 minutes, 1 secondwarping to a new place, we have it where the place you're already in gets warped?
+[48:08] 48 minutes, 8 secondsLike the whole course transforms into something quirky right in front of you. Okay. All right. That's interesting.
+[48:14] 48 minutes, 14 secondsMorty thought it sounded cool, but had no idea how they would actually pull that off. And Hayashida agreed. What would transforming a course even look
+[48:23] 48 minutes, 23 secondslike? Wait a minute. They shuffled through their meeting notes and found a funny idea that the team had had earlier, back when they were just trying to think of things that would surprise
+[48:32] 48 minutes, 32 secondsplayers. Back then, someone had the idea of creating bendable moving pipes. Right
+[48:39] 48 minutes, 39 secondsthen and there, they made a prototype to see how it would look. And this video is the actual prototype that they made. And
+[48:47] 48 minutes, 47 secondsit's it's perfect. I'm sure you recognize the movement. It's absolutely iconic and is used in tons of trailers
+[48:54] 48 minutes, 54 secondsfor Mario Wonder. All of that came from this prototype. This one meeting with Tesica changed everything. Instead of
+[49:03] 49 minutes, 3 secondsjust sending Mario to a new area, now they were going to transform the entire course. This was huge. They finally
+[49:11] 49 minutes, 11 secondsfound out what they wanted to achieve, what the core of Super Mario Brothers Wonder was going to be, and that core was wonders.
+[49:22] 49 minutes, 22 secondsThroughout the development of Mario Wonder, the team's mantra was to make big changes. And this core idea of huge
+[49:30] 49 minutes, 30 secondswonder effects that completely changed the course itself. Yeah, I'd say that captures the mantra perfectly. But of
+[49:37] 49 minutes, 37 secondscourse, big changes requires a big amount of work. Morty thought that wonders were a great idea. He was on
+[49:46] 49 minutes, 46 secondslike one or two courses, but Tessica had a different plan. He figured if we're going to do this, might as well go all
+[49:54] 49 minutes, 54 secondsthe way and let's make wonders for every single main course in the game. Now, Morty did go on record saying that he
+[50:02] 50 minutes, 2 secondswanted at least one surprise per course, but a new unique wonder effect that completely changes everything from level
+[50:10] 50 minutes, 10 secondsdesign to gameplay mechanics, that's impossible. That's stupid. And that's what he really thought. Well, all right.
+[50:19] 50 minutes, 19 secondsAnd if we're going to do this one wonder effect per course, we're going to need a lot more ideas. Having pipes wiggling
+[50:27] 50 minutes, 27 secondsaround is cute, but that's just one idea. You know what? We need brainstorming sessions. Let's grab a bunch of sticky notes, get everyone
+[50:35] 50 minutes, 35 secondsinvolved, and I mean everyone on the team, regardless of role, and we're just going to all go wild. They wrote over
+[50:43] 50 minutes, 43 seconds2,000 ideas on sticky notes with absolutely no limits on what type of wonders the team present. Ideas range
+[50:52] 50 minutes, 52 secondsfrom surfing Mario, unicycle Mario, long leg Mario to Mario being Yoshi's favorite fruit and having to dodge a
+[51:01] 51 minutes, 1 secondbarrage of tongues. As you can see, some of these ideas are extremely detailed, while others like this were not. This
+[51:10] 51 minutes, 10 secondswas an idea that came from a firstear programmer at Nintendo. And the note just says, "A wonder quiz starts."
+[51:17] 51 minutes, 17 secondsThat's it. No other info. And even so, it made its way into the final game. Koji Condo also had some ideas to share.
+[51:25] 51 minutes, 25 secondsReally wacky ideas. In his mind, he needed to be the one to take things to the extreme in these stormy sessions.
+[51:33] 51 minutes, 33 secondsAnd he did. His idea was to have a lifesize liveaction guy dressed as Mario
+[51:40] 51 minutes, 40 secondsand playable in the game. He'd hum along to the music and when he jumped, he'd go. The backgrounds and characters in the course would also become real.
+[51:50] 51 minutes, 50 secondsHorrifyingly fun stuff. Now, unfortunately, this idea did not make it into the final game, mostly because the team wasn't sure how this wonder effect would change any gameplay elements.
+[52:01] 52 minutes, 1 secondThings just look. Not to mention, it would be a lot of work to pull it off.
+[52:06] 52 minutes, 6 secondsBut it was such an interesting idea, one that they did not want to go to waste.
+[52:10] 52 minutes, 10 secondsSo, while a life-sized human Mario didn't end up making it in, you could unlock the soundoff badge in the final
+[52:17] 52 minutes, 17 secondsgame, which has real human voices doing all the sound effects, including a little while jumping. And you know who
+[52:26] 52 minutes, 26 secondsdid the voice? Condo himself. It's his wild ide.
+[52:34] 52 minutes, 34 secondsBut even though the team was told to go wild with the wonder effects, they couldn't go too crazy. Players have a
+[52:42] 52 minutes, 42 secondssense of what Mario games should be. The gameplay fundamentals have got to stay the same or else you're going to lose their trust. Imagine if all of a sudden you could walk through a pipe, right?
+[52:53] 52 minutes, 53 secondsLike it wasn't solid. Next time you come across a pipe over some spikes, you're not going to want to jump on it because you're not sure if it's actually going
+[53:01] 53 minutes, 1 secondto be solid. It was crucial with all this weirdness going on that there had to be some level of predictability for
+[53:09] 53 minutes, 9 secondsthe player to grasp onto. So, with this limitation in mind, it was time to start narrowing down the 2,000 plus ideas they
+[53:18] 53 minutes, 18 secondshad lying around their office. Now, as you could probably guess, narrowing down over 2,000 ideas was going to be
+[53:25] 53 minutes, 25 secondsdifficult. So, to make things easier, the team decided that they needed to make a system with simple rules that
+[53:32] 53 minutes, 32 secondsWonder Effects would have to follow. If an idea failed any of these rules, it was scrapped. So, what were those rules?
+[53:40] 53 minutes, 40 secondsWell, first, there had to be a connection between the actual course and the wonder. For example, if the course's wonder effect turns Mario into a big
+[53:48] 53 minutes, 48 secondsballoon, then the level needed to feature something like balloon enemies.
+[53:52] 53 minutes, 52 secondsSo that way, the wonder effect didn't feel entirely random. Second, the wonder effect must be something that players didn't already have the ability to do.
+[54:02] 54 minutes, 2 secondsHad to be fresh and new. And lastly, the idea had to be simple to explain. If it was too complex to explain in a single
+[54:11] 54 minutes, 11 secondsshort phrase, it was scrapped. After all, players need to be able to quickly understand what's going on once things
+[54:18] 54 minutes, 18 secondsstart to go crazy. If an idea fulfilled all those criteria, the team would then begin making prototypes of it in the
+[54:25] 54 minutes, 25 secondswonder prototype meetings. So that way they could see how the idea would look in action. These prototypes were created by what they called testing teams, which
+[54:34] 54 minutes, 34 secondsconsisted of one programmer, one game designer, one artist, and one sound engineer. When necessary, they would
+[54:41] 54 minutes, 41 secondseven make placeholder sounds and graphics on the spot just so that way they could get the full picture of how the wonder effect would look in
+[54:49] 54 minutes, 49 secondspractice. Once the prototype was made, everyone would come together to play them. There, the team members had the opportunity to throw out even more ideas
+[54:57] 54 minutes, 57 secondsto add on top of existing ones. That way, they could add layers to these wonders to make them multifaceted in a
+[55:04] 55 minutes, 4 secondsway that would truly surprise the players.
+[55:08] 55 minutes, 8 secondsNow, what if I told you I have actual screenshots of these Wonder prototypes?
+[55:14] 55 minutes, 14 secondsNo, my dad doesn't work at Nintendo. I grabbed them from a GDC talk that Tesica and Modi did in 2024. It's all about
+[55:22] 55 minutes, 22 secondsSuper Mario Brothers Wonder, and I watched the entire talk so I could bring you the most interesting info. Take a look at this. These are
+[55:30] 55 minutes, 30 secondsscreenshots of actual prototypes that were made during the team's Wonder Prototype meetings. And you'll notice a few of them didn't make it into the
+[55:38] 55 minutes, 38 secondsfinal game. In fact, over half the prototypes that the testing teams made ended up being scrapped. For instance, here's surfing Mario, which we saw
+[55:46] 55 minutes, 46 secondsearlier on a sticky note. It didn't make it into the final game, but dang does it look incredible. And then there's these floating pegs. I don't remember any
+[55:55] 55 minutes, 55 secondswonder looking quite like this. We've also got an extremely small Mario walking on a gloomba. and this extremely claustrophobic area with piranha plants.
+[56:06] 56 minutes, 6 secondsI'm not even sure how you get past this.
+[56:08] 56 minutes, 8 secondsMario's definitely stuck. I don't have any memory of these making into the final game in this form, but I do remember seeing B Rush Stampede, which
+[56:17] 56 minutes, 17 secondsis great because that means we can actually compare this prototype screenshot to its final version. It looks simplistic, huh? But that's to be expected. It's a prototype after all.
+[56:26] 56 minutes, 26 secondsIt's just the basics to see if an idea is actually fun to play. And the team found that this prototype of Bull Rush Stampede was fun to play, but just a bit
+[56:35] 56 minutes, 35 secondstoo simple. That's why they decided to go a bit further with it by having the Stampede knock over everything in its
+[56:42] 56 minutes, 42 secondspath, including the flag pole to surprise the player. And speaking of simple, I've seen a lot of prototypes in
+[56:50] 56 minutes, 50 secondsmy day, but this one for Being Mario, this one's the most simplistic I've ever seen. Here's the sticky note for the idea, which yeah, is about as simple as
+[56:58] 56 minutes, 58 secondsthe prototype itself. It's called Silhouette Mario, and it did make it into the final game, but not before getting a little bit of spice added to
+[57:06] 57 minutes, 6 secondsit with the addition of this sticky note idea. Both of them together created the Bujin Mario Wonder effect that we know
+[57:14] 57 minutes, 14 secondsand love today. But I don't just have prototype screenshots. We've also got prototype videos. But before we watch one, let me give you a bit of context.
+[57:24] 57 minutes, 24 secondsThe first video that we're going to see is a prototype of rolling balls weed. In that course, the wonder effect causes
+[57:31] 57 minutes, 31 secondsthe entire place to tilt and a giant spiked ball starts rolling towards the player while they have to try to collect
+[57:38] 57 minutes, 38 secondsfive wonder tokens. Now, here's the sticky note of the idea that led to this wonder effect. And here is the actual
+[57:45] 57 minutes, 45 secondsprototype that was made for it. First, you'll notice that this prototype takes place in Pipe Rock Plateau, or at least that's what I'm assuming because there's
+[57:53] 57 minutes, 53 secondsgrass here. different looking grass, but grass all the same. The final version takes place in the sunbaked desert, but
+[57:59] 57 minutes, 59 secondsto be fair, this is a prototype, so the location shown here isn't necessarily where it was planned to be in the final game. A lot of this art was temporary
+[58:08] 58 minutes, 8 secondswithout any polish, which makes things look quite different. Speaking of which, check out Mario. He looks very different
+[58:15] 58 minutes, 15 secondsfrom both the small Mario and Super Mario models they're used in the retail build of the game. All right, let's go collect that wonder flower. Or I'm
+[58:23] 58 minutes, 23 secondssorry, it's not a flower here. It's just a question mark. Definitely a placeholder. The sound when collecting the wonder question mark is very similar
+[58:32] 58 minutes, 32 secondsto the final version, but the mixing is way different with the person screaming wonder being way louder in this version.
+[58:42] 58 minutes, 42 seconds[Music]
+[58:44] 58 minutes, 44 secondsWonder game.
+[58:49] 58 minutes, 49 secondsSo, we got the wonder. The place is all tilted. That's awesome. But now I want to focus on the UI because there is a
+[58:56] 58 minutes, 56 secondslot to unpack here. Sure, it's got a place for the regular coins, purple coins, and lives. But then we've got a flag, which I guess was there to mark
+[59:04] 59 minutes, 4 secondswhen you've reached the checkpoint flag or not. Then there's the circles, maybe meant to hold your collected powerups.
+[59:10] 59 minutes, 10 secondsIf that's actually what it is, then it looks like you could originally hold three items at once in single player.
+[59:16] 59 minutes, 16 secondscompared to the final version which only lets you hold as many items as there are players. So, you can't hold three items unless you're playing with three
+[59:23] 59 minutes, 23 secondsplayers. Actually, wait. I've got a different theory. I bet these held the three flower coins that you collect in each course, cuz it kind of looks like
+[59:31] 59 minutes, 31 secondsthere's a 10 on top of the circular outline, which is the number that shows on the flower coins and inside the outline shown in the final game. That
+[59:40] 59 minutes, 40 secondswould make the most sense to me. Going back to the prototype UI, it's time to ask the big question. What the heck is this purple gem? And what is the Bendy
+[59:48] 59 minutes, 48 secondsarrow that's next to it? Maybe the Bendy icon is based on one of the Bendy pipes.
+[59:53] 59 minutes, 53 secondsAnd maybe that gem is like an early wonders seed or maybe a wonder token. I don't know. But I do have an educated
+[01:00] :011 hour, 1 secondguess. While I was editing this video, I actually found a picture of them in a prototype screenshot. And not just one,
+[01:00] :081 hour, 8 secondsbut two of them. Since there are more than one in a single level, these gems acting as early wonder tokens seems to
+[01:00] :151 hour, 15 secondshave the most validity, but I can't say for sure. I'd love to hear your theories in the comments on what these gems might have been. The UI also showcases a
+[01:00] :241 hour, 24 secondsgameplay feature that ended up getting completely scrapped. Your score. Scores have been a fundamental part of 2D Mario
+[01:00] :321 hour, 32 secondsgames for a long time, but it was completely absent in Mario Wonder.
+[01:00] :371 hour, 37 secondsInstead of seeing points you get whenever you defeat an enemy, now you just see good and great. In this prototype though, your score takes up
+[01:00] :451 hour, 45 secondspermanent screen real estate, and it even shows you the points you get when defeating enemies, too. But that's still not all the UI that we can see. We also get a glimpse at some debug stuff, too.
+[01:00] :571 hour, 57 secondsIt shows up on the bottom left when collecting the wonder question mark, where it lists the event, its file name, among various other things. And on the
+[01:01] :051 hour, 1 minute, 5 secondstop right, we can also see information on what prototype is being played currently and what area it's taking place in. All right, now that we've
+[01:01] :131 hour, 1 minute, 13 secondscompletely dissected that prototype footage, what if I told you there was one more? And this wonder effect never
+[01:01] :211 hour, 1 minute, 21 secondsmade it into the final game at all. It's a real interesting one where you get turned into pixel Mario with a giant head made out of blocks. Edible blocks.
+[01:01] :321 hour, 1 minute, 32 secondsYour goal is to make sure your head doesn't get eaten by the noshers that are flying around everywhere. Pretty cool, right? Why did it get scrapped?
+[01:01] :411 hour, 1 minute, 41 secondsWell, the reason is because the team couldn't think of a viable strategy to actually avoid the enemies. Jumping around, trying to juke them didn't
+[01:01] :481 hour, 1 minute, 48 secondsreally end up working. So, in the end, it just boiled down to asking the player to run as quickly as possible to the end of the course. In other words, it looks
+[01:01] :561 hour, 1 minute, 56 secondsand sounds more interesting than it is to actually play. But I'll say it does look very interesting regardless. You know what? I just
+[01:02] :051 hour, 2 minutes, 5 secondsrealized something. I've gotten this far into the video and I haven't even talked about how absolutely gorgeous this game looks. It's beautiful. But I've got a
+[01:02] :141 hour, 2 minutes, 14 secondslittle secret for you. Even though it's a 2D game, did you know that it actually uses 3D models? Yeah, not really a shock, right?
+[01:02] :231 hour, 2 minutes, 23 secondsNintendo's been using 3D models for 2D Mario games since 2006 when New Super Mario Brothers released on the DS. And
+[01:02] :311 hour, 2 minutes, 31 secondsthat was a big deal back then, a full-blown evolution of the series. And I even made a video about the development of New Super Mario Brothers.
+[01:02] :391 hour, 2 minutes, 39 secondsYou should probably check that out after this video. But after that initial evolution, Nintendo didn't really push the idea much further. There isn't a
+[01:02] :471 hour, 2 minutes, 47 secondswhole lot of visual difference between the six games in the New Super Mario Brothers series. People were getting bored. It was time to innovate. The
+[01:02] :571 hour, 2 minutes, 57 secondsdecision to innovate how Mario Wonder looks was decided early on in development. The team looked for ways to make the game more visually engaging by
+[01:03] :051 hour, 3 minutes, 5 secondsutilizing the flexibility of 3D models to a higher degree than before. After all, the Switch has more than enough
+[01:03] :131 hour, 3 minutes, 13 secondspower to handle a 2D Mario game. So, he decided to use that extra power to push visual boundaries by adding more than
+[01:03] :201 hour, 3 minutes, 20 secondsdouble the amount of animations compared to previous games. All of which use more than double the amount of joints. The more joints they use, the greater
+[01:03] :281 hour, 3 minutes, 28 secondsvariety of movements and facial expressions they could create. But why go to all this trouble? Well, it was done to add more realness to the
+[01:03] :381 hour, 3 minutes, 38 secondsgameplay. not trying to make the game look more realistic, but instead making the characters react more realistically to their environment. In order to
+[01:03] :471 hour, 3 minutes, 47 secondsimmerse the player in the world even more. But after creating these new charming facial expressions, they realized there was an issue they hadn't
+[01:03] :551 hour, 3 minutes, 55 secondsconsidered. Mario's nose is absolutely massive and it was covering his face.
+[01:04] :021 hour, 4 minutes, 2 secondsBack in the NES days, this giant nose was done out of necessity in order to make it easier to see what direction
+[01:04] :081 hour, 4 minutes, 8 secondsMario was facing. But now it was a problem. If they had Mario completely facing the direction he was moving, you
+[01:04] :161 hour, 4 minutes, 16 secondswouldn't be able to see it with those cute facial expressions. But if you turn him to face the screen too much, it'll be harder to distinguish the direction
+[01:04] :241 hour, 4 minutes, 24 secondsyou're facing. So here's what they ended up doing. They put the mouth on the side of his face with the nose cranked all
+[01:04] :311 hour, 4 minutes, 31 secondsthe way over there. They also mess with the rest of his body, too, turning it slightly towards the camera. Looking at Mario in game, he looks
+[01:04] :401 hour, 4 minutes, 40 secondsfantastic. But from this angle, not so much. But hey, you'll never see him at this angle in normal gameplay, so whatever. Cut print. Put it in the game.
+[01:04] :491 hour, 4 minutes, 49 secondsBut it wasn't just our playable characters that got a redesign. Enemies also saw substantial upgrades, too, with
+[01:04] :561 hour, 4 minutes, 56 secondsmore expressions than ever before. The team knew that they couldn't change the characters behaviors, but giving them more reactions still made them feel new
+[01:05] :051 hour, 5 minutes, 5 secondsall over again. Like Goombas, for instance. Look how annoyed he is that he fell into this hole. Isn't that freaking cute? Oh, and fun fact, this annoyed
+[01:05] :131 hour, 5 minutes, 13 secondsGoomba expression was created by the animators before there was anything for him to get annoyed about. So when the
+[01:05] :201 hour, 5 minutes, 20 secondslevel designers were making the game's courses, they wanted to make sure that glmbbas had a place to get stuck so that way the animation would play. This is
+[01:05] :291 hour, 5 minutes, 29 secondswhy Tesica knew it was important for every part of the team to stay connected with each other throughout development.
+[01:05] :361 hour, 5 minutes, 36 secondsIf the level designers didn't create this moment here for the gloomba's annoyed expression to play right in front of the player, it could have
+[01:05] :431 hour, 5 minutes, 43 secondseasily been missed. or if the level designers just didn't think about it and didn't put any holes for him to fall into. This animation could have gone
+[01:05] :501 hour, 5 minutes, 50 secondscompletely unused. But anyway, it wasn't just Goombas that got some well-deserved love. They also gave some to the Koopas
+[01:05] :571 hour, 5 minutes, 57 secondswith an entirely new variety, the Rola Koopas, a magenta Koopa with roller skates on. The idea for roller Koopas
+[01:06] :061 hour, 6 minutes, 6 secondscame about during a brainstorming session. Like most ideas in this game, someone mentioned how Super Mario World featured brand new unshelled Koopas and
+[01:06] :151 hour, 6 minutes, 15 secondsCape Koopas. Back then, Nintendo was transitioning from the NES to the more powerful SNES. And the developers of
+[01:06] :221 hour, 6 minutes, 22 secondsSuper Mario World wanted to evolve the Koopa Troopa along with the transition.
+[01:06] :271 hour, 6 minutes, 27 secondsThe developers of Mario Wonder wanted to do the same thing. And with that goal in mind, one of the designers had the idea of giving them roller skates. And here's
+[01:06] :351 hour, 6 minutes, 35 secondssome of that concept art. Like I said before, the final version of this enemy is magenta, but it looks like originally it was going to be green. Maybe they
+[01:06] :431 hour, 6 minutes, 43 secondschanged them to be a more distinct color just to make sure it was easy to notice this guy is not a normal Koopa Troopa.
+[01:06] :501 hour, 6 minutes, 50 secondsAfter all, they move a lot faster, so you got to stay on your toes and know when they're coming. There were a couple more early designs for roller Koopas
+[01:06] :571 hour, 6 minutes, 57 secondsthat didn't make the cut, like this one with the helmet, elbow pads, and knee pads. Very safe, very nice. And then there's the American one. Oh my gosh.
+[01:07] :071 hour, 7 minutes, 7 secondsHot dogs. American.
+[01:07] :101 hour, 7 minutes, 10 secondsNow, one of Mario Wonders big features is the variety of characters that you get to play as. You've got Mario, Luigi,
+[01:07] :171 hour, 7 minutes, 17 secondsPeach, Daisy, Yellow Toad, Blue Toad, Toadette, four different kinds of Yoshis, and Nabbit. That makes 12 playable characters in total. That is
+[01:07] :261 hour, 7 minutes, 26 secondsthe most variety of any 2D Mario game ever, as long as you don't count Super Mario Maker. That game technically had
+[01:07] :341 hour, 7 minutes, 34 secondsover 150 unique costume Marios like uh we balance board, a realistic pigeon, and of course, Shawn the Sheep.
+[121:07] :431 hour, 7 minutes, 43 secondsplayable characters is still quite a lot for a game like this. Some of them like the Yoshis and Nabbit were designed for players who might need extra assistance
+[01:07] :511 hour, 7 minutes, 51 secondsplaying the game since they don't take damage. But other than them, every other playable character controls exactly the
+[01:07] :571 hour, 7 minutes, 57 secondssame, which may seem a bit strange when you think about it. What about Luigi's high jump or Peach's floating ability?
+[01:08] :041 hour, 8 minutes, 4 secondsWhy did they get rid of those specific character quirks? Well, that's because the development team wanted players to be able to pick their favorite character
+[01:08] :131 hour, 8 minutes, 13 secondswithout having to worry about missing a potential secret just because they picked the wrong character. But those quirky abilities are just so iconic and
+[01:08] :211 hour, 8 minutes, 21 secondsreally fun gameplay elements, so it'd be a shame just to remove them. What if we allowed the player to choose what ability they want to use and then pair
+[01:08] :291 hour, 8 minutes, 29 secondsit with the character they want to play as? Have the players pick their preferred ability at the beginning of each level and uh Oh yeah, we'll call it
+[01:08] :371 hour, 8 minutes, 37 secondsbadges. Modi decided to take charge of spearheading the idea of badges, making it
+[01:08] :441 hour, 8 minutes, 44 secondspersonal project. The final game has
+[01:08] :531 hour, 8 minutes, 53 secondsoverg variety of badges with some based on classic moves like Peach's floating ability becoming the parachute cap badge
+[01:09] :001 hour, 9 minutesand others for support to help make things easier, like with the safety bounce badge, which just bounces you right out of pits. And you know what?
+[01:09] :071 hour, 9 minutes, 7 secondsWhile we're at it, we might as well add some badges that purposely make the game harder, like the JetRun badge, where you literally can't stop running. This
+[01:09] :161 hour, 9 minutes, 16 secondsallowed players to essentially customize their difficulty level however they saw fit. And this idea of a custom difficulty setting was something that
+[01:09] :241 hour, 9 minutes, 24 secondsTesica wanted to see included in the game for a while. But Tesica's idea wasn't to allow the player to pick their
+[01:09] :311 hour, 9 minutes, 31 secondsdifficulty, but instead have it happen on the fly in real time. Initially, to help test this idea, he asked the team
+[01:09] :391 hour, 9 minutes, 39 secondsif they could add a debug slider on screen, so that way they'd be able to change the difficulty of the level in the middle of the level. But they
+[01:09] :481 hour, 9 minutes, 48 secondsdecided against doing that, instead focusing on badges. What Tesica's idea would have looked like in practice, I don't know. But when he mentioned the
+[01:09] :561 hour, 9 minutes, 56 secondsidea in an interview, it seemed like he hadn't quite given up on it yet. So maybe in the next game we may see a
+[01:10] :031 hour, 10 minutes, 3 secondsrealtime difficulty adjustment happening as you play through the game. Or maybe it'll never happen. We'll just have to wait and see. As you've seen throughout
+[01:10] :121 hour, 10 minutes, 12 secondsthis video, Tesica was full of ideas throughout development, and the real-time difficulty adjustment was just one of several that was considered
+[01:10] :211 hour, 10 minutes, 21 secondsimpossible. Another one of these impossible ideas was having live commentary throughout the entire game.
+[01:10] :291 hour, 10 minutes, 29 secondsMorty heard Tesica's idea and thought to himself, "Man, I have absolutely no idea what this man's talking about." Like
+[01:10] :361 hour, 10 minutes, 36 secondssports commentary. Yeah, that was basically it. So, okay, let's give it a try. And that first serious attempt at
+[01:10] :441 hour, 10 minutes, 44 secondshaving a live commentary in the game took six months to put together. It had several voices commentating on what the
+[01:10] :521 hour, 10 minutes, 52 secondsplayer was doing on screen, but it felt a little weird. a disembodied voice randomly saying, "Wow, Mario, look at
+[01:10] :591 hour, 10 minutes, 59 secondsthat jump. That was very nice." Yeah, I know. Tesica was a big fan though. He liked how it was turning out, but the
+[01:11] :071 hour, 11 minutes, 7 secondsteam was split. Half thought it was good and the other half did not like it. They even had customization options to tweak the voice to your liking. You had the
+[01:11] :151 hour, 11 minutes, 15 secondsdefault one, which was like a generic newscaster, and then there was the soon array option. And I know you could probably guess this already, but the
+[01:11] :231 hour, 11 minutes, 23 secondsplay testers were quite drawn to the Sundere commentary with quite a few people switching to it versus the newscaster one. But if they were going
+[01:11] :321 hour, 11 minutes, 32 secondsto have multiple options for players to pick, that would mean they'd have to record just a massive amount of lines.
+[01:11] :391 hour, 11 minutes, 39 secondsThat would be way too much work. So, the idea was scrapped, but not completely. I
+[01:11] :471 hour, 11 minutes, 47 secondsmean, wouldn't it be a shame to just scrap 6 months of work like that? So, instead of completely scrapping everything, they decided to bring a new
+[01:11] :551 hour, 11 minutes, 55 secondsperson onto their team whose sole role was just to puzzle out how to make this commentary feature work. That was their
+[01:12] :021 hour, 12 minutes, 2 secondsfull-time job. But, as I've said before, they've already scrapped tons of ideas at this point. Why didn't Tesica want to give up on this one? Well, in the past,
+[01:12] :121 hour, 12 minutes, 12 secondswhile making previous Mario games, Tesica had discovered that players really like getting praised, even for small things. That's why he added that
+[01:12] :201 hour, 12 minutes, 20 secondslittle clapping sound that plays whenever you collect a group of coins in New Super Mario Brothers U. It just makes players feel more
+[01:12] :281 hour, 12 minutes, 28 secondsimmersed, like the world is able to see what you're doing and respond back to you. but he wanted to take it to the next level in Mario Wonder. Having an
+[01:12] :371 hour, 12 minutes, 37 secondsactual person praise you for your accomplishments and maybe even give you a sympathy for difficult moments. That's what was going through his head when he
+[01:12] :451 hour, 12 minutes, 45 secondssuggested the commentary system. But how in the world are we going to make this actually work? Well, around the time that they brought this new person on
+[01:12] :531 hour, 12 minutes, 53 secondsboard, another part of the team was discussing a different question. Where in the world is this game taking place?
+[01:12] :591 hour, 12 minutes, 59 secondsThey were looking through different ideas, but it seemed like they were leaning towards it being a place called the Flower Kingdom. That's when an idea took shape. What if we made the
+[01:13] :071 hour, 13 minutes, 7 secondscommentators talking flowers? Having an actual character talk to you on screen makes it feel more personal than just a
+[01:13] :151 hour, 13 minutes, 15 secondsrandom voice over. Plus, you'd only need to have one voice actor, so that saves a lot of time. And honestly, it just feels like something you would actually see in
+[01:13] :241 hour, 13 minutes, 24 secondsthe Mario universe. So they went for it and ended up creating the greatest character the human race has ever had the privilege to encounter.
+[01:13] :341 hour, 13 minutes, 34 seconds[Music]
+[01:13] :391 hour, 13 minutes, 39 secondsListening to that flower is one of the simple joys in life. In fact, everything in Mario Wonder is a joy to listen to.
+[01:13] :451 hour, 13 minutes, 45 secondsFrom the beautiful soundtrack to the little boom sound that plays whenever you jump, the sound design is just
+[01:13] :521 hour, 13 minutes, 52 secondsexcellent. And you could attribute that to the game's incredible sound team, who is involved in the development of Mario Wonder more than any other game in the
+[01:14] :011 hour, 14 minutes, 1 secondMario series. See, the way that it typically works is that the sound team will join in at the latter half of development. That way, they can come in
+[01:14] :091 hour, 14 minutes, 9 secondswhen the game's visual style has been pretty much set, giving them better context on what kind of sounds they should create. I've been waiting for this. Because of this choice, there was
+[01:14] :171 hour, 14 minutes, 17 secondsbeen waiting to buy horse seaman. Give me the horsemen. Sound engineers were treated as I have horse semen up with any ideas they had because I had to
+[01:14] :251 hour, 14 minutes, 25 secondsannounce that very loudly. I have purchased a quantity of horsemen do to shape the game with something small.
+[01:14] :331 hour, 14 minutes, 33 secondsCondo suggested having enemies jump and dance to the music in the New Super Mario Brothers series. The only reason they could do that was because it wasn't
+[01:14] :411 hour, 14 minutes, 41 secondsthat difficult to add in, even if it was towards the end of development. Condo had always hoped to do more, though.
+[01:14] :481 hour, 14 minutes, 48 secondsSpecifically, he wanted to have a course in a Mario game that had visuals changing in response to music. Like maybe making an entire course that was
+[01:14] :571 hour, 14 minutes, 57 secondsjust a whole musical number. But there was never a chance to do that until now because this time the sound team was
+[01:15] :051 hour, 15 minutes, 5 secondsinvolved even in the early stages of Mario Wonders development. So team, anyone interested in making that musical number as a wonder effect? We're making
+[01:15] :141 hour, 15 minutes, 14 secondsa bunch of other prototypes anyway, might as well try this one, too. It started out simple, just trying to sync up piranha plants coming out of their
+[01:15] :211 hour, 15 minutes, 21 secondspipes to the music. But over time, it became more complex with course designers making both pipes and platforms move in time with the song,
+[01:15] :291 hour, 15 minutes, 29 secondstoo. It was looking cool, working well, but it wasn't easy getting the idea off the ground. The course designers didn't know much about beats and rhythms, and
+[01:15] :381 hour, 15 minutes, 38 secondsthe sound team didn't know much about course design either. So much time was spent going back and forth between the teams, doing tiny adjustments just to
+[01:15] :451 hour, 15 minutes, 45 secondsmake sure things were in rhythm. But there was a silver lining. Working with the team that they didn't normally collaborate much with gave them a better
+[01:15] :531 hour, 15 minutes, 53 secondsunderstanding of what the other side goes through. And seeing the results of their combined efforts, I felt inspired and continued to add more into this
+[01:16] :011 hour, 16 minutes, 1 secondmusical number. With more enemies dancing to the music and more stage pieces moving around to create Piranha
+[01:16] :081 hour, 16 minutes, 8 secondsPlants on Parade. And after seeing all the dancing enemies on screen, it gave Kondo another idea. He wanted to dance
+[01:16] :151 hour, 16 minutes, 15 secondstoo as Mario. That's how the Ninji Jump Party was born. an entire course designed to have you, the player, jump
+[01:16] :241 hour, 16 minutes, 24 secondsto the beat as well. Now, a big feature of Super Mario Brothers Wonder is the addition of online multiplayer, but the
+[01:16] :311 hour, 16 minutes, 31 secondsway it was implemented wasn't quite the same as just going around with your online friends and playing through the game. It was a bit more unique. In Mario
+[01:16] :401 hour, 16 minutes, 40 secondsWonder, random players from around the world show up as shadows to help you out. And the reason it was done this way was to create what the development team
+[01:16] :491 hour, 16 minutes, 49 secondscalled a casual connection. So what the heck does casual connection even mean?
+[01:16] :551 hour, 16 minutes, 55 secondsWell, it means that the online multiplayer was designed so that way no one could harm your gaming experience.
+[01:17] :011 hour, 17 minutes, 1 secondThe only thing people online can do is help you out, like by giving you items or placing standes to revive you. They didn't want to make online multiplayer
+[01:17] :091 hour, 17 minutes, 9 secondscompetitive, which can leave beginner players feeling frustrated. and having it be co-op can be frustrating for skilled players who might be matched
+[01:17] :161 hour, 17 minutes, 16 secondswith a literal infant holding a controller backwards. Speaking of matchmaking, all of that had to work seamlessly in the background. That is
+[01:17] :241 hour, 17 minutes, 24 secondssomething the team was very certain about. They did not want people waiting around trying to get into courses if they have the online feature enabled.
+[01:17] :321 hour, 17 minutes, 32 secondsThis casual online connection was planned since the very beginning of development, and it is one of the reasons why there is such a large variety of characters to choose from.
+[01:17] :421 hour, 17 minutes, 42 secondsThat way, in online multiplayer, you're not just going to see a bunch of Marios.
+[01:17] :451 hour, 17 minutes, 45 secondsThere'll be some variety to the characters. The world maps were also designed to be nice and big in order to accommodate players from all around the
+[01:17] :541 hour, 17 minutes, 54 secondsworld running together. But it wasn't just online multiplayer that was a focus early on. Local multiplayer was also
+[01:18] :011 hour, 18 minutes, 1 secondheavily tweaked to with a lot of changes to make sure that this would be the best 2D Mario game to play together with
+[01:18] :091 hour, 18 minutes, 9 secondscouch co-op. As I said before, one thing they did was remove collision to make things less stressful. And another thing was making sure there were two
+[01:18] :171 hour, 18 minutes, 17 secondsprincesses in Mario Wonder. This was a big deal to Morty. It was his personal mission because his two daughters would
+[01:18] :261 hour, 18 minutes, 26 secondsconstantly fight over who would be the princess in past Mario games. Now that we've got Daisy, they could both be a
+[01:18] :331 hour, 18 minutes, 33 secondsprincess. Their household was safe. The live system was also completely redone for local multiplayer with all one-ups being shared with the group. That way,
+[01:18] :421 hour, 18 minutes, 42 secondsif there's a person in your group who keeps falling into pits, they won't be forced to sit in silence after they lose all their lives. while all their other
+[01:18] :501 hour, 18 minutes, 50 secondsfriends continue having fun, not even noticing that they're gone. But since lives were going to be shared now, the team didn't want there to be uh
+[01:18] :581 hour, 18 minutes, 58 secondsfrustration if one of your friends just keeps wasting all of your lives. That's why they added in the ghost mechanic.
+[01:19] :051 hour, 19 minutes, 5 secondsThat way, these players could still be saved without losing anything, so long as the other players are quick and
+[01:19] :111 hour, 19 minutes, 11 secondsnimble enough to save them. At this point, the team had pretty much reinvented and refined everything in
+[01:19] :191 hour, 19 minutes, 19 secondsMario Wonder. But even till the very end, they were still adjusting the courses to make sure everything felt
+[01:19] :251 hour, 19 minutes, 25 secondsjust right. You could have all the wacky ideas and surprises in the world. But if the courses aren't fun, neither is the
+[01:19] :331 hour, 19 minutes, 33 secondsgame. The development team was dedicated to making sure that Super Mario Brothers Wonder was the best it could
+[01:19] :441 hour, 19 minutes, 44 secondspossib well. We got to make the box art first. Right. Now that the game was near completion, it was time to create the
+[01:19] :511 hour, 19 minutes, 51 secondspromotional $24. This started around a year before Mario Wonders release close to the end of 2022. What? So believe it
+[01:19] :581 hour, 19 minutes, 58 secondsor not, Nintendo's official website has an article about this process written by So the Golden Skateboard was behind
+[01:20] :061 hour, 20 minutes, 6 secondsMario Wonders, which includes the game's box art, posters, advertisements for retail stores, etc. ETL states in the
+[01:20] :141 hour, 20 minutes, 14 secondsarticle that they were allowed to play the game even before it had finished being developed. They even got to sit down with some of the developers to listen to what the team considered to be
+[01:20] :221 hour, 20 minutes, 22 secondsthe most iconic parts of the game. They saw that it was filled with wonder, a sense of adventure through a mysterious
+[01:20] :301 hour, 20 minutes, 30 secondsworld, all while staying grounded in that traditional 2D Mario charm. They wanted to make promotional art based on all of those themes. And here's some of
+[01:20] :381 hour, 20 minutes, 38 secondsthe prototype designs. They were a bit torn between making elephant Mario the main focus or making Wonders take the focus instead. And that logo, yeah, it
+[01:20] :471 hour, 20 minutes, 47 secondslooks quite a bit different compared to the final design. Some of the characters in the background also look different because their renders are just lifted
+[01:20] :551 hour, 20 minutes, 55 secondsfrom older New Super Mario Brothers games, but of course that's because this is a prototype. The final version of the box art is just chef's kiss with Mario
+[01:21] :051 hour, 21 minutes, 5 secondsfacing the right to showcase the sides scrolling nature of the game while holding the Wonderflower popping out of the world to show that he's going to be
+[01:21] :121 hour, 21 minutes, 12 secondsvisiting a mysterious unknown land. With the game, box art, and everything else ready to go, it was time to finally show
+[01:21] :211 hour, 21 minutes, 21 secondsthis new 2D Mario game to the world. On June 21st, 2023, Super Mario Brothers
+[01:21] :281 hour, 21 minutes, 28 secondsWonder was announced in the June 2023 Nintendo Direct, showcasing a couple minutes of gameplay and ending with that
+[01:21] :361 hour, 21 minutes, 36 secondsiconic Elephant Mario reveal. Then on August 31st, we got an entire direct dedicated to the game with a demo
+[01:21] :441 hour, 21 minutes, 44 secondsversion available to play at the Nintendo Live event starting on September 1st. I was even there and got to play the demo with my wife. It was actually incredible. It was amazing.
+[01:21] :531 hour, 21 minutes, 53 secondsThen a month later on October 7th, a kiosk demo was sent to retail stores for everyone to play. And finally on October
+[01:22] :021 hour, 22 minutes, 2 seconds20th, 2023, Super Mario Brothers Wonder was released to the public. and it was
+[01:22] :101 hour, 22 minutes, 10 secondsbeautiful. When things were all said and done, the team took a look back at some of the notes that Sato had wrote during development. These notes were all things
+[01:22] :181 hour, 22 minutes, 18 secondsthat Tesica had said during their meetings that the team didn't want to forget. Things like this, don't simply replace things, change the entire
+[01:22] :271 hour, 22 minutes, 27 secondsapproach and find new inspirations. The team thought about Mario Wonder, the game they had poured their heart and
+[01:22] :341 hour, 22 minutes, 34 secondssoul into, and realized that, yeah, we really did it. We changed our approach and made something brand new. Even when
+[01:22] :421 hour, 22 minutes, 42 secondsthings seemed impossible, the team made it through together. And they created something truly special. And this is
+[01:22] :501 hour, 22 minutes, 50 secondsonly the beginning. They've built the foundation for an entirely new generation of 2D Mario games. The
+[01:22] :571 hour, 22 minutes, 57 secondsfuture's bright and I can't wait to see what they create next. Hey, thank you so much for watching this video all the way to the
+[01:23] :051 hour, 23 minutes, 5 secondsend. If you want to support Beta 64 and see a special behind the scenes on this video, you got to join the Patreon and
+[01:23] :121 hour, 23 minutes, 12 secondsyou can even get your name alongside these lovely producers as well. I'll see you next month for another video.
+[01:23] :201 hour, 23 minutes, 20 secondsBye-bye.
+[01:23] :241 hour, 23 minutes, 24 secondswork faster, dude. Work faster.
+[01:23] :401 hour, 23 minutes, 40 secondsMario Party is one of the most iconic video game series of all time. At every stage of my life, there was a huge Mario
+[01:23] :481 hour, 23 minutes, 48 secondsParty craze. Now you each get a packaging machine. Phone on the Gamecube. That didn't really work, but we used it anyway. If you're both packaging, maybe maybe weed gets made
+[01:23] :571 hour, 23 minutes, 57 secondstwice as fast. Yes, there we go. Weed gets made twice as fast with both of you making weed all
+[01:24] :051 hour, 24 minutes, 5 secondsday long. And then if I hire another chump, all he's going to do is shuffle this weed around so that the machine
+[01:24] :131 hour, 24 minutes, 13 secondsmakes new weed. And I think I think we've got the super weed house built.
+[01:24] :201 hour, 24 minutes, 20 secondsfavorite after Super Mario Party Jam.
+[01:24] :231 hour, 24 minutes, 23 secondsClean it all up. Now I can start making my gaming experience really in the game.
+[01:24] :281 hour, 24 minutes, 28 secondsI never had a chance to play the original Nintendo. She is always dressed like a hot new thing. And while it was also getting lady, you're always dressed
+[01:24] :371 hour, 24 minutes, 37 secondslike [ __ ] Maybe don't dress like [ __ ] Even though you're baller [ __ ] with chain, you're still dressed like [ __ ]
+[01:24] :441 hour, 24 minutes, 44 secondsThis episode of Beta 64ct the classics and check how the
+[01:24] :511 hour, 24 minutes, 51 secondsMario wearing bra and jacket while we look at the development look like a female Terminator. Mario Party began
+[01:24] :581 hour, 24 minutes, 58 secondsdevelopment in 1996 but not under the name Mario Party. Now it was originally going to be called Mario Board since it
+[01:25] :051 hour, 25 minutes, 5 secondswas specifically intended to be a virtual board game featuring Mario. This wasn't intended to just be like a miniame compilation party game. the
+[01:25] :141 hour, 25 minutes, 14 secondsboard. Hey Benji, you're the one I wanted focus. They wanted that fun to look at and were surprised. Very
+[01:25] :221 hour, 25 minutes, 22 secondslittle restrictions on what they could do with the Mario character in universe so long as they preserved that Mario style. A quirky, fun, flashy game that could be played with the whole family.
+[01:25] :331 hour, 25 minutes, 33 secondsThat was the intent throughout development. They imagine the whole family gathered around in front of the TV during the New Year's holidays
+[01:25] :411 hour, 25 minutes, 41 secondsplaying Mario board, which is actually why every single one of the mainline games up until Mario Party 8 were
+[01:25] :481 hour, 25 minutes, 48 secondsreleased in Japan just in time for the holiday season. And since this was made for families to play together, they wanted to make things less reliant on
+[01:25] :571 hour, 25 minutes, 57 secondsskill. I mean, if you pit me against a child in Mario Kart, I will crush them without mercy. There is nothing I can do to stop that. So to prevent that from
+[01:26] :051 hour, 26 minutes, 5 secondshappening, they decided to add in a lot of luck based mini games, bonus stars, basically anything they could think of to even the playing field. That way
+[01:26] :131 hour, 26 minutes, 13 secondsnon-gamers had had a chance. And parents also wouldn't have to lose on purpose to keep their children from screaming and crying saying this was the worst Christmas of their lives.
+[01:26] :231 hour, 26 minutes, 23 secondsThose mini games, let me tell you something. That's what happened.
+[01:26] :251 hour, 26 minutes, 25 secondsEverything was on the table. They would come up with hundreds of ideas for mini games and only pick a few to actually use. Any of the leftovers would then be
+[01:26] :331 hour, 26 minutes, 33 secondssaved to be used in the next game. Yeah, that's right. It seems from the very beginning they were open to making Mario Party into a series, saving ideas for
+[01:26] :421 hour, 26 minutes, 42 secondswhen the next game came about, which wasn't very long. Mario Party 2 was released less than a year after the first game, but that's only because they
+[01:26] :501 hour, 26 minutes, 50 secondsalready had the basis of what the game would be, as well as a bunch of assets already been made. Because Mario Party 1 was made from scratch, the original game
+[01:26] :581 hour, 26 minutes, 58 secondstook 2 years to develop before being released on December 18th, 1998 in Japan, which of course is right around the holiday season.
+[01:27] :081 hour, 27 minutes, 8 secondsBut here's the thing. I'm not entirely sure. But no, no, the thing isn't there.
+[01:27] :111 hour, 27 minutes, 11 secondsI know the thing. And the thing is orange and covered in rocks. And you're not the thing. I want I want that to be quite honest, guy who say here's the
+[01:27] :181 hour, 27 minutes, 18 secondsthing. You are not the thing. The thing is orange. Related assets. All right.
+[01:27] :241 hour, 27 minutes, 24 secondsum history. They were planning on releasing expansions for Nintendo 64. If I want you to grow more weed, I need to
+[01:27] :321 hour, 27 minutes, 32 secondsgive you more seed. The F0X expansion. I must spread my seed for you to weed.
+[01:27] :371 hour, 27 minutes, 37 secondsMachine creator and a soundtrack. That was the first of several planned expansions for Nintendo 64 games.
+[01:27] :451 hour, 27 minutes, 45 secondsAssuming that the 64 drive was a success, it was not. There are several unused graphics related to a potential
+[01:27] :531 hour, 27 minutes, 53 secondsexpansion for There's more weed. And the game can even detect the weed is weeding into the bottom of the console. Machine
+[01:28] :001 hour, 28 minutesis machining. We do know I had to pull out the new weed because the the process was stopped by the machine not machining.
+[01:28] :111 hour, 28 minutes, 11 secondsWhat? That being said, we had like all of this. The only thing that we got post release was a nice little promotional
+[01:28] :181 hour, 28 minutes, 18 secondswebsite that outlied the features of Mario Party. There are no mentions of an expansion here, but we do get some cute little images, including these character
+[01:28] :271 hour, 28 minutes, 27 secondsportraits under the miniame section. Why do I bring this up? Guess what? They are different from their final counterparts.
+[01:28] :341 hour, 28 minutes, 34 secondsAnd not just one, all of them. And that's not all. We also have footage of these early icons in the Nintendo
+[641:28] :421 hour, 28 minutes, 42 seconds1998 1999 new software introduction video.
+[01:28] :471 hour, 28 minutes, 47 secondsIn this video, we get to see the icons in action and also get a different version of the Peach portrait, which doesn't appear in the final game either.
+[01:28] :551 hour, 28 minutes, 55 secondsWe can also see that the icons are rounder than the final version, plus a ton more stuff. So, without further ado,
+[01:29] :021 hour, 29 minutes, 2 secondslet's boot up Mario Party and see what changes there are. I'm sorry, let's boot up Mario 4.
+[01:29] :111 hour, 29 minutes, 11 secondsOkay, so the first difference besides the name is how the logo slams onto the screen in the early footage. The final
+[01:29] :181 hour, 29 minutes, 18 secondsgame just has it where it slowly and beautifully, I might add, builds the logo from a spinning star in ribbons.
+[01:29] :251 hour, 29 minutes, 25 secondsThe logos look quite different side by side, and the kanji under the logo in the early footage just says temporary.
+[01:29] :321 hour, 29 minutes, 32 secondsSo maybe from the beginning, Mario board wasn't completely settled on for the game's name. Now, when the game starts, all the characters jump out of their
+[01:29] :391 hour, 29 minutes, 39 secondspipes, landing on the ground, which makes a sound in the early version of the game that was removed from the final. And speaking of sounds, the sound
+[01:29] :481 hour, 29 minutes, 48 secondswhen collecting a star is also different in this footage.
+[01:29] :521 hour, 29 minutes, 52 secondsIt's more similar to the sound that plays when the final star picks the winner in the final game. Now, during that part of the early
+[01:30] :001 hour, 30 minutesfootage, you can also see a removed feature of the game, happiness. See, in the final game, when you collect a star, pretty much nothing happens. They go,
+[01:30] :091 hour, 30 minutes, 9 seconds"Wahoo!" Yeah, but that portrait stays exactly the same. Not in the early version, because originally your
+[01:30] :161 hour, 30 minutes, 16 secondscharacter portrait would just glisten with happiness on their face. I have no idea why they decided to remove this from the game. But we're not quite done
+[01:30] :241 hour, 30 minutes, 24 secondswith this part of the footage yet. Check out Toad. It's a bit tough to see with the quality of this VHS, but Toad definitely looks different when you
+[01:30] :321 hour, 30 minutes, 32 secondscompare him to the final version. The red dots are in different places and its vest is longer, too. The face also seems to have changed with bigger eyes, maybe,
+[01:30] :401 hour, 30 minutes, 40 secondsbut that one's kind of hard to see, you know. Let's check out some boards now in Mario board. And there's one interesting
+[01:30] :481 hour, 30 minutes, 48 secondschange that shows up in every board in this early footage except for DK Jungle Adventure. The missing light gray path
+[01:30] :551 hour, 30 minutes, 55 secondsboard, which in the final game helps guide the player on where they can move.
+[01:31] :001 hour, 31 minutesThe easiest place you'll notice that is on Yoshi's Tropical Island. And speaking of that board, all the signs here are missing, too, which were added to tell
+[01:31] :081 hour, 31 minutes, 8 secondsthe player which direction they're allowed to go. DK Jungle Adventure is also missing an arrow, too, right in front of this board. But that is enough
+[01:31] :171 hour, 31 minutes, 17 secondsabout boards. Let's roll the dice. After doing so, in this early build, the number you roll, in my personal opinion,
+[01:31] :251 hour, 31 minutes, 25 secondsis absolutely massive. In the final game, it's shrunk down to a much more reasonable size before the player actually starts
+[01:31] :321 hour, 31 minutes, 32 secondsmoving. It's time for our first miniame, Bob Sled Run, which features not one but
+[01:31] :391 hour, 31 minutes, 39 secondstwo timers. Each one featuring a different font in color compared to the final game. There is also no record time
+[01:31] :461 hour, 31 minutes, 46 secondsshown on screen. Maybe because it hadn't been implemented, or maybe they wanted it to be a surprise at the end if you actually got a record. Now, this next
+[01:31] :541 hour, 31 minutes, 54 secondsmini game, Bum Skip Bowl, has a really interesting change. See, in the final version, once you get a basket, an explosion particle effect covers the
+[01:32] :031 hour, 32 minutes, 3 secondsscreen. And while it's covered, the wall is replaced to a version that has a giant hole in it. But in the early VHS tape, it's much more complex with the
+[01:32] :121 hour, 32 minutes, 12 secondswall actually exploding in front of you into tiny triangular shards instead of just popping in. Well, that's all the
+[01:32] :201 hour, 32 minutes, 20 secondsVHS had to offer for Mario board, but there's one more place to get an early look at the game, and it's on an
+[01:32] :281 hour, 32 minutes, 28 secondsextremely difficult to find CDROM for Windows 95, 98, and NT called Nintendo Dictionary and Encyclopedia Special presents CDROM set.
+[01:32] :401 hour, 32 minutes, 40 secondsCD what? Which was released by Soft Business Research Institute as an encyclopedia on all things Nintendo at
+[01:32] :471 hour, 32 minutes, 47 secondsthe time. Now, I uh I don't have a copy myself, so I'm uh just uh There we go.
+[01:32] :541 hour, 32 minutes, 54 secondsYeah. Nintendo Dictionary and Encyclopedia Special Presents CD ROM set. As you can guess from the title, it was a set of discs, two to be exact.
+[01:33] :041 hour, 33 minutes, 4 secondsThere are six chapters included in the set featuring Nintendo's history, policies, unreleased interviews, as well as screenshots, videos, animations, the
+[01:33] :131 hour, 33 minutes, 13 secondsworks. Now, as for the date the set came out in, it's a bit complicated. The back of the Jewel case says copyright 1997,
+[01:33] :211 hour, 33 minutes, 21 secondsbut according to the disc primary volume descriptor, the set was actually created in 1998. That places these discs released
+[01:33] :291 hour, 33 minutes, 29 secondsat around the same time as the VHS that we looked at before. So, if that VHS had so much early footage, what early
+[01:33] :361 hour, 33 minutes, 36 secondsfootage do we have of Mario Party on this disc? Drum roll, please.
+[01:33] :421 hour, 33 minutes, 42 secondsAbsolutely nothing. All we've got is one single screenshot. Yeah, that's right. I
+[01:33] :491 hour, 33 minutes, 49 secondsbrought up this whole thing, talked about the history of this CD set, burned my own copy, recorded tons of B-roll
+[01:33] :571 hour, 33 minutes, 57 secondsjust for one single screenshot. And guess what else? There's only one change. The sign on Slot Cart Derby's miniame says Nintendo in the final game.
+[01:34] :071 hour, 34 minutes, 7 secondsBut in the screenshot, it's a placeholder Marioro sign from Mario Kart 64. That's it. Moving on. You know,
+[01:34] :151 hour, 34 minutes, 15 secondswe've talked so much about changes in mini games throughout development, but why don't we take a moment to talk about mini games that were never playable in
+[01:34] :241 hour, 34 minutes, 24 secondsthe final game, but instead are just sitting there unused. Yeah, that's right. Let's check out some completely scrapped mini games in Mario Part.
+[01:34] :351 hour, 34 minutes, 35 secondsFirst, we've got Bungee Jump, which is believed to be one of the earliest mini games that ended up being scrapped. And we think that for a couple reasons. Uh,
+[01:34] :431 hour, 34 minutes, 43 secondsone of which it doesn't work, like at all. The game will refuse to even reach the explanation screen. So, there's also nothing for me to really show you except
+[01:34] :521 hour, 34 minutes, 52 secondsfor this unused line of text for the controls and these lines in Japanese for Toad's advice. That's one reason to believe it was an early scrap miniame,
+[01:35] :001 hour, 35 minutesbut another would be the fact that there are five lines of text in Toad's Advice.
+[01:35] :051 hour, 35 minutes, 5 secondsBut in the final game, there's only enough room for four lines, which means it was designed in a way that does not fit with the final explanation screen.
+[01:35] :141 hour, 35 minutes, 14 secondsAnd speaking of those lines, here's my translation for it. As I said though, there's no miniame to show here, so let's move on to at least one that has
+[01:35] :201 hour, 35 minutes, 20 secondsan explanation screen to view. Now, unfortunately, it does have a giant line of text covering the screen stating that this miniame is under development. And
+[01:35] :291 hour, 35 minutes, 29 secondsboy is it. I don't know what's up with their printer, but apparently the preview image has been printing for over 25 years. So, we're not even going to be able to see a screenshot of this mini
+[01:35] :381 hour, 35 minutes, 38 secondsgame, especially since pressing start just takes us to Bumper Ball Maze 1, which in case you're curious, is not what this miniame was originally
+[01:35] :451 hour, 35 minutes, 45 secondssupposed to be. No, originally it was supposed to launch a miniame called Poor Day Mario, which was a scrapped cycling miniame where you just mash the A button
+[01:35] :541 hour, 35 minutes, 54 secondsto win. One of my favorite types of mini games. But our next game, we can actually see no more text obscuring
+[01:36] :021 hour, 36 minutes, 2 secondsanything. Fully printed here is all or nothing. It looks very similar to Chance
+[01:36] :091 hour, 36 minutes, 9 secondsTime, but is way less complex. It's a simple game of luck. Quite literally all or nothing. As Toad puts it, it's just
+[01:36] :171 hour, 36 minutes, 17 secondsluck. Whether you get the Mario mark or the Bowser mark, so trust to luck, you just hit the block. But of course, there is no miniame to actually play. It does
+[01:36] :261 hour, 36 minutes, 26 secondsnot exist. Pressing start just sends you to the final version of Chance Time instead. All right, that's enough imagining what these mini games could look like. My brain is done thinking.
+[01:36] :371 hour, 36 minutes, 37 secondsI'm ready to actually play one. What amazing, spectacular experience are we going to have? It's the Mario universe.
+[01:36] :441 hour, 36 minutes, 44 secondsAnything is possible. All right. Here we go. Mario's walking into prison. That's a good start. This is going to be
+[01:36] :531 hour, 36 minutes, 53 secondsgood. Ah. Okay. Okay. Match the colored tiles. Very nice. I think my mom has this game on her iPad. This is called
+[01:37] :011 hour, 37 minutes, 1 secondsame game. And even though there's no explanation screen, it's pretty obvious what you have to do here. Ground pound on the blocks that have the same color to remove them. And if you remove all
+[01:37] :101 hour, 37 minutes, 10 secondsthe blocks, you get the treasure chest, which is loaded with coins. But if you can't clear all of them, you'll just have to settle with one of the doors
+[01:37] :171 hour, 37 minutes, 17 secondsthat only has one single coin. This game is completely functional, but the same can't be said for our last unused
+[01:37] :241 hour, 37 minutes, 24 secondsminiame, which is playable, but is a little rough around the edges. It's called Yoshi's Tongue meeting, and I can promise you that whatever popped in your
+[01:37] :321 hour, 37 minutes, 32 secondshead is not what this miniame is actually about. It starts with your character riding a Yoshi, or if you're playing as Yoshi, you're just you. Each
+[01:37] :391 hour, 37 minutes, 39 secondsYoshi has a baby wiggler on its tongue, and it's your job to press the A button at just the right moment to allow the baby to reach his mother across the
+[01:37] :471 hour, 37 minutes, 47 secondsriver. And you'd better press that button correctly, cuz if you're too early, they won't reach each other, and both will burst into tears. But if
+[01:37] :561 hour, 37 minutes, 56 secondsyou're too late, you will slam the baby directly into their mother's skull, and they will fly offcreen, causing the baby
+[01:38] :031 hour, 38 minutes, 3 secondsto burst into tears. And it's even got some debug text here to really drive the point home that you made a big mistake.
+[01:38] :101 hour, 38 minutes, 10 secondsAnd uh I just want to say also the audio here is spectacular. Now those text descriptors
+[01:38] :201 hour, 38 minutes, 20 secondsaren't the only form of unused text in Mario Party. There is some in the game that show off some pretty cool stuff.
+[01:38] :271 hour, 38 minutes, 27 secondsEarly scrapped functionality. For instance, did you know that there was originally a limit to the amount of stars you could collect in a single
+[01:38] :361 hour, 38 minutes, 36 secondsgame? Now, this could have technically been a different mode and not the way the main game was meant to be played, but either way, there was a planned
+[01:38] :431 hour, 38 minutes, 43 secondsoption to allow you to limit how many stars appeared on a map in total based on these two lines of text. Presumably, once you collected that last star, the
+[01:38] :521 hour, 38 minutes, 52 secondsgame was over. So maybe there was like an option to have an unlimited number of turns and a limited number of stars, but that's just speculation. What's not
+[01:39] :001 hour, 39 minutesspeculation is that chance time would have originally had the ability to swap two players locations, which is something that's not possible in the
+[01:39] :081 hour, 39 minutes, 8 secondsfinal game since chance time could only affect coins and stars there. But I would say the most interesting scrapped
+[01:39] :141 hour, 39 minutes, 14 secondsgame functionality is the noame situation that can only be activated with a game shark code. You know how
+[01:39] :221 hour, 39 minutes, 22 secondsnormally at the end of a turn, depending on what color space the players landed on, a specific type of miniame is played. Like if three players landed on a blue space and one landed on a red
+[01:39] :301 hour, 39 minutes, 30 secondsspace, it's a 1v3 miniame. Well, with the noame situation forced on, no matter what space you land on, every player's
+[01:39] :381 hour, 39 minutes, 38 secondsstat card turns yellow, which isn't normal since there aren't any yellow spaces in the game. I mean, you could technically count the star space, but
+[01:39] :461 hour, 39 minutes, 46 secondsyou don't really ever land on that. You kind of just walk past it. But anyway, when the turn ends, the text no game appears on screen and pressing A causes
+[01:39] :551 hour, 39 minutes, 55 secondsthe next turn to immediately start with no miniame played. And if you just so happen to be on the last turn of the game, an unused graphic appears that
+[01:40] :031 hour, 40 minutes, 3 secondssays game over and pressing A ends the game. And with that, it's game over for us as
+[01:40] :111 hour, 40 minutes, 11 secondswell. You know what? Actually, I want to show you one more thing. See, I've always loved test rooms in video games.
+[01:40] :181 hour, 40 minutes, 18 secondsThey've been like a fascination of mine.
+[01:40] :211 hour, 40 minutes, 21 secondsIt's got a strange you're not supposed to be here atmosphere to them. And that's definitely the case in Mario
+[01:40] :281 hour, 40 minutes, 28 secondsParty. Let's check out a room called at motion check. First, to get here, you need to use a game shark code to access
+[01:40] :361 hour, 40 minutes, 36 secondsthe debug menu and head on down to option 81. But you know what? Let's do a little sidetrack here. Look at that background. Notice how Donkey Kong's
+[01:40] :441 hour, 40 minutes, 44 secondsportrait has a giant question mark on it, which is not used in the game. Could it be that his model wasn't finished at this point in development? You know,
+[01:40] :521 hour, 40 minutes, 52 secondswhen the background was made since they didn't have a render yet? We don't know.
+[01:40] :561 hour, 40 minutes, 56 secondsSo, moving on. Let's head on down to the test room. Oh, we got to pick a a player. So, let's pick Mario. So, motion check spawns you with three other random
+[01:41] :051 hour, 41 minutes, 5 secondsNPCs in a grassy area with a giant flower from coin shower flower. And there's also this bright white object
+[01:41] :121 hour, 41 minutes, 12 secondsorbiting the flower that will hurt you if you touch it, so be careful. You can also hurt the two NPCs on top by attacking them, jumping on them.
+[01:41] :201 hour, 41 minutes, 20 secondsBasically, they just act like normal.
+[01:41] :221 hour, 41 minutes, 22 secondsBut the one on the bottom, you cannot interact with at all. It will just stay there, motionless, unable to move. And
+[01:41] :291 hour, 41 minutes, 29 secondsthat same thing goes for the camera. It is not able to move from this position.
+[01:41] :331 hour, 41 minutes, 33 secondsSo, in order to show you more of the area, I did a little cheating to force the camera to move. Now you're able to see that the triangle in the background
+[01:41] :411 hour, 41 minutes, 41 secondssays slope on it. And as you can guess, it was for testing slopes. If we jump up the stairs to the left of it, we can slide down for maximum fun. And if
+[01:41] :491 hour, 41 minutes, 49 secondsyou're curious what that gradient blue block on the top is, it's too tall to jump on, so it's practically just there to be in the way. And fun fact, you can
+[01:41] :571 hour, 41 minutes, 57 secondswalk up the slope very, very slowly. To the right of the slope, you've got this tall tower that despite its look, you
+[01:42] :051 hour, 42 minutes, 5 secondscan actually walk up it. And once you reach the top, you'll fall right through since there's no collision. Luckily, the back of it also does not have collision
+[01:42] :121 hour, 42 minutes, 12 secondson the inside, so you can walk right out. And if you're curious, no, there's nothing behind the tower, but we do get a good look at these blocks, which are
+[01:42] :201 hour, 42 minutes, 20 secondsright in front of the flower. There are several of them. So, let's start with the two that say 2.5 on them, which are
+[01:42] :271 hour, 42 minutes, 27 secondssimply there to be jumped on. Other than the big difference being the size of the blocks, they are slightly different in another way. If you punch the smaller
+[01:42] :341 hour, 42 minutes, 34 secondsone, you get a nice little particle effect and gets slightly pushed back, but the big one does absolutely nothing.
+[01:42] :411 hour, 42 minutes, 41 secondsTo the left of those blocks is a 1.5 block that moves up and down all on its own. And if you decide that you want to stand in its way, it will not crush you.
+[01:42] :511 hour, 42 minutes, 51 secondsDon't worry, you will simply pop up on top. And last, but certainly not least, we have the small 0.5 block that can be
+[01:42] :591 hour, 42 minutes, 59 secondspicked up and tossed around. And get this, folks. If you aim your jump just right, you could even get a slight
+[01:43] :061 hour, 43 minutes, 6 secondsbounce from it. Interesting stuff. So, that's Mario Party, a party
+[01:43] :131 hour, 43 minutes, 13 secondsgame that from the very beginning was designed to be unfair. I kind of like that. Sure, I've had people I've played
+[01:43] :211 hour, 43 minutes, 21 secondswith get so mad they throw the controller across the room and don't talk to anyone again for the rest of the night, but that doesn't take away the
+[01:43] :301 hour, 43 minutes, 30 secondsfact that I won. Even though it was because of bonus stars, I
+[01:43] :371 hour, 43 minutes, 37 secondswon. And they can't take that away from me. We are the superstars.
+[01:43] :451 hour, 43 minutes, 45 seconds[Music]
+[01:43] :591 hour, 43 minutes, 59 secondsIf I have one employee consistently moving things between racks and then I have employees set on triggers to pick
+[01:44] :071 hour, 44 minutes, 7 secondsthose things up in racks, I can have more than one item in a rack.
+[01:44] :131 hour, 44 minutes, 13 secondsIt's a lot of racking. I need to hire more employees.
+[01:44] :231 hour, 44 minutes, 23 secondsWhatever, bro. I'm just going to go to bed now. Being a certified What is going on?
+[01:44] :291 hour, 44 minutes, 29 secondsI don't want to watch another one of these.
+[01:44] :361 hour, 44 minutes, 36 secondsAny other nerdy [ __ ] We can watch Vine Sauce. Wait, wait, wait, wait, wait. I just realized
+[01:44] :431 hour, 44 minutes, 43 secondsI could be a streamer that watches Vine Sauce while I stream.
+[01:44] :481 hour, 44 minutes, 48 secondsThis is a new level of [ __ ] slop. I love it. Folder too with some really cool games. But uh this is made over a
+[01:44] :561 hour, 44 minutes, 56 secondsmonth by a chat member named Sam and it is a very very We're watching we're watching Vine Sauce as Slobs, but I
+[01:45] :061 hour, 45 minutes, 6 secondsthink you'll find some of these interesting and uh Oh, this is amazing.
+[01:45] :121 hour, 45 minutes, 12 secondsYeah, let's do it. Let's start with Mario. Let's do it.
+[01:45] :171 hour, 45 minutes, 17 secondson the Game Boy Advance. This is real. Okay, now I have a bunch of notes
+[01:45] :261 hour, 45 minutes, 26 secondsfor this one. So, some of these will not have um Ah, [ __ ] It opened on my other
+[01:45] :321 hour, 45 minutes, 32 secondsscreen. Here we go. Okay, here we go. Here we go,
+[01:45] :381 hour, 45 minutes, 38 secondschat. MGBA. This is real. It's It's not running in some other program.
+[01:45] :461 hour, 45 minutes, 46 secondsWhat the hell? Now, I wonder
+[01:46] :001 hour, 46 minutesum Okay, now I'm going to try to do this. I need to probably change a control or two. So, if you give me just a second here.
+[01:46] :211 hour, 46 minutes, 21 secondsAll right, there he is. He's playing Mario. Yahoo.
+[01:46] :311 hour, 46 minutes, 31 secondsOh man, that is
+[01:46] :341 hour, 46 minutes, 34 seconds[Music]
+[01:46] :361 hour, 46 minutes, 36 secondscrunchy. I'll read you a little bit about this game after I explore for a bit. But um here chat, would this be
+[01:46] :431 hour, 46 minutes, 43 secondseasier to look at? How is it now? Yeah, it's easier for them to see. Absolutely. Good job,
+[01:46] :511 hour, 46 minutes, 51 secondsVinnie. GBA screen. It maybe wouldn't be that as bad. Yeah, it probably be pretty bad.
+[01:47] :001 hour, 47 minutes[Music]
+[01:47] :111 hour, 47 minutes, 11 secondsUm, nope. Bomb's here.
+[01:47] :171 hour, 47 minutes, 17 secondsYou guys can see that very easily, right? Okay. Okay. Okay.
+[01:47] :231 hour, 47 minutes, 23 secondsGoomba. It's so small that you guys can't see it. I love it. That's a Mario 64 right there. I mean, it's playable.
+[01:47] :321 hour, 47 minutes, 32 secondsYeah, that is playable, Vinnie. They can totally see it. It's a Mario would have been Come out here. Buy my weed. You can
+[01:47] :411 hour, 47 minutes, 41 secondsstill do some of the moves. Um, no chain chomp. Hey, you come buy my weed.
+[01:47] :511 hour, 47 minutes, 51 secondsThe frame rates are really, really good, but I'm assuming in order to stay good, there has to be a lot of cut content.
+[01:48] :001 hour, 48 minutesHey, you buy my weed. And yeah, it plays weirdly. All right, I got enough money.
+[01:48] :061 hour, 48 minutes, 6 secondsI would say um you know, you're using the D-pad here, but it it works pretty well.
+[01:48] :141 hour, 48 minutes, 14 secondsSomeone wanted to knowice better than Mario 64 DS.
+[01:48] :181 hour, 48 minutes, 18 secondsAnd um um need 10 of these about that, but no, the controls are these things suck. I don't know why I bought them.
+[01:48] :261 hour, 48 minutes, 26 secondsThey were a big waste of space. I might end up deleting that. But I need like I need [ __ ] Give me like five of those.
+[01:48] :351 hour, 48 minutes, 35 secondsStart moving everything to big stations.
+[01:48] :371 hour, 48 minutes, 37 secondsSee if there's King Pabomb up here. If there's anything to do other than just run around. I don't know what this pre-owned toilet is, but I bought I bought
+[01:48] :441 hour, 48 minutes, 44 seconds[Music]
+[01:48] :511 hour, 48 minutes, 51 secondsit. Now, some of you may ask why. Oh, there's the Mario. And again, you can just fan projects.
+[01:48] :591 hour, 48 minutes, 59 secondsYeah, Mario. Oh, there's a star. Hey, I can easily deposit whatever this is. So, I will. I don't know why. I think just
+[01:49] :081 hour, 49 minutes, 8 secondsjust for the love of the game, just for fun. Oh, do I need to give them money? The graphics in the pause menu.
+[01:49] :201 hour, 49 minutes, 20 secondsYou can just turn textures off. That's interesting. Dual texturing. Ah, resolution. There you go. 160,
+[01:49] :321 hour, 49 minutes, 32 seconds[Music]
+[01:49] :421 hour, 49 minutes, 42 secondshuh? I mean, okay, you could play like this. Are the sound effects delayed?
+[01:49] :501 hour, 49 minutes, 50 secondsYes.
+[01:49] :591 hour, 49 minutes, 59 secondsMario's model is like incredible. Um, let me see. If you turn textures off, you get
+[01:50] :071 hour, 50 minutes, 7 secondsmore frames. Dual texturing also helps, but you know, it gets rid of some frames.
+[01:50] :141 hour, 50 minutes, 14 secondsSo, let's try um let's see what this is like. This This is not too bad.
+[01:50] :221 hour, 50 minutes, 22 secondsLike 20 FPS is not un can't really tell.
+[01:50] :261 hour, 50 minutes, 26 secondsThat's a great Mario. It's a Mario. I don't have any weed. Oh, but I needed stuff from here. Yeah.
+[01:50] :341 hour, 50 minutes, 34 secondsHey, do you have any more horse? Would have been Mario if they kept I need horse semen.
+[01:50] :391 hour, 50 minutes, 39 secondsGive me horse seaman and aderall and some mega bean and some
+[01:50] :471 hour, 50 minutes, 47 secondschili pepper. kind of not worth it for the amount of frames that you save. In fact, very much not worth it.
+[01:50] :571 hour, 50 minutes, 57 seconds[Music]
+[01:51] :051 hour, 51 minutes, 5 secondsOh boy, that is that is rough to look at. I learned that you guys don't need beds.
+[01:51] :161 hour, 51 minutes, 16 secondsSo, um, in in in lie of beds, um, we're going to have more storage. K
+[01:51] :231 hour, 51 minutes, 23 secondsfor shaders. And, uh, there's going to be storage in here you guys can use in between these beds. And, uh, yeah, me see you guys out of anything.
+[01:51] :331 hour, 51 minutes, 33 secondsWell, you could use some mega beam of those. Um, and then, uh, in here, we're going to eventually I I think I'm just
+[01:51] :411 hour, 51 minutes, 41 secondsgoing to have this a conveyor belt of stuff moving between them. And then people who need things will trigger
+[01:51] :481 hour, 51 minutes, 48 secondsbetween them and that will be their feeder. And that way I don't need these here. And it's just like a a layer. And one employee just moves like a buffer.
+[01:51] :581 hour, 51 minutes, 58 secondsHe's like, fish and he just moves things. I don't know. I That's the idea. I think I think I'm going a bit too factorial with this.
+[01:52] :081 hour, 52 minutes, 8 secondsYou're not getting any. But it makes my Yes. Uh saves here. No, I I just need get um
+[01:52] :161 hour, 52 minutes, 16 secondsum trash grabber. Yeah, this this is like I mean it's a miracle that this works,
+[01:52] :281 hour, 52 minutes, 28 secondsbut you can kind of cycle through level.
+[01:52] :301 hour, 52 minutes, 30 secondsDude, Vinnie is [ __ ] killing it right now. He's playing the Mario. This is great. You know, I I never really
+[01:52] :391 hour, 52 minutes, 39 secondsthought that the the the statement turn the shader off. The statement that that the content could get much worse for you
+[01:52] :461 hour, 52 minutes, 46 secondsguys was so freeing to me that I realized that I could be enjoying myself
+[01:52] :531 hour, 52 minutes, 53 secondsso much more. Shirt on. What I mean for some people they'd say you still keep your shirt on. I still keep my shirt on.
+[01:53] :001 hour, 53 minutesYeah. But I what I'm saying is I could be enjoying myself more and my viewers could be enjoying themsel even
+[01:53] :091 hour, 53 minutes, 9 secondsless. So I'm literally watching Vine Sauce while I'm streaming. And you know what? That's pretty good.
+[01:53] :211 hour, 53 minutes, 21 seconds[Laughter]
+[01:53] :251 hour, 53 minutes, 25 secondsI I I think this amount of mental [ __ ] derision and slop where there's
+[01:53] :321 hour, 53 minutes, 32 secondsjust fine sauce in the corner and you see 50 billion camera angles of
+[01:53] :371 hour, 53 minutes, 37 seconds[Music]
+[01:53] :391 hour, 53 minutes, 39 secondsme. You guys say AI is terrible content.
+[01:53] :431 hour, 53 minutes, 43 secondsI believe my content can be worse than AI generated slop. I'm trying to go lower. You guys keep inventing content
+[01:53] :521 hour, 53 minutes, 52 secondseven worse. I I can't just be a man in front of a camera going poop poop for
+[241:53] :591 hour, 53 minutes, 59 secondshours. That's too entertaining. I have to be terrible.
+[01:54] :041 hour, 54 minutes, 4 secondsLike I can't I can't be good enough. It is hard to be the bottom of
+[01:54] :121 hour, 54 minutes, 12 secondsthe barrel. Okay, guys. it. I I I always I'm that guy. But when I if I press I I
+[01:54] :221 hour, 54 minutes, 22 secondsdon't think I I can I not minimize the game? I can't. Having no viewers is incredibly
+[01:54] :351 hour, 54 minutes, 35 secondsdifficult. Look, if the world record is my entire life I didn't have an audience, but I had hours of content
+[01:54] :421 hour, 54 minutes, 42 secondsproving it. I actually proved that if if if you chop a tree down in the forest and no one's around to hear it, does it
+[01:54] :501 hour, 54 minutes, 50 secondsreally make a sound? I don't know. What if the tree screaming, "Hey, look at me." The entire time it
+[01:54] :571 hour, 54 minutes, 57 secondsfalls like holy [ __ ] I don't I don't mean sub subterraneanly or or anything like we're
+[01:55] :061 hour, 55 minutes, 6 secondswe're like the the tree is chopped down actively, you know?
+[01:55] :151 hour, 55 minutes, 15 secondsYou're just like, "Uh-huh. Uh-huh." I shake my head. Yep. I nod. Uhhuh. And agree. I nod my head and agree. Uhhuh.
+[01:55] :211 hour, 55 minutes, 21 secondsYep. Ah. I hope that fart got caught on any of these microphones. That
+[01:55] :281 hour, 55 minutes, 28 secondsI'm I I'm I'm this close to investing on just just getting this microphone and having it attached having
+[01:55] :361 hour, 55 minutes, 36 secondsit attached to the chair. You guys can't hear this one. It's not on. Well, it is on, but it's not on for you. Um, also the one on my headset's not on, but I
+[01:55] :441 hour, 55 minutes, 44 secondshave it there. So, you guys think it's the one I'm using. I could turn it on anytime. I think it's uh Yeah, that's this one. Yeah. Oh,
+[01:55] :531 hour, 55 minutes, 53 secondsyeah. Yeah. All right. It's time to stream. And then and then uh then over here. Yeah, this one. And that's that's
+[01:56] :011 hour, 56 minutes, 1 secondwhen I start using this. Wait, wait, wait, wait, wait, wait.
+[01:56] :081 hour, 56 minutes, 8 secondsAll right, guys. We did it.
+[01:56] :121 hour, 56 minutes, 12 secondsWe did it. We finally We've achieved You really need to go. Ah, you gotta find that.
+[01:56] :201 hour, 56 minutes, 20 secondsI hope we did it.
+[01:56] :231 hour, 56 minutes, 23 secondsI hope I hope we've achieved it. I hope I hope I was gassy enough on command with enough delay to finally.
+[01:56] :311 hour, 56 minutes, 31 secondsAnd that microphone is so perfectly shaped. I keep in mind I'm not going to I'm not going to put this near my eyeball.
+[01:56] :391 hour, 56 minutes, 39 secondsHey, don't be putting that microphone near your eyes, okay? Don't wipe it with your eyes with your
+[01:56] :441 hour, 56 minutes, 44 seconds[Laughter]
+[01:56] :481 hour, 56 minutes, 48 secondsmic. Oh my god, it's It smells like fart. Did you get it? How good is it?
+[01:56] :541 hour, 56 minutes, 54 secondsHow good is it? You'll see. Hold on. Let me see. Oh, you got to send me a clip. I got to actually open up Discord for this. Hold on, guys. It's loading. It's
+[01:57] :021 hour, 57 minutes, 2 secondsloading. I don't know what to tell you, but the content the content you think that the content standards were low and they got worse. I'm telling you that the
+[01:57] :101 hour, 57 minutes, 10 secondscontent is getting better than it ever has before.
+[01:57] :161 hour, 57 minutes, 16 secondsOh no, it's I got Who's this?
+[01:57] :271 hour, 57 minutes, 27 secondsNo, wait.
+[01:57] :331 hour, 57 minutes, 33 secondsGuys, guys, I that I'm too gassy. Like, some of these they smell they smell terrible.
+[01:57] :451 hour, 57 minutes, 45 secondsThey This is awful. This is awful. I can't I can't keep experiencing this. All right. Uh, what what I got to I got to I got some
+[01:57] :541 hour, 57 minutes, 54 secondsNo, I'm not I'm I'm not entit Sub stay a while.
+[01:58] :201 hour, 58 minutes, 20 secondsAll right.
+[01:58] :211 hour, 58 minutes, 21 secondsUm, were you sending me a DM on Yes. I'm sorry. Okay, I also got your second fart loading.
+[01:58] :271 hour, 58 minutes, 27 secondsDiscord, I'm confused.
+[01:58] :311 hour, 58 minutes, 31 secondsThe first fart was awful. The second fart was awful. I don't think the second fart is worth worth listening to.
+[01:58] :381 hour, 58 minutes, 38 secondsJust the first fart I'm It's all a fart.
+[01:58] :411 hour, 58 minutes, 41 secondsI haven't Jay Carr says, "I haven't know this game for a while." And I'm like, "Uh-huh. It's a fart." Oh my gosh. Just calm down, everyone. Just calm down.
+[01:58] :491 hour, 58 minutes, 49 secondsCalm down. What? Don't get a big dick. Calm down. Calm down. Go get a big dick.
+[01:58] :561 hour, 58 minutes, 56 seconds[ __ ] yourself. Oh, we did get it. Oh, it's it's it's it's like not even a Twitch clip. All right, let me see this.
+[01:59] :071 hour, 59 minutes, 7 seconds[Laughter]
+[01:59] :101 hour, 59 minutes, 10 secondsI think that's that's perfect. There's nothing.
+[01:59] :161 hour, 59 minutes, 16 secondsY
+[01:59] :181 hour, 59 minutes, 18 seconds[Laughter]
+[01:59] :201 hour, 59 minutes, 20 secondsthe first one's way better than the second one.
+[01:59] :231 hour, 59 minutes, 23 secondsThey should both be on your Twitch right now as a clip made by me.
+[01:59] :291 hour, 59 minutes, 29 secondsAll right, guys. All right, guys. Just Just All right, guys.
+[01:59] :431 hour, 59 minutes, 43 secondsOne more time. Yeah, that's that's my fart. Hey, we live.
+[01:59] :511 hour, 59 minutes, 51 secondsI need a charger for this. Need a charger for what? Oh. Um, is there one I can hook up to my computer? Right
+[01:59] :591 hour, 59 minutes, 59 secondsthere. Right there next to you. Like I need a charger. Like the one
+[02:00] :052 hours, 5 secondsright next to you. Um. Oh, the I'm stuck button isn't really a
+[02:00] :122 hours, 12 secondsreflection of the g of of of me. It's a reflection of the game. But I do feel stuck.
+[02:00] :182 hours, 18 secondsI feel stuck. I feel gassy. Um uh unload shader. Here we go.
+[02:00] :292 hours, 29 secondsOkay. Going back to textures.
+[02:00] :432 hours, 43 secondsUm what if Okay, we do this resolution but dual textures.
+[02:00] :482 hours, 48 secondsYou lose some frames, but textures do get a little bit better. I mean, it's kind of it's cool that there's a number of options
+[02:00] :552 hours, 55 secondsavailable. Soon, Mario 64 will be the the Doom. Can Mario 64 run on a pregnancy test?
+[02:01] :022 hours, 1 minute, 2 secondsThat's the question.
+[02:01] :082 hours, 1 minute, 8 seconds[Music]
+[02:01] :102 hours, 1 minute, 10 secondsOh, you can do a long jump. I wonder if you can do a
+[02:01] :132 hours, 1 minute, 13 seconds[Music]
+[02:01] :152 hours, 1 minute, 15 secondsBLJ. Yahoo! Yahoo!
+[02:01] :222 hours, 1 minute, 22 secondsLet's Let us see him.
+[02:01] :262 hours, 1 minute, 26 secondsIs this built from scratch? I I really don't have any other answers, but
+[02:01] :362 hours, 1 minute, 36 secondsOkay, this ROM is not publicly available. I reached out to the creator, this port directly, and he sent it to me on the condition I do not let it get out on the internet.
+[02:01] :462 hours, 1 minute, 46 secondsSo I will not be posting this. Sorry
+[02:01] :532 hours, 1 minute, 53 seconds[Music]
+[02:01] :592 hours, 1 minute, 59 secondschat. I mean I kind of get it. What's the point? I guess to make it into a video
+[02:02] :062 hours, 2 minutes, 6 secondsfor the creator's channel and to test their programming abilities and for fun.
+[02:02] :112 hours, 2 minutes, 11 secondsI don't know. What's the point of anything? Holy [ __ ] Oh, Mario's drowned.
+[02:02] :192 hours, 2 minutes, 19 secondsBut yeah, I mean portfolio as well. I mean, there's probably some real value here to some
+[02:02] :262 hours, 2 minutes, 26 secondscompanies that are looking to do like like look chat, say you want to port The Witcher 3 to the Switch 2, you know, it would look like this. So, you would need someone who's really good at porting.
+[02:02] :422 hours, 2 minutes, 42 secondsNo, I mean that's honestly the not really a joke you can do anymore. After seeing Cyberpunk running on the Switch 2, I don't really think there's much of
+[02:02] :512 hours, 2 minutes, 51 secondsa as much of a technology gap as we would like to joke that there is.
+[02:03] :012 hours, 3 minutes, 1 secondYahoo. But yeah, I mean, make no mistake, this is the worst way to play Mario 64. But it's it's
+[02:03] :102 hours, 3 minutes, 10 secondssurprisingly like kind of
+[02:03] :142 hours, 3 minutes, 14 seconds[Music]
+[02:03] :202 hours, 3 minutes, 20 secondsgood. Like I said, small screen. It is playable on GBA and there's proof of that. So, yahoo. And I am running this
+[02:03] :302 hours, 3 minutes, 30 secondsin MGBA. I don't think some of these levels are actually in the game.
+[02:03] :382 hours, 3 minutes, 38 secondsNo, there's a lot of levels that are just not in the
+[02:03] :432 hours, 3 minutes, 43 seconds[Music]
+[02:03] :442 hours, 3 minutes, 44 secondsgame and there's some that don't seem like they're working. So, I mean, yeah, this is just
+[02:03] :512 hours, 3 minutes, 51 secondsit's a really neat tech
+[02:03] :542 hours, 3 minutes, 54 seconds[Music]
+[02:03] :562 hours, 3 minutes, 56 secondsdemo. View distance is better on 100%. Okay.
+[02:04] :042 hours, 4 minutes, 4 seconds[Music]
+[02:04] :092 hours, 4 minutes, 9 secondsYahoo!
+[02:04] :142 hours, 4 minutes, 14 secondsYahoo! Wow, it looks amazing. That looks like Mario 64, dude.
+[02:04] :212 hours, 4 minutes, 21 secondsWow. Oh,
+[02:04] :242 hours, 4 minutes, 24 seconds[Music]
+[02:04] :272 hours, 4 minutes, 27 secondsboy. As someone that did a segment on um
+[02:04] :352 hours, 4 minutes, 35 secondsThat's rough. 6 FPS on um on 3D GBA games. I promise you, they're not as well optimized as
+[02:04] :422 hours, 4 minutes, 42 seconds[Music]
+[02:04] :472 hours, 4 minutes, 47 secondsthis. Most of the 3D games on the GBA are actually like garbage. So, the fact that this runs as well as it does is is kind of like blowing my mind right now.
+[02:04] :582 hours, 4 minutes, 58 secondsThere are a lot of like first-person shooters on the GBA that just again are not even from what I could tell or what
+[02:05] :052 hours, 5 minutes, 5 secondsI can see in my uneducated opinion um not as complex as this and run
+[02:05] :132 hours, 5 minutes, 13 seconds[Music]
+[02:05] :162 hours, 5 minutes, 16 secondsworse. But yeah. All right. I mean, not much else to see, but that was a really amazing start to the segment. I'm like
+[02:05] :242 hours, 5 minutes, 24 secondskind of like I said just really grateful.
+[02:05] :282 hours, 5 minutes, 28 secondsThank you Sam for um sending that my way and for getting
+[02:05] :352 hours, 5 minutes, 35 secondspermission from the dev. It says here
+[02:05] :422 hours, 5 minutes, 42 secondsuh doors are kind of buggy. Yeah, star doors aren't locked. All right, cool. Um let's see what other stuff we have here.
+[02:05] :522 hours, 5 minutes, 52 secondsCastlevania Symphony of the Night on the Sega Genesis.
+[02:05] :572 hours, 5 minutes, 57 secondsWhat? What? Symphony of the Night on the Sega
+[02:06] :012 hours, 6 minutes, 1 second[Applause]
+[02:06] :022 hours, 6 minutes, 2 secondsGenesis? As a person who just argued about Castlevania thoroughly with someone else, I am I am flabbergasted.
+[02:06] :112 hours, 6 minutes, 11 secondsI don't know what I say.
+[02:06] :162 hours, 6 minutes, 16 seconds[Music]
+[02:06] :222 hours, 6 minutes, 22 secondsOne second,
+[02:06] :282 hours, 6 minutes, 28 seconds[Music]
+[02:06] :322 hours, 6 minutes, 32 secondschat. Okay, so this is a game I'm pretty familiar with. It's one of my favorite games ever. S.
+[02:06] :432 hours, 6 minutes, 43 secondsBro, you look like a Simpson.
+[02:06] :462 hours, 6 minutes, 46 secondsThey bought my [ __ ] Simpson
+[02:06] :482 hours, 6 minutes, 48 seconds[Music]
+[02:06] :502 hours, 6 minutes, 50 secondsweed. So yeah, I'll let you know how accurate it is. I think it's honestly probably just
+[02:06] :582 hours, 6 minutes, 58 secondsa completely different game. When you press start, it just takes you to different areas.
+[02:07] :072 hours, 7 minutes, 7 seconds[Music]
+[02:07] :102 hours, 7 minutes, 10 secondsWow, bro. I'm selling some [ __ ] up weed. Um, is it just weed, right? That's the stuff
+[02:07] :182 hours, 7 minutes, 18 secondsI've been selling, dude. I got some weird ass drug dealers.
+[02:07] :232 hours, 7 minutes, 23 secondsThe hell have you been selling people, Molly? This is in a port then. Really? My weed.
+[02:07] :282 hours, 7 minutes, 28 secondsWhat have you been selling them? When you press start, like I said, you go to you warp. So, there's no consistency here.
+[02:07] :392 hours, 7 minutes, 39 secondsBetter than the Gamecom version. At least there's that.
+[02:07] :502 hours, 7 minutes, 50 secondsThis was primarily made to test the visual prowess that Genesis could push out. They wanted to port texture, sprites, and animation as closely as
+[02:07] :572 hours, 7 minutes, 57 secondspossible despite the Genesis limitations. You know
+[02:08] :072 hours, 8 minutes, 7 secondswhat? The backgrounds look good even though there's less depth.
+[02:08] :122 hours, 8 minutes, 12 secondsThe sprite work on Alukard in particular looks very good. Like the animations are really good. Everything looks pretty
+[02:08] :202 hours, 8 minutes, 20 secondsgoddamn close. But, you know, I mean, the sound isn't
+[02:08] :282 hours, 8 minutes, 28 secondsgreat. That's the best part right there.
+[02:08] :352 hours, 8 minutes, 35 secondsUm, yeah, you won't really know if it's possible to get this for sure unless you start adding enemies and objectives and stuff,
+[02:08] :422 hours, 8 minutes, 42 seconds[Music]
+[02:08] :462 hours, 8 minutes, 46 secondsbut I got shoved. Oh god. Oh god. S can attack real fast.
+[02:09] :042 hours, 9 minutes, 4 secondsI'm impressed again, but yeah, there's just not enough here. It's not far enough along to really say if it could
+[02:09] :112 hours, 9 minutes, 11 secondsbe done, but I think pretty okay. Uh, any other animated sprite and the FPS would tank.
+[02:09] :192 hours, 9 minutes, 19 secondsI do believe
+[02:09] :212 hours, 9 minutes, 21 seconds[Music]
+[02:09] :262 hours, 9 minutes, 26 secondsthat there's something wrong about S's color palette. He's not bright enough. No offense to his intelligence.
+[02:09] :352 hours, 9 minutes, 35 secondsBut yeah, the GBA version obviously he's quite bright. Uh Tomb Raider. Let's check out Tomb Raider. So there's a folder here. Okay.
+[02:09] :482 hours, 9 minutes, 48 secondsOh god. Tomb Raider on the GBA. This is all open Lara. Open source Tomb Raider engine with varying levels of
+[02:09] :562 hours, 9 minutes, 56 secondsfunctionality. All right. Let's let's see. Let's do GBA version.
+[02:10] :022 hours, 10 minutes, 2 seconds[Music]
+[02:10] :292 hours, 10 minutes, 29 secondsOkay. All right.
+[02:10] :332 hours, 10 minutes, 33 secondsSomeone said, "Show them." What? Show the audience. What? What do you want the audience to see?
+[02:10] :462 hours, 10 minutes, 46 secondsTriangles. I used to think like, okay, show someone like a sphere, like even a beach ball, and someone's going to be
+[02:10] :542 hours, 10 minutes, 54 secondslike, "Oh, baby." But it turns out even triangles.
+[02:11] :002 hours, 11 minutesLaura Croft did this. We'll just get cones.
+[02:11] :132 hours, 11 minutes, 13 secondsYeah. Um, so here's the deal, chat. I actually do not like Tomb Raider. I am not a Tomb Raider fan.
+[02:11] :222 hours, 11 minutes, 22 secondsI had Tomb Raider 2 and I played through some levels and the controls just annoyed me so goddamn
+[02:11] :312 hours, 11 minutes, 31 secondsmuch. It was just a very unfun game even back in the day. Sorry.
+[02:11] :492 hours, 11 minutes, 49 secondsslide and jump from that slope. All
+[02:12] :002 hours, 12 minutesright. I'm sure there's been like Tomb Raiders that I probably would enjoy like more more recent ones, but yeah, I I
+[02:12] :092 hours, 12 minutes, 9 secondsthink um Oh god.
+[02:12] :132 hours, 12 minutes, 13 secondsthe uh the Tomb Raider appeal back in the day was was pretty, you know, there's a there's a
+[02:12] :202 hours, 12 minutes, 20 secondsreason for that. The new ones are torture porn.
+[02:12] :292 hours, 12 minutes, 29 secondsOh, I tried I really tried to like Tomb Raider 2 and I, you know, put I had it I bought it. So, it was one of those games that, you know, I put a lot of hours
+[02:12] :372 hours, 12 minutes, 37 secondsinto because I wanted it to be good and uh and yet just everything felt. Um, this is
+[02:12] :452 hours, 12 minutes, 45 secondsthis is bringing back some of those
+[02:12] :472 hours, 12 minutes, 47 seconds[Music]
+[02:12] :522 hours, 12 minutes, 52 secondsmemories. L plus A to put your guns away. You know, we'll just go to the next one. Panasonic 3Dio version of Tomb Raider.
+[02:13] :082 hours, 13 minutes, 8 secondsOpen Lara. Open Lara, baby.
+[02:13] :142 hours, 13 minutes, 14 secondsWelcome to my home. I'll take you on a guided tour. Use the D-pad to go into the music room.
+[02:13] :222 hours, 13 minutes, 22 secondsIs that the real Lara Coft?
+[02:13] :262 hours, 13 minutes, 26 secondsOkay, let's do some tumbling. Press the jump button. Now press it again and quickly press one of the directions and I'll jump that way.
+[02:13] :372 hours, 13 minutes, 37 secondsI mean, this is definitely more um let's say playable visible. Run up to a crate
+[02:13] :452 hours, 13 minutes, 45 secondsand while still pressing forward, press action and I'll vault up onto it.
+[02:13] :532 hours, 13 minutes, 53 secondsOh god. Oh yeah. Ah.
+[02:14] :082 hours, 14 minutes, 8 secondsWhy does Lara have two balloons in her pants? Those are adventuring balloons.
+[02:14] :142 hours, 14 minutes, 14 seconds[Music]
+[02:14] :212 hours, 14 minutes, 21 secondsThere's an uh there's a next level button. Trying to find it. There we go.
+[02:14] :282 hours, 14 minutes, 28 secondsThere's also a button to just modify the uh to Yeah, there we go. Yeah, this is very
+[02:14] :392 hours, 14 minutes, 39 seconds[Applause]
+[02:14] :452 hours, 14 minutes, 45 secondsplayable. Her face is all messed up. I mean,
+[02:14] :532 hours, 14 minutes, 53 secondsyeah. The recently remastered games have modern analog controls that make the games better is what a chat member is
+[02:15] :002 hours, 15 minutessaying. I believe that I'm sure there's a lot of fun to be had in Tomb Raider, but I also feel like let's see Lara's face. Oh boy. Oh god. Polygon tearing.
+[02:15] :132 hours, 15 minutes, 13 secondsOh god, Lara, what have they done to you? I'm so sorry. Um, yeah, Tomb Raider 2. The levels also confused me.
+[02:15] :282 hours, 15 minutes, 28 secondsWelcome to my home.
+[02:15] :332 hours, 15 minutes, 33 secondsIt's probably a skill issue. Who knows if I played it these days what it would be like, but regardless, let's continue.
+[02:15] :392 hours, 15 minutes, 39 secondsLet's do Sega 32X version. So, what's more
+[02:15] :472 hours, 15 minutes, 47 secondspowerful? I don't know which which one between the last one and this one.
+[02:15] :542 hours, 15 minutes, 54 seconds32X or the Panasonic
+[02:16] :052 hours, 16 minutes, 5 seconds3Dio. This has more
+[02:16] :142 hours, 16 minutes, 14 secondsfog. I'm going to say the 3Dio was more powerful just based on
+[02:16] :222 hours, 16 minutes, 22 secondsNothing other than current observation. And there does not appear to be sound on this one.
+[02:16] :342 hours, 16 minutes, 34 secondsNo. Oh god, the jumping [ __ ] sucks.
+[02:16] :512 hours, 16 minutes, 51 secondsOkay. You got to do like side jumps to get up there or uh you can climb over it. There we go.
+[02:17] :002 hours, 17 minutesUse the shoot button with no guns out to climb.
+[02:17] :072 hours, 17 minutes, 7 secondsBold of you to assume I know where the Oh, there it
+[02:17] :212 hours, 17 minutes, 21 secondsis. Okay, I think that will be just fine. Kill a couple bats, move on. Very nice. It's impressive that they can do
+[02:17] :312 hours, 17 minutes, 31 secondsthat on those consoles now.
+[02:17] :372 hours, 17 minutes, 37 secondsLet's take a look at um Metroid NES on the
+[02:17] :482 hours, 17 minutes, 48 secondsSNES. This even has fake box art. That's cool.
+[02:18] :002 hours, 18 minutesFake box art and everything. Some of these are ports of NES games to SNES.
+[02:18] :052 hours, 18 minutes, 5 secondsThey've gone a step further and integrated MSU1 support to give the games new CD quality soundtracks. Plus, there's no
+[02:18] :132 hours, 18 minutes, 13 secondsslowdown or sprite flicker. There's a lot more, but I just included a few. Oh, cool.
+[02:18] :282 hours, 18 minutes, 28 seconds[Music]
+[02:18] :412 hours, 18 minutes, 41 secondsOkay. Was that like their logo now? Are they doing the alien thing?
+[02:18] :522 hours, 18 minutes, 52 secondsYeah, they're doing the alien thing.
+[02:19] :122 hours, 19 minutes, 12 secondsSomeone in chat referenced the cancelled SNES CD attachment. That would have been the Nintendo PlayStation. Oh, wait.
+[02:19] :192 hours, 19 minutes, 19 secondsNo. But yeah, maybe they could have done [ __ ] like this.
+[02:19] :262 hours, 19 minutes, 26 seconds[Music]
+[02:19] :442 hours, 19 minutes, 44 secondsOh no.
+[02:20] :042 hours, 20 minutes, 4 seconds[Music]
+[02:20] :112 hours, 20 minutes, 11 secondsWhat do I type? I type um I'm a Kakira.
+[02:20] :192 hours, 20 minutes, 19 seconds[Music]
+[02:20] :302 hours, 20 minutes, 30 seconds[Music]
+[02:20] :322 hours, 20 minutes, 32 secondsOkay. I'm going to raise the music a little bit. So yeah, I mean it's just Metroid
+[02:20] :432 hours, 20 minutes, 43 secondsbut with a better soundtrack and no slowdown now, which is cool. I don't know if there's
+[02:20] :492 hours, 20 minutes, 49 seconds[Music]
+[02:20] :572 hours, 20 minutes, 57 secondsmore. Does there need to be more? No.
+[02:21] :022 hours, 21 minutes, 2 seconds[Music]
+[02:21] :062 hours, 21 minutes, 6 secondsUh, someone said they thought there was a map. No map added.
+[02:21] :122 hours, 21 minutes, 12 seconds[Music]
+[02:21] :212 hours, 21 minutes, 21 secondsWell, [ __ ]
+[02:21] :362 hours, 21 minutes, 36 secondsOkay, let's check out more stuff. Uh, Castlevania for the Intelvision. This is Castlevania remade
+[02:21] :452 hours, 21 minutes, 45 secondson the Intelvision, a console that predates the Famicom by 4 years. Castlevania on the Intellivision is insane.
+[02:21] :562 hours, 21 minutes, 56 seconds[Music]
+[02:21] :592 hours, 21 minutes, 59 secondsin.
+[02:22] :042 hours, 22 minutes, 4 seconds[Music]
+[02:22] :082 hours, 22 minutes, 8 secondsTelev. Whoa, that looks insane
+[02:22] :102 hours, 22 minutes, 10 seconds[Music]
+[02:22] :172 hours, 22 minutes, 17 secondsthough. Chat, just think this could have been Castlevania as we know it.
+[02:22] :262 hours, 22 minutes, 26 secondsA little bit of buzzing. It's fun. It's good for your ears. Strengthen.
+[02:22] :312 hours, 22 minutes, 31 secondsStrengthen them. Strengthen strengthen
+[02:22] :402 hours, 22 minutes, 40 secondsthem. It's Yeah. I mean, it's Castlevania. It works. It's really
+[02:22] :492 hours, 22 minutes, 49 secondscool. Yeah. For a pretty like for a less powerful console than Nintendo.
+[02:22] :542 hours, 22 minutes, 54 seconds[Music]
+[02:23] :032 hours, 23 minutes, 3 secondsIt works surprisingly well with good frame rates, too. I mean, sure, the enemies just look like, I don't know,
+[02:23] :112 hours, 23 minutes, 11 secondsliving vomit, come to life, but they're definitely, you know, they're enemies cuz they're weird with 45 years
+[02:23] :202 hours, 23 minutes, 20 secondshindsight in programming. Well, it's like watching K's Emanuel talk about his Mario 64 thing where he's like
+[02:23] :272 hours, 23 minutes, 27 secondscorrecting inefficiencies in the code and you know he can get Mario 64 to run at like 50 frames a second and you
+[02:23] :362 hours, 23 minutes, 36 secondsknow all the models and textures and everything looks amazing. With hindsight, you can do
+[02:23] :452 hours, 23 minutes, 45 secondsquite a bit on some of these old consoles. you can really make something work that you know maybe at the
+[02:23] :532 hours, 23 minutes, 53 secondstime it would have taken a couple
+[02:23] :582 hours, 23 minutes, 58 seconds[Music]
+[02:24] :002 hours, 24 minutesyears also no time crunch. Yeah, that's that's
+[02:24] :112 hours, 24 minutes, 11 secondstrue. And like yeah, there's a collaborative process too. There's probably like multiple people contributing like bits of information and code trying to like troubleshoot,
+[02:24] :202 hours, 24 minutes, 20 secondsproblem solve cuz also the internet and in the early days of gaming
+[02:24] :292 hours, 24 minutes, 29 secondsmaybe it wasn't as easy to collaborate on problem solving, but um I'm very very impressed
+[02:24] :372 hours, 24 minutes, 37 secondswith this because it really just feels like Castlevania. Not as much had to be sacrificed as I would have expected.
+[02:24] :452 hours, 24 minutes, 45 seconds[Music]
+[02:24] :512 hours, 24 minutes, 51 secondsLittle little
+[02:24] :542 hours, 24 minutes, 54 seconds[Music]
+[02:25] :032 hours, 25 minutes, 3 secondscrispy. Well, that's one hell of a He has a long head now, but he's fighting it.
+[02:25] :132 hours, 25 minutes, 13 seconds[Music]
+[02:25] :192 hours, 25 minutes, 19 secondsAll right, that one was cool. All right. Uh, let's see what other ones are here that are
+[02:25] :282 hours, 25 minutes, 28 secondsrecommended. There's again, there's a lot of stuff and there's like bonus materials. I think it's going to be going to be good. But
+[02:25] :382 hours, 25 minutes, 38 secondsDreamcast a Thomas Wave ports. Okay. What is What is a Thomas
+[02:25] :482 hours, 25 minutes, 48 secondsWave? It's an arcade platform created by Sega and Sammy that is heavily based on Dreamcast hardware. These are those arcade games
+[02:25] :572 hours, 25 minutes, 57 secondsported to the Dreamcast. Lots of really nice sprite work, especially Dolphin Blue, Guilty Gear, and NG BC. So, some
+[02:26] :042 hours, 26 minutes, 4 secondsof these I may I may go a little bit quick, but let's check out, for example,
+[02:26] :112 hours, 26 minutes, 11 secondsMetal Slug 6. The hell's a dream cat?
+[02:26] :332 hours, 26 minutes, 33 seconds[Music]
+[02:26] :352 hours, 26 minutes, 35 secondsWow.
+[02:26] :372 hours, 26 minutes, 37 secondsAnd that's at 50% volume, mind you. That was loud.
+[02:26] :422 hours, 26 minutes, 42 seconds[Music]
+[02:26] :562 hours, 26 minutes, 56 secondsIt's loading. Maybe It's not loading. It is crashed.
+[02:27] :122 hours, 27 minutes, 12 secondsI'm a little more unfamiliar with these games, so I don't know how impressive of a thing this
+[02:27] :212 hours, 27 minutes, 21 seconds[Music]
+[02:27] :262 hours, 27 minutes, 26 secondsis. Please select your character.
+[02:27] :292 hours, 27 minutes, 29 seconds[Music]
+[02:27] :372 hours, 27 minutes, 37 secondsThe hell is that? Just random. Oh, that's random. Good luck.
+[02:27] :482 hours, 27 minutes, 48 seconds[Music]
+[02:27] :532 hours, 27 minutes, 53 secondsWhat was that granny doing in the background? Yeah. What's the grandma? Hell. Let's walk.
+[02:28] :152 hours, 28 minutes, 15 secondsI've never played Guilty Gear, by the way. I'm not the biggest fighting game guy. So, Vinnie, does this have roll back? Oh, yeah. I'm I'm the guy to ask for that.
+[02:28] :292 hours, 28 minutes, 29 secondsYou corrupted it. I corrupted it.
+[02:28] :482 hours, 28 minutes, 48 secondsSo, is this cool that it it runs on this on the Dreamcast or is this just arcade stuff that of course the Dreamcast can handle?
+[02:28] :582 hours, 28 minutes, 58 secondsIt is very cool. Okay. Door stuck.
+[02:29] :122 hours, 29 minutes, 12 seconds[Music]
+[02:29] :162 hours, 29 minutes, 16 secondsI don't really know what I'm doing, but okay. Um, I'll try Y drive. We could do
+[02:29] :282 hours, 29 minutes, 28 secondsthat. It's sideways. Oh no.
+[02:29] :362 hours, 29 minutes, 36 seconds[Music]
+[02:29] :432 hours, 29 minutes, 43 secondsChoose your car.
+[02:29] :462 hours, 29 minutes, 46 seconds[Music]
+[02:29] :482 hours, 29 minutes, 48 secondsOkay.
+[02:29] :492 hours, 29 minutes, 49 seconds[Music]
+[02:29] :512 hours, 29 minutes, 51 seconds[Applause]
+[02:29] :542 hours, 29 minutes, 54 secondsRound one start. What the [ __ ] is this game?
+[02:30] :072 hours, 30 minutes, 7 secondsYeah.
+[02:30] :112 hours, 30 minutes, 11 secondsThis is like I don't know what the [ __ ] is happening here.
+[02:30] :192 hours, 30 minutes, 19 seconds[Music]
+[02:30] :202 hours, 30 minutes, 20 secondsYeah. Yeah. Ow. Yeah. Ow.
+[02:30] :282 hours, 30 minutes, 28 secondsA baby arcade game. Maybe, maybe, maybe, maybe it is. Maybe it is. Let's Let's
+[02:30] :362 hours, 30 minutes, 36 secondssee. What other games do we have here? Doom for Game Boy.
+[02:30] :452 hours, 30 minutes, 45 secondsWhat?
+[02:30] :542 hours, 30 minutes, 54 secondsThis I'm curious about. Uh, it's got some filtering. Let's get rid of that.
+[02:31] :062 hours, 31 minutes, 6 secondsOkay. All right. Um, I think I need to set some
+[02:31] :222 hours, 31 minutes, 22 seconds[Music]
+[02:31] :232 hours, 31 minutes, 23 secondsinputs. Play or setup. Uh setup. No play. Yes.
+[02:31] :332 hours, 31 minutes, 33 secondsNo.
+[02:31] :432 hours, 31 minutes, 43 secondsH. Yeah, I'm pressing start. Let me clear all this and try again.
+[02:32] :132 hours, 32 minutes, 13 secondsNope. Oh, that's a shame. Okay. Oh.
+[02:32] :182 hours, 32 minutes, 18 seconds[Music]
+[02:32] :212 hours, 32 minutes, 21 secondsUh. Oh, this is bad.
+[02:32] :252 hours, 32 minutes, 25 seconds[Music]
+[02:32] :362 hours, 32 minutes, 36 secondsWhat the
+[02:32] :462 hours, 32 minutes, 46 seconds[ __ ]
+[02:32] :512 hours, 32 minutes, 51 secondsWhat does the guy the Doom guy in the bottom left look like? the bad mustache man a little
+[02:32] :572 hours, 32 minutes, 57 seconds[Music]
+[02:33] :032 hours, 33 minutes, 3 secondsbit. This is so bad. This is one of the worst things I think I've ever heard. Th This is not really It's weird.
+[02:33] :142 hours, 33 minutes, 14 secondsIt's not Doom. It is like you go into an area and then you go into a shoot mode sometimes.
+[02:33] :322 hours, 33 minutes, 32 secondsMaybe not everything can run Doom, but I think the Commodore 64 can.
+[02:33] :402 hours, 33 minutes, 40 seconds[Music]
+[02:33] :462 hours, 33 minutes, 46 secondsOh, there's a What's going on here? Num lock on. Use numpad to control. Uh, it said there was a
+[02:33] :552 hours, 33 minutes, 55 secondsmismatch and I don't think we're running as
+[02:34] :042 hours, 34 minutes, 4 secondsadministrator. That just crashed. All right. Well, some of these Jesse weren't looking so good.
+[02:34] :122 hours, 34 minutes, 12 secondsJessie Vic Jesse, you're not you're not making a lot of sense. Jesse saying good evening to me, but you're just sort of
+[02:34] :192 hours, 34 minutes, 19 secondsthere. There's no way this trouble shot properly.
+[02:34] :322 hours, 34 minutes, 32 secondsSorry.
+[02:34] :352 hours, 34 minutes, 35 seconds[ __ ] Like especially especially for like something
+[02:34] :422 hours, 34 minutes, 42 secondsthat already has problems with emulation.
+[02:34] :452 hours, 34 minutes, 45 seconds[Music]
+[02:34] :512 hours, 34 minutes, 51 secondsDesert Bus on the GBA by Game
+[02:34] :542 hours, 34 minutes, 54 seconds[Music]
+[02:35] :052 hours, 35 minutes, 5 secondsFreak. Why is Pikachu
+[02:35] :102 hours, 35 minutes, 10 seconds[Music]
+[02:35] :172 hours, 35 minutes, 17 secondshere? We are Pen and Teller. The objective is the game of the game is simple, perhaps too simple. You are a bus driver and you have to drive a bus
+[02:35] :252 hours, 35 minutes, 25 secondsfrom Tucson to Las Vegas. It's a straight line to the finish. There might be something wrong with the
+[02:35] :332 hours, 35 minutes, 33 secondssteering. But first, tell me a little bit about
+[02:35] :372 hours, 35 minutes, 37 seconds[Music]
+[02:35] :392 hours, 35 minutes, 39 secondsyourself. Never would I have expected this combo.
+[02:35] :442 hours, 35 minutes, 44 seconds[Music]
+[02:35] :482 hours, 35 minutes, 48 secondsSo, your name is No.
+[02:35] :502 hours, 35 minutes, 50 secondsYes. Your very own bus legend is about to unfold. An empty world of nothing awaits. Let's go.
+[02:36] :052 hours, 36 minutes, 5 seconds[Music]
+[02:36] :172 hours, 36 minutes, 17 seconds[Music]
+[02:36] :252 hours, 36 minutes, 25 secondsExcuse me.
+[02:36] :382 hours, 36 minutes, 38 secondsIt's actually worse than I expected.
+[02:36] :432 hours, 36 minutes, 43 seconds[Music]
+[02:36] :512 hours, 36 minutes, 51 secondsAnd no, it's not as much of a port as it is a u a creative hack for
+[02:37] :002 hours, 37 minutesfun. Somebody send this to Joel. I mean, if he wants to torture
+[02:37] :062 hours, 37 minutes, 6 secondshimself with
+[02:37] :252 hours, 37 minutes, 25 secondsit. Wow. Wow.
+[02:37] :332 hours, 37 minutes, 33 seconds[Music]
+[02:37] :422 hours, 37 minutes, 42 secondsWhat's up with the men? I I don't know. Really hope you make it realize you had to read the sign to pick up the guys at the
+[02:37] :522 hours, 37 minutes, 52 secondsbottom or men eating beans.
+[02:37] :572 hours, 37 minutes, 57 secondsRoad closed. Oh. Oh. Oh, you're just made.
+[02:38] :022 hours, 38 minutes, 2 secondsThat was a conjecture. There was a conjecture.
+[02:38] :072 hours, 38 minutes, 7 secondsOkay. All right. Very good. Very good game.
+[02:38] :112 hours, 38 minutes, 11 secondsUm, steamed hams on the Commodore VIC 20. Boy, I I hope this
+[02:38] :172 hours, 38 minutes, 17 secondsworks. It actually works. Getting a little pooped on the schedule one. What do you mean steamed hams on the comp? might.
+[02:38] :332 hours, 38 minutes, 33 secondsWell, Seymour, I made it despite your directions. Oh, super dumbers. I hope you're prepared for an unforgettable
+[02:38] :492 hours, 38 minutes, 49 secondslunchon. You good?
+[02:38] :532 hours, 38 minutes, 53 seconds[Music]
+[02:38] :592 hours, 38 minutes, 59 secondsIs that March's uh maiden
+[02:39] :052 hours, 39 minutes, 5 seconds[Music]
+[02:39] :112 hours, 39 minutes, 11 secondsname? Don't don't really understand how to play
+[02:39] :172 hours, 39 minutes, 17 seconds[Music]
+[02:39] :212 hours, 39 minutes, 21 secondsthis. Num lock on.
+[02:39] :242 hours, 39 minutes, 24 seconds[Music]
+[02:39] :312 hours, 39 minutes, 31 secondstype in the line. Yeah, I know I'm typing but like snowball, you know. I think I'm good.
+[02:39] :452 hours, 39 minutes, 45 secondsAll right.
+[02:39] :502 hours, 39 minutes, 50 seconds[Music]
+[02:39] :532 hours, 39 minutes, 53 secondsportal for the Commodore pet. You probably need to select and
+[02:40] :012 hours, 40 minutes, 1 secondmove letters. Yeah, I I guess so. But like, you know, it's fine. I got it. I got the idea. Let's see.
+[02:40] :202 hours, 40 minutes, 20 seconds[Music]
+[02:40] :422 hours, 40 minutes, 42 secondsUh, there was another set of buttons that I'm probably missing. Oh. Oh, wait.
+[02:40] :462 hours, 40 minutes, 46 secondsWait, wait, wait. No, no. I got it. I got it. I got Oh, god.
+[02:41] :062 hours, 41 minutes, 6 secondsOh, best gaming.
+[02:41] :112 hours, 41 minutes, 11 secondsNo. Oh, that that's fine. Now I'm thinking with portals and Oh, port holes.
+[02:41] :202 hours, 41 minutes, 20 secondsWhere you
+[02:41] :362 hours, 41 minutes, 36 secondsat? Now, you stole that from me. You You don't know if I said that first.
+[02:41] :512 hours, 41 minutes, 51 secondsIt it is kind of um not conducive to Sunday stream to try to spend too long figuring out the controls. Sorry,
+[02:42] :022 hours, 42 minutes, 2 secondsbut a native port for the demp. So, this is Super Mario 64 on the PSP. It's me, Mario. Hello.
+[02:42] :162 hours, 42 minutes, 16 secondsReally?
+[02:42] :222 hours, 42 minutes, 22 secondsReally though. Dear Mario, please come to the castle. I have baked a cake for you. Just looks like normal high resolution Mario 64. Peach.
+[02:42] :372 hours, 42 minutes, 37 secondsI do hear the audio crust. However, there is some crust. the crustaceious
+[02:42] :482 hours, 42 minutes, 48 secondsperiod. Someone said they played tons of N64 on their soft modded PSP. I mean, it doesn't surprise me that a PSP could run N64 games.
+[02:42] :572 hours, 42 minutes, 57 seconds[Music]
+[02:43] :012 hours, 43 minutes, 1 secondWell, N64 emulation on the original PSP was really bad. This is miles ahead.
+[02:43] :132 hours, 43 minutes, 13 secondsShadow's
+[02:43] :152 hours, 43 minutes, 15 seconds[Applause]
+[02:43] :172 hours, 43 minutes, 17 seconds[ __ ] There's There's some weird control stuff. But yeah, otherwise it's Mario
+[02:43] :242 hours, 43 minutes, 24 seconds64. This is from the demp. Okay, that that makes more sense.
+[02:43] :372 hours, 43 minutes, 37 secondsIt's a port rather than emulation. It should be good. It's, you know, weird shadow aside, so far it's pretty good. Do I
+[02:43] :462 hours, 43 minutes, 46 secondshave a PSP? I borrowed a PSP a while back, uh, but I never owned one.
+[02:43] :532 hours, 43 minutes, 53 seconds[Music]
+[02:44] :022 hours, 44 minutes, 2 secondsIt's a little bit better than the GBA port. Not much, just a little bit. Um, I want to
+[02:44] :132 hours, 44 minutes, 13 secondssee something here. This is native PSP resolution.
+[02:44] :232 hours, 44 minutes, 23 seconds[Music]
+[02:44] :302 hours, 44 minutes, 30 secondsIt's nice to see Mario 64 on the stream once in a while cuz I neglect this game a
+[02:44] :382 hours, 44 minutes, 38 secondslot. But yeah, still really really good port. I mean, you know, again, if it's the demp, that makes a lot more sense.
+[02:44] :452 hours, 44 minutes, 45 secondsBut um Super Mario Land in Bitsy. What is this? Bitsy is an intentionally limited game a game engine
+[02:44] :542 hours, 44 minutes, 54 secondsdesigned exclusively for retro style topown adventure games. This is Super Mario Land in that
+[02:45] :062 hours, 45 minutes, 6 secondsengine. Learning about new game engines every day.
+[02:45] :132 hours, 45 minutes, 13 seconds[Music]
+[02:45] :302 hours, 45 minutes, 30 secondsThey fly now. This is good [ __ ] punching
+[02:45] :452 hours, 45 minutes, 45 secondstunes. All right. It's It's like a little bit of a loose kind of descriptor to say that Mario Land is
+[02:45] :542 hours, 45 minutes, 54 secondsin this engine. So, you can just jump. You can kind of walk around like you're playing
+[02:46] :022 hours, 46 minutes, 2 secondsa top down game, but you have a limit and then you have to get back to the ground to get to the next screen. So there's really not
+[02:46] :112 hours, 46 minutes, 11 secondsmuch here that's like particularly accurate,
+[02:46] :172 hours, 46 minutes, 17 seconds[Music]
+[02:46] :182 hours, 46 minutes, 18 secondsbut it it is a thing that is happening. You have been hurt. You are now small again.
+[02:46] :272 hours, 46 minutes, 27 secondsHow would we know
+[02:46] :292 hours, 46 minutes, 29 seconds[Music]
+[02:46] :402 hours, 46 minutes, 40 secondsotherwise? Just like that, it's
+[02:46] :432 hours, 46 minutes, 43 seconds[Music]
+[02:46] :452 hours, 46 minutes, 45 secondsover. Ah, games back in the day were so much better. Back at the
+[02:46] :572 hours, 46 minutes, 57 secondsday doky doi literature club fan game in virtual boy.
+[02:47] :062 hours, 47 minutes, 6 seconds[Music]
+[02:47] :142 hours, 47 minutes, 14 secondsWhat? Yeah, English would be just fine.
+[02:47] :222 hours, 47 minutes, 22 seconds[Music]
+[02:47] :252 hours, 47 minutes, 25 secondsIs there a reason she's like pulsating? Vinnie, this is not a you
+[02:47] :332 hours, 47 minutes, 33 secondsgame. Oh, I'm very very well aware. I think there's supposed to be text.
+[02:47] :512 hours, 47 minutes, 51 secondsOkay.
+[02:47] :572 hours, 47 minutes, 57 seconds[Music]
+[02:48] :022 hours, 48 minutes, 2 secondsWell, yeah, just a little just a little [ __ ] up. Just a little unplayable and bugged. No problem. All right. Well,
+[02:48] :102 hours, 48 minutes, 10 secondsdodged the bullet there. Uh, let me refer to this list.
+[02:48] :172 hours, 48 minutes, 17 seconds[Music]
+[02:48] :192 hours, 48 minutes, 19 secondsZelda 1 on the Amstrad
+[02:48] :292 hours, 48 minutes, 29 secondsCPC. Be real with you, chat. I don't know what the [ __ ] Amstrad PCP is.
+[02:48] :442 hours, 48 minutes, 44 secondsUm, having a hard time capturing this
+[02:48] :512 hours, 48 minutes, 51 seconds[Music]
+[02:48] :572 hours, 48 minutes, 57 secondsgame. Yeah, it's really really weird.
+[02:49] :072 hours, 49 minutes, 7 secondsPress fire one. Why does this audio sound bad?
+[02:49] :142 hours, 49 minutes, 14 secondsVinnie, your mic. What's going on with my microphone? Yeah, your mic sounds bust as [ __ ] What's happening? Is this like [ __ ] up my
+[02:49] :312 hours, 49 minutes, 31 secondseverything? Hello. Crust in and out.
+[02:49] :372 hours, 49 minutes, 37 secondsOh boy. Oh god. Oh my god. Oh yeah, that's bad. Reset. 10 employees in the barn.
+[02:49] :492 hours, 49 minutes, 49 secondsBut um had employees in the
+[02:50] :072 hours, 50 minutes, 7 secondswarehouse. Uh, I can't actually play the goddamn
+[02:50] :182 hours, 50 minutes, 18 secondsgame. Space to attack. Num lock on for remap controls to work. Okay, I think we
+[02:50] :252 hours, 50 minutes, 25 secondsgot num lock. Num n numb n numb n numb n numb n
+[02:50] :282 hours, 50 minutes, 28 secondsnumb n numb n numb n numb n numb n numb n numbum nuts.
+[02:50] :382 hours, 50 minutes, 38 secondsOkay, I'm coming for you. Bottom left it says cartridge. Click settings. There you go.
+[02:50] :522 hours, 50 minutes, 52 secondsCartridge. Okay.
+[02:50] :582 hours, 50 minutes, 58 secondsI really, really wanted to see what this one looked like.
+[02:51] :042 hours, 51 minutes, 4 secondsnumeric keypad.
+[02:51] :082 hours, 51 minutes, 8 seconds[Music]
+[02:51] :092 hours, 51 minutes, 9 secondsAh. Oh. Oh god. This is like
+[02:51] :172 hours, 51 minutes, 17 seconds[Music]
+[02:51] :242 hours, 51 minutes, 24 secondswow.
+[02:51] :282 hours, 51 minutes, 28 secondsOkay. They just straight up remade the visuals for
+[02:51] :332 hours, 51 minutes, 33 seconds[Music]
+[02:51] :432 hours, 51 minutes, 43 secondsthis. Okay, I have a sword. Sword. Let me see what button. Space to attack.
+[02:51] :522 hours, 51 minutes, 52 secondsOh god, the title says panties of Zelda.
+[02:51] :592 hours, 51 minutes, 59 secondsNo, it didn't. No, it didn't.
+[02:52] :162 hours, 52 minutes, 16 seconds[Music]
+[02:52] :232 hours, 52 minutes, 23 secondsWow. Kote could have a couple different meanings actually. Exactly, Chad. It's It's not It's not the panties of Zelda.
+[02:52] :312 hours, 52 minutes, 31 secondsThere's no [ __ ] way. There we go. Some really hard to listen to noises here.
+[02:52] :432 hours, 52 minutes, 43 secondsBut I mean, look, they even interpreted the landscape differently for a little visual
+[02:52] :592 hours, 52 minutes, 59 secondsvariety. It could also mean huge ass.
+[02:53] :032 hours, 53 minutes, 3 secondsYeah, that's what I'm saying. It's not the panties of Zelda. It's the huge ass of Zelda.
+[02:53] :212 hours, 53 minutes, 21 secondstry to get to like a dungeon. I'm probably going to die
+[02:53] :282 hours, 53 minutes, 28 secondsbefore I get there. No, we can we can do this. No, we
+[02:53] :372 hours, 53 minutes, 37 secondscan't. What the [ __ ] That's supposed to be open. Oh, great. Someone put their own
+[02:53] :452 hours, 53 minutes, 45 seconds[ __ ] creative twist. You must complete the tutorial
+[02:53] :542 hours, 53 minutes, 54 secondsfirst. A giant pee hat. That is not in normal Zelda 1. So, yeah, there's some additional materials here, chat.
+[02:54] :112 hours, 54 minutes, 11 secondsOkay. Oh. Oh my god, Chad. The game over.
+[02:54] :162 hours, 54 minutes, 16 secondsChat, you have to see the game
+[02:54] :272 hours, 54 minutes, 27 seconds[Music]
+[02:54] :292 hours, 54 minutes, 29 secondsover. I feel like I just witnessed something like
+[02:54] :362 hours, 54 minutes, 36 secondsforbidden. Okay, hang on. Um, this is
+[02:54] :462 hours, 54 minutes, 46 secondsactually a very difficult game to capture, but it'll it'll be worth it.
+[02:54] :502 hours, 54 minutes, 50 secondsYou need to see the game over. It's great. I saw it for like half a second before I clicked off.
+[02:55] :082 hours, 55 minutes, 8 seconds[Music]
+[02:55] :132 hours, 55 minutes, 13 secondsIt's a little um
+[02:55] :192 hours, 55 minutes, 19 seconds[Music]
+[02:55] :252 hours, 55 minutes, 25 secondsrated M for one moment.
+[02:55] :322 hours, 55 minutes, 32 secondsMaybe this is Wordle on the NES chat.
+[02:55] :442 hours, 55 minutes, 44 seconds[Music]
+[02:55] :462 hours, 55 minutes, 46 secondsWhat? This could have been as big as Tetris. Nah, it's Wle.
+[02:55] :572 hours, 55 minutes, 57 seconds[Music]
+[02:56] :122 hours, 56 minutes, 12 secondsNo. What happened? What did I do?
+[02:56] :202 hours, 56 minutes, 20 seconds[Music]
+[02:56] :242 hours, 56 minutes, 24 secondsWait, is that good or I don't know what colors or what? Who's that
+[02:56] :362 hours, 56 minutes, 36 secondsfrog? Yellow is the right. It's not a frog. That's a Oh, that's a That's a three. There's a P.
+[02:56] :472 hours, 56 minutes, 47 secondsYellow means letters included but not in the right. Okay. So it could be
+[02:56] :582 hours, 56 minutes, 58 seconds[Music]
+[02:57] :012 hours, 57 minutes, 1 secondum these are real words chat. Why did I do that? I [ __ ] god.
+[02:57] :072 hours, 57 minutes, 7 seconds[Music]
+[02:57] :172 hours, 57 minutes, 17 secondsNo. Seir.
+[02:57] :212 hours, 57 minutes, 21 seconds[Music]
+[02:57] :232 hours, 57 minutes, 23 secondsSear. Why does it Why won't it do that?
+[02:57] :262 hours, 57 minutes, 26 secondsIt has to be a real word. You can chat. You can do fake words in the real one. You can do fake words.
+[02:57] :402 hours, 57 minutes, 40 seconds[Music]
+[02:57] :442 hours, 57 minutes, 44 secondsI use fake words all the time. No, you can't. Oh, never mind.
+[02:57] :542 hours, 57 minutes, 54 secondsUm, you can in Vindal. Oh. Oh. Oh, you can in in my version on the vines.com website.
+[02:58] :052 hours, 58 minutes, 5 secondsI Oh my god, it's vortal. Yes, chat. I Okay, that I erased my memories and that
+[02:58] :142 hours, 58 minutes, 14 secondsis what I thought was real and it is
+[02:58] :192 hours, 58 minutes, 19 seconds[Music]
+[02:58] :262 hours, 58 minutes, 26 secondsnot angle.
+[02:58] :312 hours, 58 minutes, 31 secondsOkay. A L
+[02:58] :402 hours, 58 minutes, 40 secondsG A algae
+[02:58] :532 hours, 58 minutes, 53 secondsshrimp. Hey, Wordle on the NES is awesome. Surprisingly good.
+[02:59] :012 hours, 59 minutes, 1 secondOkay, there's definitely more of this we could do.
+[02:59] :072 hours, 59 minutes, 7 secondsThere's a lot more in fact, but I'm just going to go to there. There's some really interesting ones here. I'm seeing some like like Resident Evil on the Sega
+[02:59] :152 hours, 59 minutes, 15 secondsGenesis. I'm seeing more Portals, um some Sonic stuff, Wolfenstein, more Doom.
+[02:59] :232 hours, 59 minutes, 23 secondsHowever, I'm going to go into the bonus area real quick.
+[02:59] :272 hours, 59 minutes, 27 seconds[Music]
+[02:59] :352 hours, 59 minutes, 35 secondsLet us start with Chrono Trig Trigger. The Wheel of
+[02:59] :442 hours, 59 minutes, 44 secondsTime. I have I played this. Why is Krono's mom named Gina?
+[02:59] :542 hours, 59 minutes, 54 seconds[Music]
+[03:00] :023 hours, 2 secondsWhy not? I I don't know. It's just That's not her name in the game. Friend. Who? Why is Krono
+[03:00] :113 hours, 11 seconds[Music]
+[03:00] :203 hours, 20 secondstalking? Oh boy.
+[03:00] :263 hours, 26 secondsOh, you can zoom so fast. But only if you go left and
+[03:00] :373 hours, 37 secondsright. Wait, what? What's going on here?
+[03:00] :403 hours, 40 secondsIt's weird. Company on the title screen is known for making NESD makes on bootleg
+[03:00] :493 hours, 49 secondscarts. Is that the princess? Let's go look. Will you help find my necklace? Yes.
+[03:00] :563 hours, 56 secondsThank you. Bring it here when you find
+[03:01] :003 hours, 1 minute[Music]
+[03:01] :153 hours, 1 minute, 15 secondsit. I mean, it's almost chrono trigger a little bit. like 10% chrono trigger.
+[03:01] :243 hours, 1 minute, 24 seconds[Music]
+[03:01] :353 hours, 1 minute, 35 secondsSo wait, if Chrono Trigger is my favorite game of all time, which it is, does that make this by proxy 10% of my favorite game of all time?
+[03:01] :443 hours, 1 minute, 44 seconds[Music]
+[03:01] :553 hours, 1 minute, 55 secondsIt is my 100th favorite. Yeah. Oh, wow.
+[03:01] :583 hours, 1 minute, 58 secondsThe teleod actually looks kind of like the telepod a little bit.
+[03:02] :033 hours, 2 minutes, 3 seconds[Music]
+[03:02] :043 hours, 2 minutes, 4 secondsI think I'm done playing this game. This machine teleports. Anything can teleport. And it might be the it might
+[03:02] :113 hours, 2 minutes, 11 secondsbe until they um do a bunch more in add more questions.
+[03:02] :173 hours, 2 minutes, 17 secondsQuit playing for a bit cuz I to the turd key boy. I've got the growing weed for me and I've got the weed being made for
+[03:02] :253 hours, 2 minutes, 25 secondsme and I've got the weed being sold for me. And even though I haven't made meth yet, I don't want to make meth until there's like more to do because there's
+[03:02] :333 hours, 2 minutes, 33 secondslike nothing to do after you make me math. There's three buildings to buy and then you're done with the game.
+[03:02] :383 hours, 2 minutes, 38 secondsSo, I think I've uh I've brain slopped my way through. And schedule one, I hate to say it. I I This is my review of schedule
+[03:02] :473 hours, 2 minutes, 47 secondsone. It's great if it's the type of game you want. It's Factorio with drugs. And and and for it being Factorio
+[03:02] :553 hours, 2 minutes, 55 secondswith drugs, it's pretty
+[03:03] :033 hours, 3 minutes, 3 secondsdecent. It's pretty decent. But the the the problem I have with Factorio with
+[03:03] :113 hours, 3 minutes, 11 secondsdrugs is that uh it's not a
+[03:03] :203 hours, 3 minutes, 20 secondsgame kind of been my opinion lately is it's not a game. Before you start Marvel Rivals, I don't know if I'm going to start it, but okay. What do you need to
+[03:03] :283 hours, 3 minutes, 28 secondstalk to me about? Even if you play it, don't stream it. Mhm. You should take the stuff down like the and stuff and pee.
+[03:03] :393 hours, 3 minutes, 39 secondsOkay. Do you need to go pee? I do. Okay.
+[03:03] :423 hours, 3 minutes, 42 secondsWell, I I could take the sauce down, but I don't need to pee. You don't think you do, but I want you to try.
+[03:03] :503 hours, 3 minutes, 50 secondsOkay. This is me trying to help you to help me. I know. We drink a lot of water and
+[03:04] :003 hours, 4 minutesstuff. All
+[03:04] :113 hours, 4 minutes, 11 seconds[Music]
+[03:04] :173 hours, 4 minutes, 17 secondsright. Well, I'm kicking off of this. I'm done with the schedule one.
+[03:04] :283 hours, 4 minutes, 28 seconds[Music]
+[03:04] :443 hours, 4 minutes, 44 secondsHeat. Heat.
+[03:04] :483 hours, 4 minutes, 48 seconds[Music]Sync to video time

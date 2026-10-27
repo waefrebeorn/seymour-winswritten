@@ -1,0 +1,129 @@
+{
+  "project": "Seymour Ponderables — Vol 1 image-find list",
+  "policy": "ONLY CC0 (Openclipart) / Public Domain (Wikimedia Commons, PDImageArchive, NYPL) / OFL assets. Commercial CD-ROM rips are BANNED. Every fetch logged to assets/LICENSE_MANIFEST.md.",
+  "sources": {
+    "openclipart_search": "https://openclipart.org/tag/<query>",
+    "openclipart_download": "https://openclipart.org/download/<id>",
+    "wikimedia_api": "https://commons.wikimedia.org/w/api.php?action=query&titles=File:<name>&prop=imageinfo&iiprop=url|extmetadata&format=json",
+    "pdimagearchive": "https://pdimagearchive.org/galleries/all",
+    "nypl": "https://www.nypl.org/research/resources/public-domain-collections"
+  },
+  "already_downloaded": {
+    "penny": ["oc_coiny-bfdi-lemmling-style.svg", "oc_money-coins-and-bills-icon.svg", "oc_money-coins-icon.svg"],
+    "versa": ["oc_old-car.svg", "oc_purple-sports-car.svg", "oc_small-yellow-car.svg"],
+    "cuda": ["oc_blue-screen-of-death.svg", "oc_retro-beige-pc-computer-case-icon.svg", "oc_kenney-generic-items.svg"],
+    "paulsen": ["oc_burning-books.svg", "oc_open-book-black-and-white.svg", "oc_book-exploding-warning-sign.svg"],
+    "gaming": ["oc_gaming-console-gamepad-icon.svg", "oc_retro-gaming-console-game-controller-icon.svg", "oc_video-game-system-portative-black.svg"],
+    "internet": ["oc_blue-screen-of-death.svg", "oc_retro-beige-pc-computer-case-icon.svg", "oc_kenney-generic-items.svg"],
+    "supercap": ["oc_energy-level-4-in-blue.svg", "oc_2-progress-bars-blue-leds.svg", "oc_battery-level-blue-1-out-of-5.svg"],
+    "meme": ["oc_neo-fluo-tribalism-face.svg", "oc_smart-self-lover.svg", "oc_banned-books-red-warning-road-sign.svg"],
+    "texture": ["old_paper_PD.jpg"],
+    "fonts": ["SpecialElite-Regular.ttf", "OldStandardTT-Regular.ttf", "Rye-Regular.ttf", "Bungee-Regular.ttf", "DMSerifDisplay-Regular.ttf"]
+  },
+  "to_find": [
+    {
+      "entry": "penny",
+      "need": "coin close-up / hand holding penny / traffic / copper thread motif",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "penny", "reason": "specific US cent art"},
+        {"source": "openclipart", "query": "hand coin", "reason": "the 'found it' gesture"},
+        {"source": "wikimedia", "file": "File:Wheat_penny_1909.jpg", "reason": "real wheat penny photo (PD)"},
+        {"source": "wikimedia", "file": "File:US_penny_2005_obverse.png", "reason": "modern cent (PD gov work)"}
+      ],
+      "clipart_folder": "clipart/penny/"
+    },
+    {
+      "entry": "versa",
+      "need": "beige sedan / highway / steering wheel / traffic jam",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "sedan", "reason": "plain 4-door"},
+        {"source": "openclipart", "query": "highway", "reason": "commute visual"},
+        {"source": "wikimedia", "file": "File:Traffic_congestion_2007.jpg", "reason": "traffic jam (verify PD)"},
+        {"source": "openclipart", "query": "steering wheel", "reason": "thinking-chamber visual"}
+      ],
+      "clipart_folder": "clipart/versa/"
+    },
+    {
+      "entry": "cuda",
+      "need": "GPU card / circuit board / matrix grid / terminal window",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "gpu", "reason": "graphics card"},
+        {"source": "openclipart", "query": "circuit board", "reason": "silicon visual"},
+        {"source": "wikimedia", "file": "File:Nvidia_H100.jpg", "reason": "actual H100 (verify license — many are CC)"},
+        {"source": "openclipart", "query": "matrix", "reason": "abstract compute"}
+      ],
+      "clipart_folder": "clipart/cuda/"
+    },
+    {
+      "entry": "paulsen",
+      "need": "hatchet / wilderness / canoe / raspberry bush / plane crash",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "hatchet", "reason": "the tool"},
+        {"source": "openclipart", "query": "wilderness", "reason": "survival setting"},
+        {"source": "openclipart", "query": "canoe", "reason": "Brian's escape"},
+        {"source": "wikimedia", "file": "File:Gary_Paulsen_2008.jpg", "reason": "author portrait (verify PD/CC)"}
+      ],
+      "clipart_folder": "clipart/paulsen/"
+    },
+    {
+      "entry": "supercap",
+      "need": "car cutaway / battery + capacitor / generator / turducken diagram",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "car schematic", "reason": "architecture drawing"},
+        {"source": "openclipart", "query": "capacitor", "reason": "supercap visual"},
+        {"source": "wikimedia", "file": "File:Woods_Dual_Power_1916.jpg", "reason": "the real 1916 car (verify PD)"},
+        {"source": "openclipart", "query": "generator", "reason": "aux power"}
+      ],
+      "clipart_folder": "clipart/supercap/"
+    },
+    {
+      "entry": "gaming_history",
+      "need": "90s console / CRT monitor / cartridge / arcade",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "cartridge", "reason": "game cart"},
+        {"source": "openclipart", "query": "arcade", "reason": "arcade cab"},
+        {"source": "wikimedia", "file": "File:Nintendo_Entertainment_System.jpg", "reason": "NES (verify PD)"},
+        {"source": "openclipart", "query": "crt monitor", "reason": "old screen"}
+      ],
+      "clipart_folder": "clipart/gaming/"
+    },
+    {
+      "entry": "internet_moments",
+      "need": "dial-up modem / old web browser / floppy / early forum",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "modem", "reason": "dial-up"},
+        {"source": "openclipart", "query": "floppy disk", "reason": "old storage"},
+        {"source": "wikimedia", "file": "File:Dial-up_modem.jpg", "reason": "modem (verify PD)"},
+        {"source": "openclipart", "query": "world wide web", "reason": "90s web"}
+      ],
+      "clipart_folder": "clipart/internet/"
+    },
+    {
+      "entry": "meme_facts",
+      "need": "speech bubble / evolution diagram / doge / dancing baby",
+      "dead_to_rights_queries": [
+        {"source": "openclipart", "query": "speech bubble", "reason": "meme format"},
+        {"source": "openclipart", "query": "evolution", "reason": "meme evolution"},
+        {"source": "wikimedia", "file": "File:Doge_2013.jpg", "reason": "original Doge (verify license)"},
+        {"source": "openclipart", "query": "emoji face", "reason": "react visual"}
+      ],
+      "clipart_folder": "clipart/meme/"
+    },
+    {
+      "entry": "texture_backup",
+      "need": "halftone dots / grunge paper / 90s scanline",
+      "dead_to_rights_queries": [
+        {"source": "pdimagearchive", "query": "halftone", "reason": "print texture"},
+        {"source": "nypl", "query": "paper texture", "reason": "PD paper"},
+        {"source": "wikimedia", "file": "File:Halftone_screen.svg", "reason": "halftone (PD)"}
+      ],
+      "clipart_folder": "textures/"
+    }
+  ],
+  "notes": [
+    "Run assets/dl_assets.py to top up any theme automatically (CC0 only).",
+    "For Wikimedia files: ALWAYS check extmetadata.LicenseShortName — only fetch if 'Public domain' or 'CC0' or 'CC-BY' (CC-BY needs attribution in book credits).",
+    "For author/brand photos (Paulsen, H100, NES): verify license per-file; if CC-BY, add to credits page.",
+    "Fonts already OFL — safe to embed in PDF. Use Special Elite for headers (typewriter 90s vibe), Old Standard TT for body, Rye/Bungee for cover/display."
+  ]
+}

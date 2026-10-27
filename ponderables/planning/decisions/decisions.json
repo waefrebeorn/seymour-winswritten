@@ -1,0 +1,44 @@
+[
+  {
+    "id": "DEC-001",
+    "date": "2026-06-20",
+    "decision": "Use Gemma 4 12B + mmproj for clipart vision via llama-mtmd-cli",
+    "rationale": "Model already available locally, supports vision, 6.3GB fits VRAM with -ngl 20",
+    "status": "active"
+  },
+  {
+    "id": "DEC-002",
+    "date": "2026-06-22",
+    "decision": "Use engagement panel transcripts as primary, Whisper as fallback",
+    "rationale": "Engagement panels are cleaner (no hallucination), Whisper for no-panel videos",
+    "status": "active"
+  },
+  {
+    "id": "DEC-003",
+    "date": "2026-06-25",
+    "decision": "No-skipping mode for Whisper pipeline",
+    "rationale": "User directive: no skipping allowed - all videos must be attempted",
+    "status": "active"
+  },
+  {
+    "id": "DEC-004",
+    "date": "2026-06-26",
+    "decision": "A6 digest format (4x6 inches) via Pandoc to LaTeX to PDF",
+    "rationale": "Matches Seymour brand spec, small format for cabinet of curiosities feel",
+    "status": "active"
+  },
+  {
+    "id": "DEC-005",
+    "date": "2026-06-27",
+    "decision": "12 ponderables per volume, 2 volumes per sprint",
+    "rationale": "Manageable authoring scope, consistent release cadence",
+    "status": "active"
+  },
+  {
+    "id": "DEC-006",
+    "date": "2026-06-27",
+    "decision": "Clipart vision batch cron: 20 images/day",
+    "rationale": "18s/image = 6min/day, completes 451 remaining in 23 days",
+    "status": "active"
+  }
+]

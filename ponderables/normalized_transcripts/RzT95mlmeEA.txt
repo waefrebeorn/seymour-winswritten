@@ -1,0 +1,8 @@
+# RzT95mlmeEA
+# Source: whisper_fallback
+# Quality: low
+# Word count: 3
+# Flags: too_short:3_words, too_few_chars:18
+# Available sources: whisper_fallback
+
+[00:00] All right.

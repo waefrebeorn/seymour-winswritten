@@ -1,0 +1,8 @@
+# g9G4icaSqIg
+# Source: whisper_fallback
+# Quality: low
+# Word count: 2
+# Flags: too_short:2_words, too_few_chars:13
+# Available sources: whisper_fallback
+
+[00:00] Okay!

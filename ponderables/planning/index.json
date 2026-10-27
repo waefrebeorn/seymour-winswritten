@@ -1,0 +1,51 @@
+{
+  "project": "Seymour Ponderables",
+  "phase": "Volume Production",
+  "current_sprint": "Sprint 3: Volume Authoring & Pipeline Automation",
+  "last_updated": "2026-06-27",
+  "pipelines": {
+    "whisper": {
+      "status": "running",
+      "queue": 167,
+      "completed": 34
+    },
+    "absorber": {
+      "status": "complete",
+      "processed": 184
+    },
+    "clipart_vision": {
+      "status": "paused",
+      "completed": 56,
+      "remaining": 451
+    },
+    "wiki_ingestion": {
+      "status": "current",
+      "volumes": 2,
+      "ponderables": 24
+    }
+  },
+  "volumes": {
+    "volume_1": {
+      "title": "The Digital Attic",
+      "status": "structure_ready",
+      "ponderables": 12
+    },
+    "volume_2": {
+      "title": "The Glitch Garden",
+      "status": "structure_ready",
+      "ponderables": 12
+    },
+    "volume_3": {
+      "title": "TBD",
+      "status": "planned",
+      "ponderables": 0
+    }
+  },
+  "immediate_priorities": [
+    "Write allegories for Volume 1 & 2 (24 ponderables)",
+    "Build Pandoc/LaTeX pipeline for A6 digest PDF",
+    "Complete clipart categorization (451 remaining)",
+    "Export fresh YouTube cookies for age-gated videos",
+    "Set up automated clipart batch cron job"
+  ]
+}

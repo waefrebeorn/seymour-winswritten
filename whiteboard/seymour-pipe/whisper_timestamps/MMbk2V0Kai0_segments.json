@@ -1,0 +1,13 @@
+{
+  "video_id": "MMbk2V0Kai0",
+  "duration_s": 82.4,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 69.97,
+      "end": 70.81,
+      "text": "Ha, ha, ha."
+    }
+  ],
+  "total_words": 3
+}

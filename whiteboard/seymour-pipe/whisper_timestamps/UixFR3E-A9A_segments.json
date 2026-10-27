@@ -1,0 +1,74 @@
+{
+  "video_id": "UixFR3E-A9A",
+  "duration_s": 177.7,
+  "model": "small.en",
+  "segments": [
+    {
+      "start": 11.57,
+      "end": 18.49,
+      "text": "All right, I'm talking and there should be a connection lag if we're here on the connection"
+    },
+    {
+      "start": 19.73,
+      "end": 22.61,
+      "text": "All right, I'm talking and there should be a connection"
+    },
+    {
+      "start": 23.49,
+      "end": 25.49,
+      "text": "connection we're here"
+    },
+    {
+      "start": 26.09,
+      "end": 41.07,
+      "text": "Not seeing lag yet, but this one"
+    },
+    {
+      "start": 41.07,
+      "end": 48.07,
+      "text": "On the connection we're here on the connection. I'm talking and there should be a connection"
+    },
+    {
+      "start": 56.55,
+      "end": 58.73,
+      "text": "Tube is not receiving enough data"
+    },
+    {
+      "start": 59.39,
+      "end": 62.66,
+      "text": "being enough data"
+    },
+    {
+      "start": 62.66,
+      "end": 76.66,
+      "text": "We have to be being throttled be a throttle. I'm not seeing lag yet"
+    },
+    {
+      "start": 76.66,
+      "end": 129.34,
+      "text": "Tube is not seeing enough data"
+    },
+    {
+      "start": 129.34,
+      "end": 133.33,
+      "text": "being enough data"
+    },
+    {
+      "start": 133.33,
+      "end": 160.77,
+      "text": "I'm not seeing lag yet"
+    },
+    {
+      "start": 160.77,
+      "end": 162.77,
+      "text": "be the thing"
+    },
+    {
+      "start": 164.45,
+      "end": 166.77,
+      "text": "The router"
+    }
+  ],
+  "total_words": 95,
+  "chunked": false
+}
