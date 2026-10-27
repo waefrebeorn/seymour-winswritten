@@ -112,3 +112,4 @@ ABSORPTION_STATUS.md
 # === Quarantined (non-CC0 / unverified) clipart — never committed ===
 assets/clipart/_quarantine/
 # === Bulk download scratch (intermediate) — already ignored above ===
+.lake/packages/
