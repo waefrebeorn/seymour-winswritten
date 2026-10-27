@@ -114,3 +114,10 @@ assets/clipart/_quarantine/
 # === Bulk download scratch (intermediate) — already ignored above ===
 .lake/packages/
 
+
+# === Lean build artifacts (Lake) — regen via lake build ===
+.lake/build/
+
+# === Large generated data files (>100MB) ===
+ponderables/normalized_transcripts/unified_transcripts.json
+ponderables/normalized_transcripts/*.json
